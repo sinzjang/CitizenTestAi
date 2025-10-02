@@ -3,9 +3,9 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 class AdFrequencyManager {
   constructor() {
     this.STORAGE_KEY = '@ad_frequency_data';
-    this.MAX_ADS_PER_HOUR = 1;
-    this.MAX_ADS_PER_SESSION = 2;
-    this.MIN_INTERVAL_MINUTES = 10;
+    this.MAX_ADS_PER_HOUR = 2;
+    this.MAX_ADS_PER_SESSION = 3;
+    this.MIN_INTERVAL_MINUTES = 5;
   }
 
   // 광고 표시 기록 저장

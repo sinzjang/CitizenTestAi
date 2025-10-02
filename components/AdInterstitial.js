@@ -41,6 +41,14 @@ export const useInterstitialAd = () => {
     const unsubscribeError = ad.addAdEventListener(AdEventType.ERROR, (error) => {
       console.error('[AdInterstitial] 전면 광고 로드 실패:', error);
       setIsLoading(false);
+      
+      // 네트워크 오류인 경우 재시도 로직 추가
+      if (error.code === 'googleMobileAds/error-code-network-error') {
+        console.log('[AdInterstitial] 네트워크 오류 감지 - 10초 후 재시도');
+        setTimeout(() => {
+          loadAd();
+        }, 10000);
+      }
     });
 
     const unsubscribeClosed = ad.addAdEventListener(AdEventType.CLOSED, () => {
