@@ -107,6 +107,7 @@ assets/keys/
 !app.json
 !eas.json
 !tsconfig.json
+!data/*.json
 
 # Environment variables
 .env
