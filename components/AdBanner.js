@@ -6,6 +6,7 @@ import { AD_UNIT_IDS, AD_REQUEST_OPTIONS, shouldShowAds } from '../constants/AdC
 
 const AdBanner = ({ size = 'banner', unitId }) => {
   const [adError, setAdError] = useState(false);
+  const [errorMessage, setErrorMessage] = useState('');
   const insets = useSafeAreaInsets();
   
   // 광고 표시 여부 확인
@@ -61,7 +62,7 @@ const AdBanner = ({ size = 'banner', unitId }) => {
   if (adError) {
     return (
       <View style={dynamicFallbackStyle}>
-        <Text style={styles.fallbackText}>광고를 불러올 수 없습니다</Text>
+        <Text style={styles.fallbackText}>{errorMessage || '광고를 불러올 수 없습니다'}</Text>
       </View>
     );
   }
@@ -77,7 +78,19 @@ const AdBanner = ({ size = 'banner', unitId }) => {
         }}
         onAdFailedToLoad={(error) => {
           console.error('[AdBanner] 광고 로드 실패:', error);
-          setAdError(true);
+          
+          // 네트워크 오류인 경우 재시도 로직 추가
+          if (error.code === 'googleMobileAds/error-code-network-error') {
+            console.log('[AdBanner] 네트워크 오류 감지 - 5초 후 재시도');
+            setErrorMessage('네트워크 연결을 확인하세요');
+            setTimeout(() => {
+              setAdError(false); // 재시도를 위해 에러 상태 리셋
+              setErrorMessage('');
+            }, 5000);
+          } else {
+            setErrorMessage('광고를 불러올 수 없습니다');
+            setAdError(true);
+          }
         }}
       />
     </View>
