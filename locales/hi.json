@@ -1,0 +1,146 @@
+{
+  "app": {
+    "title": "नागरिकता के लिए तैयार",
+    "subtitle": "AI के साथ अमेरिकी नागरिक साक्षात्कार पास करें"
+  },
+  "language": {
+    "selectLanguage": "भाषा चुनें",
+    "selectLanguageDescription": "कृपया जारी रखने के लिए अपनी पसंदीदा भाषा चुनें।",
+    "canChangeInSettings": "आप इसे बाद में सेटिंग्स में बदल सकते हैं।"
+  },
+  "resources": {
+    "title": "भाषा और स्थान सेटिंग्स",
+    "locationInfo": "स्थान जानकारी सेटिंग्स",
+    "locationInfoDescription": "अपने क्षेत्र के लिए राजनेता जानकारी सेट करें।",
+    "setupLocation": "स्थान सेट करें",
+    "resetSettings": "सेटिंग्स रीसेट करें",
+    "resetSettingsDescription": "सभी सेटिंग्स रीसेट करें।",
+    "resetAll": "सभी सेटिंग्स हटाएं",
+    "confirmDelete": "क्या आप वाकई सभी सेटिंग्स हटाना चाहते हैं?",
+    "deleteComplete": "सभी सेटिंग्स हटा दी गई हैं।",
+    "state": "राज्य",
+    "capital": "राजधानी",
+    "governor": "राज्यपाल",
+    "senator1": "सीनेटर 1",
+    "senator2": "सीनेटर 2",
+    "representative": "प्रतिनिधि",
+    "edit": "संपादित करें",
+    "save": "सहेजें",
+    "editField": "{field} संपादित करें",
+    "selectState": "राज्य चुनें",
+    "cancel": "रद्द करें",
+    "locationSettings": "स्थान सेटिंग्स",
+    "locationDescription": "नागरिकता साक्षात्कार प्रश्नों के लिए अपने आवासीय क्षेत्र की जानकारी सेट करें जिनके राज्य के अनुसार अलग उत्तर हैं।",
+    "selectedState": "चयनित राज्य",
+    "setup": "सेटअप",
+    "selectStateDescription": "कृपया अपना आवासीय क्षेत्र चुनें",
+    "allSettingsDeleted": "सभी सेटिंग्स हटा दी गई हैं।",
+    "delete": "हटाएं",
+    "stateSetupComplete": "राज्य सेटअप पूर्ण",
+    "stateSetupMessage": "{stateName} राज्य सेट कर दिया गया है।\nराजधानी: {capital}\n\nकृपया अन्य जानकारी भी सेट करें।",
+    "notSet": "सेट नहीं",
+    "zipCode": "ZIP कोड",
+    "usageGuide": "उपयोग गाइड",
+    "updatedInfo2025": "अपडेटेड जानकारी (2025 संस्करण)",
+    "yearlyChangingInfo": "राजनीतिक कार्यालय की जानकारी जो वार्षिक रूप से बदलती है।",
+    "currentPresident": "वर्तमान राष्ट्रपति",
+    "currentVicePresident": "वर्तमान उपराष्ट्रपति",
+    "currentSpeaker": "वर्तमान सभापति",
+    "currentChiefJustice": "वर्तमान मुख्य न्यायाधीश"
+  },
+  "location": {
+    "error": "त्रुटि",
+    "zipCodeRequired": "कृपया 5-अंकीय ZIP कोड दर्ज करें।",
+    "stateNotFound": "इस ZIP कोड के लिए राज्य की जानकारी नहीं मिली।",
+    "loadingInfo": "जानकारी लोड हो रही है",
+    "zipCodeError": "कृपया वैध 5-अंकीय ZIP कोड दर्ज करें।",
+    "enterZipCode": "ZIP कोड दर्ज करें",
+    "multipleStatesFound": "ZIP कोड {zipCode} कई राज्यों में पाया गया: {states}। कृपया राज्य चुनें।",
+    "selectState": "राज्य चुनें",
+    "multipleRepsMessage": "{stateName} राज्य में ZIP कोड {zipCode} के लिए कई प्रतिनिधि मिले:{apiAttribution}\n\n{repList}\n\nकृपया सही प्रतिनिधि चुनें।",
+    "selectRepresentative": "प्रतिनिधि चुनें",
+    "noRepresentativeFound": "ZIP कोड {zipCode} के लिए प्रतिनिधि नहीं मिला।",
+    "locationSetupComplete": "स्थान सेटअप पूर्ण!",
+    "locationSetupMessage": "आपकी स्थान जानकारी सफलतापूर्वक सेट हो गई है।\n\nराज्य: {stateName}\nZIP कोड: {zipCode}\nप्रतिनिधि: {representative}",
+    "multipleDistrictsMessage": "में कई चुनावी जिले हैं",
+    "apiAttribution": "\n\n(डेटा स्रोत: whoismyrepresentative.com)"
+  },
+  "interview": {
+    "welcomeTitle": "नागरिकता के लिए तैयार?",
+    "welcomeSubtitle": "अभ्यास करें, सीखें, और सफल हों!",
+    "locationSetupTitle": "स्थान जानकारी सेटअप",
+    "locationSetupMessage": "नागरिकता साक्षात्कार में कुछ प्रश्नों के आपके आवासीय क्षेत्र के अनुसार अलग उत्तर होते हैं।\n\nक्या आप अपनी स्थान जानकारी सेट करना चाहते हैं?",
+    "additionalInfoTitle": "अतिरिक्त जानकारी आवश्यक",
+    "additionalInfoMessage": "अधिक सटीक उत्तरों के लिए, कृपया अतिरिक्त {missingInfo} जानकारी सेट करें।",
+    "userSetAnswer": "यह वह उत्तर है जो आपने अपनी स्थान सेटिंग्स में सेट किया है।",
+    "locationSettingRequired": "कुछ प्रश्नों के उत्तर आपके स्थान के आधार पर अलग होते हैं। कृपया संसाधन और सेटिंग्स में अपना राज्य सेट करें।",
+    "additionalInfoRequired": "अधिक सटीक उत्तरों के लिए, कृपया संसाधन और सेटिंग्स में {missingInfo} जानकारी सेट करें।"
+  },
+  "menu": {
+    "resources": "संसाधन और सेटिंग्स",
+    "interviewPractice": "साक्षात्कार अभ्यास",
+    "learn": {
+      "title": "सीखें",
+      "subtitle": "नागरिकता परीक्षा की तैयारी करें"
+    },
+    "practiceTests": {
+      "title": "अभ्यास परीक्षण",
+      "subtitle": "ज्ञान जांचें और कमजोरियों की पहचान करें",
+      "flashcardMode": "फ्लैशकार्ड मोड",
+      "flashcardModeSubtitle": "सभी 100 प्रश्न प्रभावी रूप से याद करें",
+      "practiceTest": "अभ्यास परीक्षण",
+      "practiceTestSubtitle": "यादृच्छिक 10 प्रश्न",
+      "practiceTestVoice": "अभ्यास परीक्षण (आवाज़ के साथ)",
+      "practiceTestVoiceSubtitle": "TTS और आवाज़ के साथ अभ्यास परीक्षण",
+      "weaknessTest": "कमजोरी परीक्षण",
+      "weaknessTestSubtitle": "गलत प्रश्नों पर ध्यान केंद्रित करें",
+      "customTest": "कस्टम परीक्षण",
+      "customTestSubtitle": "विषयों और प्रश्नों की संख्या चुनें"
+    },
+    "practice": {
+      "title": "अभ्यास करें",
+      "subtitle": "मॉक साक्षात्कार लें"
+    },
+    "test": {
+      "title": "परीक्षा लें",
+      "subtitle": "अपना ज्ञान परखें"
+    },
+    "progress": {
+      "title": "प्रगति",
+      "subtitle": "अपनी उपलब्धियां देखें"
+    },
+    "sections": {
+      "resources": {
+        "title": "संसाधन और सेटिंग्स",
+        "subtitle": "भाषा, स्थान और अन्य सेटिंग्स"
+      }
+    }
+  },
+  "common": {
+    "ok": "ठीक है",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "confirm": "पुष्टि करें",
+    "yes": "हां",
+    "no": "नहीं",
+    "close": "बंद करें",
+    "back": "वापस",
+    "next": "अगला",
+    "previous": "पिछला",
+    "done": "पूर्ण",
+    "retry": "पुनः प्रयास करें",
+    "code": "कोड"
+  },
+  "questions": {
+    "correctAnswers": "सही उत्तर",
+    "question": "प्रश्न"
+  },
+  "disclaimer": {
+    "text": "यह ऐप किसी भी सरकारी एजेंसी से संबद्ध या समर्थित नहीं है। यह नागरिकता साक्षात्कार की तैयारी में आपकी मदद करने के लिए डिज़ाइन किया गया एक स्वतंत्र उपकरण है।"
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "idx_0": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks for your full legal name as it appears on official documents.",
+      "answer_guidance": "State your full legal name (first, middle, last). If different on documents, clarify as asked."
+    },
+    "ko": {
+      "title": "설명",
+      "intent": "q_id가 없을 때 인덱스로 매핑하는 샘플 해설입니다.",
+      "answer_guidance": "필요 시 간단한 맥락과 함께 예/아니오로 답변하세요."
+    }
+  }
+  ,
+  "idx_1": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks if you have used any other names (aliases, maiden name, previous legal names).",
+      "answer_guidance": "Answer Yes if you have used any other names and list them; otherwise No."
+    }
+  },
+  "idx_2": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Requests your date of birth to confirm identity and eligibility.",
+      "answer_guidance": "State your full date of birth (MM/DD/YYYY) as on your official documents."
+    }
+  },
+  "idx_3": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks for your current residential address for correspondence and jurisdiction.",
+      "answer_guidance": "Provide your current physical address. If recently moved, be consistent with your application."
+    }
+  },
+  "idx_4": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Verifies 5-year residence history continuity at your current address.",
+      "answer_guidance": "Answer Yes only if you lived there continuously for the last 5 years; otherwise No and be ready to list prior addresses."
+    }
+  },
+  "idx_5": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Checks trips outside the U.S. in the last 5 years for continuous residence and physical presence analysis.",
+      "answer_guidance": "Answer Yes if you took any trips abroad; be ready to provide dates, length, and destinations."
+    }
+  },
+  "idx_6": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Determines if any single trip lasted more than 6 months, which may disrupt continuous residence.",
+      "answer_guidance": "Answer Yes if any single trip exceeded 6 months; otherwise No. Provide documentation if applicable."
+    }
+  },
+  "idx_7": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks your current marital status for eligibility and documentation requirements.",
+      "answer_guidance": "State your status (single/married/divorced/widowed/separated) consistent with legal records."
+    }
+  },
+  "idx_8": {
+    "en": {
+      "title": "Explanation",
+      "intent": "If your spouse is a U.S. citizen may affect eligibility pathways and documentation.",
+      "answer_guidance": "Answer Yes only if spouse is a U.S. citizen; be prepared to show proof (e.g., passport, naturalization certificate)."
+    }
+  },
+  "idx_9": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks whether you have children to confirm dependents and disclosure completeness.",
+      "answer_guidance": "Answer Yes if you have any children (biological, adopted, step). Provide number and details if asked."
+    }
+  },
+  "idx_10": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Ensures all children are listed on your application as required.",
+      "answer_guidance": "Answer Yes if every child is listed. If any are missing, update your application and answer accordingly."
+    }
+  },
+  "idx_11": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Requests your current employment to verify work history and good moral character.",
+      "answer_guidance": "State your current job title and employer. If unemployed, state ‘unemployed’ and, if asked, since when."
+    }
+  },
+  "idx_12": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks about extended unemployment which may prompt questions about support and tax filings.",
+      "answer_guidance": "Answer truthfully. Provide dates and context if you had a long unemployment period."
+    }
+  },
+  "idx_13": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Assesses criminal history not resulting in arrest; honesty is required.",
+      "answer_guidance": "Answer Yes if you committed any crimes/offenses even without arrest; consult records and provide explanations."
+    }
+  },
+  "idx_14": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Checks any arrest/citation/detention by law enforcement for background review.",
+      "answer_guidance": "Answer Yes if any arrest, citation (including some traffic), or detention occurred; provide dates and outcomes."
+    }
+  },
+  "idx_15": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Confirms criminal convictions which are critical to eligibility and GMC (good moral character).",
+      "answer_guidance": "Answer Yes if convicted by a court. Bring certified court dispositions."
+    }
+  },
+  "idx_16": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks about suspended sentences, probation, or parole indicating post-conviction supervision.",
+      "answer_guidance": "Answer Yes if you received any suspended sentence, probation, or parole; provide documentation."
+    }
+  },
+  "idx_17": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Determines if you were incarcerated which affects GMC analysis.",
+      "answer_guidance": "Answer Yes if you have been in jail or prison at any time; provide dates and locations."
+    }
+  },
+  "idx_18": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks about fraud or misrepresentation to obtain immigration benefits; this is serious.",
+      "answer_guidance": "Answer Yes if it ever happened and be prepared to provide full details; consider seeking legal advice."
+    }
+  },
+  "idx_19": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Checks if you owe overdue taxes at any level of government.",
+      "answer_guidance": "Answer Yes if any taxes are overdue; bring evidence of payment plans or resolutions."
+    }
+  },
+  "idx_20": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Verifies any prior U.S. military service for background and selective service issues.",
+      "answer_guidance": "Answer Yes if you served in the U.S. military; provide service dates, branch, and documents (DD-214)."
+    }
+  },
+  "idx_21": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks if you refused to support the military or to bear arms, relevant to oath and exemptions.",
+      "answer_guidance": "Answer truthfully and explain context (e.g., religious objection) if applicable."
+    }
+  },
+  "idx_22": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks about Selective Service registration for eligible males (generally ages 18–26).",
+      "answer_guidance": "Answer Yes if registered. If required but not registered, prepare an explanation and evidence."
+    }
+  },
+  "idx_23": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Checks affiliations with organizations, associations, or groups for security and GMC review.",
+      "answer_guidance": "Answer Yes if you were a member/associated with any; list significant affiliations if asked."
+    }
+  },
+  "idx_24": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks about involvement with the Communist Party or totalitarian parties for inadmissibility concerns.",
+      "answer_guidance": "Answer Yes if applicable and be ready to provide timelines and context."
+    }
+  },
+  "idx_25": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Screens for any association with terrorist organizations (national security).",
+      "answer_guidance": "Answer Yes if applicable and provide details; false answers can have severe consequences."
+    }
+  },
+  "idx_26": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks if you were ordered removed/excluded/deported from the U.S., affecting eligibility.",
+      "answer_guidance": "Answer Yes if any such order exists; bring all immigration court documents."
+    }
+  },
+  "idx_27": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Checks if you helped anyone enter the U.S. illegally (alien smuggling).",
+      "answer_guidance": "Answer Yes if it occurred; provide full context and seek legal advice if needed."
+    }
+  },
+  "idx_28": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Confirms your support for the U.S. Constitution and government as part of the Oath of Allegiance.",
+      "answer_guidance": "Answer Yes if you support them. Be prepared to affirm this during the oath."
+    }
+  },
+  "idx_29": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks if you are willing to take the full Oath of Allegiance, a requirement for naturalization.",
+      "answer_guidance": "Answer Yes if you intend to naturalize and accept all obligations of the oath."
+    }
+  },
+  "idx_30": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks if you are willing to bear arms if required by law (with possible religious exceptions).",
+      "answer_guidance": "Answer according to your beliefs and legal requirements; conscientious objectors may explain."
+    }
+  },
+  "idx_31": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks if you will perform noncombatant service if required by law.",
+      "answer_guidance": "Answer Yes if you are willing to serve in a noncombatant role if required."
+    }
+  },
+  "idx_32": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks if you will perform work of national importance under civilian direction if required by law.",
+      "answer_guidance": "Answer Yes if you are willing to perform such work when required."
+    }
+  },
+  "idx_33": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks if you have persecuted anyone due to protected grounds (race, religion, etc.).",
+      "answer_guidance": "Answer Yes if it occurred and be prepared to provide details; this is a serious bar to eligibility."
+    }
+  },
+  "idx_34": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Screens for participation in genocide, a ground of ineligibility.",
+      "answer_guidance": "Answer Yes if applicable; expect detailed questioning and legal implications."
+    }
+  },
+  "idx_35": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks about acts of torture, a ground of ineligibility and serious human rights violation.",
+      "answer_guidance": "Answer Yes if applicable; provide details and seek legal counsel."
+    }
+  },
+  "idx_36": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks whether you received military or weapons training (security screening).",
+      "answer_guidance": "Answer Yes if you received such training; provide context (e.g., compulsory service)."
+    }
+  },
+  "idx_37": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks if you failed to file required tax returns, which may affect GMC.",
+      "answer_guidance": "Answer Yes if you failed to file; bring proof of subsequent filings and resolutions."
+    }
+  },
+  "idx_38": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks if you claimed to be a non-U.S. resident on tax returns after becoming a lawful permanent resident.",
+      "answer_guidance": "Answer Yes if you did; bring explanations and amended returns if applicable."
+    }
+  },
+  "idx_39": {
+    "en": {
+      "title": "Explanation",
+      "intent": "Asks if you misrepresented facts to obtain U.S. public benefits, a serious issue for eligibility.",
+      "answer_guidance": "Answer Yes if applicable and be prepared to provide full details; consider legal advice."
+    }
+  }
+,
+  "name_full": {
+  "en": {
+    "title": "Explanation",
+    "intent": "Asks for your full legal name as it appears on official documents.",
+    "answer_guidance": "State your full legal name (first, middle, last). If different on documents, clarify as asked."
+  },
+  "ko": {
+    "title": "설명",
+    "intent": "공식 문서에 기재된 전체 법적 이름을 묻습니다.",
+    "answer_guidance": "이름(First), 가운데 이름(Middle, 있으면), 성(Last)을 포함한 전체 이름을 말하세요. 문서의 표기와 다르면 요청에 따라 설명하세요."
+  }
+},
+"other_names_used": { "en": { "title": "Explanation", "intent": "Asks if you have used any other names (aliases, maiden name, previous legal names).", "answer_guidance": "Answer Yes if you have used any other names and list them; otherwise No." } },
+"date_of_birth": { "en": { "title": "Explanation", "intent": "Requests your date of birth to confirm identity and eligibility.", "answer_guidance": "State your full date of birth (MM/DD/YYYY) as on your official documents." } },
+"current_address": { "en": { "title": "Explanation", "intent": "Asks for your current residential address for correspondence and jurisdiction.", "answer_guidance": "Provide your current physical address. If recently moved, be consistent with your application." } },
+"residence_5_years": { "en": { "title": "Explanation", "intent": "Verifies 5-year residence history continuity at your current address.", "answer_guidance": "Answer Yes only if you lived there continuously for the last 5 years; otherwise No and be ready to list prior addresses." } },
+"trips_last_5_years": { "en": { "title": "Explanation", "intent": "Checks trips outside the U.S. in the last 5 years for continuous residence and physical presence analysis.", "answer_guidance": "Answer Yes if you took any trips abroad; be ready to provide dates, length, and destinations." } },
+"trip_over_6_months": { "en": { "title": "Explanation", "intent": "Determines if any single trip lasted more than 6 months, which may disrupt continuous residence.", "answer_guidance": "Answer Yes if any single trip exceeded 6 months; otherwise No. Provide documentation if applicable." } },
+"marital_status_current": { "en": { "title": "Explanation", "intent": "Asks your current marital status for eligibility and documentation requirements.", "answer_guidance": "State your status (single/married/divorced/widowed/separated) consistent with legal records." } },
+"spouse_us_citizen": { "en": { "title": "Explanation", "intent": "If your spouse is a U.S. citizen may affect eligibility pathways and documentation.", "answer_guidance": "Answer Yes only if spouse is a U.S. citizen; be prepared to show proof (e.g., passport, naturalization certificate)." } },
+"have_children": { "en": { "title": "Explanation", "intent": "Asks whether you have children to confirm dependents and disclosure completeness.", "answer_guidance": "Answer Yes if you have any children (biological, adopted, step). Provide number and details if asked." } },
+"all_children_listed": { "en": { "title": "Explanation", "intent": "Ensures all children are listed on your application as required.", "answer_guidance": "Answer Yes if every child is listed. If any are missing, update your application and answer accordingly." } },
+"current_job": { "en": { "title": "Explanation", "intent": "Requests your current employment to verify work history and good moral character.", "answer_guidance": "State your current job title and employer. If unemployed, state ‘unemployed’ and, if asked, since when." } },
+"long_unemployment": { "en": { "title": "Explanation", "intent": "Asks about extended unemployment which may prompt questions about support and tax filings.", "answer_guidance": "Answer truthfully. Provide dates and context if you had a long unemployment period." } },
+"crime_not_arrested": { "en": { "title": "Explanation", "intent": "Assesses criminal history not resulting in arrest; honesty is required.", "answer_guidance": "Answer Yes if you committed any crimes/offenses even without arrest; consult records and provide explanations." } },
+"arrested_cited_detained": { "en": { "title": "Explanation", "intent": "Checks any arrest/citation/detention by law enforcement for background review.", "answer_guidance": "Answer Yes if any arrest, citation (including some traffic), or detention occurred; provide dates and outcomes." } },
+"convicted_crime": { "en": { "title": "Explanation", "intent": "Confirms criminal convictions which are critical to eligibility and GMC (good moral character).", "answer_guidance": "Answer Yes if convicted by a court. Bring certified court dispositions." } },
+"suspended_sentence_probation_parole": { "en": { "title": "Explanation", "intent": "Asks about suspended sentences, probation, or parole indicating post-conviction supervision.", "answer_guidance": "Answer Yes if you received any suspended sentence, probation, or parole; provide documentation." } },
+"in_jail_or_prison": { "en": { "title": "Explanation", "intent": "Determines if you were incarcerated which affects GMC analysis.", "answer_guidance": "Answer Yes if you have been in jail or prison at any time; provide dates and locations." } },
+"lied_to_us_govt_for_benefit": { "en": { "title": "Explanation", "intent": "Asks about fraud or misrepresentation to obtain immigration benefits; this is serious.", "answer_guidance": "Answer Yes if it ever happened and be prepared to provide full details; consider seeking legal advice." } },
+"overdue_taxes": { "en": { "title": "Explanation", "intent": "Checks if you owe overdue taxes at any level of government.", "answer_guidance": "Answer Yes if any taxes are overdue; bring evidence of payment plans or resolutions." } },
+"served_us_military": { "en": { "title": "Explanation", "intent": "Verifies any prior U.S. military service for background and selective service issues.", "answer_guidance": "Answer Yes if you served in the U.S. military; provide service dates, branch, and documents (DD-214)." } },
+"refused_support_bear_arms": { "en": { "title": "Explanation", "intent": "Asks if you refused to support the military or to bear arms, relevant to oath and exemptions.", "answer_guidance": "Answer truthfully and explain context (e.g., religious objection) if applicable." } },
+"selective_service_registered": { "en": { "title": "Explanation", "intent": "Asks about Selective Service registration for eligible males (generally ages 18–26).", "answer_guidance": "Answer Yes if registered. If required but not registered, prepare an explanation and evidence." } },
+"org_affiliations": { "en": { "title": "Explanation", "intent": "Checks affiliations with organizations, associations, or groups for security and GMC review.", "answer_guidance": "Answer Yes if you were a member/associated with any; list significant affiliations if asked." } },
+"communist_totalitarian_party": { "en": { "title": "Explanation", "intent": "Asks about involvement with the Communist Party or totalitarian parties for inadmissibility concerns.", "answer_guidance": "Answer Yes if applicable and be ready to provide timelines and context." } },
+"terrorist_association": { "en": { "title": "Explanation", "intent": "Screens for any association with terrorist organizations (national security).", "answer_guidance": "Answer Yes if applicable and provide details; false answers can have severe consequences." } },
+"ordered_removed_excluded_deported": { "en": { "title": "Explanation", "intent": "Asks if you were ordered removed/excluded/deported from the U.S., affecting eligibility.", "answer_guidance": "Answer Yes if any such order exists; bring all immigration court documents." } },
+"helped_illegal_entry": { "en": { "title": "Explanation", "intent": "Checks if you helped anyone enter the U.S. illegally (alien smuggling).", "answer_guidance": "Answer Yes if it occurred; provide full context and seek legal advice if needed." } },
+"support_constitution_government": { "en": { "title": "Explanation", "intent": "Confirms your support for the U.S. Constitution and government as part of the Oath of Allegiance.", "answer_guidance": "Answer Yes if you support them. Be prepared to affirm this during the oath." } },
+"willing_full_oath": { "en": { "title": "Explanation", "intent": "Asks if you are willing to take the full Oath of Allegiance, a requirement for naturalization.", "answer_guidance": "Answer Yes if you intend to naturalize and accept all obligations of the oath." } },
+"willing_bear_arms_if_required": { "en": { "title": "Explanation", "intent": "Asks if you are willing to bear arms if required by law (with possible religious exceptions).", "answer_guidance": "Answer according to your beliefs and legal requirements; conscientious objectors may explain." } },
+"willing_noncombatant_service": { "en": { "title": "Explanation", "intent": "Asks if you will perform noncombatant service if required by law.", "answer_guidance": "Answer Yes if you are willing to serve in a noncombatant role if required." } },
+"willing_national_importance_work": { "en": { "title": "Explanation", "intent": "Asks if you will perform work of national importance under civilian direction if required by law.", "answer_guidance": "Answer Yes if you are willing to perform such work when required." } },
+"persecuted_others": { "en": { "title": "Explanation", "intent": "Asks if you have persecuted anyone due to protected grounds (race, religion, etc.).", "answer_guidance": "Answer Yes if it occurred and be prepared to provide details; this is a serious bar to eligibility." } },
+"participated_genocide": { "en": { "title": "Explanation", "intent": "Screens for participation in genocide, a ground of ineligibility.", "answer_guidance": "Answer Yes if applicable; expect detailed questioning and legal implications." } },
+"tortured_anyone": { "en": { "title": "Explanation", "intent": "Asks about acts of torture, a ground of ineligibility and serious human rights violation.", "answer_guidance": "Answer Yes if applicable; provide details and seek legal counsel." } },
+"military_weapons_training": { "en": { "title": "Explanation", "intent": "Asks whether you received military or weapons training (security screening).", "answer_guidance": "Answer Yes if you received such training; provide context (e.g., compulsory service)." } },
+"failed_to_file_required_tax_returns": { "en": { "title": "Explanation", "intent": "Asks if you failed to file required tax returns, which may affect GMC.", "answer_guidance": "Answer Yes if you failed to file; bring proof of subsequent filings and resolutions." } },
+"claimed_non_us_resident_after_lpr": { "en": { "title": "Explanation", "intent": "Asks if you claimed to be a non-U.S. resident on tax returns after becoming a lawful permanent resident.", "answer_guidance": "Answer Yes if you did; bring explanations and amended returns if applicable." } },
+"misrepresentation_public_benefits": { "en": { "title": "Explanation", "intent": "Asks if you misrepresented facts to obtain U.S. public benefits, a serious issue for eligibility.", "answer_guidance": "Answer Yes if applicable and be prepared to provide full details; consider legal advice." } }
+}

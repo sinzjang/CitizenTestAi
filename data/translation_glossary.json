@@ -1,0 +1,67 @@
+{
+  "languages": ["en", "es", "fr", "ar", "zh", "tl", "vi", "ko"],
+  "style": {
+    "questionRef": "Use '(Q. XX)' across all languages. In Spanish, you may use '(P. XX)' if already used consistently.",
+    "years": "Keep numeric years as in English (e.g., 1776).",
+    "properNouns": "Preserve official English names alongside localized forms where standard (e.g., 'George Washington' / 'Jorge Washington' — prefer original for people).",
+    "quotes": "Use double quotes for titles, keep punctuation consistent per language norms.",
+    "rtl": "For Arabic, verify RTL rendering, punctuation direction, and numerals style as per app defaults."
+  },
+  "terms": [
+    {
+      "key": "Declaration of Independence",
+      "en": "Declaration of Independence",
+      "es": "Declaración de Independencia",
+      "fr": "Déclaration d'indépendance",
+      "ar": "إعلان الاستقلال",
+      "zh": "独立宣言",
+      "tl": "Declaration of Independence",
+      "vi": "Tuyên ngôn Độc lập",
+      "note": "Keep year 1776 adjacent when referenced."
+    },
+    {
+      "key": "The Constitution",
+      "en": "the Constitution",
+      "es": "la Constitución",
+      "fr": "la Constitution",
+      "ar": "الدستور",
+      "zh": "宪法",
+      "tl": "Konstitusyon",
+      "vi": "Hiến pháp",
+      "note": "Capitalize per language rules when used as document title."
+    },
+    {
+      "key": "The Star-Spangled Banner",
+      "en": "The Star-Spangled Banner",
+      "es": "The Star-Spangled Banner",
+      "fr": "The Star-Spangled Banner",
+      "ar": "The Star-Spangled Banner",
+      "zh": "The Star-Spangled Banner",
+      "tl": "The Star-Spangled Banner",
+      "vi": "The Star-Spangled Banner",
+      "note": "Anthem title typically kept in English; optional localized gloss can be added in parentheses."
+    },
+    {
+      "key": "Civil War",
+      "en": "Civil War",
+      "es": "Guerra Civil",
+      "fr": "Guerre de Sécession",
+      "ar": "الحرب الأهلية",
+      "zh": "南北战争",
+      "tl": "Digmaang Sibil",
+      "vi": "Nội chiến Hoa Kỳ",
+      "note": "For French/Chinese, prefer historically standard localized names."
+    },
+    {
+      "key": "American Indians",
+      "en": "American Indians",
+      "es": "pueblos indígenas americanos",
+      "fr": "Amérindiens",
+      "ar": "سكان أمريكا الأصليون",
+      "zh": "美洲原住民",
+      "tl": "American Indians",
+      "vi": "Người Mỹ bản địa",
+      "note": "Use respectful and widely-accepted contemporary term."
+    }
+  ]
+}

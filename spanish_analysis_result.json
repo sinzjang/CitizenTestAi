@@ -1,0 +1,1154 @@
+{
+  "timestamp": "2025-08-11T15:57:42.315Z",
+  "totalQuestions": 100,
+  "structuralIssues": [
+    {
+      "id": 2,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "sets up the government",
+      "spanishText": "elige al Presidente, hace leyes, recauda impuestos"
+    },
+    {
+      "id": 2,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "defines the government",
+      "spanishText": "hace cumplir las leyes, comanda el ejército, negocia tratados"
+    },
+    {
+      "id": 2,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "protects basic rights of Americans",
+      "spanishText": "interpreta las leyes, resuelve disputas, revisa casos judiciales"
+    },
+    {
+      "id": 4,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "a change",
+      "spanishText": "una ley federal, un decreto presidencial"
+    },
+    {
+      "id": 4,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "an addition",
+      "spanishText": "una decisión de la Corte Suprema, una orden ejecutiva"
+    },
+    {
+      "id": 6,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "5개 옵션",
+      "englishText": "freedom of religion",
+      "spanishText": "libertad de reunión, libertad de prensa, derecho de petición, libertad de comercio, libertad de movimiento"
+    },
+    {
+      "id": 6,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "5개 옵션",
+      "englishText": "freedom of speech",
+      "spanishText": "derecho al voto, derecho a portar armas, derecho a un juicio justo, derecho a la privacidad, derecho a la propiedad"
+    },
+    {
+      "id": 6,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "5개 옵션",
+      "englishText": "freedom of assembly",
+      "spanishText": "libertad de trabajo, libertad de educación, libertad de salud, libertad de vivienda, libertad de transporte"
+    },
+    {
+      "id": 8,
+      "issue": "정답 개수 불일치",
+      "english": 3,
+      "spanish": 1
+    },
+    {
+      "id": 9,
+      "issue": "정답 개수 불일치",
+      "english": 3,
+      "spanish": 1
+    },
+    {
+      "id": 10,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "2개 옵션",
+      "spanish": "1개 옵션",
+      "englishText": "You can practice any religion, or not practice a religion",
+      "spanishText": "Solo puedes practicar el cristianismo"
+    },
+    {
+      "id": 11,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "capitalist economy",
+      "spanishText": "economía socialista, economía comunista"
+    },
+    {
+      "id": 11,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "market economy",
+      "spanishText": "economía mercantilista, economía feudal"
+    },
+    {
+      "id": 12,
+      "issue": "정답 개수 불일치",
+      "english": 4,
+      "spanish": 2
+    },
+    {
+      "id": 12,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "Everyone must follow the law",
+      "spanishText": "todos deben obedecer las leyes, nadie está por encima de la ley, las leyes se aplican por igual"
+    },
+    {
+      "id": 12,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "Leaders must obey the law",
+      "spanishText": "el gobierno hace las leyes, los ciudadanos votan por las leyes, los jueces interpretan las leyes"
+    },
+    {
+      "id": 12,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "No one is above the law",
+      "spanishText": "la Constitución es la ley suprema, el Presidente firma las leyes, el Congreso aprueba las leyes"
+    },
+    {
+      "id": 13,
+      "issue": "정답 개수 불일치",
+      "english": 3,
+      "spanish": 1
+    },
+    {
+      "id": 13,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "Congress (legislative)",
+      "spanishText": "legislativo, ejecutivo, judicial"
+    },
+    {
+      "id": 13,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "President (executive)",
+      "spanishText": "federal, estatal, local"
+    },
+    {
+      "id": 13,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "the courts (judicial)",
+      "spanishText": "Senado, Cámara, Corte Suprema"
+    },
+    {
+      "id": 14,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "checks and balances",
+      "spanishText": "el estado de derecho, el federalismo"
+    },
+    {
+      "id": 14,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "separation of powers",
+      "spanishText": "límites de mandato, elecciones"
+    },
+    {
+      "id": 16,
+      "issue": "정답 개수 불일치",
+      "english": 3,
+      "spanish": 1
+    },
+    {
+      "id": 25,
+      "issue": "정답 개수 불일치",
+      "english": 3,
+      "spanish": 1
+    },
+    {
+      "id": 36,
+      "issue": "정답 개수 불일치",
+      "english": 16,
+      "spanish": 4
+    },
+    {
+      "id": 36,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Secretary of State",
+      "spanishText": "Secretario de Estado, Secretario de Defensa, Secretario del Tesoro, Fiscal General"
+    },
+    {
+      "id": 36,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Secretary of the Treasury",
+      "spanishText": "Vicepresidente, Presidente de la Cámara, Líder de la Mayoría del Senado, Presidente del Tribunal Supremo"
+    },
+    {
+      "id": 36,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Secretary of Defense",
+      "spanishText": "Gobernador, Alcalde, Senador, Representante"
+    },
+    {
+      "id": 37,
+      "issue": "정답 개수 불일치",
+      "english": 4,
+      "spanish": 3
+    },
+    {
+      "id": 37,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "reviews laws",
+      "spanishText": "hace leyes, hace cumplir las leyes, aconseja al Presidente"
+    },
+    {
+      "id": 37,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "explains laws",
+      "spanishText": "recauda impuestos, imprime dinero, regula el comercio"
+    },
+    {
+      "id": 37,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "resolves disputes",
+      "spanishText": "comanda el ejército, negocia tratados, nombra embajadores"
+    },
+    {
+      "id": 41,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "to print money",
+      "spanishText": "hacer la guerra, imprimir dinero, crear un ejército, hacer tratados"
+    },
+    {
+      "id": 41,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "to declare war",
+      "spanishText": "establecer escuelas, otorgar licencias de conducir, realizar elecciones, crear gobiernos locales"
+    },
+    {
+      "id": 41,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "to create an army",
+      "spanishText": "regular el comercio interestatal, establecer oficinas de correos, acuñar moneda, regular la inmigración"
+    },
+    {
+      "id": 42,
+      "issue": "정답 개수 불일치",
+      "english": 5,
+      "spanish": 3
+    },
+    {
+      "id": 42,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "provide schooling and education",
+      "spanishText": "imprimir dinero, declarar la guerra, hacer tratados"
+    },
+    {
+      "id": 42,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "provide protection (police)",
+      "spanishText": "regular el comercio interestatal, establecer oficinas postales, acuñar monedas"
+    },
+    {
+      "id": 42,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "give a driver's license",
+      "spanishText": "crear un ejército, establecer leyes de inmigración, regular el comercio exterior"
+    },
+    {
+      "id": 48,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Citizens eighteen (18) and older (can vote)",
+      "spanishText": "ciudadanos de 18 años o más pueden votar, no se puede negar el voto por raza, no se puede negar el voto por sexo, no se puede negar el voto por no pagar impuestos"
+    },
+    {
+      "id": 48,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "You don't have to pay (a poll tax) to vote",
+      "spanishText": "solo los hombres pueden votar, solo los propietarios pueden votar, solo los ciudadanos nacidos en EE.UU. pueden votar, solo los que pagan impuestos pueden votar"
+    },
+    {
+      "id": 48,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Any citizen can vote. (Women and men can vote.)",
+      "spanishText": "los ciudadanos deben tener 21 años para votar, los ciudadanos deben saber leer para votar, los ciudadanos deben poseer propiedades para votar, los ciudadanos deben pagar impuestos para votar"
+    },
+    {
+      "id": 49,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "serve on a jury",
+      "spanishText": "pagar impuestos, obedecer las leyes"
+    },
+    {
+      "id": 49,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "vote in a federal election",
+      "spanishText": "votar en elecciones locales, servir en un jurado"
+    },
+    {
+      "id": 50,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "vote in a federal election",
+      "spanishText": "libertad de expresión, libertad de religión"
+    },
+    {
+      "id": 50,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "run for federal office",
+      "spanishText": "derecho a portar armas, derecho a un juicio justo"
+    },
+    {
+      "id": 51,
+      "issue": "정답 개수 불일치",
+      "english": 6,
+      "spanish": 4
+    },
+    {
+      "id": 51,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "freedom of expression",
+      "spanishText": "el derecho a votar en una elección federal, el derecho a postularse para un cargo federal, el derecho a un pasaporte estadounidense, el derecho a servir en un jurado"
+    },
+    {
+      "id": 51,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "freedom of speech",
+      "spanishText": "el derecho a beneficios del Seguro Social, el derecho a Medicare, el derecho a beneficios de desempleo, el derecho al empleo federal"
+    },
+    {
+      "id": 51,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "freedom of assembly",
+      "spanishText": "el derecho a patrocinar inmigración familiar, el derecho a protección diplomática en el extranjero, el derecho a regresar a EE.UU., el derecho a ocupar cargos federales"
+    },
+    {
+      "id": 52,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "the United States",
+      "spanishText": "el Presidente, el Congreso"
+    },
+    {
+      "id": 52,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "the flag",
+      "spanishText": "el estado donde vives, tu ciudad"
+    },
+    {
+      "id": 53,
+      "issue": "정답 개수 불일치",
+      "english": 6,
+      "spanish": 3
+    },
+    {
+      "id": 53,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "obey the laws of the United States",
+      "spanishText": "votar todos los años, hablar siempre inglés, nunca salir de Estados Unidos"
+    },
+    {
+      "id": 53,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "be loyal to the United States",
+      "spanishText": "pagar todos los impuestos, servir en el ejército, obedecer todas las órdenes"
+    },
+    {
+      "id": 53,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "serve in the U.S. military (if needed)",
+      "spanishText": "trabajar para el gobierno, vivir en Estados Unidos por siempre, no criticar al gobierno"
+    },
+    {
+      "id": 55,
+      "issue": "정답 개수 불일치",
+      "english": 10,
+      "spanish": 4
+    },
+    {
+      "id": 55,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "vote",
+      "spanishText": "ver las noticias en TV, izar una bandera americana, pagar impuestos, ir a la escuela"
+    },
+    {
+      "id": 55,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "join a political party",
+      "spanishText": "trabajar para el gobierno, mudarse a otro estado, comprar una casa, tener hijos"
+    },
+    {
+      "id": 55,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "help with a campaign",
+      "spanishText": "hablar inglés, celebrar el 4 de julio, conocer la historia americana, respetar la bandera"
+    },
+    {
+      "id": 57,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "at age eighteen (18)",
+      "spanishText": "cuando se unen al ejército, cuando votan"
+    },
+    {
+      "id": 57,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "between eighteen (18) and twenty-six (26)",
+      "spanishText": "cuando se convierten en ciudadanos, cuando cumplen 21 años"
+    },
+    {
+      "id": 58,
+      "issue": "정답 개수 불일치",
+      "english": 6,
+      "spanish": 3
+    },
+    {
+      "id": 58,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "freedom",
+      "spanishText": "para servir al Rey Británico, de vacaciones, para conquistar a los Nativos Americanos"
+    },
+    {
+      "id": 58,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "political liberty",
+      "spanishText": "para escapar de la pobreza, para buscar oro, para establecer rutas comerciales"
+    },
+    {
+      "id": 58,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "religious freedom",
+      "spanishText": "para difundir el cristianismo, para reclamar tierras para España, para encontrar el paso del noroeste"
+    },
+    {
+      "id": 59,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "American Indians",
+      "spanishText": "nadie, africanos"
+    },
+    {
+      "id": 59,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "Native Americans",
+      "spanishText": "europeos, asiáticos"
+    },
+    {
+      "id": 60,
+      "issue": "정답 개수 불일치",
+      "english": 2,
+      "spanish": 1
+    },
+    {
+      "id": 61,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "because of high taxes (taxation without representation)",
+      "spanishText": "porque querían un nuevo rey, porque querían aliarse con Francia, porque querían abolir todos los impuestos"
+    },
+    {
+      "id": 61,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "because the British army stayed in their houses",
+      "spanishText": "por persecución religiosa, por dificultades económicas, por disputas territoriales"
+    },
+    {
+      "id": 61,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "because they didn’t have self-government",
+      "spanishText": "porque querían independencia inmediata, porque odiaban a todos los británicos, porque querían expandirse hacia el oeste"
+    },
+    {
+      "id": 64,
+      "issue": "정답 개수 불일치",
+      "english": 13,
+      "spanish": 4
+    },
+    {
+      "id": 64,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "New Hampshire",
+      "spanishText": "Florida, California, Ohio, Texas"
+    },
+    {
+      "id": 64,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Massachusetts",
+      "spanishText": "Alaska, Hawaii, Arizona, Nevada"
+    },
+    {
+      "id": 64,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Rhode Island",
+      "spanishText": "Illinois, Michigan, Wisconsin, Minnesota"
+    },
+    {
+      "id": 65,
+      "issue": "정답 개수 불일치",
+      "english": 2,
+      "spanish": 1
+    },
+    {
+      "id": 67,
+      "issue": "정답 개수 불일치",
+      "english": 4,
+      "spanish": 3
+    },
+    {
+      "id": 67,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "(James) Madison",
+      "spanishText": "Thomas Jefferson, George Washington, John Hancock"
+    },
+    {
+      "id": 67,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "(Alexander) Hamilton",
+      "spanishText": "Benjamin Franklin, Samuel Adams, Patrick Henry"
+    },
+    {
+      "id": 67,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "(John) Jay",
+      "spanishText": "Thomas Paine, John Adams, Benedict Arnold"
+    },
+    {
+      "id": 68,
+      "issue": "정답 개수 불일치",
+      "english": 5,
+      "spanish": 3
+    },
+    {
+      "id": 68,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "U.S. diplomat",
+      "spanishText": "primer Presidente de Estados Unidos, escribió la Declaración de Independencia, General del Ejército Continental"
+    },
+    {
+      "id": 68,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "oldest member of the Constitutional Convention",
+      "spanishText": "inventó la bombilla, fue el segundo Presidente, escribió la Constitución"
+    },
+    {
+      "id": 68,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "first Postmaster General of the United States",
+      "spanishText": "fundó Harvard, fue gobernador de Pensilvania, inventó el teléfono"
+    },
+    {
+      "id": 71,
+      "issue": "정답 개수 불일치",
+      "english": 2,
+      "spanish": 1
+    },
+    {
+      "id": 72,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "War of 1812",
+      "spanishText": "Guerra Revolucionaria, Primera Guerra Mundial, Guerra de Corea, Guerra de Vietnam"
+    },
+    {
+      "id": 72,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Mexican-American War",
+      "spanishText": "Guerra Franco-India, Guerra de los Siete Años, Guerra de Independencia de Texas, Guerra Hispano-Americana"
+    },
+    {
+      "id": 72,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Civil War",
+      "spanishText": "Guerra de Secesión, Guerra de 1812, Guerra México-Americana, Guerra Civil"
+    },
+    {
+      "id": 73,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "the Civil War",
+      "spanishText": "la Guerra Revolucionaria, la Guerra de 1812"
+    },
+    {
+      "id": 73,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "the War between the States",
+      "spanishText": "la Primera Guerra Mundial, la Segunda Guerra Mundial"
+    },
+    {
+      "id": 74,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "slavery",
+      "spanishText": "guerra con Inglaterra, diferencias religiosas, disputas sobre el petróleo"
+    },
+    {
+      "id": 74,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "economic reasons",
+      "spanishText": "problemas económicos, diferencias culturales, disputas territoriales"
+    },
+    {
+      "id": 74,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "states' rights",
+      "spanishText": "guerra con Francia, problemas de inmigración, diferencias políticas"
+    },
+    {
+      "id": 75,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "freed the slaves (Emancipation Proclamation)",
+      "spanishText": "escribió la Declaración de Independencia, fue el primer Presidente, dio a las mujeres el derecho al voto"
+    },
+    {
+      "id": 75,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "saved (or preserved) the Union",
+      "spanishText": "fundó el Partido Republicano, estableció el Seguro Social, terminó la Primera Guerra Mundial"
+    },
+    {
+      "id": 75,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "3개 옵션",
+      "englishText": "led the United States during the Civil War",
+      "spanishText": "inventó el telégrafo, fue gobernador de Illinois, escribió la Constitución"
+    },
+    {
+      "id": 76,
+      "issue": "정답 개수 불일치",
+      "english": 4,
+      "spanish": 2
+    },
+    {
+      "id": 76,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "freed the slaves",
+      "spanishText": "liberó a todos los esclavos, declaró la independencia de Gran Bretaña"
+    },
+    {
+      "id": 76,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "freed slaves in the Confederacy",
+      "spanishText": "dio a las mujeres el derecho al voto, estableció la Constitución"
+    },
+    {
+      "id": 76,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "freed slaves in the Confederate states",
+      "spanishText": "terminó la Guerra Civil, creó el Seguro Social"
+    },
+    {
+      "id": 77,
+      "issue": "정답 개수 불일치",
+      "english": 3,
+      "spanish": 2
+    },
+    {
+      "id": 77,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "fought for women's rights",
+      "spanishText": "fue la primera mujer elegida al Senado, fue enfermera en la Guerra Civil"
+    },
+    {
+      "id": 77,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "fought for civil rights",
+      "spanishText": "firmó la Proclamación de Emancipación, fue la primera mujer Presidente"
+    },
+    {
+      "id": 77,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "fought for women's suffrage",
+      "spanishText": "escribió la Declaración de Independencia, fue jueza de la Corte Suprema"
+    },
+    {
+      "id": 78,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "5개 옵션",
+      "englishText": "World War I",
+      "spanishText": "Guerra Civil, Guerra Revolucionaria, Guerra México-Americana, Guerra de 1812, Guerra Franco-India"
+    },
+    {
+      "id": 78,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "5개 옵션",
+      "englishText": "World War II",
+      "spanishText": "Guerra de los Treinta Años, Guerra de Sucesión Española, Guerra de los Siete Años, Guerra Napoleónica, Guerra de Crimea"
+    },
+    {
+      "id": 78,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "5개 옵션",
+      "englishText": "Korean War",
+      "spanishText": "Guerra de Independencia, Guerra de Secesión, Guerra Hispano-Francesa, Guerra del Pacífico, Guerra de Cuba"
+    },
+    {
+      "id": 81,
+      "issue": "정답 개수 불일치",
+      "english": 4,
+      "spanish": 1
+    },
+    {
+      "id": 81,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "3개 옵션",
+      "spanish": "1개 옵션",
+      "englishText": "Japan, Germany, and Italy",
+      "spanishText": "la Unión Soviética"
+    },
+    {
+      "id": 85,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "fought for civil rights",
+      "spanishText": "fue el primer Presidente negro, fue senador de EE.UU."
+    },
+    {
+      "id": 85,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "worked for equality for all Americans",
+      "spanishText": "luchó para liberar a los esclavos, fue juez de la Corte Suprema"
+    },
+    {
+      "id": 87,
+      "issue": "정답 개수 불일치",
+      "english": 22,
+      "spanish": 4
+    },
+    {
+      "id": 87,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Cherokee",
+      "spanishText": "Inca, Azteca, Maya, Olmeca"
+    },
+    {
+      "id": 87,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Navajo",
+      "spanishText": "Vikingo, Celta, Anglosajón, Normando"
+    },
+    {
+      "id": 87,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Sioux",
+      "spanishText": "Español, Francés, Holandés, Portugués"
+    },
+    {
+      "id": 88,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "Missouri (River)",
+      "spanishText": "río Nilo, río Amazonas"
+    },
+    {
+      "id": 88,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "Mississippi (River)",
+      "spanishText": "río Colorado, río Hudson"
+    },
+    {
+      "id": 91,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "5개 옵션",
+      "englishText": "Puerto Rico",
+      "spanishText": "Hawái, Filipinas, Cuba, Alaska, Texas"
+    },
+    {
+      "id": 91,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "5개 옵션",
+      "englishText": "Guam",
+      "spanishText": "México, Canadá, Groenlandia, Islandia, Jamaica"
+    },
+    {
+      "id": 91,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "5개 옵션",
+      "englishText": "U.S. Virgin Islands",
+      "spanishText": "Bahamas, Bermudas, Barbados, Trinidad, Granada"
+    },
+    {
+      "id": 92,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Washington",
+      "spanishText": "Oregón, California, Colorado, Nevada"
+    },
+    {
+      "id": 92,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Alaska",
+      "spanishText": "Texas, Florida, Georgia, Carolina del Sur"
+    },
+    {
+      "id": 92,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "New York",
+      "spanishText": "Arizona, Nuevo México, Utah, Wyoming"
+    },
+    {
+      "id": 93,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "California",
+      "spanishText": "Nevada, Florida, Colorado, Oregon"
+    },
+    {
+      "id": 93,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Arizona",
+      "spanishText": "Utah, Wyoming, Kansas, Nebraska"
+    },
+    {
+      "id": 93,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "New Mexico",
+      "spanishText": "Oklahoma, Arkansas, Louisiana, Mississippi"
+    },
+    {
+      "id": 94,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "2개 옵션",
+      "spanish": "1개 옵션",
+      "englishText": "Washington, D.C.",
+      "spanishText": "New York City"
+    },
+    {
+      "id": 95,
+      "issue": "정답 개수 불일치",
+      "english": 5,
+      "spanish": 2
+    },
+    {
+      "id": 95,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "New York (Harbor)",
+      "spanishText": "París, Boston"
+    },
+    {
+      "id": 95,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "Liberty Island",
+      "spanishText": "Washington D.C., Filadelfia"
+    },
+    {
+      "id": 95,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "2개 옵션",
+      "englishText": "New Jersey",
+      "spanishText": "Los Ángeles, Chicago"
+    },
+    {
+      "id": 96,
+      "issue": "정답 개수 불일치",
+      "english": 2,
+      "spanish": 1
+    },
+    {
+      "id": 100,
+      "issue": "오답 1번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Christmas",
+      "spanishText": "Día de San Valentín, Halloween, Día de los Inocentes, Día de la Marmota"
+    },
+    {
+      "id": 100,
+      "issue": "오답 2번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Thanksgiving",
+      "spanishText": "Día de la Madre, Día del Padre, Día de los Veteranos, Día del Trabajo"
+    },
+    {
+      "id": 100,
+      "issue": "오답 3번 옵션 수 불일치",
+      "english": "1개 옵션",
+      "spanish": "4개 옵션",
+      "englishText": "Independence Day",
+      "spanishText": "Pascua, Acción de Gracias, Navidad, Año Nuevo"
+    }
+  ],
+  "translationIssues": [
+    {
+      "id": 28,
+      "issue": "정답 1 미번역",
+      "text": "Donald J. Trump"
+    },
+    {
+      "id": 29,
+      "issue": "정답 1 미번역",
+      "text": "JD Vance"
+    },
+    {
+      "id": 29,
+      "issue": "정답 1 설명 미번역",
+      "text": "(As of July 2025)"
+    },
+    {
+      "id": 30,
+      "issue": "정답 1 설명 미번역",
+      "text": "The Vice President succeeds to the presidency if the President can no longer serve."
+    },
+    {
+      "id": 31,
+      "issue": "정답 1 설명 미번역",
+      "text": "The Speaker of the House is third in the line of presidential succession."
+    },
+    {
+      "id": 32,
+      "issue": "정답 1 설명 미번역",
+      "text": "The President holds the ultimate authority over the U.S. armed forces as Commander in Chief."
+    },
+    {
+      "id": 33,
+      "issue": "정답 1 설명 미번역",
+      "text": "A bill passed by Congress must be signed by the President to become law."
+    },
+    {
+      "id": 34,
+      "issue": "정답 1 설명 미번역",
+      "text": "The President has the power to veto bills passed by Congress."
+    },
+    {
+      "id": 35,
+      "issue": "질문 미번역",
+      "text": "What does the President’s Cabinet do?"
+    },
+    {
+      "id": 35,
+      "issue": "정답 1 미번역",
+      "text": "advises the President"
+    },
+    {
+      "id": 35,
+      "issue": "정답 1 설명 미번역",
+      "text": "The Cabinet, composed of the heads of executive departments, provides expert advice to the President."
+    },
+    {
+      "id": 36,
+      "issue": "정답 1 미번역",
+      "text": "Secretary of State"
+    },
+    {
+      "id": 36,
+      "issue": "정답 1 설명 미번역",
+      "text": "The Secretary of State is a key cabinet member responsible for foreign policy."
+    },
+    {
+      "id": 36,
+      "issue": "정답 2 미번역",
+      "text": "Secretary of the Treasury"
+    },
+    {
+      "id": 36,
+      "issue": "정답 2 설명 미번역",
+      "text": "The Secretary of the Treasury is responsible for the nation's financial and economic policy."
+    },
+    {
+      "id": 36,
+      "issue": "정답 3 미번역",
+      "text": "Secretary of Defense"
+    },
+    {
+      "id": 36,
+      "issue": "정답 3 설명 미번역",
+      "text": "The Secretary of Defense oversees military and defense policy."
+    },
+    {
+      "id": 36,
+      "issue": "정답 4 미번역",
+      "text": "Attorney General"
+    },
+    {
+      "id": 36,
+      "issue": "정답 4 설명 미번역",
+      "text": "The Attorney General is the head of the Department of Justice and the chief law enforcement officer."
+    },
+    {
+      "id": 37,
+      "issue": "정답 1 미번역",
+      "text": "reviews laws"
+    }
+  ]
+}

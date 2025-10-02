@@ -1,0 +1,59 @@
+{
+  "expo": {
+    "name": "Pass US Citizen Interview with AI Premium",
+    "slug": "CitizenTestAi",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSSpeechRecognitionUsageDescription": "Allow $(PRODUCT_NAME) to use speech recognition.",
+        "NSMicrophoneUsageDescription": "Allow $(PRODUCT_NAME) to use the microphone.",
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "bundleIdentifier": "com.sinzjang.CitizenTestAi"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ],
+      "package": "com.sinzjang.CitizenTestAi"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font",
+      "expo-localization",
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-8924313553021933~5986763110",
+          "iosAppId": "ca-app-pub-8924313553021933~5986763110"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "24f53ef8-59f1-4d5c-99ad-145f9ebafda0"
+      },
+      "enableAds": true
+    },
+    "runtimeVersion": "1.0.2",
+    "owner": "sinzjang"
+  }
+}

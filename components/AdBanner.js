@@ -1,0 +1,133 @@
+import React, { useState } from 'react';
+import { View, StyleSheet, Platform, Text } from 'react-native';
+import { BannerAd, BannerAdSize } from 'react-native-google-mobile-ads';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
+import { AD_UNIT_IDS, AD_REQUEST_OPTIONS, shouldShowAds } from '../constants/AdConfig';
+
+const AdBanner = ({ size = 'banner', unitId }) => {
+  const [adError, setAdError] = useState(false);
+  const insets = useSafeAreaInsets();
+  
+  // 광고 표시 여부 확인
+  const enableAds = shouldShowAds();
+  
+  // 광고 단위 ID 설정
+  const adUnitId = unitId || AD_UNIT_IDS.BANNER;
+  
+  // 디버깅 로그
+  console.log('[AdBanner] enableAds:', enableAds);
+  console.log('[AdBanner] adUnitId:', adUnitId);
+  console.log('[AdBanner] __DEV__:', __DEV__);
+  console.log('[AdBanner] ENABLE_ADS:', process.env.ENABLE_ADS);
+  console.log('[AdBanner] insets.bottom:', insets.bottom);
+  
+  // 광고가 비활성화된 경우 빈 컨테이너 반환
+  if (!enableAds) {
+    console.log('[AdBanner] 광고가 비활성화되어 있습니다');
+    return <View style={styles.container} />;
+  }
+  
+  // 광고 크기 매핑
+  const getAdSize = () => {
+    switch (size) {
+      case 'large':
+        return BannerAdSize.LARGE_BANNER;
+      case 'medium':
+        return BannerAdSize.MEDIUM_RECTANGLE;
+      case 'full':
+        return BannerAdSize.FULL_BANNER;
+      default:
+        return BannerAdSize.BANNER;
+    }
+  };
+
+  // 동적 스타일 생성 (안전 영역 고려)
+  const dynamicContainerStyle = {
+    ...styles.container,
+    paddingBottom: Platform.select({
+      ios: Math.max(insets.bottom, 8), // iOS는 최소 8, 또는 safe area bottom
+      android: Math.max(insets.bottom + 8, 16), // 안드로이드는 safe area bottom + 8, 최소 16
+    }),
+  };
+
+  const dynamicFallbackStyle = {
+    ...styles.fallback,
+    marginBottom: Platform.select({
+      ios: Math.max(insets.bottom, 8),
+      android: Math.max(insets.bottom + 8, 16),
+    }),
+  };
+
+  if (adError) {
+    return (
+      <View style={dynamicFallbackStyle}>
+        <Text style={styles.fallbackText}>광고를 불러올 수 없습니다</Text>
+      </View>
+    );
+  }
+
+  return (
+    <View style={dynamicContainerStyle}>
+      <BannerAd
+        unitId={adUnitId}
+        size={getAdSize()}
+        requestOptions={AD_REQUEST_OPTIONS}
+        onAdLoaded={() => {
+          console.log('[AdBanner] 광고 로드 완료');
+        }}
+        onAdFailedToLoad={(error) => {
+          console.error('[AdBanner] 광고 로드 실패:', error);
+          setAdError(true);
+        }}
+      />
+    </View>
+  );
+};
+
+const styles = StyleSheet.create({
+  container: {
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: 'transparent',
+    paddingTop: 4,
+    // paddingBottom은 동적으로 설정됨
+  },
+  placeholder: {
+    backgroundColor: '#f0f0f0',
+    padding: 10,
+    borderRadius: 5,
+    borderWidth: 1,
+    borderColor: '#ddd',
+    borderStyle: 'dashed',
+    alignItems: 'center',
+  },
+  placeholderText: {
+    color: '#666',
+    fontSize: 12,
+    fontWeight: '500',
+  },
+  placeholderSubtext: {
+    color: '#999',
+    fontSize: 10,
+    marginTop: 2,
+    textAlign: 'center',
+  },
+  fallback: {
+    backgroundColor: '#f0f0f0',
+    padding: 15,
+    borderRadius: 8,
+    borderWidth: 1,
+    borderColor: '#ddd',
+    borderStyle: 'dashed',
+    alignItems: 'center',
+    minHeight: 50,
+    justifyContent: 'center',
+  },
+  fallbackText: {
+    color: '#666',
+    fontSize: 14,
+    fontWeight: '500',
+  },
+});
+
+export default AdBanner;

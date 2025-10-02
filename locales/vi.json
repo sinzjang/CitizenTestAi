@@ -1,0 +1,190 @@
+{
+  "app": {
+    "title": "Sẵn sàng cho Quyền Công dân",
+    "subtitle": "Vượt qua Phỏng vấn Công dân Mỹ với AI"
+  },
+  "language": {
+    "selectLanguage": "Chọn Ngôn ngữ",
+    "selectLanguageDescription": "Vui lòng chọn ngôn ngữ ưa thích của bạn để tiếp tục.",
+    "canChangeInSettings": "Bạn có thể thay đổi điều này sau trong cài đặt."
+  },
+  "common": {
+    "cancel": "Hủy",
+    "confirm": "Xác nhận",
+    "back": "Quay lại",
+    "complete": "Hoàn thành",
+    "later": "Sau này",
+    "setup": "Thiết lập",
+    "loading": "Đang tải..."
+  },
+  "location": {
+    "error": "Lỗi",
+    "zipCodeRequired": "Vui lòng nhập mã ZIP 5 chữ số.",
+    "stateNotFound": "Không tìm thấy thông tin tiểu bang cho mã ZIP này.",
+    "loadingInfo": "Đang Tải Thông tin",
+    "loadingRepresentative": "Đang tìm kiếm thông tin đại diện...",
+    "multipleRepsFound": "Tìm Thấy Nhiều Đại diện",
+    "multipleRepsMessage": "Mã ZIP {zipCode} ở {stateName} bao gồm nhiều khu vực bầu cử:{apiAttribution}\n\n{repList}\n\nVui lòng chọn đại diện đúng.",
+    "checkWithAddress": "Kiểm tra với Địa chỉ Chính xác",
+    "addressBasedSearch": "Tìm kiếm Theo Địa chỉ",
+    "addressSearchInstructions": "Để tìm đại diện chính xác, vui lòng nhập địa chỉ của bạn trên trang web chính thức.\n\nSau khi tìm kiếm, hãy quay lại và chọn từ các tùy chọn bên dưới.",
+    "openOfficialSite": "Mở Trang Chính thức",
+    "cannotOpenBrowser": "Không thể mở trình duyệt.",
+    "autoComplete": "Tự động Hoàn thành",
+    "autoCompleteMessage": "Phát hiện tiểu bang {stateName}.{apiAttribution}\n\nBạn có muốn tự động thiết lập tất cả thông tin?\n\n• Thủ phủ: {capital}\n• Thống đốc: {governor}\n• Thượng nghị sĩ: {senators}\n• Đại diện: {representative}",
+    "autoCompleteMessageNoRep": "Phát hiện tiểu bang {stateName}.\n\nBạn có muốn tự động thiết lập tất cả thông tin?\n\n• Thủ phủ: {capital}\n• Thống đốc: {governor}\n• Thượng nghị sĩ: {senators}\n• Đại diện: Cần nhập thủ công",
+    "manualInput": "Nhập Thủ công",
+    "setupComplete": "Thiết lập Hoàn tất",
+    "setupError": "Có lỗi xảy ra trong quá trình thiết lập",
+    "stateInfoSet": "Thông tin tiểu bang {stateName} đã được thiết lập tự động!",
+    "capital": "Thủ phủ",
+    "governor": "Thống đốc",
+    "senators": "Thượng nghị sĩ",
+    "representative": "Đại diện",
+    "autoSet": "Thiết lập Tự động",
+    "multipleDistrictsInfo": "ℹ️ Mã ZIP bao gồm nhiều khu vực, hiển thị tất cả đại diện.",
+    "addRepresentativeInfo": "Thông tin đại diện có thể được thêm vào Tài nguyên & Cài đặt."
+  },
+  "menu": {
+    "learn": {
+      "title": "Học tập",
+      "subtitle": "Xây dựng nền tảng kiến thức của bạn",
+      "allQuestions": "Tất cả Câu hỏi",
+      "allQuestionsSubtitle": "Xem tất cả 100 câu hỏi",
+      "storyMode": "Chế độ Câu chuyện",
+      "storyModeSubtitle": "Câu chuyện Phiêu lưu Mỹ ★",
+      "audioLearning": "Học bằng Âm thanh khi Lái xe",
+      "audioLearningSubtitle": "Học trong khi lái xe"
+    },
+    "practiceTests": {
+      "title": "Bài Kiểm tra Thực hành",
+      "subtitle": "Kiểm tra kiến thức và xác định điểm yếu",
+      "flashcardMode": "Chế độ Thẻ ghi nhớ",
+      "flashcardModeSubtitle": "Ghi nhớ hiệu quả tất cả 100 câu hỏi",
+      "practiceTest": "Bài Kiểm tra Thực hành",
+      "practiceTestSubtitle": "10 câu hỏi ngẫu nhiên",
+      "practiceTestVoice": "Bài kiểm tra (có giọng nói)",
+      "practiceTestVoiceSubtitle": "Bài kiểm tra với TTS và giọng nói",
+      "weaknessTest": "Bài Kiểm tra Điểm yếu",
+      "weaknessTestSubtitle": "Tập trung vào câu hỏi sai",
+      "customTest": "Bài Kiểm tra Tùy chỉnh",
+      "customTestSubtitle": "Chọn chủ đề và số lượng câu hỏi"
+    },
+    "aiMockInterview": {
+      "title": "Phỏng vấn Giả lập AI",
+      "subtitle": "Luyện tập kỹ năng nói",
+      "standardInterview": "Phỏng vấn Tiêu chuẩn",
+      "standardInterviewSubtitle": "Luyện phỏng vấn với AI",
+      "deepDiveInterview": "Phỏng vấn Sâu",
+      "deepDiveInterviewSubtitle": "Câu hỏi theo sau của AI",
+      "n400Practice": "Luyện tập N-400",
+      "n400PracticeSubtitle": "Tuyên thệ và câu hỏi cá nhân"
+    },
+    "myProgress": {
+      "title": "Tiến độ của Tôi",
+      "subtitle": "Theo dõi hành trình học tập của bạn",
+      "progressDashboard": "Bảng điều khiển Tiến độ",
+      "progressDashboardSubtitle": "Xem thống kê và thành tích của bạn",
+      "aiTutorAdvice": "Lời khuyên của Gia sư AI",
+      "aiTutorAdviceSubtitle": "Hướng dẫn học tập cá nhân hóa"
+    },
+    "sections": {
+      "resources": {
+        "title": "Tài nguyên",
+        "subtitle": "Thông tin mới nhất và tài liệu chính thức",
+        "updatedInfo": "Thông tin cập nhật",
+        "updatedInfoSubtitle": "Tổng thống hiện tại, Phó tổng thống, v.v.",
+        "officialLinks": "Liên kết chính thức",
+        "officialLinksSubtitle": "Trang web USCIS và nhiều hơn nữa"
+      }
+    }
+  },
+  "interview": {
+    "welcomeTitle": "Sẵn sàng cho Quyền Công dân?",
+    "welcomeSubtitle": "Luyện tập, học hỏi và thành công!",
+    "locationSetupTitle": "Thiết lập Thông tin Vị trí",
+    "locationSetupMessage": "Một số câu hỏi trong cuộc phỏng vấn quốc tịch có câu trả lời khác nhau tùy thuộc vào khu vực cư trú của bạn.\n\nBạn có muốn thiết lập thông tin vị trí của mình không?",
+    "additionalInfoTitle": "Cần Thêm Thông tin",
+    "additionalInfoMessage": "Để có câu trả lời chính xác hơn, vui lòng thiết lập thêm thông tin {missingInfo}.",
+    "userSetAnswer": "Đây là câu trả lời bạn đã thiết lập trong cài đặt vị trí của mình.",
+    "locationSettingRequired": "Một số câu hỏi có câu trả lời khác nhau dựa trên vị trí của bạn. Vui lòng thiết lập bang của bạn trong Tài nguyên & Cài đặt.",
+    "additionalInfoRequired": "Để có câu trả lời chính xác hơn, vui lòng thiết lập thông tin {missingInfo} trong Tài nguyên & Cài đặt."
+  },
+  "resources": {
+    "title": "Cài đặt Ngôn ngữ và Vị trí",
+    "locationSettings": "Cài đặt Vị trí",
+    "locationDescription": "Thiết lập thông tin khu vực cư trú của bạn cho các câu hỏi phỏng vấn quyền công dân có câu trả lời khác nhau theo bang.",
+    "selectedState": "Bang Đã Chọn",
+    "capital": "Thủ phủ",
+    "governor": "Thống đốc",
+    "senator1": "Thượng nghị sĩ 1",
+    "senator2": "Thượng nghị sĩ 2",
+    "representative": "Đại diện",
+    "setup": "Thiết lập",
+    "selectState": "Chọn Bang",
+    "selectStateDescription": "Vui lòng chọn khu vực cư trú của bạn",
+    "zipCodeSearch": "Tìm kiếm theo Mã ZIP",
+    "zipCodeSearchDescription": "Bạn có thể tự động thiết lập thông tin vị trí bằng cách nhập mã ZIP.",
+    "enterZipCode": "Nhập Mã ZIP",
+    "search": "Tìm kiếm",
+    "resetSettings": "Khôi phục Cài đặt",
+    "resetDescription": "Xóa tất cả cài đặt vị trí.",
+    "reset": "Khôi phục",
+    "cancel": "Hủy bỏ",
+    "delete": "Xóa",
+    "complete": "Hoàn thành",
+    "allSettingsDeleted": "Tất cả cài đặt đã bị xóa.",
+    "confirmDelete": "Bạn có chắc chắn muốn xóa tất cả cài đặt?",
+    "edit": "Chỉnh sửa",
+    "save": "Lưu",
+    "editField": "Chỉnh sửa {field}",
+    "stateSetupComplete": "Thiết lập Tiểu bang Hoàn tất",
+    "stateSetupMessage": "Tiểu bang {stateName} đã được thiết lập.\nThủ phủ: {capital}\n\nVui lòng cũng thiết lập thông tin khác.",
+    "notSet": "Chưa thiết lập",
+    "zipCode": "Mã ZIP",
+    "usageGuide": "Hướng dẫn Sử dụng",
+    "updatedInfo2025": "Thông tin Cập nhật (Phiên bản 2025)",
+    "yearlyChangingInfo": "Thông tin các chức vụ chính trị thay đổi hàng năm.",
+    "currentPresident": "Tổng thống Hiện tại",
+    "currentVicePresident": "Phó Tổng thống Hiện tại",
+    "currentSpeaker": "Chủ tịch Hạ viện Hiện tại",
+    "updateCycle": "Chu kỳ Cập nhật",
+    "autoUpdateByElection": "Tự động cập nhật dựa trên kết quả bầu cử",
+    "configuredLocationInfo": "Thông tin Vị trí Đã cấu hình",
+    "currentStateInfo": "Thông tin hiện tại của tiểu bang {stateName}.",
+    "usageGuideText": "• Thông tin đã cấu hình sẽ được sử dụng tự động cho các câu hỏi có câu trả lời khác nhau theo năm/tiểu bang.\n• Tổng thống, Phó Tổng thống, Chủ tịch Hạ viện, v.v. sẽ được cập nhật tự động.\n• Vui lòng nhập thông tin Thống đốc, Thượng nghị sĩ và Đại diện bằng tay.\n• Thông tin chính xác có thể tìm thấy tại senate.gov và house.gov.",
+    "enterNamePlaceholder": "Nhập tên",
+    "languageSettings": "Cài đặt Ngôn ngữ",
+    "languageDescription": "Chọn ngôn ngữ ưa thích của bạn cho giao diện ứng dụng.",
+    "currentLanguage": "Ngôn ngữ Hiện tại",
+    "selectLanguage": "Chọn Ngôn ngữ",
+    "languageChanged": "Ngôn ngữ đã được thay đổi thành công.",
+    "languageChangeError": "Không thể thay đổi ngôn ngữ. Vui lòng thử lại.",
+    "error": "Lỗi"
+  },
+  "questions": {
+    "correctAnswers": "Câu Trả Lời Đúng",
+    "question": "Câu hỏi"
+  },
+  "story": {
+    "loading": "Đang tải câu chuyện...",
+    "loadErrorTitle": "Lỗi",
+    "loadErrorMessage": "Tải dữ liệu thất bại.",
+    "relatedQuestions": "Câu hỏi liên quan ({count})",
+    "modal": {
+      "title": "Chi tiết câu hỏi",
+      "answersTitleSingular": "Câu trả lời",
+      "answersTitlePlural": "Các câu trả lời",
+      "noAnswers": "Không có câu trả lời"
+    },
+    "languageToggle": {
+      "korean": "Tiếng Hàn",
+      "english": "Tiếng Anh",
+      "original": "Bản gốc"
+    },
+    "chapter": "Chương {number}"
+  },
+  "disclaimer": {
+    "text": "Ứng dụng này không liên kết hoặc được xác nhận bởi bất kỳ cơ quan chính phủ nào. Đây là một công cụ độc lập được thiết kế để giúp bạn chuẩn bị cho cuộc phỏng vấn quốc tịch."
+  }
+}

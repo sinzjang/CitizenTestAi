@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "q_id": "name_full",
+    "category": "Name and Personal Information",
+    "question_en": "What is your full name?",
+    "question_ko": "당신의 전체 이름은 무엇입니까?"
+  },
+  {
+    "id": 2,
+    "q_id": "other_names_used",
+    "category": "Name and Personal Information",
+    "question_en": "Have you ever used any other names?",
+    "question_ko": "다른 이름을 사용한 적이 있습니까?"
+  },
+  {
+    "id": 3,
+    "q_id": "date_of_birth",
+    "category": "Name and Personal Information",
+    "question_en": "What is your date of birth?",
+    "question_ko": "생년월일이 언제입니까?"
+  },
+  {
+    "id": 4,
+    "q_id": "current_address",
+    "category": "Name and Personal Information",
+    "question_en": "What is your current address?",
+    "question_ko": "현재 주소는 어디입니까?"
+  },
+  {
+    "id": 5,
+    "q_id": "residence_5_years",
+    "category": "Residence and Travel History",
+    "question_en": "Have you lived at your current address for the last five years?",
+    "question_ko": "지난 5년 동안 현재 주소에 거주했습니까?"
+  },
+  {
+    "id": 6,
+    "q_id": "trips_last_5_years",
+    "category": "Residence and Travel History",
+    "question_en": "Have you made any trips outside the United States in the last 5 years?",
+    "question_ko": "최근 5년간 미국 밖으로 여행한 적이 있습니까?"
+  },
+  {
+    "id": 7,
+    "q_id": "trip_over_6_months",
+    "category": "Residence and Travel History",
+    "question_en": "Was any trip longer than six months?",
+    "question_ko": "6개월을 넘는 여행이 있었습니까?"
+  },
+  {
+    "id": 8,
+    "q_id": "marital_status_current",
+    "category": "Family and Marital Status",
+    "question_en": "What is your current marital status?",
+    "question_ko": "현재 결혼 상태는 어떻게 됩니까?"
+  },
+  {
+    "id": 9,
+    "q_id": "spouse_us_citizen",
+    "category": "Family and Marital Status",
+    "question_en": "Is your spouse a U.S. citizen?",
+    "question_ko": "배우자가 미국 시민입니까?"
+  },
+  {
+    "id": 10,
+    "q_id": "have_children",
+    "category": "Family and Marital Status",
+    "question_en": "Do you have any children?",
+    "question_ko": "자녀가 있습니까?"
+  },
+  {
+    "id": 11,
+    "q_id": "all_children_listed",
+    "category": "Family and Marital Status",
+    "question_en": "Are all your children listed on your application?",
+    "question_ko": "모든 자녀를 신청서에 기재하셨습니까?"
+  },
+  {
+    "id": 12,
+    "q_id": "current_job",
+    "category": "Employment and Education",
+    "question_en": "What is your current job?",
+    "question_ko": "현재 직업이 무엇입니까?"
+  },
+  {
+    "id": 13,
+    "q_id": "long_unemployment",
+    "category": "Employment and Education",
+    "question_en": "Have you ever been unemployed for a long period?",
+    "question_ko": "오랜 기간 실직한 적이 있습니까?"
+  },
+  {
+    "id": 14,
+    "q_id": "crime_not_arrested",
+    "category": "Moral Character, Crime, and Arrests",
+    "question_en": "Have you ever committed a crime or offense for which you were not arrested?",
+    "question_ko": "체포되지 않은 범죄나 위법 행위를 한 적이 있습니까?"
+  },
+  {
+    "id": 15,
+    "q_id": "arrested_cited_detained",
+    "category": "Moral Character, Crime, and Arrests",
+    "question_en": "Have you ever been arrested, cited or detained by law enforcement?",
+    "question_ko": "법 집행기관에 의해 체포, 소환, 구금된 적이 있습니까?"
+  },
+  {
+    "id": 16,
+    "q_id": "convicted_crime",
+    "category": "Moral Character, Crime, and Arrests",
+    "question_en": "Have you ever been convicted of a crime?",
+    "question_ko": "범죄로 유죄 판결을 받은 적이 있습니까?"
+  },
+  {
+    "id": 17,
+    "q_id": "suspended_sentence_probation_parole",
+    "category": "Moral Character, Crime, and Arrests",
+    "question_en": "Have you ever received a suspended sentence or been placed on probation or parole?",
+    "question_ko": "집행유예, 보호관찰, 가석방된 적이 있습니까?"
+  },
+  {
+    "id": 18,
+    "q_id": "in_jail_or_prison",
+    "category": "Moral Character, Crime, and Arrests",
+    "question_en": "Have you ever been in jail or prison?",
+    "question_ko": "감옥에 수감된 적이 있습니까?"
+  },
+  {
+    "id": 19,
+    "q_id": "lied_to_us_govt_for_benefit",
+    "category": "Moral Character, Crime, and Arrests",
+    "question_en": "Have you ever lied to any U.S. government official to gain entry or immigration benefit?",
+    "question_ko": "미국 입국이나 이민 이득을 얻기 위해 미국 정부에 거짓말을 한 적이 있습니까?"
+  },
+  {
+    "id": 20,
+    "q_id": "overdue_taxes",
+    "category": "Moral Character, Crime, and Arrests",
+    "question_en": "Have you ever owed any federal, state, or local taxes that are overdue?",
+    "question_ko": "미납된 연방/주/지방 세금이 있습니까?"
+  },
+  {
+    "id": 21,
+    "q_id": "served_us_military",
+    "category": "Selective Service and Military",
+    "question_en": "Have you ever served in the U.S. military?",
+    "question_ko": "미군에서 복무한 적 있습니까?"
+  },
+  {
+    "id": 22,
+    "q_id": "refused_support_bear_arms",
+    "category": "Selective Service and Military",
+    "question_en": "Have you ever failed to support the U.S. military or refused to bear arms?",
+    "question_ko": "군 복무를 거부한 적이 있습니까?"
+  },
+  {
+    "id": 23,
+    "q_id": "selective_service_registered",
+    "category": "Selective Service and Military",
+    "question_en": "Are you registered for Selective Service?",
+    "question_ko": "남성 지원자인 경우: 징병 등록을 하셨습니까?"
+  },
+  {
+    "id": 24,
+    "q_id": "org_affiliations",
+    "category": "Affiliations",
+    "question_en": "Have you ever been a member of or associated with any organization, association, fund, party, club, society, or similar group?",
+    "question_ko": "어떤 단체, 클럽, 협회 등 소속된 적이 있습니까?"
+  },
+  {
+    "id": 25,
+    "q_id": "communist_totalitarian_party",
+    "category": "Affiliations",
+    "question_en": "Have you ever been involved with the Communist Party or any totalitarian party?",
+    "question_ko": "공산당이나 전체주의 정당에 가입한 적 있습니까?"
+  },
+  {
+    "id": 26,
+    "q_id": "terrorist_association",
+    "category": "Affiliations",
+    "question_en": "Have you ever been associated with any terrorist organization?",
+    "question_ko": "테러 단체와 관련된 적 있습니까?"
+  },
+  {
+    "id": 27,
+    "q_id": "ordered_removed_excluded_deported",
+    "category": "Removal/Deportation Issues",
+    "question_en": "Have you ever been ordered removed, excluded or deported from the U.S.?",
+    "question_ko": "미국에서 추방, 입국거부, 강제출국 명령 받은 적 있습니까?"
+  },
+  {
+    "id": 28,
+    "q_id": "helped_illegal_entry",
+    "category": "Removal/Deportation Issues",
+    "question_en": "Have you ever helped anyone to enter the U.S. illegally?",
+    "question_ko": "누군가의 불법 미국 입국을 도운 적 있습니까?"
+  },
+  {
+    "id": 29,
+    "q_id": "support_constitution_government",
+    "category": "Oath and Support for the U.S.",
+    "question_en": "Do you support the Constitution and government of the United States?",
+    "question_ko": "미국 헌법과 정부를 지지합니까?"
+  },
+  {
+    "id": 30,
+    "q_id": "willing_full_oath",
+    "category": "Oath and Support for the U.S.",
+    "question_en": "Are you willing to take the full Oath of Allegiance to the United States?",
+    "question_ko": "충성 서약을 할 의사가 있습니까?"
+  },
+  {
+    "id": 31,
+    "q_id": "willing_bear_arms_if_required",
+    "category": "Oath and Support for the U.S.",
+    "question_en": "If the law requires it, are you willing to bear arms on behalf of the U.S.?",
+    "question_ko": "법적으로 필요하다면 미국을 위해 무기를 들 각오가 있습니까?"
+  },
+  {
+    "id": 32,
+    "q_id": "willing_noncombatant_service",
+    "category": "Oath and Support for the U.S.",
+    "question_en": "If the law requires it, will you perform noncombatant services in the U.S. Armed Forces?",
+    "question_ko": "비전투 군 복무를 수행할 의사가 있습니까?"
+  },
+  {
+    "id": 33,
+    "q_id": "willing_national_importance_work",
+    "category": "Oath and Support for the U.S.",
+    "question_en": "If the law requires it, will you perform work of national importance under civilian direction?",
+    "question_ko": "민간인 지휘 아래 국가중요업무를 수행할 의사가 있습니까?"
+  },
+  {
+    "id": 34,
+    "q_id": "persecuted_others",
+    "category": "Additional Moral and Security Questions",
+    "question_en": "Have you ever persecuted any person because of race, religion, national origin, or political opinion?",
+    "question_ko": "인종, 종교, 출신, 정치적 견해로 타인을 박해한 적 있습니까?"
+  },
+  {
+    "id": 35,
+    "q_id": "participated_genocide",
+    "category": "Additional Moral and Security Questions",
+    "question_en": "Have you ever participated in genocide?",
+    "question_ko": "집단 학살에 참여한 적 있습니까?"
+  },
+  {
+    "id": 36,
+    "q_id": "tortured_anyone",
+    "category": "Additional Moral and Security Questions",
+    "question_en": "Have you ever tortured anyone?",
+    "question_ko": "누군가를 고문한 적 있습니까?"
+  },
+  {
+    "id": 37,
+    "q_id": "military_weapons_training",
+    "category": "Additional Moral and Security Questions",
+    "question_en": "Have you ever received military or weapons training?",
+    "question_ko": "군사 훈련이나 무기 훈련을 받은 적 있습니까?"
+  },
+  {
+    "id": 38,
+    "q_id": "failed_to_file_required_tax_returns",
+    "category": "Immigration Status and Other",
+    "question_en": "Have you ever failed to file a required federal, state, or local tax return?",
+    "question_ko": "필수적으로 신고해야 할 세금 신고를 하지 않은 적 있습니까?"
+  },
+  {
+    "id": 39,
+    "q_id": "claimed_non_us_resident_after_lpr",
+    "category": "Immigration Status and Other",
+    "question_en": "Have you ever called yourself a \"non-U.S. resident\" on a tax return since you became a permanent resident?",
+    "question_ko": "영주권 취득 후 세금신고시 자신을 '비거주자'라고 밝힌 적 있습니까?"
+  },
+  {
+    "id": 40,
+    "q_id": "misrepresentation_public_benefits",
+    "category": "Immigration Status and Other",
+    "question_en": "Have you made any misrepresentation to get public benefits in the U.S.?",
+    "question_ko": "미국에서 공공복지 수령을 위해 허위진술 한 적 있습니까?"
+  }
+]

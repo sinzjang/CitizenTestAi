@@ -1,0 +1,166 @@
+{
+  "app": {
+    "title": "جاهز للمواطنة",
+    "subtitle": "اجتز مقابلة المواطنة الأمريكية بالذكاء الاصطناعي"
+  },
+  "language": {
+    "selectLanguage": "اختر اللغة",
+    "selectLanguageDescription": "يرجى اختيار لغتك المفضلة للمتابعة.",
+    "canChangeInSettings": "يمكنك تغيير هذا لاحقاً في الإعدادات."
+  },
+  "resources": {
+    "title": "إعدادات اللغة والموقع",
+    "locationInfo": "إعدادات معلومات الموقع",
+    "locationInfoDescription": "قم بإعداد معلومات السياسيين لمنطقتك.",
+    "setupLocation": "إعداد الموقع",
+    "resetSettings": "إعادة تعيين الإعدادات",
+    "resetSettingsDescription": "إعادة تعيين جميع الإعدادات.",
+    "resetAll": "حذف جميع الإعدادات",
+    "confirmDelete": "هل أنت متأكد من أنك تريد حذف جميع الإعدادات؟",
+    "deleteComplete": "تم حذف جميع الإعدادات.",
+    "state": "الولاية",
+    "capital": "العاصمة",
+    "governor": "الحاكم",
+    "senator1": "السيناتور 1",
+    "senator2": "السيناتور 2",
+    "representative": "النائب",
+    "edit": "تحرير",
+    "save": "حفظ",
+    "editField": "تحرير {field}",
+    "selectState": "اختر الولاية",
+    "cancel": "إلغاء",
+    "locationSettings": "إعدادات الموقع",
+    "locationDescription": "قم بإعداد معلومات منطقتك السكنية لأسئلة مقابلة المواطنة التي لها إجابات مختلفة حسب الولاية.",
+    "selectedState": "الولاية المختارة",
+    "setup": "إعداد",
+    "selectStateDescription": "يرجى اختيار منطقتك السكنية",
+    "allSettingsDeleted": "تم حذف جميع الإعدادات.",
+    "delete": "حذف",
+    "stateSetupComplete": "اكتمل إعداد الولاية",
+    "stateSetupMessage": "تم تعيين ولاية {stateName}.\nالعاصمة: {capital}\n\nيرجى تعيين المعلومات الأخرى أيضاً.",
+    "notSet": "غير محدد",
+    "zipCode": "الرمز البريدي",
+    "usageGuide": "دليل الاستخدام",
+    "updatedInfo2025": "معلومات محدثة (إصدار 2025)",
+    "yearlyChangingInfo": "معلومات المناصب السياسية التي تتغير سنوياً.",
+    "currentPresident": "الرئيس الحالي",
+    "currentVicePresident": "نائب الرئيس الحالي",
+    "currentSpeaker": "رئيس مجلس النواب الحالي",
+    "currentChiefJustice": "رئيس المحكمة العليا الحالي"
+  },
+  "location": {
+    "error": "خطأ",
+    "zipCodeRequired": "يرجى إدخال رمز بريدي مكون من 5 أرقام.",
+    "stateNotFound": "لم يتم العثور على معلومات الولاية لهذا الرمز البريدي.",
+    "loadingInfo": "تحميل المعلومات",
+    "zipCodeError": "يرجى إدخال رمز بريدي صحيح مكون من 5 أرقام.",
+    "enterZipCode": "أدخل الرمز البريدي",
+    "multipleStatesFound": "تم العثور على الرمز البريدي {zipCode} في عدة ولايات: {states}. يرجى اختيار ولاية.",
+    "selectState": "اختر الولاية",
+    "multipleRepsMessage": "تم العثور على عدة نواب للرمز البريدي {zipCode} في ولاية {stateName}:{apiAttribution}\n\n{repList}\n\nيرجى اختيار النائب الصحيح.",
+    "selectRepresentative": "اختر النائب",
+    "noRepresentativeFound": "لم يتم العثور على نائب للرمز البريدي {zipCode}.",
+    "locationSetupComplete": "اكتمل إعداد الموقع!",
+    "locationSetupMessage": "تم إعداد معلومات موقعك بنجاح.\n\nالولاية: {stateName}\nالرمز البريدي: {zipCode}\nالنائب: {representative}",
+    "multipleDistrictsMessage": "يحتوي على عدة دوائر انتخابية",
+    "apiAttribution": "\n\n(مصدر البيانات: whoismyrepresentative.com)"
+  },
+  "interview": {
+    "welcomeTitle": "جاهز للمواطنة؟",
+    "welcomeSubtitle": "تدرب وتعلم وانجح!",
+    "locationSetupTitle": "إعداد معلومات الموقع",
+    "locationSetupMessage": "بعض أسئلة مقابلة المواطنة لها إجابات مختلفة حسب منطقتك السكنية.\n\nهل تريد إعداد معلومات موقعك؟",
+    "additionalInfoTitle": "معلومات إضافية مطلوبة",
+    "additionalInfoMessage": "للحصول على إجابات أكثر دقة، يرجى إعداد معلومات {missingInfo} إضافية.",
+    "userSetAnswer": "هذه هي الإجابة التي قمت بتعيينها في إعدادات الموقع الخاص بك.",
+    "locationSettingRequired": "بعض الأسئلة لها إجابات مختلفة حسب موقعك. يرجى تعيين ولايتك في الموارد والإعدادات.",
+    "additionalInfoRequired": "للحصول على إجابات أكثر دقة، يرجى إعداد معلومات {missingInfo} في الموارد والإعدادات."
+  },
+  "menu": {
+    "resources": "الموارد والإعدادات",
+    "interviewPractice": "ممارسة المقابلة",
+    "practiceTests": {
+      "title": "اختبارات التدريب",
+      "subtitle": "تحقق من المعرفة وحدد نقاط الضعف",
+      "flashcardMode": "وضع البطاقات التعليمية",
+      "flashcardModeSubtitle": "احفظ جميع الأسئلة الـ100 بفعالية",
+      "practiceTest": "اختبار تدريب",
+      "practiceTestSubtitle": "10 أسئلة عشوائية",
+      "practiceTestVoice": "اختبار تدريب (بالصوت)",
+      "practiceTestVoiceSubtitle": "اختبار تدريب مع تحويل النص إلى كلام وصوت",
+      "weaknessTest": "اختبار نقاط الضعف",
+      "weaknessTestSubtitle": "التركيز على الأسئلة الخاطئة",
+      "customTest": "اختبار مخصص",
+      "customTestSubtitle": "اختر الموضوعات وعدد الأسئلة"
+    },
+    "learn": {
+      "title": "تعلم",
+      "subtitle": "استعد لامتحان المواطنة",
+      "storyMode": "وضع القصة",
+      "storyModeSubtitle": "قصة مغامرة أمريكية ★"
+    },
+    "practice": {
+      "title": "تدرب",
+      "subtitle": "خذ مقابلات وهمية"
+    },
+    "test": {
+      "title": "خذ الاختبار",
+      "subtitle": "اختبر معرفتك"
+    },
+    "progress": {
+      "title": "التقدم",
+      "subtitle": "انظر إنجازاتك"
+    },
+    "sections": {
+      "resources": {
+        "title": "الموارد والإعدادات",
+        "subtitle": "اللغة والموقع والإعدادات الأخرى"
+      }
+    }
+  },
+  "common": {
+    "ok": "موافق",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تحرير",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "confirm": "تأكيد",
+    "yes": "نعم",
+    "no": "لا",
+    "close": "إغلاق",
+    "back": "رجوع",
+    "next": "التالي",
+    "previous": "السابق",
+    "done": "تم",
+    "retry": "إعادة المحاولة",
+    "code": "الرمز"
+  },
+  "questions": {
+    "correctAnswers": "الإجابات الصحيحة",
+    "question": "سؤال"
+  },
+  "story": {
+    "loading": "جارٍ تحميل القصص...",
+    "loadErrorTitle": "خطأ",
+    "loadErrorMessage": "فشل في تحميل البيانات.",
+    "relatedQuestions": "الأسئلة ذات الصلة ({count})",
+    "modal": {
+      "title": "تفاصيل السؤال",
+      "answersTitleSingular": "إجابة",
+      "answersTitlePlural": "إجابات",
+      "noAnswers": "لا توجد إجابات"
+    },
+    "languageToggle": {
+      "korean": "الكورية",
+      "english": "الإنجليزية",
+      "original": "الأصل"
+    },
+    "chapter": "الفصل {number}"
+  },
+  "disclaimer": {
+    "text": "هذا التطبيق غير تابع لأي جهة حكومية أو معتمد منها. إنه أداة مستقلة مصممة لمساعدتك في التحضير لمقابلة الجنسية."
+  }
+}

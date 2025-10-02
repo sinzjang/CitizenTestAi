@@ -1,0 +1,309 @@
+{
+  "app": {
+    "title": "Ready for Citizenship",
+    "subtitle": "Pass US Citizen Interview with AI"
+  },
+  "language": {
+    "selectLanguage": "Select Language",
+    "selectLanguageDescription": "Please select your preferred language to continue.",
+    "canChangeInSettings": "You can change this later in settings."
+  },
+  "resources": {
+    "title": "Language & Location Settings",
+    "locationInfo": "Location Information Settings",
+    "locationInfoDescription": "Set up politician information for your area.",
+    "setupLocation": "Set up Location",
+    "resetSettings": "Reset Settings",
+    "resetSettingsDescription": "Reset all settings.",
+    "resetAll": "Delete All Settings",
+    "confirmDelete": "Are you sure you want to delete all settings?",
+    "deleteComplete": "All settings have been deleted.",
+    "state": "State",
+    "capital": "Capital",
+    "governor": "Governor",
+    "senator1": "Senator 1",
+    "senator2": "Senator 2",
+    "representative": "Representative",
+    "edit": "Edit",
+    "save": "Save",
+    "editField": "Edit {field}",
+    "selectState": "Select State",
+    "cancel": "Cancel",
+    "locationSettings": "Location Settings",
+    "locationDescription": "Set up your residential area information for citizenship interview questions that have different answers by state.",
+    "selectedState": "Selected State",
+    "setup": "Setup",
+    "selectStateDescription": "Please select your residential area",
+    "allSettingsDeleted": "All settings have been deleted.",
+    "delete": "Delete",
+    "stateSetupComplete": "State Setup Complete",
+    "stateSetupMessage": "{stateName} state has been set.\nCapital: {capital}\n\nPlease set other information as well.",
+    "notSet": "Not set",
+    "zipCode": "ZIP Code",
+    "usageGuide": "Usage Guide",
+    "updatedInfo2025": "Updated Information (2025 Edition)",
+    "yearlyChangingInfo": "Political office information that changes annually.",
+    "currentPresident": "Current President",
+    "currentVicePresident": "Current Vice President",
+    "currentSpeaker": "Current Speaker of the House",
+    "updateCycle": "Update Cycle",
+    "autoUpdateByElection": "Automatically updated based on election results",
+    "configuredLocationInfo": "Configured Location Information",
+    "currentStateInfo": "Current information for {stateName} state.",
+    "usageGuideText": "• The configured information will be automatically used for questions with different answers by year/state.\n• President, Vice President, Speaker of the House, etc. are automatically updated.\n• Please enter Governor, Senator, and Representative information manually.\n• Accurate information can be found at senate.gov and house.gov.",
+    "enterNamePlaceholder": "Enter name",
+    "languageSettings": "Language Settings",
+    "languageDescription": "Choose your preferred language for the app interface.",
+    "currentLanguage": "Current Language",
+    "selectLanguage": "Select Language",
+    "languageChanged": "Language has been changed successfully.",
+    "languageChangeError": "Failed to change language. Please try again.",
+    "error": "Error",
+    "complete": "Complete"
+  },
+  "location": {
+    "error": "Error",
+    "zipCodeRequired": "Please enter a 5-digit ZIP code.",
+    "stateNotFound": "State information for this ZIP code could not be found.",
+    "loadingInfo": "Loading Information",
+    "loadingRepresentative": "Looking up representative information...",
+    "multipleRepsFound": "Multiple Representatives Found",
+    "multipleRepsMessage": "ZIP code {zipCode} in {stateName} spans multiple districts:{apiAttribution}\n\n{repList}\n\nPlease select the correct representative.",
+    "checkWithAddress": "Check with Exact Address",
+    "addressBasedSearch": "Address-Based Search",
+    "addressSearchInstructions": "To find the correct representative, please enter your address on the official website.\n\nAfter searching, come back and select from the options below.",
+    "openOfficialSite": "Open Official Site",
+    "cannotOpenBrowser": "Cannot open browser.",
+    "autoComplete": "Auto Complete",
+    "autoCompleteMessage": "{stateName} state detected.{apiAttribution}\n\nWould you like to automatically set all information?\n\n• Capital: {capital}\n• Governor: {governor}\n• Senators: {senators}\n• Representative: {representative}",
+    "autoCompleteMessageNoRep": "{stateName} state detected.\n\nWould you like to automatically set all information?\n\n• Capital: {capital}\n• Governor: {governor}\n• Senators: {senators}\n• Representative: Manual input required",
+    "manualInput": "Manual Input",
+    "setupComplete": "Setup Complete",
+    "setupError": "An error occurred during setup.",
+    "stateInfoSet": "{stateName} state information has been automatically set!",
+    "autoSet": "Auto Set",
+    "multipleDistrictsInfo": "ℹ️ ZIP code spans multiple districts, showing all representatives.",
+    "addRepresentativeInfo": "Representative information can be added in Resources & Settings.",
+    "zipCodeInput": "ZIP Code Input",
+    "zipCodeDescription": "Enter the ZIP code of your test location to find the corresponding state.",
+    "zipCodePlaceholder": "12345",
+    "next": "Next",
+    "zipCodeError": "Please enter a 5-digit ZIP code.",
+    "multipleStatesFound": "ZIP code {zipCode} corresponds to multiple states: {states}\n\nPlease select a state first.",
+    "stateSelection": "State Selection",
+    "stateSelectionDescription": "These are the possible states for ZIP code {zipCode}. Please select the correct state.",
+    "autoLookupByZip": "Auto lookup by ZIP code ({zipCode})",
+    "senateGovInfo": "You can use ZIP code auto lookup or check at senate.gov",
+    "houseGovInfo": "You can use ZIP code auto lookup or check at house.gov",
+    "additionalInfo": "Additional Information",
+    "locationSetupModal": "Location Setup",
+    "enterPoliticianInfo": "Please enter politician information for {stateName} state.",
+    "autoSetGovernor": "Auto set: {governor}",
+    "manualInputGovernor": "Manual input",
+    "governorPlaceholder": "Enter governor name",
+    "senatorsLabel": "Senators (2)",
+    "representativeLabel": "Representative",
+    "representativeDistrictPlaceholder": "Enter representative name",
+    "capitalGovernor": "Capital: {capital} | Governor: {governor}",
+    "multipleStatesTitle": "Multiple States Available",
+    "senatorsPreview": "Senators: {senators}"
+  },
+  "interview": {
+    "welcomeTitle": "Ready for Citizenship?",
+    "welcomeSubtitle": "Practice, learn, and succeed!",
+    "locationSetupTitle": "Location Information Setup",
+    "locationSetupMessage": "Some questions in the citizenship interview have different answers depending on your residential area.\n\nWould you like to set up your location information?",
+    "additionalInfoTitle": "Additional Information Needed",
+    "additionalInfoMessage": "For more accurate answers, please set up additional {missingInfo} information.",
+    "userSetAnswer": "This is the answer you have set in your location settings.",
+    "locationSettingRequired": "Some questions have different answers based on your location. Please set your state in Resources & Settings.",
+    "additionalInfoRequired": "For more accurate answers, please set up {missingInfo} information in Resources & Settings."
+  },
+  "menu": {
+    "resources": "Resources & Settings",
+    "interviewPractice": "Interview Practice",
+    "learn": {
+      "title": "Learn",
+      "subtitle": "Build your knowledge foundation",
+      "allQuestions": "All Questions",
+      "allQuestionsSubtitle": "View all 100 questions",
+      "storyMode": "Story Mode",
+      "storyModeSubtitle": "American Adventure Story ★",
+      "audioLearning": "Driving(Audio) Learning",
+      "audioLearningSubtitle": "Learn while driving"
+    },
+    "practiceTests": {
+      "title": "Practice Tests",
+      "subtitle": "Check knowledge & identify weaknesses",
+      "flashcardMode": "Flashcard Mode",
+      "flashcardModeSubtitle": "Effectively memorize all 100 questions",
+      "practiceTest": "Practice Test",
+      "practiceTestSubtitle": "Random 10 questions",
+      "practiceTestVoice": "Practice Test (with voice)",
+      "practiceTestVoiceSubtitle": "Practice test with TTS and voice",
+      "weaknessTest": "Weakness Test",
+      "weaknessTestSubtitle": "Focus on missed questions",
+      "customTest": "Custom Test",
+      "customTestSubtitle": "Choose topics & question count"
+    },
+    "aiMockInterview": {
+      "title": "AI Mock Interview",
+      "subtitle": "Practice speaking skills",
+      "aiInterview": "AI Interview",
+      "aiInterviewSubtitle": "Voice recognition-based AI interview practice",
+      "standardInterview": "Standard Interview",
+      "standardInterviewSubtitle": "AI-powered interview practice",
+      "deepDiveInterview": "Deep Dive Interview",
+      "deepDiveInterviewSubtitle": "AI follow-up questions",
+      "n400Practice": "N-400 Practice",
+      "n400PracticeSubtitle": "Oath & personal questions"
+    },
+    "aiChat": {
+      "title": "AI Chat",
+      "instructions": {
+        "title": "Instructions",
+        "aiModeTitle": "AI Interview Mode",
+        "aiModeDesc1": "AI Interview mode uses DATA.",
+        "aiModeDesc2": "Natural and understands the meaning of answers.",
+        "aiModeDesc3": "Supports real-time voice recognition and TTS.",
+        "regularModeTitle": "Regular Interview Mode",
+        "regularModeDesc1": "In environments with difficult data connection, uses built-in conversation tools.",
+        "regularModeDesc2": "Can only check correct/incorrect for exact answers.",
+        "regularModeDesc3": "Speech may be less natural.",
+        "howToUseTitle": "How to Use",
+        "howToUseDesc1": "Select AI/Regular mode with the top toggle.",
+        "howToUseDesc2": "Control voice functions with microphone and speaker buttons.",
+        "howToUseDesc3": "In AI mode, you can select voice tone."
+      },
+      "voiceSelection": {
+        "title": "Voice & Tone Selection",
+        "voices": {
+          "michael": "Balanced neutral voice",
+          "david": "Masculine and deep voice",
+          "james": "British male voice",
+          "sarah": "Young and energetic female voice",
+          "robert": "Deep and warm male voice",
+          "emma": "Soft and elegant female voice"
+        }
+      },
+      "buttons": {
+        "startAiInterview": "Start AI Interview",
+        "startLocalChat": "Start Local AI Chat"
+      },
+      "errors": {
+        "cannotStartChat": "Cannot start AI chat"
+      }
+    },
+    "aiInterview": {
+      "interviewerChat": "Interviewer Chat",
+      "citizenshipQuestion": "Citizenship Question",
+      "touchToViewInterviewerChat": "Touch to view interviewer chat",
+      "touchToViewCitizenshipQuestion": "Touch to view citizenship question",
+      "listenAndAnswer": "Listen to the question and answer",
+      "speechRecognitionStatus": "Your Answer",
+      "pressSpeakButtonToStart": "Press the speak button to start speech recognition",
+      "answer": "Answer",
+      "stopAnswer": "Stop Answer"
+    },
+    "myProgress": {
+      "title": "My Progress",
+      "subtitle": "Track your learning journey",
+      "progressDashboard": "Progress Dashboard",
+      "progressDashboardSubtitle": "View your statistics and achievements",
+      "aiTutorAdvice": "AI Tutor Advice",
+      "aiTutorAdviceSubtitle": "Personalized learning guide"
+    },
+    "sections": {
+      "resources": {
+        "title": "Resources",
+        "subtitle": "Latest info & official materials",
+        "updatedInfo": "Updated Information",
+        "updatedInfoSubtitle": "Current president, VP, etc.",
+        "officialLinks": "Official Links",
+        "officialLinksSubtitle": "USCIS website & more"
+      }
+    }
+  },
+  "common": {
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "confirm": "Confirm",
+    "complete": "Complete",
+    "later": "Later",
+    "setup": "Setup",
+    "loading": "Loading...",
+    "finish": "Finish",
+    "restart": "Restart",
+    "menu": "Menu"
+  },
+  "flashcard": {
+    "complete": "Study Complete",
+    "completeMessage": "You have viewed {viewed} out of {total} questions.",
+    "noQuestions": "No questions available",
+    "showAnswer": "Show Answer",
+    "viewed": "Viewed",
+    "resume": {
+      "title": "Resume Flashcards",
+      "messageWithNumber": "Would you like to continue from question #{number}?",
+      "yesContinue": "Yes (continue)",
+      "noRestart": "No (start over)"
+    }
+  },
+  "flashcardSelection": {
+    "title": "Flashcard Mode Selection",
+    "description": "Choose your preferred flashcard learning style to practice citizenship interview questions.",
+    "quizMode": {
+      "title": "Quiz Mode",
+      "subtitle": "Practice with multiple choice questions",
+      "sequential": "Sequential Flashcards",
+      "sequentialSubtitle": "Study all 100 questions in order with bilingual support",
+      "random": "Random Flashcards",
+      "randomSubtitle": "Study questions in random order for varied practice"
+    },
+    "subjectiveMode": {
+      "title": "Subjective Mode",
+      "subtitle": "Study questions with hidden answers",
+      "sequential": "Sequential Subjective",
+      "sequentialSubtitle": "Study all 100 questions in order with hidden answers",
+      "random": "Random Subjective",
+      "randomSubtitle": "Study questions in random order with hidden answers",
+      "hideAnswer": "Hidden Answer Mode",
+      "hideAnswerSubtitle": "Questions appear with answers hidden until you tap to reveal"
+    }
+  },
+  "questions": {
+    "question": "Question",
+    "correctAnswers": "Correct Answers",
+    "explanation": "Explanation"
+  },
+  "story": {
+    "loading": "Loading stories...",
+    "loadErrorTitle": "Error",
+    "loadErrorMessage": "Failed to load data.",
+    "relatedQuestions": "Related Questions ({count})",
+    "modal": {
+      "title": "Question Details",
+      "answersTitleSingular": "Answer",
+      "answersTitlePlural": "Answers",
+      "noAnswers": "No answers"
+    },
+    "languageToggle": {
+      "korean": "Korean",
+      "english": "English",
+      "original": "Original"
+    },
+    "chapter": "Chapter {number}"
+  },
+  "disclaimer": {
+    "text": "This app is not affiliated with or endorsed by any government agency. It is an independent tool designed to help you prepare for the citizenship interview."
+  }
+}

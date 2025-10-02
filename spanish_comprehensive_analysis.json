@@ -1,0 +1,120 @@
+{
+  "totalQuestions": 100,
+  "questionsWithIssues": [
+    {
+      "id": 56,
+      "question": "¿Cuándo es el último día que puedes enviar los formularios de impuestos federales?",
+      "issues": {
+        "question": [
+          "영어 관사 \"a\" (1회)"
+        ],
+        "correctAnswers": [
+          {
+            "index": 0,
+            "text": "April 15",
+            "rationale": "La fecha límite típica para presentar impuestos es el 15 de abril. (Se puede extender si cae en fin de semana o día festivo).",
+            "textIssues": [],
+            "rationaleIssues": [
+              "영어 관사 \"a\" (1회)"
+            ]
+          }
+        ],
+        "wrongAnswers": [
+          {
+            "index": 1,
+            "text": "December 31",
+            "rationale": "El 31 de diciembre es el final del año fiscal.",
+            "textIssues": [],
+            "rationaleIssues": [
+              "영어 관사 \"a\" (1회)"
+            ]
+          },
+          {
+            "index": 2,
+            "text": "July 4",
+            "rationale": "El 4 de julio es el Día de la Independencia.",
+            "textIssues": [],
+            "rationaleIssues": [
+              "영어 관사 \"a\" (1회)"
+            ]
+          }
+        ]
+      },
+      "totalIssues": 4
+    },
+    {
+      "id": 58,
+      "question": "¿Cuál es una razón por la que los colonos vinieron a América?",
+      "issues": {
+        "question": [
+          "영어 관사 \"a\" (1회)"
+        ],
+        "correctAnswers": [
+          {
+            "index": 2,
+            "text": "libertad política",
+            "rationale": "Había un deseo de escapar de la opresión de reyes y nobles y participar en el autogobierno.",
+            "textIssues": [],
+            "rationaleIssues": [
+              "영어 관사 \"a\" (1회)"
+            ]
+          },
+          {
+            "index": 3,
+            "text": "oportunidad económica",
+            "rationale": "Muchos colonos vinieron a América buscando mejores oportunidades económicas.",
+            "textIssues": [],
+            "rationaleIssues": [
+              "영어 관사 \"a\" (1회)"
+            ]
+          }
+        ],
+        "wrongAnswers": []
+      },
+      "totalIssues": 3
+    },
+    {
+      "id": 66,
+      "question": "¿Cuándo fue escrita la Constitución?",
+      "issues": {
+        "question": [],
+        "correctAnswers": [],
+        "wrongAnswers": [
+          {
+            "index": 0,
+            "text": "1776",
+            "rationale": "1776 es el año en que se adoptó la Declaración de Independencia.",
+            "textIssues": [],
+            "rationaleIssues": [
+              "영어 관사 \"a\" (1회)"
+            ]
+          },
+          {
+            "index": 1,
+            "text": "1865",
+            "rationale": "1865 es el año en que terminó la Guerra Civil y se ratificó la Enmienda 13, que abolió la esclavitud.",
+            "textIssues": [],
+            "rationaleIssues": [
+              "영어 관사 \"a\" (1회)"
+            ]
+          },
+          {
+            "index": 2,
+            "text": "1789",
+            "rationale": "1789 es el año en que la Constitución entró en vigor y se formó oficialmente el gobierno de EE.UU.",
+            "textIssues": [],
+            "rationaleIssues": [
+              "영어 관사 \"a\" (1회)"
+            ]
+          }
+        ]
+      },
+      "totalIssues": 3
+    }
+  ],
+  "summary": {
+    "questionsWithMixedLanguage": 2,
+    "questionsWithGrammarIssues": 3,
+    "totalIssuesFound": 10
+  }
+}

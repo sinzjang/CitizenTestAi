@@ -1,0 +1,149 @@
+{
+  "totalQuestions": 100,
+  "structuralIssues": [],
+  "translationIssues": [
+    {
+      "questionId": 34,
+      "type": "wrongRationale",
+      "index": 1,
+      "spanish": "The Supreme Court puede declarar una ley inconstitucional después de que sea promulgada, but it cannot veto a bill.",
+      "english": "The Supreme Court can rule a law unconstitutional after it is enacted, but it cannot veto a bill.",
+      "issue": "Wrong answer rationale needs translation"
+    },
+    {
+      "questionId": 87,
+      "type": "correctRationale",
+      "index": 12,
+      "spanish": "The Arawak were pueblos indígenas of the Caribbean and South América.",
+      "english": "The Arawak were indigenous peoples of the Caribbean and South America.",
+      "issue": "Correct answer rationale needs translation"
+    },
+    {
+      "questionId": 87,
+      "type": "correctRationale",
+      "index": 15,
+      "spanish": "The Huron (Wyandot) are a tribu nativa americana de la región de los Grandes Lagos.",
+      "english": "The Huron (Wyandot) are a Native American tribe from the Great Lakes region.",
+      "issue": "Correct answer rationale needs translation"
+    },
+    {
+      "questionId": 88,
+      "type": "correctRationale",
+      "index": 0,
+      "spanish": "The Missouri River is the longest river in the Estados Unidos.",
+      "english": "The Missouri River is the longest river in the United States.",
+      "issue": "Correct answer rationale needs translation"
+    },
+    {
+      "questionId": 88,
+      "type": "correctRationale",
+      "index": 1,
+      "spanish": "The Mississippi River is the second-longest river in the Estados Unidos.",
+      "english": "The Mississippi River is the second-longest river in the United States.",
+      "issue": "Correct answer rationale needs translation"
+    },
+    {
+      "questionId": 89,
+      "type": "wrongRationale",
+      "index": 0,
+      "spanish": "The Atlantic Ocean is on the East Coast of the Estados Unidos.",
+      "english": "The Atlantic Ocean is on the East Coast of the United States.",
+      "issue": "Wrong answer rationale needs translation"
+    },
+    {
+      "questionId": 89,
+      "type": "wrongRationale",
+      "index": 1,
+      "spanish": "The Indian Ocean does not border the Estados Unidos.",
+      "english": "The Indian Ocean does not border the United States.",
+      "issue": "Wrong answer rationale needs translation"
+    },
+    {
+      "questionId": 89,
+      "type": "wrongRationale",
+      "index": 2,
+      "spanish": "The Arctic Ocean borders the northern coast of Alaska.",
+      "english": "The Arctic Ocean borders the northern coast of Alaska.",
+      "issue": "Wrong answer rationale needs translation"
+    },
+    {
+      "questionId": 90,
+      "type": "wrongRationale",
+      "index": 0,
+      "spanish": "The Pacific Ocean is on the West Coast of the Estados Unidos.",
+      "english": "The Pacific Ocean is on the West Coast of the United States.",
+      "issue": "Wrong answer rationale needs translation"
+    },
+    {
+      "questionId": 90,
+      "type": "wrongRationale",
+      "index": 1,
+      "spanish": "The Gulf of Mexico is on the southeastern coast of the Estados Unidos.",
+      "english": "The Gulf of Mexico is on the southeastern coast of the United States.",
+      "issue": "Wrong answer rationale needs translation"
+    },
+    {
+      "questionId": 90,
+      "type": "wrongRationale",
+      "index": 2,
+      "spanish": "The Mediterranean Sea is located between Europe and Africa.",
+      "english": "The Mediterranean Sea is located between Europe and Africa.",
+      "issue": "Wrong answer rationale needs translation"
+    },
+    {
+      "questionId": 95,
+      "type": "correctRationale",
+      "index": 4,
+      "spanish": "The statue is located ¿Dónde the Hudson River meets New York Harbor.",
+      "english": "The statue is located where the Hudson River meets New York Harbor.",
+      "issue": "Correct answer rationale needs translation"
+    },
+    {
+      "questionId": 97,
+      "type": "wrongRationale",
+      "index": 2,
+      "spanish": "The stars represent the states, not wars.",
+      "english": "The stars represent the states, not wars.",
+      "issue": "Wrong answer rationale needs translation"
+    },
+    {
+      "questionId": 98,
+      "type": "correctAnswer",
+      "index": 0,
+      "spanish": "The Star-Spangled Banner",
+      "english": "The Star-Spangled Banner",
+      "issue": "Correct answer needs translation"
+    },
+    {
+      "questionId": 99,
+      "type": "correctRationale",
+      "index": 0,
+      "spanish": "This commemorates the adoption de la Declaración de Independencia on July 4, 1776.",
+      "english": "This commemorates the adoption of the Declaration of Independence on July 4, 1776.",
+      "issue": "Correct answer rationale needs translation"
+    },
+    {
+      "questionId": 99,
+      "type": "wrongRationale",
+      "index": 1,
+      "spanish": "This is Memorial Day, which honors soldiers who died in military service.",
+      "english": "This is Memorial Day, which honors soldiers who died in military service.",
+      "issue": "Wrong answer rationale needs translation"
+    },
+    {
+      "questionId": 99,
+      "type": "wrongRationale",
+      "index": 2,
+      "spanish": "This is Thanksgiving Day.",
+      "english": "This is Thanksgiving Day.",
+      "issue": "Wrong answer rationale needs translation"
+    }
+  ],
+  "summary": {
+    "questionsNeedTranslation": 0,
+    "correctAnswersNeedTranslation": 1,
+    "wrongAnswersNeedTranslation": 0,
+    "correctRationaleNeedTranslation": 6,
+    "wrongRationaleNeedTranslation": 10
+  }
+}

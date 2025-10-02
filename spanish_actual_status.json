@@ -1,0 +1,613 @@
+{
+  "stats": {
+    "totalQuestions": 100,
+    "questionsNeedTranslation": 0,
+    "correctAnswersNeedTranslation": 182,
+    "wrongAnswersNeedTranslation": 0,
+    "rationaleNeedTranslation": 229,
+    "englishTextRemaining": 0,
+    "totalUntranslated": 411
+  },
+  "untranslatedItems": [
+    {
+      "questionId": 8,
+      "type": "correctRationale",
+      "index": 2,
+      "text": "The Declaration stated that the Estados Unidos was a free and independent nation."
+    },
+    {
+      "questionId": 12,
+      "type": "correctAnswer",
+      "index": 2,
+      "text": "[Traducción necesaria] No one is above the law"
+    },
+    {
+      "questionId": 12,
+      "type": "correctRationale",
+      "index": 2,
+      "text": "[Traducción necesaria] This phrase best summarizes the core principle of the rule of law."
+    },
+    {
+      "questionId": 12,
+      "type": "correctAnswer",
+      "index": 3,
+      "text": "[Traducción necesaria] Government must obey the law"
+    },
+    {
+      "questionId": 12,
+      "type": "correctRationale",
+      "index": 3,
+      "text": "[Traducción necesaria] The government itself is also bound by the law and cannot act outside its legal authority."
+    },
+    {
+      "questionId": 13,
+      "type": "correctAnswer",
+      "index": 1,
+      "text": "[Traducción necesaria] President (executive)"
+    },
+    {
+      "questionId": 13,
+      "type": "correctAnswer",
+      "index": 2,
+      "text": "[Traducción necesaria] the courts (judicial)"
+    },
+    {
+      "questionId": 13,
+      "type": "correctRationale",
+      "index": 2,
+      "text": "[Traducción necesaria] The courts are the judicial branch, which interprets and applies laws."
+    },
+    {
+      "questionId": 16,
+      "type": "correctAnswer",
+      "index": 1,
+      "text": "[Traducción necesaria] Senate and House (of Representatives)"
+    },
+    {
+      "questionId": 16,
+      "type": "correctAnswer",
+      "index": 2,
+      "text": "[Traducción necesaria] (U.S. or national) legislature"
+    },
+    {
+      "questionId": 16,
+      "type": "correctRationale",
+      "index": 2,
+      "text": "The U.S. legislature, which is el Congreso, has the constitutional authority to make federal laws."
+    },
+    {
+      "questionId": 25,
+      "type": "correctAnswer",
+      "index": 1,
+      "text": "[Traducción necesaria] (because) they have more people"
+    },
+    {
+      "questionId": 25,
+      "type": "correctRationale",
+      "index": 1,
+      "text": "[Traducción necesaria] States with larger populations get more representatives in the House."
+    },
+    {
+      "questionId": 25,
+      "type": "correctAnswer",
+      "index": 2,
+      "text": "[Traducción necesaria] (because) some states have more people"
+    },
+    {
+      "questionId": 25,
+      "type": "correctRationale",
+      "index": 2,
+      "text": "The number of representatives is directly related to ¿Cómo many people live in each state."
+    },
+    {
+      "questionId": 30,
+      "type": "correctRationale",
+      "index": 0,
+      "text": "The Vice President succeeds to the presidency if el Presidente can no longer serve."
+    },
+    {
+      "questionId": 30,
+      "type": "wrongRationale",
+      "index": 0,
+      "text": "The Speaker of the House succeeds to the presidency only if both the President and Vice President can no longer serve."
+    },
+    {
+      "questionId": 30,
+      "type": "wrongRationale",
+      "index": 1,
+      "text": "The Chief Justice is not in the line of presidential succession."
+    },
+    {
+      "questionId": 30,
+      "type": "wrongRationale",
+      "index": 2,
+      "text": "The Secretary of State is fourth in the line of presidential succession."
+    },
+    {
+      "questionId": 31,
+      "type": "wrongRationale",
+      "index": 0,
+      "text": "The Secretary of State is fourth in the line of succession, after the Speaker of the House."
+    },
+    {
+      "questionId": 31,
+      "type": "wrongRationale",
+      "index": 1,
+      "text": "The Chief Justice is not in the line of presidential succession."
+    },
+    {
+      "questionId": 31,
+      "type": "wrongRationale",
+      "index": 2,
+      "text": "The President pro tempore of the Senate is fourth in line, after the Speaker of the House."
+    },
+    {
+      "questionId": 32,
+      "type": "wrongRationale",
+      "index": 0,
+      "text": "The Secretary of Defense is the civilian head of the Department of Defense, acting under the President's command."
+    },
+    {
+      "questionId": 32,
+      "type": "wrongRationale",
+      "index": 1,
+      "text": "The Chairman of the Joint Chiefs of Staff is the highest-ranking military officer and the principal military advisor to the President."
+    },
+    {
+      "questionId": 32,
+      "type": "wrongRationale",
+      "index": 2,
+      "text": "The Vice President does not have direct command authority over the military."
+    },
+    {
+      "questionId": 33,
+      "type": "wrongRationale",
+      "index": 0,
+      "text": "The Speaker of the House leads the process for a bill to pass the House, but does not have the final authority to sign it into law."
+    },
+    {
+      "questionId": 33,
+      "type": "wrongRationale",
+      "index": 1,
+      "text": "The Vice President can cast a tie-breaking vote in the Senate but does not sign bills into law."
+    },
+    {
+      "questionId": 33,
+      "type": "wrongRationale",
+      "index": 2,
+      "text": "The Chief Justice interprets laws and is not involved in the legislative process."
+    },
+    {
+      "questionId": 34,
+      "type": "wrongRationale",
+      "index": 1,
+      "text": "The Supreme Court can rule a law unconstitutional after it is enacted, but it cannot veto a bill."
+    },
+    {
+      "questionId": 35,
+      "type": "correctRationale",
+      "index": 0,
+      "text": "The Cabinet, composed of the heads of executive departments, provides expert advice to el Presidente."
+    },
+    {
+      "questionId": 35,
+      "type": "wrongRationale",
+      "index": 1,
+      "text": "The President is elected by the people and the Electoral College."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 0,
+      "text": "[Traducción necesaria] Secretary of State"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 0,
+      "text": "[Traducción necesaria] The Secretary of State is a key cabinet member responsible for foreign policy."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 1,
+      "text": "[Traducción necesaria] Secretary of the Treasury"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 1,
+      "text": "[Traducción necesaria] The Secretary of the Treasury is responsible for the nation's financial and economic policy."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 2,
+      "text": "[Traducción necesaria] Secretary of Defense"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 2,
+      "text": "[Traducción necesaria] The Secretary of Defense oversees military and defense policy."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 3,
+      "text": "[Traducción necesaria] Attorney General"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 3,
+      "text": "[Traducción necesaria] The Attorney General is the head of the Department of Justice and the chief law enforcement officer."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 4,
+      "text": "[Traducción necesaria] Secretary of Agriculture"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 4,
+      "text": "[Traducción necesaria] The Secretary of Agriculture oversees farming, food safety, and rural development policies."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 5,
+      "text": "[Traducción necesaria] Secretary of Commerce"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 5,
+      "text": "[Traducción necesaria] The Secretary of Commerce promotes economic growth and trade."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 6,
+      "text": "[Traducción necesaria] Secretary of Education"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 6,
+      "text": "[Traducción necesaria] The Secretary of Education oversees federal education policy and programs."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 7,
+      "text": "[Traducción necesaria] Secretary of Energy"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 7,
+      "text": "[Traducción necesaria] The Secretary of Energy manages energy policy and nuclear security."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 8,
+      "text": "[Traducción necesaria] Secretary of Health and Human Services"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 8,
+      "text": "[Traducción necesaria] The Secretary of Health and Human Services oversees health and welfare programs."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 9,
+      "text": "[Traducción necesaria] Secretary of Homeland Security"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 9,
+      "text": "[Traducción necesaria] The Secretary of Homeland Security protects the nation from security threats."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 10,
+      "text": "[Traducción necesaria] Secretary of Housing and Urban Development"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 10,
+      "text": "[Traducción necesaria] The Secretary of Housing and Urban Development oversees housing and urban development policies."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 11,
+      "text": "[Traducción necesaria] Secretary of the Interior"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 11,
+      "text": "[Traducción necesaria] The Secretary of the Interior manages public lands and natural resources."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 12,
+      "text": "[Traducción necesaria] Secretary of Labor"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 12,
+      "text": "[Traducción necesaria] The Secretary of Labor oversees workplace safety and labor relations."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 13,
+      "text": "[Traducción necesaria] Secretary of Transportation"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 13,
+      "text": "[Traducción necesaria] The Secretary of Transportation oversees transportation infrastructure and safety."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 14,
+      "text": "[Traducción necesaria] Secretary of Veterans Affairs"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 14,
+      "text": "[Traducción necesaria] The Secretary of Veterans Affairs provides services to military veterans."
+    },
+    {
+      "questionId": 36,
+      "type": "correctAnswer",
+      "index": 15,
+      "text": "[Traducción necesaria] Vice President"
+    },
+    {
+      "questionId": 36,
+      "type": "correctRationale",
+      "index": 15,
+      "text": "[Traducción necesaria] The Vice President is also considered a Cabinet-level position."
+    },
+    {
+      "questionId": 37,
+      "type": "correctAnswer",
+      "index": 0,
+      "text": "[Traducción necesaria] reviews laws"
+    },
+    {
+      "questionId": 37,
+      "type": "correctRationale",
+      "index": 0,
+      "text": "[Traducción necesaria] The judicial branch reviews laws to ensure they are constitutional."
+    },
+    {
+      "questionId": 37,
+      "type": "correctAnswer",
+      "index": 1,
+      "text": "[Traducción necesaria] explains laws"
+    },
+    {
+      "questionId": 37,
+      "type": "correctRationale",
+      "index": 1,
+      "text": "[Traducción necesaria] The judicial branch interprets the meaning of laws and applies them to specific cases."
+    },
+    {
+      "questionId": 37,
+      "type": "correctAnswer",
+      "index": 2,
+      "text": "[Traducción necesaria] resolves disputes"
+    },
+    {
+      "questionId": 37,
+      "type": "correctRationale",
+      "index": 2,
+      "text": "[Traducción necesaria] It resolves legal disputes by making rulings."
+    },
+    {
+      "questionId": 37,
+      "type": "correctRationale",
+      "index": 3,
+      "text": "[Traducción necesaria] The judicial branch has the power of judicial review to determine if laws are constitutional."
+    },
+    {
+      "questionId": 38,
+      "type": "wrongRationale",
+      "index": 2,
+      "text": "The International Court of Justice is a UN judicial body that handles disputes between countries."
+    },
+    {
+      "questionId": 39,
+      "type": "wrongRationale",
+      "index": 0,
+      "text": "The number of justices is set by law and has been nine since 1869."
+    },
+    {
+      "questionId": 40,
+      "type": "correctAnswer",
+      "index": 0,
+      "text": "[Traducción necesaria] John Roberts"
+    },
+    {
+      "questionId": 40,
+      "type": "correctRationale",
+      "index": 0,
+      "text": "[Traducción necesaria] John G. Roberts, Jr. is the 17th and current Chief Justice."
+    },
+    {
+      "questionId": 41,
+      "type": "correctAnswer",
+      "index": 0,
+      "text": "[Traducción necesaria] to print money"
+    },
+    {
+      "questionId": 41,
+      "type": "correctRationale",
+      "index": 0,
+      "text": "[Traducción necesaria] Printing money is an exclusive power of the federal government."
+    },
+    {
+      "questionId": 41,
+      "type": "correctAnswer",
+      "index": 1,
+      "text": "[Traducción necesaria] to declare war"
+    },
+    {
+      "questionId": 41,
+      "type": "correctAnswer",
+      "index": 2,
+      "text": "[Traducción necesaria] to create an army"
+    },
+    {
+      "questionId": 41,
+      "type": "correctRationale",
+      "index": 2,
+      "text": "[Traducción necesaria] Creating and maintaining an army for national defense is a role of the federal government."
+    },
+    {
+      "questionId": 41,
+      "type": "correctAnswer",
+      "index": 3,
+      "text": "[Traducción necesaria] to make treaties"
+    },
+    {
+      "questionId": 41,
+      "type": "correctRationale",
+      "index": 3,
+      "text": "[Traducción necesaria] Making official treaties with other countries is a power of the federal government."
+    },
+    {
+      "questionId": 42,
+      "type": "correctAnswer",
+      "index": 0,
+      "text": "[Traducción necesaria] provide schooling and education"
+    },
+    {
+      "questionId": 42,
+      "type": "correctRationale",
+      "index": 0,
+      "text": "[Traducción necesaria] Education policy and school operation are primarily the responsibility of the states."
+    },
+    {
+      "questionId": 42,
+      "type": "correctAnswer",
+      "index": 1,
+      "text": "[Traducción necesaria] provide protection (police)"
+    },
+    {
+      "questionId": 42,
+      "type": "correctRationale",
+      "index": 1,
+      "text": "[Traducción necesaria] Maintaining public order by operating state and local police is a state power."
+    },
+    {
+      "questionId": 42,
+      "type": "correctAnswer",
+      "index": 2,
+      "text": "[Traducción necesaria] give a driver's license"
+    },
+    {
+      "questionId": 42,
+      "type": "correctRationale",
+      "index": 2,
+      "text": "[Traducción necesaria] Each state sets its own standards and procedures for issuing driver's licenses."
+    },
+    {
+      "questionId": 42,
+      "type": "correctAnswer",
+      "index": 3,
+      "text": "[Traducción necesaria] provide safety (fire departments)"
+    },
+    {
+      "questionId": 42,
+      "type": "correctRationale",
+      "index": 3,
+      "text": "[Traducción necesaria] Fire protection and safety services are typically provided by state and local governments."
+    },
+    {
+      "questionId": 42,
+      "type": "correctAnswer",
+      "index": 4,
+      "text": "[Traducción necesaria] approve zoning and land use"
+    },
+    {
+      "questionId": 42,
+      "type": "correctRationale",
+      "index": 4,
+      "text": "[Traducción necesaria] States have the authority to regulate land use and zoning within their boundaries."
+    },
+    {
+      "questionId": 43,
+      "type": "wrongRationale",
+      "index": 1,
+      "text": "The Mayor is the head of a city government, different from the Governor who is the head of the entire state."
+    },
+    {
+      "questionId": 43,
+      "type": "wrongRationale",
+      "index": 2,
+      "text": "The President is the head of the federal government, different from the Governor who is the head of a state government."
+    },
+    {
+      "questionId": 45,
+      "type": "correctAnswer",
+      "index": 0,
+      "text": "[Traducción necesaria] Democratic and Republican"
+    },
+    {
+      "questionId": 45,
+      "type": "correctRationale",
+      "index": 0,
+      "text": "[Traducción necesaria] The Democratic and Republican parties are the two major parties that dominate U.S. politics today."
+    },
+    {
+      "questionId": 45,
+      "type": "wrongRationale",
+      "index": 0,
+      "text": "The Labour and Conservative parties are the major political parties in the United Kingdom."
+    },
+    {
+      "questionId": 45,
+      "type": "wrongRationale",
+      "index": 2,
+      "text": "The Senate and House are the two parts of Congress, not political parties."
+    },
+    {
+      "questionId": 46,
+      "type": "correctAnswer",
+      "index": 0,
+      "text": "[Traducción necesaria] Republican (Party)"
+    },
+    {
+      "questionId": 46,
+      "type": "correctRationale",
+      "index": 0,
+      "text": "[Traducción necesaria] President Donald Trump is a member of the Republican Party. (As of July 2025)"
+    },
+    {
+      "questionId": 46,
+      "type": "wrongRationale",
+      "index": 0,
+      "text": "The Democratic Party is currently the main opposition party."
+    }
+  ]
+}

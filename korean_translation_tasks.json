@@ -1,0 +1,128 @@
+[
+  {
+    "id": 25,
+    "items": [
+      {
+        "type": "correctAnswer",
+        "index": 1,
+        "field": "text",
+        "text": "[번역 필요] (because) they have more people"
+      },
+      {
+        "type": "correctAnswer",
+        "index": 1,
+        "field": "rationale",
+        "text": "[번역 필요] States with larger populations get more representatives in the House."
+      },
+      {
+        "type": "correctAnswer",
+        "index": 2,
+        "field": "text",
+        "text": "[번역 필요] (because) some states have more people"
+      },
+      {
+        "type": "correctAnswer",
+        "index": 2,
+        "field": "rationale",
+        "text": "[번역 필요] The number of representatives is directly related to how many people live in each state."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "items": [
+      {
+        "type": "correctAnswer",
+        "index": 3,
+        "field": "text",
+        "text": "[번역 필요] decides if a law goes against the Constitution"
+      },
+      {
+        "type": "correctAnswer",
+        "index": 3,
+        "field": "rationale",
+        "text": "[번역 필요] The judicial branch has the power of judicial review to determine if laws are constitutional."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "items": [
+      {
+        "type": "correctAnswer",
+        "index": 3,
+        "field": "text",
+        "text": "[번역 필요] provide safety (fire departments)"
+      },
+      {
+        "type": "correctAnswer",
+        "index": 3,
+        "field": "rationale",
+        "text": "[번역 필요] Fire protection and safety services are typically provided by state and local governments."
+      },
+      {
+        "type": "correctAnswer",
+        "index": 4,
+        "field": "text",
+        "text": "[번역 필요] approve zoning and land use"
+      },
+      {
+        "type": "correctAnswer",
+        "index": 4,
+        "field": "rationale",
+        "text": "[번역 필요] States have the authority to regulate land use and zoning within their boundaries."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "items": [
+      {
+        "type": "correctAnswer",
+        "index": 4,
+        "field": "rationale",
+        "text": "[번역 필요] Everyone in the U.S. has the right to practice any religion or no religion."
+      },
+      {
+        "type": "correctAnswer",
+        "index": 5,
+        "field": "text",
+        "text": "[번역 필요] the right to bear arms"
+      },
+      {
+        "type": "correctAnswer",
+        "index": 5,
+        "field": "rationale",
+        "text": "[번역 필요] The Second Amendment protects the right to keep and bear arms."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "items": [
+      {
+        "type": "correctAnswer",
+        "index": 4,
+        "field": "text",
+        "text": "[번역 필요] started the first free libraries"
+      },
+      {
+        "type": "correctAnswer",
+        "index": 4,
+        "field": "rationale",
+        "text": "[번역 필요] Franklin founded the first subscription library in America, which became the model for free public libraries."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "items": [
+      {
+        "type": "correctAnswer",
+        "index": 0,
+        "field": "rationale",
+        "text": "[번역 필요] The 13 stripes represent the 13 original colonies that declared independence."
+      }
+    ]
+  }
+]

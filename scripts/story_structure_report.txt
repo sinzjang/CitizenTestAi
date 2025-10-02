@@ -1,0 +1,18 @@
+chapter 2 section 1: content_zh missing
+chapter 2 section 2: content_zh missing
+chapter 2 section 3: content_zh missing
+chapter 2 section 4: content_zh missing
+chapter 3: missing translations.zh
+chapter 3 section 0: content_zh missing
+chapter 3 section 1: content_zh missing
+chapter 3 section 2: content_zh missing
+chapter 4: missing translations.zh
+chapter 4 section 0: sectionTitle_zh missing/empty
+chapter 4 section 0: content_zh missing
+chapter 4 section 1: sectionTitle_zh missing/empty
+chapter 4 section 1: content_zh missing
+chapter 4 section 2: sectionTitle_zh missing/empty
+chapter 4 section 2: content_zh missing
+chapter 5: missing translations.zh
+chapter 5 section 0: content_zh missing
+chapter 5 section 1: content_zh missing

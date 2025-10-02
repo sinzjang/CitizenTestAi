@@ -1,0 +1,81 @@
+key,title_en,intent_en,answer_guidance_en
+idx_0,Explanation,Asks for your full legal name as it appears on official documents.,"State your full legal name (first, middle, last). If different on documents, clarify as asked."
+idx_1,Explanation,"Asks if you have used any other names (aliases, maiden name, previous legal names).",Answer Yes if you have used any other names and list them; otherwise No.
+idx_2,Explanation,Requests your date of birth to confirm identity and eligibility.,State your full date of birth (MM/DD/YYYY) as on your official documents.
+idx_3,Explanation,Asks for your current residential address for correspondence and jurisdiction.,"Provide your current physical address. If recently moved, be consistent with your application."
+idx_4,Explanation,Verifies 5-year residence history continuity at your current address.,Answer Yes only if you lived there continuously for the last 5 years; otherwise No and be ready to list prior addresses.
+idx_5,Explanation,Checks trips outside the U.S. in the last 5 years for continuous residence and physical presence analysis.,"Answer Yes if you took any trips abroad; be ready to provide dates, length, and destinations."
+idx_6,Explanation,"Determines if any single trip lasted more than 6 months, which may disrupt continuous residence.",Answer Yes if any single trip exceeded 6 months; otherwise No. Provide documentation if applicable.
+idx_7,Explanation,Asks your current marital status for eligibility and documentation requirements.,State your status (single/married/divorced/widowed/separated) consistent with legal records.
+idx_8,Explanation,If your spouse is a U.S. citizen may affect eligibility pathways and documentation.,"Answer Yes only if spouse is a U.S. citizen; be prepared to show proof (e.g., passport, naturalization certificate)."
+idx_9,Explanation,Asks whether you have children to confirm dependents and disclosure completeness.,"Answer Yes if you have any children (biological, adopted, step). Provide number and details if asked."
+idx_10,Explanation,Ensures all children are listed on your application as required.,"Answer Yes if every child is listed. If any are missing, update your application and answer accordingly."
+idx_11,Explanation,Requests your current employment to verify work history and good moral character.,"State your current job title and employer. If unemployed, state ‘unemployed’ and, if asked, since when."
+idx_12,Explanation,Asks about extended unemployment which may prompt questions about support and tax filings.,Answer truthfully. Provide dates and context if you had a long unemployment period.
+idx_13,Explanation,Assesses criminal history not resulting in arrest; honesty is required.,Answer Yes if you committed any crimes/offenses even without arrest; consult records and provide explanations.
+idx_14,Explanation,Checks any arrest/citation/detention by law enforcement for background review.,"Answer Yes if any arrest, citation (including some traffic), or detention occurred; provide dates and outcomes."
+idx_15,Explanation,Confirms criminal convictions which are critical to eligibility and GMC (good moral character).,Answer Yes if convicted by a court. Bring certified court dispositions.
+idx_16,Explanation,"Asks about suspended sentences, probation, or parole indicating post-conviction supervision.","Answer Yes if you received any suspended sentence, probation, or parole; provide documentation."
+idx_17,Explanation,Determines if you were incarcerated which affects GMC analysis.,Answer Yes if you have been in jail or prison at any time; provide dates and locations.
+idx_18,Explanation,Asks about fraud or misrepresentation to obtain immigration benefits; this is serious.,Answer Yes if it ever happened and be prepared to provide full details; consider seeking legal advice.
+idx_19,Explanation,Checks if you owe overdue taxes at any level of government.,Answer Yes if any taxes are overdue; bring evidence of payment plans or resolutions.
+idx_20,Explanation,Verifies any prior U.S. military service for background and selective service issues.,"Answer Yes if you served in the U.S. military; provide service dates, branch, and documents (DD-214)."
+idx_21,Explanation,"Asks if you refused to support the military or to bear arms, relevant to oath and exemptions.","Answer truthfully and explain context (e.g., religious objection) if applicable."
+idx_22,Explanation,Asks about Selective Service registration for eligible males (generally ages 18–26).,"Answer Yes if registered. If required but not registered, prepare an explanation and evidence."
+idx_23,Explanation,"Checks affiliations with organizations, associations, or groups for security and GMC review.",Answer Yes if you were a member/associated with any; list significant affiliations if asked.
+idx_24,Explanation,Asks about involvement with the Communist Party or totalitarian parties for inadmissibility concerns.,Answer Yes if applicable and be ready to provide timelines and context.
+idx_25,Explanation,Screens for any association with terrorist organizations (national security).,Answer Yes if applicable and provide details; false answers can have severe consequences.
+idx_26,Explanation,"Asks if you were ordered removed/excluded/deported from the U.S., affecting eligibility.",Answer Yes if any such order exists; bring all immigration court documents.
+idx_27,Explanation,Checks if you helped anyone enter the U.S. illegally (alien smuggling).,Answer Yes if it occurred; provide full context and seek legal advice if needed.
+idx_28,Explanation,Confirms your support for the U.S. Constitution and government as part of the Oath of Allegiance.,Answer Yes if you support them. Be prepared to affirm this during the oath.
+idx_29,Explanation,"Asks if you are willing to take the full Oath of Allegiance, a requirement for naturalization.",Answer Yes if you intend to naturalize and accept all obligations of the oath.
+idx_30,Explanation,Asks if you are willing to bear arms if required by law (with possible religious exceptions).,Answer according to your beliefs and legal requirements; conscientious objectors may explain.
+idx_31,Explanation,Asks if you will perform noncombatant service if required by law.,Answer Yes if you are willing to serve in a noncombatant role if required.
+idx_32,Explanation,Asks if you will perform work of national importance under civilian direction if required by law.,Answer Yes if you are willing to perform such work when required.
+idx_33,Explanation,"Asks if you have persecuted anyone due to protected grounds (race, religion, etc.).",Answer Yes if it occurred and be prepared to provide details; this is a serious bar to eligibility.
+idx_34,Explanation,"Screens for participation in genocide, a ground of ineligibility.",Answer Yes if applicable; expect detailed questioning and legal implications.
+idx_35,Explanation,"Asks about acts of torture, a ground of ineligibility and serious human rights violation.",Answer Yes if applicable; provide details and seek legal counsel.
+idx_36,Explanation,Asks whether you received military or weapons training (security screening).,"Answer Yes if you received such training; provide context (e.g., compulsory service)."
+idx_37,Explanation,"Asks if you failed to file required tax returns, which may affect GMC.",Answer Yes if you failed to file; bring proof of subsequent filings and resolutions.
+idx_38,Explanation,Asks if you claimed to be a non-U.S. resident on tax returns after becoming a lawful permanent resident.,Answer Yes if you did; bring explanations and amended returns if applicable.
+idx_39,Explanation,"Asks if you misrepresented facts to obtain U.S. public benefits, a serious issue for eligibility.",Answer Yes if applicable and be prepared to provide full details; consider legal advice.
+all_children_listed,Explanation,Ensures all children are listed on your application as required.,"Answer Yes if every child is listed. If any are missing, update your application and answer accordingly."
+arrested_cited_detained,Explanation,Checks any arrest/citation/detention by law enforcement for background review.,"Answer Yes if any arrest, citation (including some traffic), or detention occurred; provide dates and outcomes."
+claimed_non_us_resident_after_lpr,Explanation,Asks if you claimed to be a non-U.S. resident on tax returns after becoming a lawful permanent resident.,Answer Yes if you did; bring explanations and amended returns if applicable.
+communist_totalitarian_party,Explanation,Asks about involvement with the Communist Party or totalitarian parties for inadmissibility concerns.,Answer Yes if applicable and be ready to provide timelines and context.
+convicted_crime,Explanation,Confirms criminal convictions which are critical to eligibility and GMC (good moral character).,Answer Yes if convicted by a court. Bring certified court dispositions.
+crime_not_arrested,Explanation,Assesses criminal history not resulting in arrest; honesty is required.,Answer Yes if you committed any crimes/offenses even without arrest; consult records and provide explanations.
+current_address,Explanation,Asks for your current residential address for correspondence and jurisdiction.,"Provide your current physical address. If recently moved, be consistent with your application."
+current_job,Explanation,Requests your current employment to verify work history and good moral character.,"State your current job title and employer. If unemployed, state ‘unemployed’ and, if asked, since when."
+date_of_birth,Explanation,Requests your date of birth to confirm identity and eligibility.,State your full date of birth (MM/DD/YYYY) as on your official documents.
+failed_to_file_required_tax_returns,Explanation,"Asks if you failed to file required tax returns, which may affect GMC.",Answer Yes if you failed to file; bring proof of subsequent filings and resolutions.
+have_children,Explanation,Asks whether you have children to confirm dependents and disclosure completeness.,"Answer Yes if you have any children (biological, adopted, step). Provide number and details if asked."
+helped_illegal_entry,Explanation,Checks if you helped anyone enter the U.S. illegally (alien smuggling).,Answer Yes if it occurred; provide full context and seek legal advice if needed.
+in_jail_or_prison,Explanation,Determines if you were incarcerated which affects GMC analysis.,Answer Yes if you have been in jail or prison at any time; provide dates and locations.
+lied_to_us_govt_for_benefit,Explanation,Asks about fraud or misrepresentation to obtain immigration benefits; this is serious.,Answer Yes if it ever happened and be prepared to provide full details; consider seeking legal advice.
+long_unemployment,Explanation,Asks about extended unemployment which may prompt questions about support and tax filings.,Answer truthfully. Provide dates and context if you had a long unemployment period.
+marital_status_current,Explanation,Asks your current marital status for eligibility and documentation requirements.,State your status (single/married/divorced/widowed/separated) consistent with legal records.
+military_weapons_training,Explanation,Asks whether you received military or weapons training (security screening).,"Answer Yes if you received such training; provide context (e.g., compulsory service)."
+misrepresentation_public_benefits,Explanation,"Asks if you misrepresented facts to obtain U.S. public benefits, a serious issue for eligibility.",Answer Yes if applicable and be prepared to provide full details; consider legal advice.
+name_full,Explanation,Asks for your full legal name as it appears on official documents.,"State your full legal name (first, middle, last). If different on documents, clarify as asked."
+ordered_removed_excluded_deported,Explanation,"Asks if you were ordered removed/excluded/deported from the U.S., affecting eligibility.",Answer Yes if any such order exists; bring all immigration court documents.
+org_affiliations,Explanation,"Checks affiliations with organizations, associations, or groups for security and GMC review.",Answer Yes if you were a member/associated with any; list significant affiliations if asked.
+other_names_used,Explanation,"Asks if you have used any other names (aliases, maiden name, previous legal names).",Answer Yes if you have used any other names and list them; otherwise No.
+overdue_taxes,Explanation,Checks if you owe overdue taxes at any level of government.,Answer Yes if any taxes are overdue; bring evidence of payment plans or resolutions.
+participated_genocide,Explanation,"Screens for participation in genocide, a ground of ineligibility.",Answer Yes if applicable; expect detailed questioning and legal implications.
+persecuted_others,Explanation,"Asks if you have persecuted anyone due to protected grounds (race, religion, etc.).",Answer Yes if it occurred and be prepared to provide details; this is a serious bar to eligibility.
+refused_support_bear_arms,Explanation,"Asks if you refused to support the military or to bear arms, relevant to oath and exemptions.","Answer truthfully and explain context (e.g., religious objection) if applicable."
+residence_5_years,Explanation,Verifies 5-year residence history continuity at your current address.,Answer Yes only if you lived there continuously for the last 5 years; otherwise No and be ready to list prior addresses.
+selective_service_registered,Explanation,Asks about Selective Service registration for eligible males (generally ages 18–26).,"Answer Yes if registered. If required but not registered, prepare an explanation and evidence."
+served_us_military,Explanation,Verifies any prior U.S. military service for background and selective service issues.,"Answer Yes if you served in the U.S. military; provide service dates, branch, and documents (DD-214)."
+spouse_us_citizen,Explanation,If your spouse is a U.S. citizen may affect eligibility pathways and documentation.,"Answer Yes only if spouse is a U.S. citizen; be prepared to show proof (e.g., passport, naturalization certificate)."
+support_constitution_government,Explanation,Confirms your support for the U.S. Constitution and government as part of the Oath of Allegiance.,Answer Yes if you support them. Be prepared to affirm this during the oath.
+suspended_sentence_probation_parole,Explanation,"Asks about suspended sentences, probation, or parole indicating post-conviction supervision.","Answer Yes if you received any suspended sentence, probation, or parole; provide documentation."
+terrorist_association,Explanation,Screens for any association with terrorist organizations (national security).,Answer Yes if applicable and provide details; false answers can have severe consequences.
+tortured_anyone,Explanation,"Asks about acts of torture, a ground of ineligibility and serious human rights violation.",Answer Yes if applicable; provide details and seek legal counsel.
+trip_over_6_months,Explanation,"Determines if any single trip lasted more than 6 months, which may disrupt continuous residence.",Answer Yes if any single trip exceeded 6 months; otherwise No. Provide documentation if applicable.
+trips_last_5_years,Explanation,Checks trips outside the U.S. in the last 5 years for continuous residence and physical presence analysis.,"Answer Yes if you took any trips abroad; be ready to provide dates, length, and destinations."
+willing_bear_arms_if_required,Explanation,Asks if you are willing to bear arms if required by law (with possible religious exceptions).,Answer according to your beliefs and legal requirements; conscientious objectors may explain.
+willing_full_oath,Explanation,"Asks if you are willing to take the full Oath of Allegiance, a requirement for naturalization.",Answer Yes if you intend to naturalize and accept all obligations of the oath.
+willing_national_importance_work,Explanation,Asks if you will perform work of national importance under civilian direction if required by law.,Answer Yes if you are willing to perform such work when required.
+willing_noncombatant_service,Explanation,Asks if you will perform noncombatant service if required by law.,Answer Yes if you are willing to serve in a noncombatant role if required.

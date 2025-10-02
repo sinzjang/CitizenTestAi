@@ -1,0 +1,3058 @@
+[
+  {
+    "id": 1,
+    "question": "美国的最高法律是什么？",
+    "correctAnswers": [
+      {
+        "text": "宪法",
+        "rationale": "正确。宪法是美国政府的基础和最高法律。"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "独立宣言",
+        "rationale": "独立宣言是宣布独立的重要文件，但它不是法律。"
+      },
+      {
+        "text": "权利法案",
+        "rationale": "权利法案是宪法的一部分（前10个修正案），但不是整个最高法律。"
+      },
+      {
+        "text": "联邦党人文集",
+        "rationale": "The Federalist Papers 是一系列文章 written 说服人们批准 宪法."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "宪法的作用是什么？",
+    "correctAnswers": [
+      {
+        "text": "建立政府",
+        "rationale": "正确。宪法的主要功能之一是组织和定义政府。"
+      },
+      {
+        "text": "定义政府",
+        "rationale": "正确。宪法明确规定政府各部门的权力和责任。"
+      },
+      {
+        "text": "保护美国人的基本权利",
+        "rationale": "正确。包括权利法案在内的多项修正案保护公民的基本权利。"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "选举总统, 制定法律, 征收税款",
+        "rationale": "宪法规定了总统选举程序，但宪法本身并不选举总统。制定法律的是国会，而不是宪法。征收税款是宪法授予国会的权力，不是宪法本身的行为。"
+      },
+      {
+        "text": "执行法律, 指挥军队, 谈判条约",
+        "rationale": "这些是宪法授予行政部门的权力，但不是宪法本身所做的事情。"
+      },
+      {
+        "text": "解释法律, 解决争议, 审理法庭案件",
+        "rationale": "这些是宪法设立的司法部门的功能，但不是宪法本身的直接行为。"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "自治政府的理念体现在宪法的前三个词中。这三个词是什么？",
+    "correctAnswers": [
+      {
+        "text": "我们人民",
+        "rationale": "正确。这些词象征着政府的权力来自人民。"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "四分之一世纪前",
+        "rationale": "这是林肯葛底斯堡演说的开头。"
+      },
+      {
+        "text": "国会应制定",
+        "rationale": "这是宪法第一条的开头，涉及立法权。"
+      },
+      {
+        "text": "I pledge allegiance",
+        "rationale": "This 是 beginning of the 效忠誓词."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "什么是修正案？",
+    "correctAnswers": [
+      {
+        "text": "对宪法的改变",
+        "rationale": "正确。修正案是对宪法的正式更改。"
+      },
+      {
+        "text": "对宪法的补充",
+        "rationale": "正确。修正案为宪法增加新的条款。"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "联邦法律, 总统令",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "最高法院决定, 行政命令",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "国际条约, 州法规",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "宪法的前十个修正案叫什么？",
+    "correctAnswers": [
+      {
+        "text": "权利法案",
+        "rationale": "正确。前十个修正案被称为权利法案，保护个人自由。"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "独立宣言",
+        "rationale": "独立宣言是1776年的独立文件，不是宪法修正案。"
+      },
+      {
+        "text": "联邦党人文集",
+        "rationale": "联邦党人文集是为说服人们批准宪法而写的文章集。"
+      },
+      {
+        "text": "the 解放宣言",
+        "rationale": "The 解放宣言 was an executive order by Lincoln that freed slaves in the Confederacy."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "第一修正案中的一项权利或自由是什么？",
+    "correctAnswers": [
+      {
+        "text": "宗教自由",
+        "rationale": "The First Amendment prohibits the government from interfering with an individual's choice of religion."
+      },
+      {
+        "text": "言论自由",
+        "rationale": "The First Amendment prohibits the government from unduly suppressing individual expression."
+      },
+      {
+        "text": "集会自由",
+        "rationale": "People have the right to gather peacefully and sh是ir opinions."
+      },
+      {
+        "text": "freedom of the press",
+        "rationale": "This 是 right to print and distribute information without prior government censorship."
+      },
+      {
+        "text": "freedom to petition the government",
+        "rationale": "Citizens have the right to request changes in government policy."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "集会自由, 新闻自由, 请愿权, 贸易自由, 迁徙自由",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "投票权, 持枪权, 公正审判权, 隐私权, 财产权",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "工作自由, 教育自由, 健康自由, 住房自由, 交通自由",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "宪法有多少个修正案？",
+    "correctAnswers": [
+      {
+        "text": "二十七（27）",
+        "rationale": "After 权利法案 in 1791, 17 more have been added, for a total of 27."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ten (10)",
+        "rationale": "Ten 是 number of 修正案s in 权利法案."
+      },
+      {
+        "text": "Fifty (50)",
+        "rationale": "Fifty 是 number of states in the U.S."
+      },
+      {
+        "text": "Thirteen (13)",
+        "rationale": "Thirteen 是 number of the original colonies (states) 当 the U.S. was founded."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "独立宣言的作用是什么？",
+    "correctAnswers": [
+      {
+        "text": "announced our independence (from Great Britain)",
+        "rationale": "It announced to the world that the colonies were no longer under British rule."
+      },
+      {
+        "text": "[번역 필요] declared our independence (from Great Britain)",
+        "rationale": "[번역 필요] The Declaration formally declared the colonies' independence from British rule."
+      },
+      {
+        "text": "[번역 필요] said that the United States is free (from Great Britain)",
+        "rationale": "[번역 필요] The Declaration stated that the United States was a free and independent nation."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "gave women the right to vote",
+        "rationale": "Women's right to vote was granted by the 19th Amendment, ratified in 1920."
+      },
+      {
+        "text": "freed the slaves",
+        "rationale": "The slaves were freed by Lincoln's 解放宣言 in 1863 and later the 13th Amendment."
+      },
+      {
+        "text": "created 宪法",
+        "rationale": "The Constitution was created later, at 宪法al Convention in 1787."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "独立宣言中的两项权利是什么？",
+    "correctAnswers": [
+      {
+        "text": "life and liberty",
+        "rationale": "Life, liberty, and the pursuit of happiness 是 unalienable rights listed in the Declaration."
+      },
+      {
+        "text": "自由",
+        "rationale": "自由 is one of the three unalienable rights listed in the Declaration of Independence."
+      },
+      {
+        "text": "追求幸福",
+        "rationale": "The 追求幸福 is one of the three unalienable rights listed in the Declaration of Independence."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "言论自由 and religion",
+        "rationale": "Freedom of speech and religion are rights listed in 权利法案 (the First Amendment)."
+      },
+      {
+        "text": "the right to vote and run for office",
+        "rationale": "These are important rights for U.S. citizens, but they are defined by 宪法, not 独立宣言."
+      },
+      {
+        "text": "the right to own property and education",
+        "rationale": "These are important rights, but they are not the three core unalienable rights mentioned in the Declaration."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "什么是宗教自由？",
+    "correctAnswers": [
+      {
+        "text": "你可以信仰任何宗教，或不信仰宗教",
+        "rationale": "The U.S. does not have a state religion, and the government cannot interfere with an individual's choice."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "You can only practice Christianity",
+        "rationale": "The U.S. does not have an official state religion and guarantees freedom for all religions, or no religion."
+      },
+      {
+        "text": "You must practice a religion approved by the government",
+        "rationale": "This is incorrect; government approval is not needed and would violate the principle of religious freedom."
+      },
+      {
+        "text": "You must pay a tax on your religious activities",
+        "rationale": "Religious activities are generally tax-exempt, as taxing them could suppress religious freedom."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "美国的经济制度是什么？",
+    "correctAnswers": [
+      {
+        "text": "资本主义经济",
+        "rationale": "The U.S. operates under a 资本主义经济, based on private property and free markets."
+      },
+      {
+        "text": "市场经济",
+        "rationale": "正确。市场经济，即价格由供求决定的经济体系，也描述了美国的经济系统。"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "社会主义经济, 共产主义经济",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "计划经济, 混合经济",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "传统经济, 指令经济",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "什么是'法治'？",
+    "correctAnswers": [
+      {
+        "text": "每个人都必须遵守法律",
+        "rationale": "正确。法治是所有人都受法律约束和负责的原则，无论地位如何。"
+      },
+      {
+        "text": "领导者必须遵守法律",
+        "rationale": "Government leaders, 包括 总统, are also subject to the 法治."
+      },
+      {
+        "text": "No one is above the law",
+        "rationale": "This phrase best summarizes the core principle of the 法治."
+      },
+      {
+        "text": "[번역 필요] Government must obey the law",
+        "rationale": "[번역 필요] The government itself is also bound by the law and cannot act outside its legal authority."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "人人必须遵守法律, 没有人凌驾于法律之上, 法律面前人人平等",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "政府制定法律, 公民投票决定法律, 法官解释法律",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "宪法是最高法律, 总统签署法律, 国会通过法律",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "说出政府的一个部门或部分。",
+    "correctAnswers": [
+      {
+        "text": "国会（立法部门）",
+        "rationale": "国会 是 立法部门, 哪个 makes laws."
+      },
+      {
+        "text": "总统（行政部门）",
+        "rationale": "The President 是 head of the 行政部门, 哪个 carries out laws."
+      },
+      {
+        "text": "法院（司法部门）",
+        "rationale": "The courts 是 司法部门, 哪个 interprets and applies laws."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "立法, 行政, 司法",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "联邦, 州, 地方",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "参议院, 众议院, 最高法院",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "什么阻止政府的一个部门变得过于强大？",
+    "correctAnswers": [
+      {
+        "text": "制衡",
+        "rationale": "This 是 system 在哪里 each branch can review and limit the powers of the others."
+      },
+      {
+        "text": "权力分立",
+        "rationale": "This 是 principle of dividing governmental power among the legislative, executive, and 司法部门es."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "总统否决权, 国会弹劾权",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "最高法院审查权, 州政府权力",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "人民选举权, 媒体监督权",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "谁负责行政部门？",
+    "correctAnswers": [
+      {
+        "text": "总统",
+        "rationale": "The President 是 chief of the 行政部门."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "the 众议院议长",
+        "rationale": "The 众议院议长 是 leader of 众议院, 哪个 is in the 立法部门."
+      },
+      {
+        "text": "the 首席大法官",
+        "rationale": "The 首席大法官 是 head of 最高法院, 哪个 is in the 司法部门."
+      },
+      {
+        "text": "the Secretary of State",
+        "rationale": "The Secretary of State is a high-ranking cabinet member in the 行政部门, but not the head of the entire branch."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "谁制定联邦法律？",
+    "correctAnswers": [
+      {
+        "text": "国会",
+        "rationale": "Federal laws are made by 国会 (参议院 and House)."
+      },
+      {
+        "text": "[번역 필요] Senate and House (of Representatives)",
+        "rationale": "[번역 필요] Congress consists of the Senate and House of Representatives, which together make federal laws."
+      },
+      {
+        "text": "[번역 필요] (U.S. or national) legislature",
+        "rationale": "[번역 필요] The U.S. legislature, which is Congress, has the constitutional authority to make federal laws."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "总统",
+        "rationale": "The President signs bills passed by 国会 into law, but does not create the laws."
+      },
+      {
+        "text": "最高法院",
+        "rationale": "The Supreme Court interprets laws and decides if they are constitutional, but it does not make them."
+      },
+      {
+        "text": "the state legislature",
+        "rationale": "State legislatures make state laws, not federal laws."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "美国国会的两个部分是什么？",
+    "correctAnswers": [
+      {
+        "text": "参议院和众议院",
+        "rationale": "The U.S. 国会 is a bicameral legislature, consisting of 参议院 and the House."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "总统 and the 内阁",
+        "rationale": "This describes the 行政部门."
+      },
+      {
+        "text": "the federal and state courts",
+        "rationale": "This describes the structure of the 司法部门."
+      },
+      {
+        "text": "the Democratic and Republican parties",
+        "rationale": "These 是 major political parties in the U.S."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "美国有多少名参议员？",
+    "correctAnswers": [
+      {
+        "text": "一百（100）",
+        "rationale": "There are two senators from each of the 50 states, totaling 100."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "四百三十五（435）",
+        "rationale": "435 是 number of members in 众议院."
+      },
+      {
+        "text": "Fifty (50)",
+        "rationale": "50 是 number of states in the U.S."
+      },
+      {
+        "text": "Nine (9)",
+        "rationale": "Nine 是 number of justices on 最高法院."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "我们选举美国参议员的任期是多少年？",
+    "correctAnswers": [
+      {
+        "text": "六（6）",
+        "rationale": "The term for a U.S. 参议员 is six years."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "二（2）",
+        "rationale": "Two years 是 term for a member of 众议院."
+      },
+      {
+        "text": "四（4）",
+        "rationale": "Four years 是 term for 总统."
+      },
+      {
+        "text": "Eight (8)",
+        "rationale": "A President can serve a maximum of two terms, or eight years, but this is different from a 参议员's term."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Who is one of your state’s U.S. 参议员s now?",
+    "correctAnswers": [
+      {
+        "text": "答案因情况而异",
+        "rationale": "这个问题的答案取决于你的州/地区。你应该查阅官方网站。"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "The name of the 州长",
+        "rationale": "The 州长 是 head of the state's 行政部门, not a federal 参议员."
+      },
+      {
+        "text": "The name of the 众议员",
+        "rationale": "A 众议员 is a member of 众议院, 哪个 is different from a 参议员."
+      },
+      {
+        "text": "The name of 总统",
+        "rationale": "The President 是 head of the federal 行政部门."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "众议院有多少名有投票权的成员？",
+    "correctAnswers": [
+      {
+        "text": "四百三十五（435）",
+        "rationale": "The number of representatives is based on each state's population."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "一百（100）",
+        "rationale": "100 是 number of 参议员s."
+      },
+      {
+        "text": "Fifty (50)",
+        "rationale": "50 是 number of states."
+      },
+      {
+        "text": "Five hundred thirty-eight (538)",
+        "rationale": "538 是 total number of electors in the 选举团."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "我们选举美国众议员的任期是多少年？",
+    "correctAnswers": [
+      {
+        "text": "二（2）",
+        "rationale": "The term for a U.S. 众议员 is two years."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "四（4）",
+        "rationale": "Four years 是 term for 总统."
+      },
+      {
+        "text": "六（6）",
+        "rationale": "Six years 是 term for a 参议员."
+      },
+      {
+        "text": "For life",
+        "rationale": "Supreme Court justices serve for life, but 众议员s are elected officials."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "说出你的美国众议员。",
+    "correctAnswers": [
+      {
+        "text": "答案因情况而异",
+        "rationale": "这个问题的答案取决于你的州/地区。你应该查阅官方网站。"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "The name of the 参议员",
+        "rationale": "A 参议员 represents the entire state and is different from a 众议员 for a specific district."
+      },
+      {
+        "text": "The name of the 州长",
+        "rationale": "The 州长 是 head of the state's 行政部门."
+      },
+      {
+        "text": "The name of the 市长",
+        "rationale": "The 市长 是 head of a city's government."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "美国参议员代表谁？",
+    "correctAnswers": [
+      {
+        "text": "该州的所有人民",
+        "rationale": "参议员s represent the interests of their entire state, not just a specific district."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "only their political party",
+        "rationale": "While they belong to a political party, 参议员s are legally bound to represent all the people of their state."
+      },
+      {
+        "text": "only the city they live in",
+        "rationale": "参议员s represent the entire state, not just one city."
+      },
+      {
+        "text": "总统",
+        "rationale": "As part of the 立法部门, 参议员s provide a check on 总统, 谁 heads the 行政部门."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "为什么有些州比其他州有更多的众议员？",
+    "correctAnswers": [
+      {
+        "text": "(because of) the state’s population",
+        "rationale": "The number of representatives is apportioned based on each state's population, as determined by the 人口普查 every 10 years."
+      },
+      {
+        "text": "[번역 필요] (because) they have more people",
+        "rationale": "[번역 필요] States with larger populations get more representatives in the House."
+      },
+      {
+        "text": "[번역 필요] (because) some states have more people",
+        "rationale": "[번역 필요] The number of representatives is directly related to how many people live in each state."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(because of) the state’s land area",
+        "rationale": "The number of representatives is based on population, not the physical size of the state."
+      },
+      {
+        "text": "(because of) the state’s wealth",
+        "rationale": "Population, not the state's economic power, 是 standard."
+      },
+      {
+        "text": "because of when the state was founded",
+        "rationale": "The order in 哪个 a state joined the Union does not affect its number of representatives."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "我们选举总统的任期是多少年？",
+    "correctAnswers": [
+      {
+        "text": "四（4）",
+        "rationale": "The term for 总统 is four years."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "二（2）",
+        "rationale": "Two years 是 term for a member of 众议院."
+      },
+      {
+        "text": "六（6）",
+        "rationale": "Six years 是 term for a 参议员."
+      },
+      {
+        "text": "Five (5)",
+        "rationale": "There are no federal offices in the U.S. with a five-year term."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "我们在哪个月为总统投票？",
+    "correctAnswers": [
+      {
+        "text": "十一月",
+        "rationale": "The U.S. presidential election is held every four years on the Tuesday 在...之后 the first Monday in November."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "January",
+        "rationale": "The new President is inaugurated in January."
+      },
+      {
+        "text": "July",
+        "rationale": "July 4th is 独立日."
+      },
+      {
+        "text": "October",
+        "rationale": "October is typically a time of intense, final-stage campaigning 在...之前 the election."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "现任美国总统的姓名是什么？",
+    "correctAnswers": [
+      {
+        "text": "唐纳德·J·特朗普",
+        "rationale": "(截至 July 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "JD·万斯",
+        "rationale": "JD Vance 是 current Vice President."
+      },
+      {
+        "text": "Mike Johnson",
+        "rationale": "Mike Johnson 是 current 众议院议长."
+      },
+      {
+        "text": "Joe Biden",
+        "rationale": "Joe Biden 是 previous President."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "现任美国副总统的姓名是什么？",
+    "correctAnswers": [
+      {
+        "text": "JD·万斯",
+        "rationale": "(截至 July 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "唐纳德·J·特朗普",
+        "rationale": "Donald J. Trump 是 current President."
+      },
+      {
+        "text": "Kamala Harris",
+        "rationale": "Kamala Harris 是 previous Vice President."
+      },
+      {
+        "text": "John Roberts",
+        "rationale": "John Roberts 是 current 首席大法官."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "如果总统不能继续任职，谁成为总统？",
+    "correctAnswers": [
+      {
+        "text": "副总统",
+        "rationale": "The Vice President succeeds to the presidency if 总统 can no longer serve."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "the 众议院议长",
+        "rationale": "The 众议院议长 succeeds to the presidency only if both 总统 and Vice President can no longer serve."
+      },
+      {
+        "text": "the 首席大法官",
+        "rationale": "The 首席大法官 is not in the line of presidential succession."
+      },
+      {
+        "text": "the Secretary of State",
+        "rationale": "The Secretary of State is fourth in the line of presidential succession."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "If both 总统 and 副总统 can no longer serve, who becomes President?",
+    "correctAnswers": [
+      {
+        "text": "the 众议院议长",
+        "rationale": "The 众议院议长 is third in the line of presidential succession."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "the Secretary of State",
+        "rationale": "The Secretary of State is fourth in the line of succession, 在...之后 the 众议院议长."
+      },
+      {
+        "text": "the 首席大法官",
+        "rationale": "The 首席大法官 is not in the line of presidential succession."
+      },
+      {
+        "text": "总统 pro tempore of 参议院",
+        "rationale": "The President pro tempore of 参议院 is fourth in line, 在...之后 the 众议院议长."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Who is the 总司令 of the military?",
+    "correctAnswers": [
+      {
+        "text": "总统",
+        "rationale": "The President holds the ultimate authority over the U.S. armed forces as 总司令."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "the Secretary of Defense",
+        "rationale": "The Secretary of Defense 是 civilian head of the Department of Defense, acting under 总统's command."
+      },
+      {
+        "text": "the Chairman of the Joint Chiefs of Staff",
+        "rationale": "The Chairman of the Joint Chiefs of Staff 是 highest-ranking military officer and the principal military advisor to 总统."
+      },
+      {
+        "text": "副总统",
+        "rationale": "The Vice President does not have direct command authority over the military."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Who signs bills to become laws?",
+    "correctAnswers": [
+      {
+        "text": "总统",
+        "rationale": "A bill passed by 国会 must be signed by 总统 to become law."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "the 众议院议长",
+        "rationale": "The 众议院议长 leads the process for a bill to pass the House, but does not have the final authority to sign it into law."
+      },
+      {
+        "text": "副总统",
+        "rationale": "The Vice President can cast a tie-breaking vote in 参议院 but does not sign bills into law."
+      },
+      {
+        "text": "the 首席大法官",
+        "rationale": "The 首席大法官 interprets laws and is not involved in the legislative process."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Who 否决es bills?",
+    "correctAnswers": [
+      {
+        "text": "总统",
+        "rationale": "The President has the power to 否决 bills passed by 国会."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "国会",
+        "rationale": "国会 passes bills; it can also override a presidential 否决."
+      },
+      {
+        "text": "最高法院",
+        "rationale": "The Supreme Court can rule a law unconstitutional 在...之后 it is enacted, but it cannot 否决 a bill."
+      },
+      {
+        "text": "the 州长",
+        "rationale": "A 州长 has 否决 power over state laws, not federal laws."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "What does 总统’s 内阁 do?",
+    "correctAnswers": [
+      {
+        "text": "advises 总统",
+        "rationale": "The 内阁, composed of the heads of executive departments, provides expert advice to 总统."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "makes laws",
+        "rationale": "Laws 由国会制定."
+      },
+      {
+        "text": "elects 总统",
+        "rationale": "The President is elected by the people and the 选举团."
+      },
+      {
+        "text": "declares war",
+        "rationale": "Declaring war is an exclusive power of 国会."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "What are two 内阁-level positions?",
+    "correctAnswers": [
+      {
+        "text": "Secretary of State",
+        "rationale": "The Secretary of State is a key cabinet member responsible for foreign policy."
+      },
+      {
+        "text": "Secretary of the Treasury",
+        "rationale": "The Secretary of the Treasury is responsible for the nation's financial and economic policy."
+      },
+      {
+        "text": "Secretary of Defense",
+        "rationale": "The Secretary of Defense oversees military and defense policy."
+      },
+      {
+        "text": "Attorney General",
+        "rationale": "The Attorney General 是 head of the Department of Justice and the chief law enforcement officer."
+      },
+      {
+        "text": "[번역 필요] Secretary of Agriculture",
+        "rationale": "[번역 필요] The Secretary of Agriculture oversees farming, food safety, and rural development policies."
+      },
+      {
+        "text": "[번역 필요] Secretary of Commerce",
+        "rationale": "[번역 필요] The Secretary of Commerce promotes economic growth and trade."
+      },
+      {
+        "text": "[번역 필요] Secretary of Education",
+        "rationale": "[번역 필요] The Secretary of Education oversees federal education policy and programs."
+      },
+      {
+        "text": "[번역 필요] Secretary of Energy",
+        "rationale": "[번역 필요] The Secretary of Energy manages energy policy and nuclear security."
+      },
+      {
+        "text": "[번역 필요] Secretary of Health and Human Services",
+        "rationale": "[번역 필요] The Secretary of Health and Human Services oversees health and welfare programs."
+      },
+      {
+        "text": "[번역 필요] Secretary of Homeland Security",
+        "rationale": "[번역 필요] The Secretary of Homeland Security protects the nation from security threats."
+      },
+      {
+        "text": "[번역 필요] Secretary of Housing and Urban Development",
+        "rationale": "[번역 필요] The Secretary of Housing and Urban Development oversees housing and urban development policies."
+      },
+      {
+        "text": "[번역 필요] Secretary of the Interior",
+        "rationale": "[번역 필요] The Secretary of the Interior manages public lands and natural resources."
+      },
+      {
+        "text": "[번역 필요] Secretary of Labor",
+        "rationale": "[번역 필요] The Secretary of Labor oversees workplace safety and labor relations."
+      },
+      {
+        "text": "[번역 필요] Secretary of Transportation",
+        "rationale": "[번역 필요] The Secretary of Transportation oversees transportation infrastructure and safety."
+      },
+      {
+        "text": "[번역 필요] Secretary of Veterans Affairs",
+        "rationale": "[번역 필요] The Secretary of Veterans Affairs provides services to military veterans."
+      },
+      {
+        "text": "[번역 필요] Vice President",
+        "rationale": "[번역 필요] The Vice President is also considered a Cabinet-level position."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "国务卿, 国防部长, 财政部长, 司法部长",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "副总统, 众议院议长, 参议院多数党领袖, 最高法院首席大法官",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "州长, 市长, 参议员, 众议员",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "What does the 司法部门 do?",
+    "correctAnswers": [
+      {
+        "text": "reviews laws",
+        "rationale": "The 司法部门 reviews laws to ensure they are constitutional."
+      },
+      {
+        "text": "explains laws",
+        "rationale": "The 司法部门 interprets the meaning of laws and applies them to specific cases."
+      },
+      {
+        "text": "resolves disputes",
+        "rationale": "It resolves legal disputes by making rulings."
+      },
+      {
+        "text": "[번역 필요] decides if a law goes against the Constitution",
+        "rationale": "[번역 필요] The judicial branch has the power of judicial review to determine if laws are constitutional."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "制定法律, 执行法律, 建议总统",
+        "rationale": "立法部门(国会)制定法律。行政部门执行法律。内阁的作用是建议总统。"
+      },
+      {
+        "text": "征收税款, 印制货币, 管制商业",
+        "rationale": "这些是国会的权力，不是司法部门的职责。"
+      },
+      {
+        "text": "指挥军队, 谈判条约, 任命大使",
+        "rationale": "这些是总统的权力，不是司法部门的职责。"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "What is the highest court in the United States?",
+    "correctAnswers": [
+      {
+        "text": "最高法院",
+        "rationale": "The Supreme Court 是 highest court in the U.S. judicial system."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "a state Supreme Court",
+        "rationale": "A state Supreme Court 是 highest in that state's judicial system, but the U.S. Supreme Court is higher for the entire nation."
+      },
+      {
+        "text": "a court of appeals",
+        "rationale": "A court of appeals is a lower court than 最高法院."
+      },
+      {
+        "text": "the International Court of Justice",
+        "rationale": "The International Court of Justice is a UN judicial body that handles disputes between countries."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "How many justices are on 最高法院?",
+    "correctAnswers": [
+      {
+        "text": "Nine (9)",
+        "rationale": "The Supreme Court is composed of one 首席大法官 and eight Associate Justices."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Seven (7)",
+        "rationale": "The number of justices is set by law and has been nine 自从 1869."
+      },
+      {
+        "text": "Twelve (12)",
+        "rationale": "Twelve relates to the number of regional circuit courts of appeals, not the number of Supreme Court justices."
+      },
+      {
+        "text": "Fifty (50)",
+        "rationale": "Fifty 是 number of states."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Who is the 首席大法官 of the United States now?",
+    "correctAnswers": [
+      {
+        "text": "John Roberts",
+        "rationale": "John G. Roberts, Jr. 是 17th and current 首席大法官."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Clarence Thomas",
+        "rationale": "Clarence Thomas 是 current longest-serving Associate Justice."
+      },
+      {
+        "text": "Merrick Garland",
+        "rationale": "Merrick Garland 是 current Attorney General."
+      },
+      {
+        "text": "Ruth Bader Ginsburg",
+        "rationale": "Ruth Bader Ginsburg was a revered Associate Justice 谁 passed away in 2020."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Under our Constitution, some powers belong to the 联邦政府. What is one power of the 联邦政府?",
+    "correctAnswers": [
+      {
+        "text": "to print money",
+        "rationale": "Printing money is an exclusive power of the 联邦政府."
+      },
+      {
+        "text": "to declare war",
+        "rationale": "Declaring war is a power of the federal 国会."
+      },
+      {
+        "text": "to create an army",
+        "rationale": "Creating and maintaining an army for national defense is a role of the 联邦政府."
+      },
+      {
+        "text": "to make treaties",
+        "rationale": "Making official treaties with other countries is a power of the 联邦政府."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "宣战, 印制货币, 创建军队, 签订条约",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "建立学校, 颁发驾驶执照, 举行选举, 创建地方政府",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "管理州际贸易, 建立邮局, 铸造硬币, 管理移民",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Under our Constitution, some powers belong to the states. What is one power of the states?",
+    "correctAnswers": [
+      {
+        "text": "provide schooling and education",
+        "rationale": "Education policy and school operation are primarily the responsibility of the states."
+      },
+      {
+        "text": "provide protection (police)",
+        "rationale": "Maintaining public order by operating state and local police is a state power."
+      },
+      {
+        "text": "give a driver's license",
+        "rationale": "Each state sets its own standards and procedures for issuing driver's licenses."
+      },
+      {
+        "text": "[번역 필요] provide safety (fire departments)",
+        "rationale": "[번역 필요] Fire protection and safety services are typically provided by state and local governments."
+      },
+      {
+        "text": "[번역 필요] approve zoning and land use",
+        "rationale": "[번역 필요] States have the authority to regulate land use and zoning within their boundaries."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "建立学校, 颁发驾驶执照, 举行选举",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "宣战, 印制货币, 创建军队",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "管理州际贸易, 建立邮局, 铸造硬币",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Who is the 州长 of your state now?",
+    "correctAnswers": [
+      {
+        "text": "答案因情况而异",
+        "rationale": "这个问题的答案取决于你的州/地区。你应该查阅官方网站。"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "The name of the 参议员",
+        "rationale": "A 参议员 is part of the federal 立法部门 and is different from the 州长, 谁 是 head of the state's 行政部门."
+      },
+      {
+        "text": "The name of the 市长",
+        "rationale": "The 市长 是 head of a city government, different from the 州长 谁 是 head of the entire state."
+      },
+      {
+        "text": "The name of 总统",
+        "rationale": "The President 是 head of the 联邦政府, different from the 州长 谁 是 head of a 州政府."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "What is the capital of your state?",
+    "correctAnswers": [
+      {
+        "text": "答案因情况而异",
+        "rationale": "这个问题的答案取决于你的州/地区。你应该查阅官方网站。"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "北京",
+        "rationale": "这个答案是错误的。这个选项不是问题的正确答案。"
+      },
+      {
+        "text": "上海",
+        "rationale": "这个答案是错误的。这个选项不是问题的正确答案。"
+      },
+      {
+        "text": "广州",
+        "rationale": "这个答案是错误的。这个选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "What are the two major political parties in the United States?",
+    "correctAnswers": [
+      {
+        "text": "Democratic and Republican",
+        "rationale": "The Democratic and Republican parties 是 two major parties that dominate U.S. politics today."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Labour and Conservative",
+        "rationale": "The Labour and Conservative parties 是 major political parties in the United Kingdom."
+      },
+      {
+        "text": "Liberal and Green",
+        "rationale": "Parties like the Libertarian and Green parties are third parties in the U.S., but not one of the two major parties."
+      },
+      {
+        "text": "Senate and House",
+        "rationale": "The Senate and House 是 two parts of 国会, not political parties."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "What is the political party of 总统 now?",
+    "correctAnswers": [
+      {
+        "text": "Republican (Party)",
+        "rationale": "President Donald Trump is a member of the 共和党. (截至 July 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Democratic (Party)",
+        "rationale": "The 民主党 is currently the main opposition party."
+      },
+      {
+        "text": "Independent",
+        "rationale": "The current President is a member of a major party, the 共和党."
+      },
+      {
+        "text": "Libertarian (Party)",
+        "rationale": "The Libertarian Party is one of the third parties in the U.S."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "What is the name of the Speaker of 众议院 now?",
+    "correctAnswers": [
+      {
+        "text": "Mike Johnson",
+        "rationale": "(截至 July 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nancy Pelosi",
+        "rationale": "Nancy Pelosi was a previous 众议院议长."
+      },
+      {
+        "text": "Kevin McCarthy",
+        "rationale": "Kevin McCarthy 是 众议院议长 immediately 在...之前 Mike Johnson."
+      },
+      {
+        "text": "Chuck Schumer",
+        "rationale": "Chuck Schumer 是 current Senate Majority Leader."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "There are four 修正案s to 宪法 about who can vote. Describe one of them.",
+    "correctAnswers": [
+      {
+        "text": "Citizens eighteen (18) and older (can vote).",
+        "rationale": "The 26th Amendment lowered the voting age to 18."
+      },
+      {
+        "text": "You don’t have to pay (a poll tax) to vote.",
+        "rationale": "The 24th Amendment outlawed the use of poll taxes as a voting requirement."
+      },
+      {
+        "text": "Any citizen can vote. (Women and men can vote.)",
+        "rationale": "The 19th Amendment prohibited voting discrimination on the basis of sex."
+      },
+      {
+        "text": "A male citizen of any race (can vote).",
+        "rationale": "The 15th Amendment prohibited voting discrimination on the basis of race."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "18岁或以上公民可以投票, 不能因种族拒绝投票, 不能因性别拒绝投票, 不能因未缴税拒绝投票",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "只有男性可以投票, 只有财产所有者可以投票, 只有在美国出生的公民可以投票, 只有纳税人可以投票",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "公民必须21岁才能投票, 公民必须会读书才能投票, 公民必须拥有财产才能投票, 公民必须纳税才能投票",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "What is one responsibility that is only for United States citizens?",
+    "correctAnswers": [
+      {
+        "text": "serve on a jury",
+        "rationale": "Jury duty is a key responsibility reserved for U.S. citizens."
+      },
+      {
+        "text": "vote in a federal election",
+        "rationale": "Voting in a federal election is both a right and a key responsibility of a citizen."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "纳税, 遵守法律",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "在地方选举中投票, 担任陪审员",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "登记兵役, 获得驾驶执照",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Name one right only for United States citizens.",
+    "correctAnswers": [
+      {
+        "text": "vote in a federal election",
+        "rationale": "Voting in federal elections is a right exclusive to citizens."
+      },
+      {
+        "text": "run for federal office",
+        "rationale": "The right to run for federal office, 例如 President, 参议员, or 众议员, is reserved for citizens."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "言论自由, 宗教自由",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "持枪权, 公正审判权",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "隐私权, 旅行权",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "What are two rights of everyone living in the United States?",
+    "correctAnswers": [
+      {
+        "text": "freedom of expression",
+        "rationale": "This is a fundamental right protected by the First Amendment."
+      },
+      {
+        "text": "言论自由",
+        "rationale": "This is a fundamental right protected by the First Amendment."
+      },
+      {
+        "text": "集会自由",
+        "rationale": "This is a fundamental right protected by the First Amendment."
+      },
+      {
+        "text": "宗教自由",
+        "rationale": "This is a fundamental right protected by the First Amendment."
+      },
+      {
+        "text": "自由 of religion",
+        "rationale": "[번역 필요] Everyone in the U.S. has the right to practice any religion or no religion."
+      },
+      {
+        "text": "[번역 필요] the right to bear arms",
+        "rationale": "[번역 필요] The Second Amendment protects the right to keep and bear arms."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "在联邦选举中投票的权利, 竞选联邦职位的权利, 获得美国护照的权利, 担任陪审员的权利",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "社会保障福利权, 医疗保险权, 失业救济权, 联邦就业权",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "担保家庭移民权, 海外外交保护权, 返回美国权, 担任联邦职务权",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "What do we show loyalty to when we say the 效忠誓词?",
+    "correctAnswers": [
+      {
+        "text": "the United States",
+        "rationale": "The 效忠誓词 is an expression of loyalty to the nation of the United States."
+      },
+      {
+        "text": "the flag",
+        "rationale": "The flag symbolizes the United States, so pledging allegiance to it means s如何ing loyalty to the country."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "总统, 国会",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "你居住的州, 你的城市",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "宪法, 联邦政府",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "What is one promise you make when you become a United States citizen?",
+    "correctAnswers": [
+      {
+        "text": "obey the laws of the United States",
+        "rationale": "The Oath of Allegiance includes a promise to obey the laws of the United States."
+      },
+      {
+        "text": "be loyal to the United States",
+        "rationale": "This is a core part of the Oath of Allegiance."
+      },
+      {
+        "text": "serve in the U.S. military (if needed)",
+        "rationale": "This is a promise to bear arms on behalf of the nation 当 required."
+      },
+      {
+        "text": "[번역 필요] give up loyalty to other countries",
+        "rationale": "[번역 필요] The Oath of Allegiance includes renouncing allegiance to foreign states."
+      },
+      {
+        "text": "[번역 필요] defend the Constitution and laws of the United States",
+        "rationale": "[번역 필요] New citizens promise to support and defend the Constitution and laws."
+      },
+      {
+        "text": "[번역 필요] serve (do important work for) the nation (if needed)",
+        "rationale": "[번역 필요] Citizens promise to perform work of national importance when required."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "每年投票, 总是说英语, 永远不离开美国",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "缴纳所有税款, 在军队服役, 服从所有命令",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "为政府工作, 永远住在美国, 不批评政府",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "How old do citizens have to be to vote for President?",
+    "correctAnswers": [
+      {
+        "text": "eighteen (18) and older",
+        "rationale": "The 26th Amendment set the national voting age at 18."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "sixteen (16) and older",
+        "rationale": "While some countries or specific local elections allow voting at 16, the U.S. federal voting age is 18."
+      },
+      {
+        "text": "twenty-one (21) and older",
+        "rationale": "Before the 26th Amendment was passed, the voting age was 21 in many states."
+      },
+      {
+        "text": "there is no age limit",
+        "rationale": "There is a legally established minimum age to be eligible to vote."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "What are two ways that Americans can participate in their democracy?",
+    "correctAnswers": [
+      {
+        "text": "vote",
+        "rationale": "Voting 是 most fundamental and important way to participate in a democracy."
+      },
+      {
+        "text": "join a political party",
+        "rationale": "Participating in a political party allows for direct involvement in the political process."
+      },
+      {
+        "text": "help with a campaign",
+        "rationale": "Helping with the campaign of a candidate or party you support is an important way to participate."
+      },
+      {
+        "text": "run for office",
+        "rationale": "One can serve the community directly by becoming an elected official."
+      },
+      {
+        "text": "[번역 필요] join a community group",
+        "rationale": "[번역 필요] Community groups help citizens address local concerns and issues."
+      },
+      {
+        "text": "[번역 필요] give an elected official your opinion on an issue",
+        "rationale": "[번역 필요] Contacting elected officials is an important way to make your voice heard."
+      },
+      {
+        "text": "[번역 필요] call Senators and Representatives",
+        "rationale": "[번역 필요] Calling your representatives is a direct way to participate in democracy."
+      },
+      {
+        "text": "[번역 필요] publicly support or oppose an issue or policy",
+        "rationale": "[번역 필요] Public advocacy is a key democratic participation method."
+      },
+      {
+        "text": "[번역 필요] run for office",
+        "rationale": "[번역 필요] Running for office is one of the most direct ways to participate in democracy."
+      },
+      {
+        "text": "[번역 필요] write to a newspaper",
+        "rationale": "[번역 필요] Writing letters to newspapers helps share your views with the community."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "看电视新闻, 悬挂美国国旗, 纳税, 上学",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "为政府工作, 搬到另一个州, 买房子, 生孩子",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "说英语, 庆祝7月4日, 了解美国历史, 尊重国旗",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "When is the last day you can send in federal income tax forms?",
+    "correctAnswers": [
+      {
+        "text": "April 15",
+        "rationale": "The typical deadline for filing taxes is April 15. (It can be extended if it falls on a weekend or holiday)."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "January 1",
+        "rationale": "January 1st is New Year's Day."
+      },
+      {
+        "text": "December 31",
+        "rationale": "December 31st 是 end of the tax year."
+      },
+      {
+        "text": "July 4",
+        "rationale": "July 4th is 独立日."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "When must all men register for the Selective Service?",
+    "correctAnswers": [
+      {
+        "text": "at age eighteen (18)",
+        "rationale": "Registration must happen within 30 days of turning 18."
+      },
+      {
+        "text": "between eighteen (18) and twenty-six (26)",
+        "rationale": "While registration should happen at 18, it is possible to register up 直到 age 26."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "参军时, 投票时",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "成为公民时, 21岁时",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "高中毕业时, 结婚时",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "What is one reason 殖民者 came to America?",
+    "correctAnswers": [
+      {
+        "text": "religious freedom",
+        "rationale": "Many 殖民者 came to escape religious persecution in Europe and practice their faith freely."
+      },
+      {
+        "text": "economic opportunity",
+        "rationale": "Economic motives, 例如 the chance to acquire wealth and a better life in a new land, were also a major reason."
+      },
+      {
+        "text": "political liberty",
+        "rationale": "There was a desire to escape the oppression of kings and nobles and to participate in self-government."
+      },
+      {
+        "text": "[번역 필요] economic opportunity",
+        "rationale": "[번역 필요] Many colonists came to America seeking better economic opportunities."
+      },
+      {
+        "text": "[번역 필요] practice their religion",
+        "rationale": "[번역 필요] Religious practice was a major motivation for many colonists."
+      },
+      {
+        "text": "[번역 필요] escape persecution",
+        "rationale": "[번역 필요] Many colonists fled persecution in their home countries."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "为英国国王服务, 度假, 征服美洲原住民",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "寻找黄金, 成为富有, 统治其他人",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "逃避战争, 寻找工作, 探索新大陆",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Who lived in America before the Europeans arrived?",
+    "correctAnswers": [
+      {
+        "text": "American Indians",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "美洲原住民",
+        "rationale": "[번역 필요] "
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "没有人, 非洲人",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "欧洲人, 亚洲人",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "加拿大人, 墨西哥人",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "What group of people was taken to America and sold as slaves?",
+    "correctAnswers": [
+      {
+        "text": "Africans",
+        "rationale": "Millions of people from Africa were forcibly brought to America and victimized by the institution of 奴隶制."
+      },
+      {
+        "text": "来自非洲的人",
+        "rationale": "[번역 필요] People from the African continent were enslaved and brought to America."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Europeans",
+        "rationale": "Europeans 是 immigrants or 殖民者."
+      },
+      {
+        "text": "American Indians",
+        "rationale": "While 美洲原住民 faced oppression and loss of land, they were not the subjects of the transatlantic slave trade."
+      },
+      {
+        "text": "Asians",
+        "rationale": "Immigration from Asia began primarily in the latter half of the 19th century."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Why did the 殖民者 fight the British?",
+    "correctAnswers": [
+      {
+        "text": "because of high taxes (taxation without representation)",
+        "rationale": "They were angered by taxes imposed upon them without having their own representatives in the British Parliament."
+      },
+      {
+        "text": "because the British army stayed in their houses",
+        "rationale": "The Quartering Act required 殖民者 to house and feed British soldiers."
+      },
+      {
+        "text": "because they didn’t have self-government",
+        "rationale": "The 殖民者 wanted to govern themselves and be free from the unilateral rule of the British government."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "因为他们想要新国王, 因为他们想与法国结盟, 因为他们想废除所有税收",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "因为他们想要更多土地, 因为他们想要奴隶, 因为他们想要黄金",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "因为他们想要独立, 因为他们想要自由贸易, 因为他们想要宗教自由",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "谁写了独立宣言？",
+    "correctAnswers": [
+      {
+        "text": "(Thomas) Jefferson",
+        "rationale": "托马斯·杰斐逊 是 principal author of 独立宣言."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "乔治·华盛顿",
+        "rationale": "乔治·华盛顿 是 总司令 of the Continental Army and the first President."
+      },
+      {
+        "text": "亚伯拉罕·林肯",
+        "rationale": "亚伯拉罕·林肯 是 16th President 在...期间 the 内战."
+      },
+      {
+        "text": "本杰明·富兰克林",
+        "rationale": "本杰明·富兰克林 was on the committee, reviewed the document, and signed it, but was not the primary author."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "When was 独立宣言 adopted?",
+    "correctAnswers": [
+      {
+        "text": "July 4, 1776",
+        "rationale": "This date is celebrated as 独立日 in the United States."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "September 17, 1787",
+        "rationale": "This 是 date the U.S. Constitution was signed."
+      },
+      {
+        "text": "October 12, 1492",
+        "rationale": "This 是 date Christopher Columbus arrived in the Americas."
+      },
+      {
+        "text": "April 19, 1775",
+        "rationale": "This 是 date of the Battles of Lexington and Concord, 哪个 started the Revolutionary War."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "There were 13 original states. Name three.",
+    "correctAnswers": [
+      {
+        "text": "New York",
+        "rationale": "[번역 필요] New Hampshire was one of the original 13 colonies."
+      },
+      {
+        "text": "Virginia",
+        "rationale": "[번역 필요] Massachusetts was one of the original 13 colonies."
+      },
+      {
+        "text": "Massachusetts",
+        "rationale": "[번역 필요] Rhode Island was one of the original 13 colonies."
+      },
+      {
+        "text": "Georgia",
+        "rationale": "[번역 필요] Connecticut was one of the original 13 colonies."
+      },
+      {
+        "text": "[번역 필요] New York",
+        "rationale": "[번역 필요] New York was one of the original 13 colonies."
+      },
+      {
+        "text": "[번역 필요] New Jersey",
+        "rationale": "[번역 필요] New Jersey was one of the original 13 colonies."
+      },
+      {
+        "text": "[번역 필요] Pennsylvania",
+        "rationale": "[번역 필요] Pennsylvania was one of the original 13 colonies."
+      },
+      {
+        "text": "[번역 필요] Delaware",
+        "rationale": "[번역 필요] Delaware was one of the original 13 colonies."
+      },
+      {
+        "text": "[번역 필요] Maryland",
+        "rationale": "[번역 필요] Maryland was one of the original 13 colonies."
+      },
+      {
+        "text": "[번역 필요] Virginia",
+        "rationale": "[번역 필요] Virginia was one of the original 13 colonies."
+      },
+      {
+        "text": "[번역 필요] North Carolina",
+        "rationale": "[번역 필요] North Carolina was one of the original 13 colonies."
+      },
+      {
+        "text": "[번역 필요] South Carolina",
+        "rationale": "[번역 필요] South Carolina was one of the original 13 colonies."
+      },
+      {
+        "text": "[번역 필요] Georgia",
+        "rationale": "[번역 필요] Georgia was one of the original 13 colonies."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "佛罗里达, 加利福尼亚, 俄亥俄, 德克萨斯",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "阿拉斯加, 夏威夷, 亚利桑那, 内华达",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "伊利诺伊, 密歇根, 威斯康星, 明尼苏达",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "What happened at 宪法al Convention?",
+    "correctAnswers": [
+      {
+        "text": "The Constitution was written",
+        "rationale": "The main purpose of 宪法al Convention was to create a new framework for government, 宪法."
+      },
+      {
+        "text": "[번역 필요] The Founding Fathers wrote the Constitution.",
+        "rationale": "[번역 필요] The Founding Fathers gathered at the Constitutional Convention to write the Constitution."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "The Declaration of Independence was written",
+        "rationale": "The Declaration of Independence was written 11 years earlier, at the Continental 国会 in 1776."
+      },
+      {
+        "text": "The Revolutionary War began",
+        "rationale": "The Revolutionary War began in 1775 and had already ended 在...之前 宪法al Convention (1787)."
+      },
+      {
+        "text": "乔治·华盛顿 was elected President",
+        "rationale": "乔治·华盛顿 was elected as the first President in 1789, under 宪法, 在...之后 the Convention."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "When was 宪法 written?",
+    "correctAnswers": [
+      {
+        "text": "1787",
+        "rationale": "The Constitution was written at 宪法al Convention in Philadelphia in 1787."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "1776",
+        "rationale": "1776 是 year 独立宣言 was adopted."
+      },
+      {
+        "text": "1865",
+        "rationale": "1865 是 year the 内战 ended and the 13th Amendment, abolishing 奴隶制, was ratified."
+      },
+      {
+        "text": "1789",
+        "rationale": "1789 是 year 宪法 went into effect and the U.S. government was officially formed."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
+    "correctAnswers": [
+      {
+        "text": "(James) Madison",
+        "rationale": "James Madison is also known as the Father of 宪法."
+      },
+      {
+        "text": "(Alexander) Hamilton",
+        "rationale": "Hamilton wrote the majority of the papers."
+      },
+      {
+        "text": "(John) Jay",
+        "rationale": "John Jay became the first 首席大法官 of 最高法院."
+      },
+      {
+        "text": "[번역 필요] Publius",
+        "rationale": "[번역 필요] Publius was the pen name used by Madison, Hamilton, and Jay when writing the Federalist Papers."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "托马斯·杰斐逊, 乔治·华盛顿, 约翰·汉考克",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "本杰明·富兰克林, 塞缪尔·亚当斯, 约翰·亚当斯",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "帕特里克·亨利, 保罗·里维尔, 内森·黑尔",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "What is one thing 本杰明·富兰克林 is famous for?",
+    "correctAnswers": [
+      {
+        "text": "U.S. diplomat",
+        "rationale": "He was a crucial diplomat in securing French support 在...期间 the Revolutionary War."
+      },
+      {
+        "text": "oldest member of 宪法al Convention",
+        "rationale": "His wisdom helped mediate conflicts 在...期间 the convention."
+      },
+      {
+        "text": "started the first free libraries",
+        "rationale": "He was deeply invested in the dissemination of knowledge."
+      },
+      {
+        "text": "[번역 필요] writer of \"Poor Richard's Almanac\"",
+        "rationale": "[번역 필요] Franklin published Poor Richard's Almanac, which contained weather forecasts, household hints, and proverbs."
+      },
+      {
+        "text": "[번역 필요] started the first free libraries",
+        "rationale": "[번역 필요] Franklin founded the first subscription library in America, which became the model for free public libraries."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "美国第一任总统, 撰写独立宣言, 大陆军将军",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "发明灯泡, 第二任总统, 撰写宪法",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "创立哈佛, 宾夕法尼亚州州长, 发明电话",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Who is the 'Father of Our Country'?",
+    "correctAnswers": [
+      {
+        "text": "(George) Washington",
+        "rationale": "He is called the 'Father of His Country' for his leadership in the Revolutionary War and for establishing the new nation."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "亚伯拉罕·林肯",
+        "rationale": "Lincoln is known as the 'Great Emancipator' and the president 谁 preserved the Union."
+      },
+      {
+        "text": "托马斯·杰斐逊",
+        "rationale": "Jefferson 是 author of 独立宣言 and the third President."
+      },
+      {
+        "text": "本杰明·富兰克林",
+        "rationale": "Franklin was a brilliant diplomat, inventor, and one of the Founding Fathers."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Who was the first President?",
+    "correctAnswers": [
+      {
+        "text": "(George) Washington",
+        "rationale": "乔治·华盛顿 was unanimously elected as the first President of the United States in 1789."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "John Adams",
+        "rationale": "John Adams 是 first Vice President and the second President."
+      },
+      {
+        "text": "托马斯·杰斐逊",
+        "rationale": "托马斯·杰斐逊 是 third President."
+      },
+      {
+        "text": "Alexander Hamilton",
+        "rationale": "Alexander Hamilton 是 first Secretary of the Treasury but never became President."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "What territory did the United States buy from France in 1803?",
+    "correctAnswers": [
+      {
+        "text": "the Louisiana Territory",
+        "rationale": "The 路易斯安那购地 nearly doubled the size of the United States."
+      },
+      {
+        "text": "[번역 필요] Louisiana",
+        "rationale": "[번역 필요] The Louisiana Territory was purchased from France in 1803."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Alaska",
+        "rationale": "Alaska was purchased from Russia, not France, in 1867."
+      },
+      {
+        "text": "Florida",
+        "rationale": "Florida was ceded by Spain in 1819."
+      },
+      {
+        "text": "Texas",
+        "rationale": "Texas was annexed in 1845 在...之后 being an independent republic."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Name one war fought by the United States in the 1800s.",
+    "correctAnswers": [
+      {
+        "text": "内战",
+        "rationale": "The 内战 (1861-1865) 是 most significant war of the 1800s."
+      },
+      {
+        "text": "War of 1812",
+        "rationale": "This war was fought between the United States and Great Britain."
+      },
+      {
+        "text": "美墨战争",
+        "rationale": "This war (1846-1848) resulted in the U.S. acquiring vast western territories."
+      },
+      {
+        "text": "美西战争",
+        "rationale": "This war took place in 1898."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "独立战争, 第一次世界大战, 朝鲜战争, 越南战争",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "法印战争, 七年战争, 德克萨斯独立战争, 美西战争",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "南北战争, 1812年战争, 美墨战争, 内战",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Name the U.S. war between the North and the South.",
+    "correctAnswers": [
+      {
+        "text": "the 内战",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "the War between the States",
+        "rationale": "This was a term commonly used in the Southern states."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "独立战争, 1812年战争",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "第一次世界大战, 第二次世界大战",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "越南战争, 朝鲜战争",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Name one problem that led to the 内战.",
+    "correctAnswers": [
+      {
+        "text": "奴隶制",
+        "rationale": "The existence of 奴隶制 是 most fundamental and central cause of the conflict between the North and South."
+      },
+      {
+        "text": "economic reasons",
+        "rationale": "There were significant economic differences and conflicts between the industrial North and the agricultural South."
+      },
+      {
+        "text": "states' rights",
+        "rationale": "There was a major debate over states' rights to decide their own issues versus the power of the 联邦政府."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "与英国的战争, 宗教分歧, 石油争端",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "经济问题, 文化差异, 领土争端",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "与法国的战争, 移民问题, 政治分歧",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "What was one important thing that 亚伯拉罕·林肯 did?",
+    "correctAnswers": [
+      {
+        "text": "freed the slaves (解放宣言)",
+        "rationale": "During the war, he issued the 解放宣言, 哪个 freed slaves in the Confederacy."
+      },
+      {
+        "text": "saved (or preserved) the Union",
+        "rationale": "He prevented the secession of the South and kept the United States as one nation."
+      },
+      {
+        "text": "led the United States during the 内战",
+        "rationale": "He led the Union as President 在...期间 the nation's greatest crisis, the 内战."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "撰写独立宣言, 第一任总统, 给予妇女选举权",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "创立共和党, 建立社会保障, 结束第一次世界大战",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "发明电报, 伊利诺伊州州长, 撰写宪法",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "What did the 解放宣言 do?",
+    "correctAnswers": [
+      {
+        "text": "freed the slaves",
+        "rationale": "The Emancipation Proclamation declared 自由 for enslaved people."
+      },
+      {
+        "text": "freed slaves in the Confederacy",
+        "rationale": "Specifically, it freed slaves in the states that were in rebellion (the Confederacy)."
+      },
+      {
+        "text": "[번역 필요] freed slaves in the Confederate states",
+        "rationale": "[번역 필요] The proclamation applied to slaves in states that had seceded from the Union."
+      },
+      {
+        "text": "[번역 필요] freed slaves in most Southern states",
+        "rationale": "[번역 필요] It freed slaves in the rebellious Southern states during the Civil War."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "解放了所有奴隶, 宣布脱离英国独立",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "给予妇女选举权, 建立宪法",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "结束内战, 创建社会保障",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "What did 苏珊·B·安东尼 do?",
+    "correctAnswers": [
+      {
+        "text": "fought for women's rights",
+        "rationale": "She was a pivotal leader in the women's suffrage movement."
+      },
+      {
+        "text": "fought for civil rights",
+        "rationale": "Women's rights are part of the broader 民权运动."
+      },
+      {
+        "text": "[번역 필요] fought for women's suffrage",
+        "rationale": "[번역 필요] She was a leader in the movement to secure voting rights for women."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "第一位当选参议员的女性, 内战中的护士",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "签署解放宣言, 第一位女总统",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "撰写独立宣言, 最高法院法官",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Name one war fought by the United States in the 1900s.",
+    "correctAnswers": [
+      {
+        "text": "第一次世界大战",
+        "rationale": "The United States entered the war in 1917."
+      },
+      {
+        "text": "第一次世界大战I",
+        "rationale": "The United States entered the war 在...之后 the attack on 珍珠港 in 1941."
+      },
+      {
+        "text": "朝鲜战争",
+        "rationale": "This war began in 1950."
+      },
+      {
+        "text": "越南战争",
+        "rationale": "This war took place 在...期间 the 1960s and 1970s."
+      },
+      {
+        "text": "(Persian) Gulf War",
+        "rationale": "This war took place in 1991."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "内战, 独立战争, 美墨战争, 1812年战争, 法印战争",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "三十年战争, 西班牙王位继承战争, 七年战争, 拿破仑战争, 克里米亚战争",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "独立战争, 南北战争, 西法战争, 太平洋战争, 古巴战争",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Who was President during 第一次世界大战?",
+    "correctAnswers": [
+      {
+        "text": "(Woodrow) Wilson",
+        "rationale": "Woodrow Wilson was 总统 谁 led the United States 在...期间 第一次世界大战."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Franklin Roosevelt",
+        "rationale": "Franklin Roosevelt was 总统 在...期间 第一次世界大战I."
+      },
+      {
+        "text": "亚伯拉罕·林肯",
+        "rationale": "亚伯拉罕·林肯 was 总统 在...期间 the 内战."
+      },
+      {
+        "text": "Theodore Roosevelt",
+        "rationale": "Theodore Roosevelt served as President 在...之前 第一次世界大战."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Who was President during the 大萧条 and 第一次世界大战I?",
+    "correctAnswers": [
+      {
+        "text": "(Franklin) Roosevelt",
+        "rationale": "富兰克林·D·罗斯福 led the country through these two national crises."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Woodrow Wilson",
+        "rationale": "Woodrow Wilson was 总统 在...期间 第一次世界大战."
+      },
+      {
+        "text": "Herbert Hoover",
+        "rationale": "Herbert Hoover was 总统 当 the 大萧条 began."
+      },
+      {
+        "text": "Harry Truman",
+        "rationale": "Harry Truman was 总统 谁 concluded 第一次世界大战I 在...之后 Roosevelt's death."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Who did the United States fight in 第一次世界大战I?",
+    "correctAnswers": [
+      {
+        "text": "Japan, Germany, and Italy",
+        "rationale": "These three countries formed the Axis powers."
+      },
+      {
+        "text": "[번역 필요] Japan",
+        "rationale": "[번역 필요] Japan was a major Axis power that the U.S. fought against."
+      },
+      {
+        "text": "[번역 필요] Germany",
+        "rationale": "[번역 필요] Germany was a major Axis power that the U.S. fought against."
+      },
+      {
+        "text": "[번역 필요] Italy",
+        "rationale": "[번역 필요] Italy was an Axis power that the U.S. fought against."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "苏联",
+        "rationale": "这个答案是错误的。这个选项不是问题的正确答案。"
+      },
+      {
+        "text": "中国",
+        "rationale": "这个答案是错误的。这个选项不是问题的正确答案。"
+      },
+      {
+        "text": "法国",
+        "rationale": "这个答案是错误的。这个选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Before he was President, Eisenhower was a general. What war was he in?",
+    "correctAnswers": [
+      {
+        "text": "第一次世界大战I",
+        "rationale": "德怀特·D·艾森豪威尔 是 Supreme Commander of the Allied Expeditionary Force in Europe 在...期间 第一次世界大战I."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "第一次世界大战",
+        "rationale": "Eisen如何er served stateside 在...期间 第一次世界大战."
+      },
+      {
+        "text": "内战",
+        "rationale": "The 内战 occurred 在...之前 Eisen如何er was born."
+      },
+      {
+        "text": "越南战争",
+        "rationale": "The 越南战争 escalated 在...之后 Eisen如何er's presidency."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "During the 冷战, what was the main concern of the United States?",
+    "correctAnswers": [
+      {
+        "text": "Communism",
+        "rationale": "After 第一次世界大战I, the main focus of U.S. foreign policy was containing the spread of Communism, led by the Soviet Union."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Climate change",
+        "rationale": "Climate change has only recently become a major international concern."
+      },
+      {
+        "text": "Colonialism",
+        "rationale": "While the 冷战 coincided with the era of decolonization, the primary concern for the U.S. was Communism."
+      },
+      {
+        "text": "The 大萧条",
+        "rationale": "The 大萧条 是 main issue of the 1930s, 在...之前 the 冷战."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "What movement tried to end racial discrimination?",
+    "correctAnswers": [
+      {
+        "text": "civil rights (movement)",
+        "rationale": "The 民权运动 of the 1950s and 1960s worked to end legal and social discrimination against African Americans."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "the temperance movement",
+        "rationale": "The temperance movement was a social movement to prohibit the consumption of alcohol."
+      },
+      {
+        "text": "the women's suffrage movement",
+        "rationale": "The women's suffrage movement was focused on gaining the right to vote for women."
+      },
+      {
+        "text": "the anti-war movement",
+        "rationale": "The anti-war movement was focused on opposition to a specific war, particularly the 越南战争."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "What did Martin Luther King, Jr. do?",
+    "correctAnswers": [
+      {
+        "text": "fought for civil rights",
+        "rationale": "He was an iconic leader of the 民权运动 谁 fought against racial discrimination through nonviolent resistance."
+      },
+      {
+        "text": "worked for equality for all Americans",
+        "rationale": "His goal was to create a society 在哪里 people of all races were treated equally."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "第一位黑人总统, 美国参议员",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "为解放奴隶而战, 最高法院法官",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "撰写宪法, 乔治亚州州长",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "What major event happened on 2001年9月11日, in the United States?",
+    "correctAnswers": [
+      {
+        "text": "Terrorists attacked the United States",
+        "rationale": "On this day, al-Qaeda terrorists hijacked airplanes and attacked the World Trade Center, the Pentagon, and other sites."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "珍珠港 was attacked",
+        "rationale": "The attack on 珍珠港 happened on December 7, 1941, leading to the U.S. entry into 第一次世界大战I."
+      },
+      {
+        "text": "The stock market crashed",
+        "rationale": "The great stock market crash that triggered the 大萧条 was in 1929."
+      },
+      {
+        "text": "The Iraq War began",
+        "rationale": "The Iraq War began in 2003, 在...之后 the 9/11 attacks."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Name one American Indian tribe in the United States.",
+    "correctAnswers": [
+      {
+        "text": "Cherokee",
+        "rationale": "[번역 필요] The Cherokee are a Native American tribe originally from the Southeastern United States."
+      },
+      {
+        "text": "Navajo",
+        "rationale": "[번역 필요] The Navajo are a Native American tribe from the Southwestern United States."
+      },
+      {
+        "text": "Sioux",
+        "rationale": "[번역 필요] The Sioux are a Native American tribe from the Great Plains region."
+      },
+      {
+        "text": "Apache",
+        "rationale": "[번역 필요] The Chippewa (Ojibwe) are a Native American tribe from the Great Lakes region."
+      },
+      {
+        "text": "[번역 필요] Choctaw",
+        "rationale": "[번역 필요] The Choctaw are a Native American tribe originally from the Southeastern United States."
+      },
+      {
+        "text": "[번역 필요] Pueblo",
+        "rationale": "[번역 필요] The Pueblo peoples are Native American tribes from the Southwestern United States."
+      },
+      {
+        "text": "[번역 필요] Apache",
+        "rationale": "[번역 필요] The Apache are a Native American tribe from the Southwestern United States."
+      },
+      {
+        "text": "[번역 필요] Iroquois",
+        "rationale": "[번역 필요] The Iroquois are a confederacy of Native American tribes from the Northeastern United States."
+      },
+      {
+        "text": "[번역 필요] Creek",
+        "rationale": "[번역 필요] The Creek (Muscogee) are a Native American tribe from the Southeastern United States."
+      },
+      {
+        "text": "[번역 필요] Blackfeet",
+        "rationale": "[번역 필요] The Blackfeet are a Native American tribe from the Northern Great Plains."
+      },
+      {
+        "text": "[번역 필요] Seminole",
+        "rationale": "[번역 필요] The Seminole are a Native American tribe from Florida."
+      },
+      {
+        "text": "[번역 필요] Cheyenne",
+        "rationale": "[번역 필요] The Cheyenne are a Native American tribe from the Great Plains."
+      },
+      {
+        "text": "[번역 필요] Arawak",
+        "rationale": "[번역 필요] The Arawak were indigenous peoples of the Caribbean and South America."
+      },
+      {
+        "text": "[번역 필요] Shawnee",
+        "rationale": "[번역 필요] The Shawnee are a Native American tribe originally from the Ohio Valley."
+      },
+      {
+        "text": "[번역 필요] Mohegan",
+        "rationale": "[번역 필요] The Mohegan are a Native American tribe from Connecticut."
+      },
+      {
+        "text": "[번역 필요] Huron",
+        "rationale": "[번역 필요] The Huron (Wyandot) are a Native American tribe from the Great Lakes region."
+      },
+      {
+        "text": "[번역 필요] Oneida",
+        "rationale": "[번역 필요] The Oneida are a Native American tribe and part of the Iroquois Confederacy."
+      },
+      {
+        "text": "[번역 필요] Lakota",
+        "rationale": "[번역 필요] The Lakota are a Native American tribe and part of the Sioux nation."
+      },
+      {
+        "text": "[번역 필요] Crow",
+        "rationale": "[번역 필요] The Crow are a Native American tribe from the Northern Great Plains."
+      },
+      {
+        "text": "[번역 필요] Teton",
+        "rationale": "[번역 필요] The Teton are a division of the Lakota Sioux tribe."
+      },
+      {
+        "text": "[번역 필요] Hopi",
+        "rationale": "[번역 필요] The Hopi are a Native American tribe from Arizona."
+      },
+      {
+        "text": "[번역 필요] Inuit",
+        "rationale": "[번역 필요] The Inuit are indigenous peoples from Alaska and the Arctic regions."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "印加, 阿兹特克, 玛雅, 奥尔梅克",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "维京, 凯尔特, 盎格鲁撒克逊, 诺曼",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "西班牙, 法国, 荷兰, 葡萄牙",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Name one of the two longest rivers in the United States.",
+    "correctAnswers": [
+      {
+        "text": "Missouri (River)",
+        "rationale": "The 密苏里河 是 longest river in the United States."
+      },
+      {
+        "text": "Mississippi (River)",
+        "rationale": "The 密西西比河 是 second-longest river in the United States."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "尼罗河, 亚马逊河",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "科罗拉多河, 哈德逊河",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "哥伦比亚河, 俄亥俄河",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "What ocean is on the West Coast of the United States?",
+    "correctAnswers": [
+      {
+        "text": "Pacific (Ocean)",
+        "rationale": "California, Oregon, and Washington are on the 太平洋."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Atlantic (Ocean)",
+        "rationale": "The 大西洋 is on the East Coast of the United States."
+      },
+      {
+        "text": "Indian (Ocean)",
+        "rationale": "The Indian Ocean does not border the United States."
+      },
+      {
+        "text": "Arctic (Ocean)",
+        "rationale": "The Arctic Ocean borders the northern coast of Alaska."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "What ocean is on the East Coast of the United States?",
+    "correctAnswers": [
+      {
+        "text": "Atlantic (Ocean)",
+        "rationale": "New York, Florida, and Maine are on the 大西洋."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pacific (Ocean)",
+        "rationale": "The 太平洋 is on the West Coast of the United States."
+      },
+      {
+        "text": "Gulf of Mexico",
+        "rationale": "The Gulf of Mexico is on the southeastern coast of the United States."
+      },
+      {
+        "text": "Mediterranean (Sea)",
+        "rationale": "The Mediterranean Sea is located between Europe and Africa."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Name one U.S. territory.",
+    "correctAnswers": [
+      {
+        "text": "Puerto Rico",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "Guam",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "U.S. Virgin Islands",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "American Samoa",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "Northern Mariana Islands",
+        "rationale": "[번역 필요] "
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "夏威夷, 菲律宾, 古巴, 阿拉斯加, 德克萨斯",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "墨西哥, 加拿大, 格陵兰, 冰岛, 牙买加",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "巴哈马, 百慕大, 巴巴多斯, 特立尼达, 格林纳达",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Name one state that borders Canada.",
+    "correctAnswers": [
+      {
+        "text": "Washington",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "Alaska",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "New York",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "Montana",
+        "rationale": "[번역 필요] "
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "俄勒冈, 加利福尼亚, 科罗拉多, 内华达",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "德克萨斯, 佛罗里达, 乔治亚, 南卡罗来纳",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "亚利桑那, 新墨西哥, 犹他, 怀俄明",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Name one state that borders Mexico.",
+    "correctAnswers": [
+      {
+        "text": "California",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "Arizona",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "New Mexico",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "Texas",
+        "rationale": "[번역 필요] "
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "内华达, 佛罗里达, 科罗拉多, 俄勒冈",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "犹他, 怀俄明, 堪萨斯, 内布拉斯加",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "俄克拉荷马, 阿肯色, 路易斯安那, 密西西比",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "What is the capital of the United States?",
+    "correctAnswers": [
+      {
+        "text": "Washington, D.C.",
+        "rationale": "D.C. stands for District of Columbia."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "New York City",
+        "rationale": "New York 是 largest city in the U.S. and was its first capital, but it is not the current capital."
+      },
+      {
+        "text": "Philadelphia",
+        "rationale": "Philadelphia is a historic city 在哪里 the Declaration and Constitution were signed, and it was a former capital."
+      },
+      {
+        "text": "Washington State",
+        "rationale": "Washington State is a state in the Pacific Northwest, and is a different place from the capital, Washington, D.C."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Where is the 自由女神像?",
+    "correctAnswers": [
+      {
+        "text": "New York (Harbor)",
+        "rationale": "The Statue of 自由 is located in New York Harbor."
+      },
+      {
+        "text": "Liberty Island",
+        "rationale": "Specifically, it is located on Liberty Island in New York Harbor."
+      },
+      {
+        "text": "[번역 필요] New Jersey",
+        "rationale": "自由 Island is technically in New Jersey waters, though administered by New York."
+      },
+      {
+        "text": "[번역 필요] near New York City",
+        "rationale": "The Statue of 自由 is located near New York City in the harbor."
+      },
+      {
+        "text": "[번역 필요] on the Hudson (River)",
+        "rationale": "[번역 필요] The statue is located where the Hudson River meets New York Harbor."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "巴黎, 波士顿",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "华盛顿特区, 费城",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "洛杉矶, 芝加哥",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Why does the flag have 13 stripes?",
+    "correctAnswers": [
+      {
+        "text": "because there were 13 original colonies",
+        "rationale": "[번역 필요] The 13 stripes represent the 13 original colonies that declared independence."
+      },
+      {
+        "text": "[번역 필요] because of the 13 original states",
+        "rationale": "[번역 필요] The 13 stripes represent the 13 original states that formed the Union."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "for the 13 signers of the Declaration",
+        "rationale": "There were 56 signers of 独立宣言."
+      },
+      {
+        "text": "for the first 13 articles of 宪法",
+        "rationale": "The Constitution originally had seven articles."
+      },
+      {
+        "text": "because 13 is a lucky number",
+        "rationale": "The number of stripes is based on historical fact, not luck."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Why does the flag have 50 stars?",
+    "correctAnswers": [
+      {
+        "text": "because there are 50 states",
+        "rationale": "Each star represents one of the states of the Union."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "because there were 50 original colonies",
+        "rationale": "There were 13 original colonies."
+      },
+      {
+        "text": "because there have been 50 presidents",
+        "rationale": "The number of stars is not related to the number of presidents."
+      },
+      {
+        "text": "because there were wars in 50 states",
+        "rationale": "The stars represent the states, not wars."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "What is the name of the national anthem?",
+    "correctAnswers": [
+      {
+        "text": "The 星条旗",
+        "rationale": "The lyrics come from a poem written by Francis Scott Key 在...期间 the War of 1812."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "美丽的美国",
+        "rationale": "这个答案是错误的。这个选项不是问题的正确答案。"
+      },
+      {
+        "text": "我的祖国",
+        "rationale": "这个答案是错误的。这个选项不是问题的正确答案。"
+      },
+      {
+        "text": "上帝保佑美国",
+        "rationale": "这个答案是错误的。这个选项不是问题的正确答案。"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "When do we celebrate 独立日?",
+    "correctAnswers": [
+      {
+        "text": "July 4",
+        "rationale": "This commemorates the adoption of 独立宣言 on July 4, 1776."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "January 1",
+        "rationale": "January 1st is New Year's Day."
+      },
+      {
+        "text": "the last Monday in May",
+        "rationale": "This is Memorial Day, 哪个 honors soldiers 谁 died in military service."
+      },
+      {
+        "text": "the fourth Thursday in November",
+        "rationale": "This is 感恩节 Day."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Name two national U.S. holidays.",
+    "correctAnswers": [
+      {
+        "text": "Christmas",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "感恩节",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "独立日",
+        "rationale": "[번역 필요] "
+      },
+      {
+        "text": "New Year's Day",
+        "rationale": "[번역 필요] "
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "情人节, 万圣节, 愚人节, 土拨鼠日",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "母亲节, 父亲节, 退伍军人节, 劳动节",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      },
+      {
+        "text": "复活节, 感恩节, 圣诞节, 新年",
+        "rationale": "这个答案是错误的。这些选项不是问题的正确答案。"
+      }
+    ]
+  }
+]

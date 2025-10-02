@@ -1,0 +1,320 @@
+{
+  "app": {
+    "title": "시민권 준비 완료",
+    "subtitle": "AI와 함께 미국 시민권 면접 통과하기"
+  },
+  "language": {
+    "selectLanguage": "언어 선택",
+    "selectLanguageDescription": "계속하려면 원하는 언어를 선택해주세요.",
+    "canChangeInSettings": "나중에 설정에서 변경할 수 있습니다."
+  },
+  "resources": {
+    "title": "언어 및 지역 정보 설정",
+    "locationInfo": "지역별 정보 설정",
+    "locationInfoDescription": "거주 지역에 맞는 정치인 정보를 설정하세요.",
+    "setupLocation": "지역 설정하기",
+    "resetSettings": "설정 초기화",
+    "resetSettingsDescription": "모든 설정을 초기화합니다.",
+    "resetLanguageTitle": "언어 설정 초기화",
+    "resetLanguageMessage": "언어 설정을 초기화하시겠습니까?",
+    "resetAll": "모든 설정 삭제",
+    "confirmDelete": "정말로 모든 설정을 삭제하시겠습니까?",
+    "deleteComplete": "모든 설정이 삭제되었습니다.",
+    "state": "주",
+    "capital": "주 수도",
+    "governor": "주지사",
+    "senator1": "상원의원 1",
+    "senator2": "상원의원 2",
+    "representative": "하원의원",
+    "edit": "편집",
+    "save": "저장",
+    "editField": "{field} 편집",
+    "selectState": "주 선택",
+    "cancel": "취소",
+    "locationSettings": "지역 정보 설정",
+    "locationDescription": "주별로 답이 다른 시민권 면접 문제를 위해 거주 지역 정보를 설정하세요.",
+    "selectedState": "선택된 주",
+    "setup": "설정",
+    "selectStateDescription": "거주 지역을 선택해주세요",
+    "allSettingsDeleted": "모든 설정이 삭제되었습니다.",
+    "delete": "삭제",
+    "stateSetupComplete": "주 설정 완료",
+    "stateSetupMessage": "{stateName} 주가 설정되었습니다.\n주도: {capital}\n\n다른 정보도 설정해주세요.",
+    "notSet": "설정되지 않음",
+    "zipCode": "ZIP 코드",
+    "usageGuide": "사용 안내",
+    "updatedInfo2025": "업데이트된 정보 (2025년판)",
+    "yearlyChangingInfo": "매년 변경되는 정치직 정보입니다.",
+    "currentPresident": "현재 대통령",
+    "currentVicePresident": "현재 부통령",
+    "currentSpeaker": "현재 하원의장",
+    "updateCycle": "업데이트 주기",
+    "autoUpdateByElection": "선거 결과에 따라 자동 업데이트",
+    "configuredLocationInfo": "설정된 지역별 정보",
+    "currentStateInfo": "{stateName} 주의 현재 정보입니다.",
+    "usageGuideText": "• 설정된 정보는 연도별/주별로 답이 다른 문제에서 자동으로 사용됩니다.\n• 대통령, 부통령, 하원의장 등은 자동으로 업데이트됩니다.\n• 주지사, 상원의원, 하원의원 정보는 직접 입력해주세요.\n• 정확한 정보는 senate.gov, house.gov에서 확인할 수 있습니다.",
+    "enterNamePlaceholder": "이름 입력",
+    "languageSettings": "언어 설정",
+    "languageDescription": "앱 인터페이스에 사용할 언어를 선택하세요.",
+    "currentLanguage": "현재 언어",
+    "selectLanguage": "언어 선택",
+    "languageChanged": "언어가 성공적으로 변경되었습니다.",
+    "languageChangeError": "언어 변경에 실패했습니다. 다시 시도해주세요.",
+    "error": "오류",
+    "complete": "완료"
+  },
+  "location": {
+    "error": "오류",
+    "zipCodeRequired": "ZIP 코드 5자리를 입력해주세요.",
+    "stateNotFound": "해당 ZIP 코드에 대한 주 정보를 찾을 수 없습니다.",
+    "loadingInfo": "정보 조회 중",
+    "loadingRepresentative": "하원의원 정보를 조회하고 있습니다...",
+    "multipleRepsFound": "여러 하원의원 발견",
+    "multipleRepsMessage": "{stateName} 주에서 ZIP 코드 {zipCode}에는 여러 선거구가 걸쳐 있습니다:{apiAttribution}\n\n{repList}\n\n정확한 하원의원을 선택해주세요.",
+    "checkWithAddress": "정확한 주소로 확인하기",
+    "addressBasedSearch": "주소 기반 검색",
+    "addressSearchInstructions": "정확한 하원의원을 찾기 위해 공식 사이트에서 주소를 입력해주세요.\n\n검색 후 다시 돌아와서 아래에서 선택해주세요.",
+    "openOfficialSite": "공식 사이트 열기",
+    "cannotOpenBrowser": "브라우저를 열 수 없습니다.",
+    "autoComplete": "자동 완성",
+    "autoCompleteMessage": "{stateName} 주가 감지되었습니다.{apiAttribution}\n\n모든 정보를 자동으로 설정하시겠습니까?\n\n• 주도: {capital}\n• 주지사: {governor}\n• 상원의원: {senators}\n• 하원의원: {representative}",
+    "autoCompleteMessageNoRep": "{stateName} 주가 감지되었습니다.\n\n모든 정보를 자동으로 설정하시겠습니까?\n\n• 주도: {capital}\n• 주지사: {governor}\n• 상원의원: {senators}\n• 하원의원: 직접 입력 필요",
+    "manualInput": "수동 입력",
+    "setupComplete": "설정 완료",
+    "setupError": "설정 중 오류가 발생했습니다.",
+    "stateInfoSet": "{stateName} 주 정보가 자동으로 설정되었습니다!",
+    "autoSet": "자동 설정",
+    "multipleDistrictsInfo": "ℹ️ ZIP 코드가 여러 선거구에 걸쳐 있어 모든 하원의원을 표시했습니다.",
+    "addRepresentativeInfo": "하원의원 정보는 Resources & Settings에서 추가할 수 있습니다.",
+    "zipCodeInput": "ZIP 코드 입력",
+    "zipCodeDescription": "시험을 보는 지역의 ZIP 코드를 입력하면 해당 주를 찾아드립니다.",
+    "zipCodePlaceholder": "12345",
+    "next": "다음",
+    "zipCodeError": "ZIP 코드 5자리를 입력해주세요.",
+    "multipleStatesFound": "ZIP 코드 {zipCode}은 여러 주에 해당합니다: {states}\n\n먼저 주를 선택해주세요.",
+    "stateSelection": "주 선택",
+    "stateSelectionDescription": "ZIP 코드 {zipCode}에 해당하는 가능한 주들입니다. 정확한 주를 선택해주세요.",
+    "autoLookupByZip": "ZIP 코드로 자동 조회 ({zipCode})",
+    "senateGovInfo": "ZIP 코드 자동 조회를 사용하거나 senate.gov에서 확인할 수 있습니다",
+    "houseGovInfo": "ZIP 코드 자동 조회를 사용하거나 house.gov에서 확인할 수 있습니다",
+    "additionalInfo": "추가 정보",
+    "locationSetupModal": "지역 정보 설정",
+    "enterPoliticianInfo": "{stateName} 주의 정치인 정보를 입력해주세요.",
+    "autoSetGovernor": "자동 설정: {governor}",
+    "manualInputGovernor": "직접 입력",
+    "governorPlaceholder": "주지사 이름 입력",
+    "senatorsLabel": "상원의원 (2명)",
+    "representativeLabel": "하원의원",
+    "representativeDistrictPlaceholder": "하원의원 이름 입력",
+    "capitalGovernor": "주도: {capital} | 주지사: {governor}",
+    "multipleStatesTitle": "여러 주 가능",
+    "senatorsPreview": "상원의원: {senators}"
+  },
+  "interview": {
+    "welcomeTitle": "시민권 준비 완료?",
+    "welcomeSubtitle": "연습하고, 배우고, 성공하세요!",
+    "locationSetupTitle": "지역 정보 설정",
+    "locationSetupMessage": "시민권 면접에서 일부 문제는 거주 지역에 따라 답이 다릅니다.\n\n지역 정보를 설정하시겠습니까?",
+    "additionalInfoTitle": "추가 정보 필요",
+    "additionalInfoMessage": "더 정확한 답변을 위해 {missingInfo} 정보를 추가로 설정해주세요.",
+    "userSetAnswer": "사용자가 설정한 답입니다.",
+    "locationSettingRequired": "일부 문제는 거주 지역에 따라 답이 다릅니다. Resources & Settings에서 거주 주를 설정해주세요.",
+    "additionalInfoRequired": "더 정확한 답변을 위해 Resources & Settings에서 {missingInfo} 정보를 설정해주세요."
+  },
+  "menu": {
+    "resources": "언어 및 지역 정보 설정",
+    "interviewPractice": "면접 연습",
+    "learn": {
+      "title": "학습",
+      "subtitle": "지식 기반을 구축하세요",
+      "allQuestions": "모든 문제",
+      "allQuestionsSubtitle": "100개 문제 모두 보기",
+      "storyMode": "스토리 모드",
+      "storyModeSubtitle": "미국 모험 이야기 ★",
+      "audioLearning": "운전 중 학습",
+      "audioLearningSubtitle": "운전하면서 학습하기"
+    },
+    "practiceTests": {
+      "title": "연습 시험",
+      "subtitle": "지식 확인 및 약점 파악",
+      "flashcardMode": "플래시카드 모드",
+      "flashcardModeSubtitle": "100문제를 효과적으로 모두 암기",
+      "practiceTest": "연습 시험",
+      "practiceTestSubtitle": "무작위 10문제",
+      "practiceTestVoice": "연습 시험 (음성)",
+      "practiceTestVoiceSubtitle": "TTS와 음성으로 하는 연습 시험",
+      "weaknessTest": "약점 시험",
+      "weaknessTestSubtitle": "틀린 문제 집중 연습",
+      "customTest": "맞춤 시험",
+      "customTestSubtitle": "주제와 문제 수 선택"
+    },
+    "aiMockInterview": {
+      "title": "AI 모의 면접",
+      "subtitle": "말하기 실력 연습",
+      "aiInterview": "AI 인터뷰",
+      "aiInterviewSubtitle": "음성 인식 기반 AI 면접 연습",
+      "standardInterview": "표준 면접",
+      "standardInterviewSubtitle": "AI 기반 면접 연습",
+      "deepDiveInterview": "심화 면접",
+      "deepDiveInterviewSubtitle": "AI 후속 질문",
+      "n400Practice": "N-400 연습",
+      "n400PracticeSubtitle": "선서 및 개인 질문"
+    },
+    "aiChat": {
+      "title": "AI 채팅",
+      "instructions": {
+        "title": "Instructions",
+        "aiModeTitle": "AI Interview Mode",
+        "aiModeDesc1": "AI Interview 모드는 DATA를 사용합니다.",
+        "aiModeDesc2": "자연스럽고, 대답의 의미를 이해합니다.",
+        "aiModeDesc3": "실시간 음성 인식과 TTS를 지원합니다.",
+        "regularModeTitle": "Regular Interview Mode",
+        "regularModeDesc1": "Data연결에 어려운 환경에서는 내제되어 있는 대화 툴을 사용합니다.",
+        "regularModeDesc2": "정확한 답변만 정오를 체크할수 있습니다.",
+        "regularModeDesc3": "말투가 좀덜 자연스러울수 있습니다.",
+        "howToUseTitle": "How to Use",
+        "howToUseDesc1": "상단 토글로 AI/Regular 모드를 선택하세요.",
+        "howToUseDesc2": "마이크와 스피커 버튼으로 음성 기능을 제어하세요.",
+        "howToUseDesc3": "AI 모드에서는 음성 톤을 선택할 수 있습니다."
+      },
+      "voiceSelection": {
+        "title": "Voice & Tone Selection",
+        "voices": {
+          "michael": "균형잡힌 중성적 음성",
+          "david": "남성적이고 깊은 음성",
+          "james": "영국식 남성 음성",
+          "sarah": "젊고 활기찬 여성 음성",
+          "robert": "깊고 따뜻한 남성 음성",
+          "emma": "부드럽고 우아한 여성 음성"
+        }
+      },
+      "buttons": {
+        "startAiInterview": "AI Interview 시작",
+        "startLocalChat": "로컬 AI 채팅 시작"
+      },
+      "errors": {
+        "cannotStartChat": "AI 채팅을 시작할 수 없습니다"
+      }
+    },
+    "aiInterview": {
+      "interviewerChat": "면접관 대화",
+      "citizenshipQuestion": "시민권 질문",
+      "touchToViewInterviewerChat": "터치하여 면접관 대화 보기",
+      "touchToViewCitizenshipQuestion": "터치하여 시민권 질문 보기",
+      "listenAndAnswer": "질문을 듣고 답변해보세요",
+      "speechRecognitionStatus": "당신의 답변",
+      "pressSpeakButtonToStart": "음성 인식을 시작하려면 말하기 버튼을 누르세요",
+      "answer": "답변하기",
+      "stopAnswer": "답변 중지"
+    },
+    "myProgress": {
+      "title": "내 진도",
+      "subtitle": "학습 여정을 추적하세요",
+      "progressDashboard": "진도 대시보드",
+      "progressDashboardSubtitle": "통계와 성취도 보기",
+      "aiTutorAdvice": "AI 튜터 조언",
+      "aiTutorAdviceSubtitle": "개인 맞춤 학습 가이드"
+    },
+    "sections": {
+      "resources": {
+        "title": "자료실",
+        "subtitle": "최신 정보 및 공식 자료",
+        "updatedInfo": "업데이트된 정보",
+        "updatedInfoSubtitle": "현재 대통령, 부통령 등",
+        "common": {
+          "yes": "예",
+          "no": "아니오",
+          "ok": "확인",
+          "cancel": "취소",
+          "save": "저장",
+          "edit": "편집",
+          "delete": "삭제",
+          "back": "뒤로",
+          "next": "다음",
+          "previous": "이전",
+          "close": "닫기",
+          "confirm": "확인",
+          "complete": "완료",
+          "later": "나중에",
+          "setup": "설정하기",
+          "loading": "로딩 중..."
+        }
+      }
+    }
+  },
+  "common": {
+    "cancel": "취소",
+    "confirm": "확인",
+    "back": "뒤로",
+    "complete": "완료",
+    "later": "나중에",
+    "setup": "설정하기",
+    "loading": "로딩 중...",
+    "finish": "완료",
+    "restart": "다시 시작",
+    "menu": "메뉴",
+    "next": "다음",
+    "previous": "이전"
+  },
+  "flashcard": {
+    "complete": "학습 완료",
+    "completeMessage": "총 {total}개 문제 중 {viewed}개를 확인했습니다.",
+    "noQuestions": "사용 가능한 질문이 없습니다",
+    "showAnswer": "답안 보기",
+    "viewed": "확인함",
+    "resume": {
+      "title": "플래시카드 이어서 하기",
+      "messageWithNumber": "이전 {number}번째 문제부터 이어서 하시겠습니까?",
+      "yesContinue": "네 (이어서)",
+      "noRestart": "아니오 (처음부터)"
+    }
+  },
+  "flashcardSelection": {
+    "title": "플래시카드 모드 선택",
+    "description": "시민권 면접 질문을 연습할 플래시카드 학습 방식을 선택하세요.",
+    "quizMode": {
+      "title": "퀴즈 모드",
+      "subtitle": "객관식 문제로 연습하기",
+      "sequential": "순차 플래시카드",
+      "sequentialSubtitle": "100개 문제를 순서대로 이중 언어로 학습",
+      "random": "랜덤 플래시카드",
+      "randomSubtitle": "문제를 무작위 순서로 다양하게 연습"
+    },
+    "subjectiveMode": {
+      "title": "주관식 모드",
+      "subtitle": "답이 숨겨진 문제로 학습하기",
+      "sequential": "순차 주관식",
+      "sequentialSubtitle": "100개 문제를 순서대로 답안 숨김 모드로 학습",
+      "random": "랜덤 주관식",
+      "randomSubtitle": "문제를 무작위 순서로 답안 숨김 모드로 연습",
+      "hideAnswer": "답안 숨김 모드",
+      "hideAnswerSubtitle": "문제가 나타나고 답은 터치하면 보이게 됩니다"
+    }
+  },
+  "questions": {
+    "question": "질문",
+    "correctAnswers": "정답",
+    "explanation": "설명"
+  },
+  "story": {
+    "loading": "스토리 불러오는 중...",
+    "loadErrorTitle": "오류",
+    "loadErrorMessage": "데이터를 불러오지 못했습니다.",
+    "relatedQuestions": "관련 문제 ({count})",
+    "modal": {
+      "title": "문제 상세",
+      "answersTitleSingular": "정답",
+      "answersTitlePlural": "정답",
+      "noAnswers": "정답이 없습니다"
+    },
+    "languageToggle": {
+      "korean": "한국어",
+      "english": "English",
+      "original": "원문"
+    },
+    "chapter": "챕터 {number}"
+  },
+  "disclaimer": {
+    "text": "이 앱은 정부 기관과 제휴하거나 보증하지 않습니다. 시민권 인터뷰 준비를 돕기 위해 제작된 독립적인 도구입니다."
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "app": {
+    "title": "Prêt pour la Citoyenneté",
+    "subtitle": "Réussir l'entretien de citoyenneté américaine avec l'IA"
+  },
+  "language": {
+    "selectLanguage": "Sélectionner la langue",
+    "selectLanguageDescription": "Veuillez sélectionner votre langue préférée pour continuer.",
+    "canChangeInSettings": "Vous pouvez changer cela plus tard dans les paramètres."
+  },
+  "resources": {
+    "title": "Paramètres de Langue et de Localisation",
+    "locationInfo": "Paramètres d'Information de Localisation",
+    "locationInfoDescription": "Configurez les informations des politiciens pour votre région.",
+    "setupLocation": "Configurer la Localisation",
+    "resetSettings": "Réinitialiser les Paramètres",
+    "resetSettingsDescription": "Réinitialiser tous les paramètres.",
+    "resetAll": "Supprimer Tous les Paramètres",
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer tous les paramètres ?",
+    "deleteComplete": "Tous les paramètres ont été supprimés.",
+    "state": "État",
+    "capital": "Capitale",
+    "governor": "Gouverneur",
+    "senator1": "Sénateur 1",
+    "senator2": "Sénateur 2",
+    "representative": "Représentant",
+    "edit": "Modifier",
+    "save": "Enregistrer",
+    "editField": "Modifier {field}",
+    "selectState": "Sélectionner l'État",
+    "cancel": "Annuler",
+    "locationSettings": "Paramètres de Localisation",
+    "locationDescription": "Configurez les informations de votre zone résidentielle pour les questions d'entretien de citoyenneté qui ont des réponses différentes selon l'État.",
+    "selectedState": "État Sélectionné",
+    "setup": "Configuration",
+    "selectStateDescription": "Veuillez sélectionner votre zone résidentielle",
+    "allSettingsDeleted": "Tous les paramètres ont été supprimés.",
+    "delete": "Supprimer",
+    "stateSetupComplete": "Configuration de l'État Terminée",
+    "stateSetupMessage": "L'état {stateName} a été configuré.\nCapitale: {capital}\n\nVeuillez également configurer d'autres informations.",
+    "notSet": "Non configuré",
+    "zipCode": "Code ZIP",
+    "usageGuide": "Guide d'Utilisation",
+    "updatedInfo2025": "Informations Mises à Jour (Édition 2025)",
+    "yearlyChangingInfo": "Informations des bureaux politiques qui changent annuellement.",
+    "currentPresident": "Président Actuel",
+    "currentVicePresident": "Vice-Président Actuel",
+    "currentSpeaker": "Président de la Chambre Actuel",
+    "currentChiefJustice": "Juge en Chef Actuel"
+  },
+  "location": {
+    "error": "Erreur",
+    "zipCodeRequired": "Veuillez entrer un code ZIP à 5 chiffres.",
+    "stateNotFound": "Les informations d'état pour ce code ZIP n'ont pas pu être trouvées.",
+    "loadingInfo": "Chargement des Informations",
+    "zipCodeError": "Veuillez entrer un code ZIP valide à 5 chiffres.",
+    "enterZipCode": "Entrer le Code ZIP",
+    "multipleStatesFound": "Le code ZIP {zipCode} a été trouvé dans plusieurs états : {states}. Veuillez sélectionner un état.",
+    "selectState": "Sélectionner l'État",
+    "multipleRepsMessage": "Plusieurs représentants trouvés pour le code ZIP {zipCode} dans l'état {stateName} :{apiAttribution}\n\n{repList}\n\nVeuillez sélectionner le bon représentant.",
+    "selectRepresentative": "Sélectionner le Représentant",
+    "noRepresentativeFound": "Aucun représentant trouvé pour le code ZIP {zipCode}.",
+    "locationSetupComplete": "Configuration de Localisation Terminée !",
+    "locationSetupMessage": "Vos informations de localisation ont été configurées avec succès.\n\nÉtat : {stateName}\nCode ZIP : {zipCode}\nReprésentant : {representative}",
+    "multipleDistrictsMessage": "a plusieurs districts électoraux",
+    "apiAttribution": "\n\n(Source des données : whoismyrepresentative.com)"
+  },
+  "interview": {
+    "welcomeTitle": "Prêt pour la Citoyenneté ?",
+    "welcomeSubtitle": "Pratiquez, apprenez et réussissez !",
+    "locationSetupTitle": "Configuration des Informations de Localisation",
+    "locationSetupMessage": "Certaines questions de l'entretien de citoyenneté ont des réponses différentes selon votre zone résidentielle.\n\nSouhaitez-vous configurer vos informations de localisation ?",
+    "additionalInfoTitle": "Informations Supplémentaires Nécessaires",
+    "additionalInfoMessage": "Pour des réponses plus précises, veuillez configurer des informations supplémentaires {missingInfo}.",
+    "userSetAnswer": "C'est la réponse que vous avez définie dans vos paramètres de localisation.",
+    "locationSettingRequired": "Certaines questions ont des réponses différentes selon votre emplacement. Veuillez définir votre état dans Ressources et Paramètres.",
+    "additionalInfoRequired": "Pour des réponses plus précises, veuillez configurer les informations {missingInfo} dans Ressources et Paramètres."
+  },
+  "menu": {
+    "resources": "Ressources et Paramètres",
+    "interviewPractice": "Pratique d'Entretien",
+    "learn": {
+      "title": "Apprendre",
+      "subtitle": "Préparez-vous à l'examen de citoyenneté",
+      "storyMode": "Mode Histoire",
+      "storyModeSubtitle": "Histoire d'aventure américaine ★"
+    },
+    "practiceTests": {
+      "title": "Tests d'entraînement",
+      "subtitle": "Vérifiez vos connaissances et identifiez vos faiblesses",
+      "flashcardMode": "Mode flashcards",
+      "flashcardModeSubtitle": "Mémoriser efficacement les 100 questions",
+      "practiceTest": "Test d'entraînement",
+      "practiceTestSubtitle": "10 questions aléatoires",
+      "practiceTestVoice": "Test d'entraînement (avec voix)",
+      "practiceTestVoiceSubtitle": "Test avec synthèse vocale et voix",
+      "weaknessTest": "Test des faiblesses",
+      "weaknessTestSubtitle": "Se concentrer sur les questions ratées",
+      "customTest": "Test personnalisé",
+      "customTestSubtitle": "Choisir les thèmes et le nombre de questions"
+    },
+    "practice": {
+      "title": "Pratiquer",
+      "subtitle": "Passez des entretiens simulés"
+    },
+    "test": {
+      "title": "Passer le Test",
+      "subtitle": "Testez vos connaissances"
+    },
+    "progress": {
+      "title": "Progrès",
+      "subtitle": "Voir vos réalisations"
+    },
+    "sections": {
+      "resources": {
+        "title": "Ressources et Paramètres",
+        "subtitle": "Langue, localisation et autres paramètres"
+      }
+    }
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "confirm": "Confirmer",
+    "yes": "Oui",
+    "no": "Non",
+    "close": "Fermer",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "done": "Terminé",
+    "retry": "Réessayer",
+    "code": "Code"
+  },
+  "questions": {
+    "correctAnswers": "Bonnes Réponses",
+    "question": "Question"
+  },
+  "story": {
+    "loading": "Chargement des histoires...",
+    "loadErrorTitle": "Erreur",
+    "loadErrorMessage": "Échec du chargement des données.",
+    "relatedQuestions": "Questions liées ({count})",
+    "modal": {
+      "title": "Détails de la question",
+      "answersTitleSingular": "Réponse",
+      "answersTitlePlural": "Réponses",
+      "noAnswers": "Aucune réponse"
+    },
+    "languageToggle": {
+      "korean": "Coréen",
+      "english": "Anglais",
+      "original": "Original"
+    },
+    "chapter": "Chapitre {number}"
+  },
+  "disclaimer": {
+    "text": "Cette application n'est affiliée à aucune agence gouvernementale et n'est pas approuvée par celle-ci. C'est un outil indépendant conçu pour vous aider à vous préparer à l'entretien de citoyenneté."
+  }
+}

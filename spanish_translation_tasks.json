@@ -1,0 +1,2270 @@
+[
+  {
+    "id": 8,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "declared our independence (from Great Britain)"
+  },
+  {
+    "id": 8,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "The Declaration formally declared the colonies' independence from British rule."
+  },
+  {
+    "id": 9,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "liberty"
+  },
+  {
+    "id": 9,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "Liberty is one of the three unalienable rights listed in the Declaration of Independence."
+  },
+  {
+    "id": 9,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "pursuit of happiness"
+  },
+  {
+    "id": 9,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "The pursuit of happiness is one of the three unalienable rights listed in the Declaration of Independence."
+  },
+  {
+    "id": 12,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "No one is above the law"
+  },
+  {
+    "id": 12,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "This phrase best summarizes the core principle of the rule of law."
+  },
+  {
+    "id": 12,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "Government must obey the law"
+  },
+  {
+    "id": 12,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": "The government itself is also bound by the law and cannot act outside its legal authority."
+  },
+  {
+    "id": 13,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "President (executive)"
+  },
+  {
+    "id": 13,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "the courts (judicial)"
+  },
+  {
+    "id": 13,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "The courts are the judicial branch, which interprets and applies laws."
+  },
+  {
+    "id": 16,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "Senate and House (of Representatives)"
+  },
+  {
+    "id": 16,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "(U.S. or national) legislature"
+  },
+  {
+    "id": 25,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "(because) they have more people"
+  },
+  {
+    "id": 25,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "States with larger populations get more representatives in the House."
+  },
+  {
+    "id": 25,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "(because) some states have more people"
+  },
+  {
+    "id": 31,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "The Speaker of the House is third in the line of presidential succession."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Secretary of State"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "The Secretary of State is a key cabinet member responsible for foreign policy."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "Secretary of the Treasury"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "The Secretary of the Treasury is responsible for the nation's financial and economic policy."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "Secretary of Defense"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "The Secretary of Defense oversees military and defense policy."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "Attorney General"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": "The Attorney General is the head of the Department of Justice and the chief law enforcement officer."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "text",
+    "text": "Secretary of Agriculture"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "rationale",
+    "text": "The Secretary of Agriculture oversees farming, food safety, and rural development policies."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 5,
+    "field": "text",
+    "text": "Secretary of Commerce"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 5,
+    "field": "rationale",
+    "text": "The Secretary of Commerce promotes economic growth and trade."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 6,
+    "field": "text",
+    "text": "Secretary of Education"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 6,
+    "field": "rationale",
+    "text": "The Secretary of Education oversees federal education policy and programs."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 7,
+    "field": "text",
+    "text": "Secretary of Energy"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 7,
+    "field": "rationale",
+    "text": "The Secretary of Energy manages energy policy and nuclear security."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 8,
+    "field": "text",
+    "text": "Secretary of Health and Human Services"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 8,
+    "field": "rationale",
+    "text": "The Secretary of Health and Human Services oversees health and welfare programs."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 9,
+    "field": "text",
+    "text": "Secretary of Homeland Security"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 9,
+    "field": "rationale",
+    "text": "The Secretary of Homeland Security protects the nation from security threats."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 10,
+    "field": "text",
+    "text": "Secretary of Housing and Urban Development"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 10,
+    "field": "rationale",
+    "text": "The Secretary of Housing and Urban Development oversees housing and urban development policies."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 11,
+    "field": "text",
+    "text": "Secretary of the Interior"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 11,
+    "field": "rationale",
+    "text": "The Secretary of the Interior manages public lands and natural resources."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 12,
+    "field": "text",
+    "text": "Secretary of Labor"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 12,
+    "field": "rationale",
+    "text": "The Secretary of Labor oversees workplace safety and labor relations."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 13,
+    "field": "text",
+    "text": "Secretary of Transportation"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 13,
+    "field": "rationale",
+    "text": "The Secretary of Transportation oversees transportation infrastructure and safety."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 14,
+    "field": "text",
+    "text": "Secretary of Veterans Affairs"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 14,
+    "field": "rationale",
+    "text": "The Secretary of Veterans Affairs provides services to military veterans."
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 15,
+    "field": "text",
+    "text": "Vice President"
+  },
+  {
+    "id": 36,
+    "type": "correctAnswer",
+    "index": 15,
+    "field": "rationale",
+    "text": "The Vice President is also considered a Cabinet-level position."
+  },
+  {
+    "id": 37,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "reviews laws"
+  },
+  {
+    "id": 37,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "The judicial branch reviews laws to ensure they are constitutional."
+  },
+  {
+    "id": 37,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "explains laws"
+  },
+  {
+    "id": 37,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "The judicial branch interprets the meaning of laws and applies them to specific cases."
+  },
+  {
+    "id": 37,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "resolves disputes"
+  },
+  {
+    "id": 37,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "It resolves legal disputes by making rulings."
+  },
+  {
+    "id": 37,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": "The judicial branch has the power of judicial review to determine if laws are constitutional."
+  },
+  {
+    "id": 40,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "John Roberts"
+  },
+  {
+    "id": 40,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "John G. Roberts, Jr. is the 17th and current Chief Justice."
+  },
+  {
+    "id": 41,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "to print money"
+  },
+  {
+    "id": 41,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "Printing money is an exclusive power of the federal government."
+  },
+  {
+    "id": 41,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "to declare war"
+  },
+  {
+    "id": 41,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "to create an army"
+  },
+  {
+    "id": 41,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "Creating and maintaining an army for national defense is a role of the federal government."
+  },
+  {
+    "id": 41,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "to make treaties"
+  },
+  {
+    "id": 41,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": "Making official treaties with other countries is a power of the federal government."
+  },
+  {
+    "id": 42,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "provide schooling and education"
+  },
+  {
+    "id": 42,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "Education policy and school operation are primarily the responsibility of the states."
+  },
+  {
+    "id": 42,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "provide protection (police)"
+  },
+  {
+    "id": 42,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "Maintaining public order by operating state and local police is a state power."
+  },
+  {
+    "id": 42,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "give a driver's license"
+  },
+  {
+    "id": 42,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "Each state sets its own standards and procedures for issuing driver's licenses."
+  },
+  {
+    "id": 42,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "provide safety (fire departments)"
+  },
+  {
+    "id": 42,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": "Fire protection and safety services are typically provided by state and local governments."
+  },
+  {
+    "id": 42,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "text",
+    "text": "approve zoning and land use"
+  },
+  {
+    "id": 42,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "rationale",
+    "text": "States have the authority to regulate land use and zoning within their boundaries."
+  },
+  {
+    "id": 45,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Democratic and Republican"
+  },
+  {
+    "id": 45,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "The Democratic and Republican parties are the two major parties that dominate U.S. politics today."
+  },
+  {
+    "id": 46,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Republican (Party)"
+  },
+  {
+    "id": 46,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "President Donald Trump is a member of the Republican Party. (As of July 2025)"
+  },
+  {
+    "id": 47,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Mike Johnson"
+  },
+  {
+    "id": 48,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "The 26th Amendment lowered the voting age to 18."
+  },
+  {
+    "id": 48,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "Any citizen can vote. (Women and men can vote.)"
+  },
+  {
+    "id": 49,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "serve on a jury"
+  },
+  {
+    "id": 49,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "Jury duty is a key responsibility reserved for U.S. citizens."
+  },
+  {
+    "id": 49,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "vote in a federal election"
+  },
+  {
+    "id": 49,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "Voting in a federal election is both a right and a key responsibility of a citizen."
+  },
+  {
+    "id": 50,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "vote in a federal election"
+  },
+  {
+    "id": 50,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "Voting in federal elections is a right exclusive to citizens."
+  },
+  {
+    "id": 50,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "run for federal office"
+  },
+  {
+    "id": 50,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "The right to run for federal office, such as President, Senator, or Representative, is reserved for citizens."
+  },
+  {
+    "id": 51,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "freedom of expression"
+  },
+  {
+    "id": 51,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "freedom of speech"
+  },
+  {
+    "id": 51,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "freedom of assembly"
+  },
+  {
+    "id": 51,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "text",
+    "text": "freedom of religion"
+  },
+  {
+    "id": 51,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "rationale",
+    "text": "Everyone in the U.S. has the right to practice any religion or no religion."
+  },
+  {
+    "id": 51,
+    "type": "correctAnswer",
+    "index": 5,
+    "field": "text",
+    "text": "the right to bear arms"
+  },
+  {
+    "id": 51,
+    "type": "correctAnswer",
+    "index": 5,
+    "field": "rationale",
+    "text": "The Second Amendment protects the right to keep and bear arms."
+  },
+  {
+    "id": 52,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "the flag"
+  },
+  {
+    "id": 53,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "This is a core part of the Oath of Allegiance."
+  },
+  {
+    "id": 53,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "serve in the U.S. military (if needed)"
+  },
+  {
+    "id": 53,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "give up loyalty to other countries"
+  },
+  {
+    "id": 53,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": "The Oath of Allegiance includes renouncing allegiance to foreign states."
+  },
+  {
+    "id": 53,
+    "type": "correctAnswer",
+    "index": 5,
+    "field": "text",
+    "text": "serve (do important work for) the nation (if needed)"
+  },
+  {
+    "id": 54,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "eighteen (18) and older"
+  },
+  {
+    "id": 54,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "The 26th Amendment set the national voting age at 18."
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "vote"
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "join a political party"
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "help with a campaign"
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "text",
+    "text": "join a community group"
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "rationale",
+    "text": "Community groups help citizens address local concerns and issues."
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 5,
+    "field": "text",
+    "text": "give an elected official your opinion on an issue"
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 5,
+    "field": "rationale",
+    "text": "Contacting elected officials is an important way to make your voice heard."
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 6,
+    "field": "text",
+    "text": "call Senators and Representatives"
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 6,
+    "field": "rationale",
+    "text": "Calling your representatives is a direct way to participate in democracy."
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 7,
+    "field": "text",
+    "text": "publicly support or oppose an issue or policy"
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 7,
+    "field": "rationale",
+    "text": "Public advocacy is a key democratic participation method."
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 8,
+    "field": "text",
+    "text": "run for office"
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 8,
+    "field": "rationale",
+    "text": "Running for office is one of the most direct ways to participate in democracy."
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 9,
+    "field": "text",
+    "text": "write to a newspaper"
+  },
+  {
+    "id": 55,
+    "type": "correctAnswer",
+    "index": 9,
+    "field": "rationale",
+    "text": "Writing letters to newspapers helps share your views with the community."
+  },
+  {
+    "id": 56,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "April 15"
+  },
+  {
+    "id": 56,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "The typical deadline for filing taxes is April 15. (It can be extended if it falls on a weekend or holiday)."
+  },
+  {
+    "id": 57,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "at age eighteen (18)"
+  },
+  {
+    "id": 57,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "Registration must happen within 30 days of turning 18."
+  },
+  {
+    "id": 57,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "between eighteen (18) and twenty-six (26)"
+  },
+  {
+    "id": 57,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "While registration should happen at 18, it is possible to register up until age 26."
+  },
+  {
+    "id": 58,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "economic opportunity"
+  },
+  {
+    "id": 58,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "text",
+    "text": "practice their religion"
+  },
+  {
+    "id": 58,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "rationale",
+    "text": "Religious practice was a major motivation for many colonists."
+  },
+  {
+    "id": 58,
+    "type": "correctAnswer",
+    "index": 5,
+    "field": "text",
+    "text": "escape persecution"
+  },
+  {
+    "id": 58,
+    "type": "correctAnswer",
+    "index": 5,
+    "field": "rationale",
+    "text": "Many colonists fled persecution in their home countries."
+  },
+  {
+    "id": 59,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 59,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "Native Americans"
+  },
+  {
+    "id": 59,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 60,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Africans"
+  },
+  {
+    "id": 60,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "people from Africa"
+  },
+  {
+    "id": 61,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "because of high taxes (taxation without representation)"
+  },
+  {
+    "id": 61,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "They were angered by taxes imposed upon them without having their own representatives in the British Parliament."
+  },
+  {
+    "id": 61,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "because the British army stayed in their houses"
+  },
+  {
+    "id": 61,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "The Quartering Act required colonists to house and feed British soldiers."
+  },
+  {
+    "id": 61,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "because they didn’t have self-government"
+  },
+  {
+    "id": 61,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "The colonists wanted to govern themselves and be free from the unilateral rule of the British government."
+  },
+  {
+    "id": 62,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "(Thomas) Jefferson"
+  },
+  {
+    "id": 62,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "Thomas Jefferson was the principal author of the Declaration of Independence."
+  },
+  {
+    "id": 63,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "July 4, 1776"
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "New Hampshire was one of the original 13 colonies."
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "Massachusetts was one of the original 13 colonies."
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "Rhode Island was one of the original 13 colonies."
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": "Connecticut was one of the original 13 colonies."
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "text",
+    "text": "New York"
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "rationale",
+    "text": "New York was one of the original 13 colonies."
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 5,
+    "field": "text",
+    "text": "New Jersey"
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 5,
+    "field": "rationale",
+    "text": "New Jersey was one of the original 13 colonies."
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 6,
+    "field": "text",
+    "text": "Pennsylvania"
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 6,
+    "field": "rationale",
+    "text": "Pennsylvania was one of the original 13 colonies."
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 7,
+    "field": "text",
+    "text": "Delaware"
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 7,
+    "field": "rationale",
+    "text": "Delaware was one of the original 13 colonies."
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 8,
+    "field": "text",
+    "text": "Maryland"
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 8,
+    "field": "rationale",
+    "text": "Maryland was one of the original 13 colonies."
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 9,
+    "field": "text",
+    "text": "Virginia"
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 9,
+    "field": "rationale",
+    "text": "Virginia was one of the original 13 colonies."
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 10,
+    "field": "text",
+    "text": "North Carolina"
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 10,
+    "field": "rationale",
+    "text": "North Carolina was one of the original 13 colonies."
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 11,
+    "field": "text",
+    "text": "South Carolina"
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 11,
+    "field": "rationale",
+    "text": "South Carolina was one of the original 13 colonies."
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 12,
+    "field": "text",
+    "text": "Georgia"
+  },
+  {
+    "id": 64,
+    "type": "correctAnswer",
+    "index": 12,
+    "field": "rationale",
+    "text": "Georgia was one of the original 13 colonies."
+  },
+  {
+    "id": 66,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "1787"
+  },
+  {
+    "id": 67,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "(James) Madison"
+  },
+  {
+    "id": 67,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "(Alexander) Hamilton"
+  },
+  {
+    "id": 67,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "(John) Jay"
+  },
+  {
+    "id": 67,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "Publius"
+  },
+  {
+    "id": 68,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "U.S. diplomat"
+  },
+  {
+    "id": 68,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "oldest member of the Constitutional Convention"
+  },
+  {
+    "id": 68,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "writer of \"Poor Richard's Almanac\""
+  },
+  {
+    "id": 68,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": "Franklin published Poor Richard's Almanac, which contained weather forecasts, household hints, and proverbs."
+  },
+  {
+    "id": 68,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "text",
+    "text": "started the first free libraries"
+  },
+  {
+    "id": 69,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "(George) Washington"
+  },
+  {
+    "id": 69,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "He is called the 'Father of His Country' for his leadership in the Revolutionary War and for establishing the new nation."
+  },
+  {
+    "id": 70,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "(George) Washington"
+  },
+  {
+    "id": 71,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "the Louisiana Territory"
+  },
+  {
+    "id": 71,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "Louisiana"
+  },
+  {
+    "id": 71,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "The Louisiana Territory was purchased from France in 1803."
+  },
+  {
+    "id": 73,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "the Civil War"
+  },
+  {
+    "id": 73,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 73,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "the War between the States"
+  },
+  {
+    "id": 73,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "This was a term commonly used in the Southern states."
+  },
+  {
+    "id": 74,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "slavery"
+  },
+  {
+    "id": 74,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "The existence of slavery was the most fundamental and central cause of the conflict between the North and South."
+  },
+  {
+    "id": 74,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "economic reasons"
+  },
+  {
+    "id": 74,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "There were significant economic differences and conflicts between the industrial North and the agricultural South."
+  },
+  {
+    "id": 74,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "states' rights"
+  },
+  {
+    "id": 74,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "There was a major debate over states' rights to decide their own issues versus the power of the federal government."
+  },
+  {
+    "id": 75,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "freed the slaves (Emancipation Proclamation)"
+  },
+  {
+    "id": 75,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "During the war, he issued the Emancipation Proclamation, which freed slaves in the Confederacy."
+  },
+  {
+    "id": 75,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "saved (or preserved) the Union"
+  },
+  {
+    "id": 75,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "He led the Union as President during the nation's greatest crisis, the Civil War."
+  },
+  {
+    "id": 76,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "freed the slaves"
+  },
+  {
+    "id": 76,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "The Emancipation Proclamation declared freedom for enslaved people."
+  },
+  {
+    "id": 76,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "freed slaves in the Confederacy"
+  },
+  {
+    "id": 76,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "Specifically, it freed slaves in the states that were in rebellion (the Confederacy)."
+  },
+  {
+    "id": 76,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "freed slaves in the Confederate states"
+  },
+  {
+    "id": 76,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "The proclamation applied to slaves in states that had seceded from the Union."
+  },
+  {
+    "id": 76,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "freed slaves in most Southern states"
+  },
+  {
+    "id": 76,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": "It freed slaves in the rebellious Southern states during the Civil War."
+  },
+  {
+    "id": 77,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "fought for women's rights"
+  },
+  {
+    "id": 77,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "She was a pivotal leader in the women's suffrage movement."
+  },
+  {
+    "id": 77,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "fought for civil rights"
+  },
+  {
+    "id": 77,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "Women's rights are part of the broader civil rights movement."
+  },
+  {
+    "id": 77,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "fought for women's suffrage"
+  },
+  {
+    "id": 77,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "She was a leader in the movement to secure voting rights for women."
+  },
+  {
+    "id": 78,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "World War I"
+  },
+  {
+    "id": 78,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "World War II"
+  },
+  {
+    "id": 78,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "Korean War"
+  },
+  {
+    "id": 78,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "This war began in 1950."
+  },
+  {
+    "id": 78,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "Vietnam War"
+  },
+  {
+    "id": 78,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": "This war took place during the 1960s and 1970s."
+  },
+  {
+    "id": 78,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "text",
+    "text": "(Persian) Gulf War"
+  },
+  {
+    "id": 78,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "rationale",
+    "text": "This war took place in 1991."
+  },
+  {
+    "id": 79,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "(Woodrow) Wilson"
+  },
+  {
+    "id": 80,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "(Franklin) Roosevelt"
+  },
+  {
+    "id": 80,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "Franklin D. Roosevelt led the country through these two national crises."
+  },
+  {
+    "id": 81,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Japan, Germany, and Italy"
+  },
+  {
+    "id": 81,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "These three countries formed the Axis powers."
+  },
+  {
+    "id": 81,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "Japan"
+  },
+  {
+    "id": 81,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "Japan was a major Axis power that the U.S. fought against."
+  },
+  {
+    "id": 81,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "Germany"
+  },
+  {
+    "id": 81,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "Germany was a major Axis power that the U.S. fought against."
+  },
+  {
+    "id": 81,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "Italy"
+  },
+  {
+    "id": 81,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": "Italy was an Axis power that the U.S. fought against."
+  },
+  {
+    "id": 82,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "World War II"
+  },
+  {
+    "id": 82,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "Dwight D. Eisenhower was the Supreme Commander of the Allied Expeditionary Force in Europe during World War II."
+  },
+  {
+    "id": 83,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Communism"
+  },
+  {
+    "id": 83,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "After World War II, the main focus of U.S. foreign policy was containing the spread of Communism, led by the Soviet Union."
+  },
+  {
+    "id": 84,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "civil rights (movement)"
+  },
+  {
+    "id": 84,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "The civil rights movement of the 1950s and 1960s worked to end legal and social discrimination against African Americans."
+  },
+  {
+    "id": 85,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "fought for civil rights"
+  },
+  {
+    "id": 85,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "worked for equality for all Americans"
+  },
+  {
+    "id": 86,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "On this day, al-Qaeda terrorists hijacked airplanes and attacked the World Trade Center, the Pentagon, and other sites."
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Cherokee"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "Navajo"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "Sioux"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "text",
+    "text": "Choctaw"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 5,
+    "field": "text",
+    "text": "Pueblo"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 6,
+    "field": "text",
+    "text": "Apache"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 7,
+    "field": "text",
+    "text": "Iroquois"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 8,
+    "field": "text",
+    "text": "Creek"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 9,
+    "field": "text",
+    "text": "Blackfeet"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 10,
+    "field": "text",
+    "text": "Seminole"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 11,
+    "field": "text",
+    "text": "Cheyenne"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 12,
+    "field": "text",
+    "text": "Arawak"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 13,
+    "field": "text",
+    "text": "Shawnee"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 14,
+    "field": "text",
+    "text": "Mohegan"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 15,
+    "field": "text",
+    "text": "Huron"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 16,
+    "field": "text",
+    "text": "Oneida"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 17,
+    "field": "text",
+    "text": "Lakota"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 18,
+    "field": "text",
+    "text": "Crow"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 19,
+    "field": "text",
+    "text": "Teton"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 19,
+    "field": "rationale",
+    "text": "The Teton are a division of the Lakota Sioux tribe."
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 20,
+    "field": "text",
+    "text": "Hopi"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 21,
+    "field": "text",
+    "text": "Inuit"
+  },
+  {
+    "id": 87,
+    "type": "correctAnswer",
+    "index": 21,
+    "field": "rationale",
+    "text": "The Inuit are indigenous peoples from Alaska and the Arctic regions."
+  },
+  {
+    "id": 88,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Missouri (River)"
+  },
+  {
+    "id": 88,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "Mississippi (River)"
+  },
+  {
+    "id": 89,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Pacific (Ocean)"
+  },
+  {
+    "id": 89,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "California, Oregon, and Washington are on the Pacific Ocean."
+  },
+  {
+    "id": 90,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Atlantic (Ocean)"
+  },
+  {
+    "id": 90,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "New York, Florida, and Maine are on the Atlantic Ocean."
+  },
+  {
+    "id": 91,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Puerto Rico"
+  },
+  {
+    "id": 91,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 91,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "Guam"
+  },
+  {
+    "id": 91,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 91,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "U.S. Virgin Islands"
+  },
+  {
+    "id": 91,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 91,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 91,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "text",
+    "text": "Northern Mariana Islands"
+  },
+  {
+    "id": 91,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 92,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Washington"
+  },
+  {
+    "id": 92,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 92,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "Alaska"
+  },
+  {
+    "id": 92,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 92,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "New York"
+  },
+  {
+    "id": 92,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 92,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "Montana"
+  },
+  {
+    "id": 92,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 93,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "California"
+  },
+  {
+    "id": 93,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 93,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "Arizona"
+  },
+  {
+    "id": 93,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 93,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "New Mexico"
+  },
+  {
+    "id": 93,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 93,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "Texas"
+  },
+  {
+    "id": 93,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 94,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Washington, D.C."
+  },
+  {
+    "id": 94,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "D.C. stands for District of Columbia."
+  },
+  {
+    "id": 95,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "New York (Harbor)"
+  },
+  {
+    "id": 95,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "The Statue of Liberty is located in New York Harbor."
+  },
+  {
+    "id": 95,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "Liberty Island"
+  },
+  {
+    "id": 95,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "Specifically, it is located on Liberty Island in New York Harbor."
+  },
+  {
+    "id": 95,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "New Jersey"
+  },
+  {
+    "id": 95,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": "Liberty Island is technically in New Jersey waters, though administered by New York."
+  },
+  {
+    "id": 95,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "near New York City"
+  },
+  {
+    "id": 95,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": "The Statue of Liberty is located near New York City in the harbor."
+  },
+  {
+    "id": 95,
+    "type": "correctAnswer",
+    "index": 4,
+    "field": "text",
+    "text": "on the Hudson (River)"
+  },
+  {
+    "id": 96,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "because there were 13 original colonies"
+  },
+  {
+    "id": 96,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "The 13 stripes represent the 13 original colonies that declared independence."
+  },
+  {
+    "id": 96,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "because of the 13 original states"
+  },
+  {
+    "id": 96,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": "The 13 stripes represent the 13 original states that formed the Union."
+  },
+  {
+    "id": 97,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "because there are 50 states"
+  },
+  {
+    "id": 97,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "Each star represents one of the states of the Union."
+  },
+  {
+    "id": 98,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "The Star-Spangled Banner"
+  },
+  {
+    "id": 98,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "The lyrics come from a poem written by Francis Scott Key during the War of 1812."
+  },
+  {
+    "id": 99,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "July 4"
+  },
+  {
+    "id": 99,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": "This commemorates the adoption of the Declaration of Independence on July 4, 1776."
+  },
+  {
+    "id": 100,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "text",
+    "text": "Christmas"
+  },
+  {
+    "id": 100,
+    "type": "correctAnswer",
+    "index": 0,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 100,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "text",
+    "text": "Thanksgiving"
+  },
+  {
+    "id": 100,
+    "type": "correctAnswer",
+    "index": 1,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 100,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "text",
+    "text": "Independence Day"
+  },
+  {
+    "id": 100,
+    "type": "correctAnswer",
+    "index": 2,
+    "field": "rationale",
+    "text": ""
+  },
+  {
+    "id": 100,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "text",
+    "text": "New Year's Day"
+  },
+  {
+    "id": 100,
+    "type": "correctAnswer",
+    "index": 3,
+    "field": "rationale",
+    "text": ""
+  }
+]

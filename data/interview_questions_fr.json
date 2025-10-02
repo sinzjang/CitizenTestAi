@@ -1,0 +1,3082 @@
+[
+  {
+    "id": 1,
+    "question": "Quelle est la loi suprême du pays ?",
+    "correctAnswers": [
+      {
+        "text": "la Constitution",
+        "rationale": "La Constitution est la loi fondamentale et suprême du gouvernement des États-Unis."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "la Déclaration d'indépendance",
+        "rationale": "La Déclaration d'indépendance est un document crucial qui a déclaré l'indépendance, mais ce n'est pas une loi."
+      },
+      {
+        "text": "la Déclaration des droits",
+        "rationale": "La Déclaration des droits fait partie de la Constitution (les 10 premiers amendements), pas toute la loi suprême."
+      },
+      {
+        "text": "les Papiers fédéralistes",
+        "rationale": "Les Papiers fédéralistes étaient une série d'essais écrits pour persuader les gens de ratifier la Constitution."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Que fait la Constitution ?",
+    "correctAnswers": [
+      {
+        "text": "établit le gouvernement",
+        "rationale": "L'une des principales fonctions de la Constitution est d'établir et de définir le gouvernement."
+      },
+      {
+        "text": "définit le gouvernement",
+        "rationale": "La Constitution précise les pouvoirs et responsabilités de chaque branche du gouvernement."
+      },
+      {
+        "text": "protège les droits fondamentaux des Américains",
+        "rationale": "Plusieurs amendements, y compris la Déclaration des droits, protègent les droits fondamentaux des citoyens."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "élit le président, fait les lois, perçoit les impôts",
+        "rationale": "La Constitution décrit le processus d'élection d'un président, mais elle n'élit pas le président elle-même. Les lois sont faites par le Congrès, non directement par la Constitution. La perception des impôts est un pouvoir accordé au Congrès par la Constitution, et non une action de la Constitution elle-même."
+      },
+      {
+        "text": "applique les lois, commande l'armée, négocie des traités",
+        "rationale": "Ce sont des pouvoirs de l'exécutif qui sont accordés par la Constitution, mais ce n'est pas ce que fait la Constitution elle-même."
+      },
+      {
+        "text": "interprète les lois, résout les différends, examine les affaires judiciaires",
+        "rationale": "Ce sont des fonctions du pouvoir judiciaire établies par la Constitution, mais elles ne sont pas des actions directes de la Constitution elle-même."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "L'idée d'autonomie gouvernementale se trouve dans les trois premiers mots de la Constitution. Quels sont ces mots ?",
+    "correctAnswers": [
+      {
+        "text": "Nous, le peuple",
+        "rationale": "Ces mots symbolisent que le pouvoir du gouvernement vient du peuple."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Quatre-vingts et",
+        "rationale": "Ceci est le début du discours de Gettysburg de Lincoln."
+      },
+      {
+        "text": "Le Congrès fera",
+        "rationale": "C'est une phrase de l'article I de la Constitution."
+      },
+      {
+        "text": "Je fais serment d'allégeance",
+        "rationale": "Ceci est le début du serment d'allégeance."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qu'est-ce qu'un amendement ?",
+    "correctAnswers": [
+      {
+        "text": "un changement",
+        "rationale": "Un amendement est un changement à la Constitution."
+      },
+      {
+        "text": "un ajout",
+        "rationale": "Un amendement est un ajout à la Constitution."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "une nouvelle loi, une décision de la Cour suprême",
+        "rationale": "Une nouvelle loi est créée par le Congrès et est différente d'un amendement, qui modifie la Constitution elle-même. Une décision de la Cour suprême interprète la loi, mais ne change pas directement le texte de la Constitution."
+      },
+      {
+        "text": "un traité, un accord exécutif",
+        "rationale": "Un traité est un accord international qui nécessite l'approbation du Sénat mais ne modifie pas la Constitution. Un accord exécutif est conclu par le président avec des nations étrangères sans l'approbation du Sénat."
+      },
+      {
+        "text": "une loi d'État, un règlement fédéral",
+        "rationale": "Une loi d'État s'applique uniquement dans cet État et ne peut pas modifier la Constitution fédérale. Un règlement fédéral est une règle établie par des agences fédérales pour mettre en œuvre les lois, mais il ne peut pas modifier la Constitution."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Comment appelons-nous les dix premiers amendements à la Constitution ?",
+    "correctAnswers": [
+      {
+        "text": "la Déclaration des droits",
+        "rationale": "Ces dix amendements garantissent des droits et libertés individuels fondamentaux."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "la Déclaration d'indépendance",
+        "rationale": "La Déclaration d'indépendance, de 1776, a déclaré l'indépendance et n'est pas un ensemble d'amendements constitutionnels."
+      },
+      {
+        "text": "les Papiers fédéralistes",
+        "rationale": "Les Papiers fédéralistes étaient une série d'essais écrits pour persuader les gens de ratifier la Constitution."
+      },
+      {
+        "text": "la Proclamation d'émancipation",
+        "rationale": "La Proclamation d'émancipation était un ordre exécutif de Lincoln qui a libéré les esclaves dans la Confédération."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Quel est un droit ou une liberté du Premier Amendement ?",
+    "correctAnswers": [
+      {
+        "text": "liberté de religion",
+        "rationale": "Le Premier Amendement interdit au gouvernement d'interférer avec le choix religieux d'un individu."
+      },
+      {
+        "text": "liberté d'expression",
+        "rationale": "Le Premier Amendement interdit au gouvernement de supprimer indûment l'expression individuelle."
+      },
+      {
+        "text": "liberté de réunion",
+        "rationale": "Les gens ont le droit de se rassembler pacifiquement et de partager leurs opinions."
+      },
+      {
+        "text": "liberté de la presse",
+        "rationale": "C'est le droit d'imprimer et de distribuer des informations sans censure préalable du gouvernement."
+      },
+      {
+        "text": "liberté de pétitionner le gouvernement",
+        "rationale": "Les citoyens ont le droit de demander des changements dans la politique gouvernementale."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "le droit de vote, le droit de porter des armes, le droit au processus équitable, le droit à la protection égale, le droit à la vie privée",
+        "rationale": "Le droit de vote est protégé par d'autres amendements (15e, 19e, 26e), pas par le Premier. Le droit de porter des armes est protégé par le Deuxième Amendement. Le processus équitable est garanti par les 5e et 14e Amendements. La protection égale est fournie par le 14e Amendement. Les droits à la vie privée sont dérivés de divers amendements mais ne sont pas explicitement énoncés dans le Premier."
+      },
+      {
+        "text": "le droit à un procès devant un jury, le droit de ne pas s'auto-incriminer, le droit à un avocat, le droit à un procès rapide, le droit de confronter les témoins",
+        "rationale": "Tous ces droits sont garantis par les 6e, 7e et 8e Amendements liés à la justice pénale et aux procédures judiciaires, et non par le Premier Amendement qui se concentre sur les libertés fondamentales d'expression et de croyance."
+      },
+      {
+        "text": "le droit de voyager entre les États, le droit de se marier, le droit au travail, le droit à l'éducation, le droit aux soins de santé",
+        "rationale": "Le voyage interétatique est implicite dans la Constitution mais pas dans le Premier Amendement. Les droits au mariage sont dérivés de diverses interprétations judiciaires. Les droits au travail, à l'éducation et aux soins de santé ne sont pas explicitement garantis par la Constitution et certainement pas par le Premier Amendement."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Combien d'amendements la Constitution comporte-t-elle ?",
+    "correctAnswers": [
+      {
+        "text": "Vingt-sept (27)",
+        "rationale": "Après la Déclaration des droits en 1791, 17 autres ont été ajoutés, pour un total de 27."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dix (10)",
+        "rationale": "Dix est le nombre d'amendements dans la Déclaration des droits."
+      },
+      {
+        "text": "Cinquante (50)",
+        "rationale": "Cinquante est le nombre d'États aux États-Unis."
+      },
+      {
+        "text": "Treize (13)",
+        "rationale": "Treize est le nombre de colonies originales (États) lors de la fondation des États-Unis."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qu'a fait la Déclaration d'indépendance ?",
+    "correctAnswers": [
+      {
+        "text": "a annoncé notre indépendance (de la Grande-Bretagne)",
+        "rationale": "Elle a annoncé au monde que les colonies n'étaient plus sous domination britannique."
+      },
+      {
+        "text": "a déclaré notre indépendance (de la Grande-Bretagne)",
+        "rationale": "Elle a déclaré formellement que les colonies étaient indépendantes de la Grande-Bretagne."
+      },
+      {
+        "text": "a dit que les États-Unis sont libres (de la Grande-Bretagne)",
+        "rationale": "Elle a indiqué que les colonies étaient libres et non plus soumises à l'autorité britannique."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "a donné aux femmes le droit de vote",
+        "rationale": "Le droit de vote des femmes a été accordé par le 19e amendement, ratifié en 1920."
+      },
+      {
+        "text": "a libéré les esclaves",
+        "rationale": "Les esclaves ont été libérés par la Proclamation d'émancipation de Lincoln en 1863 et plus tard par le 13e amendement."
+      },
+      {
+        "text": "a créé la Constitution",
+        "rationale": "La Constitution a été créée plus tard, lors de la Convention constitutionnelle de 1787."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Quels sont deux droits dans la Déclaration d'indépendance ?",
+    "correctAnswers": [
+      {
+        "text": "la vie",
+        "rationale": "La vie est l'un des trois droits inaliénables énoncés dans la Déclaration d'indépendance."
+      },
+      {
+        "text": "la liberté",
+        "rationale": "La liberté est l'un des trois droits inaliénables énoncés dans la Déclaration d'indépendance."
+      },
+      {
+        "text": "la poursuite du bonheur",
+        "rationale": "La poursuite du bonheur est l'un des trois droits inaliénables énoncés dans la Déclaration d'indépendance."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "la liberté d'expression et de religion",
+        "rationale": "La liberté d'expression et de religion sont des droits énoncés dans la Déclaration des droits (le Premier Amendement)."
+      },
+      {
+        "text": "le droit de voter et de se présenter à une élection",
+        "rationale": "Ce sont des droits importants pour les citoyens américains, mais ils sont définis par la Constitution, pas par la Déclaration d'indépendance."
+      },
+      {
+        "text": "le droit de posséder des biens et à l'éducation",
+        "rationale": "Ce sont des droits importants, mais ce ne sont pas les trois droits inaliénables fondamentaux mentionnés dans la Déclaration."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Qu'est-ce que la liberté de religion ?",
+    "correctAnswers": [
+      {
+        "text": "Vous pouvez pratiquer n'importe quelle religion ou ne pratiquer aucune religion",
+        "rationale": "Les États-Unis n'ont pas de religion d'État, et le gouvernement ne peut pas interférer avec le choix d'un individu."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Vous ne pouvez pratiquer que le christianisme",
+        "rationale": "Les États-Unis n'ont pas de religion officielle et garantissent la liberté pour toutes les religions ou aucune."
+      },
+      {
+        "text": "Vous devez pratiquer une religion approuvée par le gouvernement",
+        "rationale": "C'est incorrect ; l'approbation du gouvernement n'est pas nécessaire et violerait le principe de la liberté religieuse."
+      },
+      {
+        "text": "Vous devez payer une taxe sur vos activités religieuses",
+        "rationale": "Les activités religieuses sont généralement exonérées d'impôt, car les taxer pourrait restreindre la liberté religieuse."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Quel est le système économique aux États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "économie capitaliste",
+        "rationale": "Les États-Unis fonctionnent sous une économie capitaliste, fondée sur la propriété privée et les marchés libres."
+      },
+      {
+        "text": "économie de marché",
+        "rationale": "Une économie de marché, où les prix sont déterminés par l'offre et la demande, décrit également le système économique des États-Unis."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "économie socialiste, économie communiste",
+        "rationale": "Une économie socialiste implique la propriété étatique ou communautaire des moyens de production, ce qui diffère du modèle américain de propriété privée. Une économie communiste se caractérise par la propriété partagée et le contrôle total de l'État sur la production et la distribution, ce qui est l'opposé du système de libre marché américain."
+      },
+      {
+        "text": "économie mercantiliste, économie féodale",
+        "rationale": "Le mercantilisme était une politique européenne des XVIe-XVIIIe siècles où l'État contrôlait le commerce pour accumuler des richesses, contrairement à l'approche américaine de libre-échange. Une économie féodale reposait sur la propriété foncière et les obligations de travail agricole, ce qui est fondamentalement différent des systèmes capitalistes modernes."
+      },
+      {
+        "text": "économie dirigée, économie planifiée",
+        "rationale": "Une économie dirigée est entièrement contrôlée par le gouvernement, qui décide quoi produire et distribuer, contrairement au système américain axé sur le marché. Une économie planifiée implique une planification centrale de toute l'activité économique par le gouvernement, ce qui contraste avec le système américain où les forces du marché déterminent les décisions économiques."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qu'est-ce que \"l'État de droit\" ?",
+    "correctAnswers": [
+      {
+        "text": "Tout le monde doit obéir à la loi",
+        "rationale": "L'État de droit est le principe selon lequel toutes les personnes sont soumises à la loi et responsables en vertu de celle-ci, quel que soit leur statut."
+      },
+      {
+        "text": "Les dirigeants doivent obéir à la loi",
+        "rationale": "Les dirigeants du gouvernement, y compris le président, sont également soumis à l'État de droit."
+      },
+      {
+        "text": "Nul n'est au-dessus de la loi",
+        "rationale": "Cette phrase résume le mieux le principe fondamental de l'État de droit."
+      },
+      {
+        "text": "Le gouvernement doit obéir à la loi",
+        "rationale": "Le gouvernement lui-même est également lié par la loi et ne peut pas agir en dehors de son autorité légale."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Les lois changent toujours, le président fait la loi, toutes les lois sont justes",
+        "rationale": "Bien que les lois puissent changer, ce n'est pas la définition de l'État de droit. Le Congrès fait la loi et le président l'exécute. C'est le principe de séparation des pouvoirs. L'État de droit vise l'équité, mais ne garantit pas que chaque loi soit parfaitement juste."
+      },
+      {
+        "text": "Seuls les citoyens respectent les lois, les lois s'appliquent différemment aux riches, les fonctionnaires sont exemptés des lois",
+        "rationale": "Ces affirmations contredisent l'État de droit, qui exige que toutes les personnes, quel que soit leur statut ou leur richesse, soient soumises aux mêmes lois."
+      },
+      {
+        "text": "Les lois sont des suggestions, les gens peuvent choisir quelles lois suivre, les lois ne s'appliquent qu'en cas d'urgence",
+        "rationale": "Ces affirmations méconnaissent la nature contraignante des lois dans le cadre du principe de l'État de droit, où les lois sont obligatoires et s'appliquent à tous en tout temps."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Nommez une branche ou une partie du gouvernement.",
+    "correctAnswers": [
+      {
+        "text": "Congrès (législatif)",
+        "rationale": "Le Congrès est la branche législative, qui fait les lois."
+      },
+      {
+        "text": "Président (exécutif)",
+        "rationale": "Le Président est le chef de la branche exécutive, qui applique les lois."
+      },
+      {
+        "text": "les tribunaux (judiciaire)",
+        "rationale": "Les tribunaux sont la branche judiciaire, qui interprète et applique les lois."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "les États, l’armée, la police",
+        "rationale": "Les États sont une partie essentielle du système fédéral, mais pas l’une des trois branches du gouvernement fédéral. L’armée est une institution vitale contrôlée par la branche exécutive, mais elle n’est pas une branche distincte du gouvernement. La police est composée d’agences d’application de la loi, généralement sous l’autorité des gouvernements des États ou locaux."
+      },
+      {
+        "text": "le Cabinet, le Sénat, la Chambre",
+        "rationale": "Le Cabinet fait partie de la branche exécutive, tandis que le Sénat et la Chambre font partie de la branche législative, et ne sont pas des branches séparées."
+      },
+      {
+        "text": "le FBI, la CIA, la Cour suprême",
+        "rationale": "Le FBI et la CIA sont des agences au sein de la branche exécutive, tandis que la Cour suprême fait partie de la branche judiciaire, et non des branches distinctes du gouvernement."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Qu'est-ce qui empêche un pouvoir du gouvernement de devenir trop puissant ?",
+    "correctAnswers": [
+      {
+        "text": "freins et contrepoids",
+        "rationale": "C'est le système dans lequel chaque pouvoir peut examiner et limiter les pouvoirs des autres."
+      },
+      {
+        "text": "séparation des pouvoirs",
+        "rationale": "C'est le principe de la répartition du pouvoir gouvernemental entre les pouvoirs législatif, exécutif et judiciaire."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "l'État de droit, le fédéralisme",
+        "rationale": "L'État de droit aide à prévenir les abus de pouvoir mais n'est pas le système spécifique qui empêche un pouvoir de devenir trop puissant. Le fédéralisme est le principe de partage du pouvoir entre le gouvernement fédéral et les États, et non entre les trois pouvoirs du gouvernement. Aucun ne traite directement du mécanisme constitutionnel pour empêcher un seul pouvoir de dominer les autres."
+      },
+      {
+        "text": "limitation de mandat, élections",
+        "rationale": "Les limitations de mandat et les élections sont des mécanismes démocratiques qui peuvent limiter le pouvoir du gouvernement et assurer la responsabilité, mais ce ne sont pas le système constitutionnel spécifiquement conçu pour empêcher un pouvoir de devenir trop puissant grâce à une surveillance et un contrôle mutuels."
+      },
+      {
+        "text": "la Déclaration des droits, destitution",
+        "rationale": "La Déclaration des droits protège les libertés individuelles contre les abus du gouvernement mais n'aborde pas directement l'équilibre des pouvoirs entre les branches. La destitution est un mécanisme spécifique pour révoquer des responsables pour faute, mais ce n'est pas le système plus large qui empêche la domination d'une branche grâce à des contrôles mutuels continus."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qui est responsable de la branche exécutive ?",
+    "correctAnswers": [
+      {
+        "text": "le Président",
+        "rationale": "Le Président est le chef de la branche exécutive."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "le Président de la Chambre des représentants",
+        "rationale": "Le Président de la Chambre des représentants est le chef de la Chambre des représentants, qui fait partie du pouvoir législatif."
+      },
+      {
+        "text": "le Juge en chef",
+        "rationale": "Le Juge en chef est le chef de la Cour suprême, qui fait partie du pouvoir judiciaire."
+      },
+      {
+        "text": "le Secrétaire d'État",
+        "rationale": "Le Secrétaire d'État est un membre de haut rang du cabinet dans la branche exécutive, mais pas le chef de toute la branche."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qui fait les lois fédérales ?",
+    "correctAnswers": [
+      {
+        "text": "le Congrès",
+        "rationale": "Les lois fédérales sont faites par le Congrès (le Sénat et la Chambre)."
+      },
+      {
+        "text": "le Sénat et la Chambre (des représentants)",
+        "rationale": "Le Congrès se compose du Sénat et de la Chambre des représentants, qui ensemble font les lois fédérales."
+      },
+      {
+        "text": "le pouvoir législatif (américain ou national)",
+        "rationale": "Le pouvoir législatif des États-Unis, qui est le Congrès, a l'autorité constitutionnelle de faire des lois fédérales."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "le Président",
+        "rationale": "Le Président signe les projets de loi adoptés par le Congrès pour qu'ils deviennent des lois, mais il ne les crée pas."
+      },
+      {
+        "text": "la Cour suprême",
+        "rationale": "La Cour suprême interprète les lois et décide si elles sont constitutionnelles, mais elle ne les crée pas."
+      },
+      {
+        "text": "la législature d'État",
+        "rationale": "Les législatures des États font des lois des États, pas des lois fédérales."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Quelles sont les deux parties du Congrès des États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "le Sénat et la Chambre (des représentants)",
+        "rationale": "Le Congrès des États-Unis est une législature bicamérale composée du Sénat et de la Chambre."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "le Président et le Cabinet",
+        "rationale": "Cela décrit le pouvoir exécutif."
+      },
+      {
+        "text": "les tribunaux fédéraux et d'État",
+        "rationale": "Cela décrit la structure du pouvoir judiciaire."
+      },
+      {
+        "text": "les partis démocrate et républicain",
+        "rationale": "Ce sont les principaux partis politiques aux États-Unis."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Combien y a-t-il de sénateurs aux États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "Cent (100)",
+        "rationale": "Il y a deux sénateurs pour chacun des 50 États, soit un total de 100."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Quatre cent trente-cinq (435)",
+        "rationale": "435 est le nombre de membres à la Chambre des représentants."
+      },
+      {
+        "text": "Cinquante (50)",
+        "rationale": "50 est le nombre d'États aux États-Unis."
+      },
+      {
+        "text": "Neuf (9)",
+        "rationale": "Neuf est le nombre de juges à la Cour suprême."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Pour combien d'années élisons-nous un sénateur des États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "Six (6)",
+        "rationale": "Le mandat d’un sénateur des États-Unis est de six ans."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Deux (2)",
+        "rationale": "Deux ans est la durée du mandat d’un membre de la Chambre des représentants."
+      },
+      {
+        "text": "Quatre (4)",
+        "rationale": "Quatre ans est la durée du mandat présidentiel."
+      },
+      {
+        "text": "Huit (8)",
+        "rationale": "Un président peut servir un maximum de deux mandats, soit huit ans, mais cela est différent du mandat d’un sénateur."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qui est actuellement l’un des sénateurs américains de votre État ?",
+    "correctAnswers": [
+      {
+        "text": "Les réponses peuvent varier",
+        "rationale": "La réponse à cette question dépend de l’État dans lequel vous vivez. Vous devriez vérifier sur senate.gov."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Le nom du gouverneur",
+        "rationale": "Le gouverneur est le chef du pouvoir exécutif de l’État, pas un sénateur fédéral."
+      },
+      {
+        "text": "Le nom du représentant",
+        "rationale": "Un représentant est un membre de la Chambre des représentants, ce qui est différent d’un sénateur."
+      },
+      {
+        "text": "Le nom du président",
+        "rationale": "Le président est le chef du pouvoir exécutif fédéral."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Combien de membres votants y a-t-il à la Chambre des représentants ?",
+    "correctAnswers": [
+      {
+        "text": "Quatre cent trente-cinq (435)",
+        "rationale": "Le nombre de représentants est basé sur la population de chaque État."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Cent (100)",
+        "rationale": "100 est le nombre de sénateurs."
+      },
+      {
+        "text": "Cinquante (50)",
+        "rationale": "50 est le nombre d'États."
+      },
+      {
+        "text": "Cinq cent trente-huit (538)",
+        "rationale": "538 est le nombre total de grands électeurs dans le Collège électoral."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Pour combien d'années élisons-nous un représentant des États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "Deux (2)",
+        "rationale": "Le mandat d’un représentant des États-Unis est de deux ans."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Quatre (4)",
+        "rationale": "Quatre ans est le mandat du président."
+      },
+      {
+        "text": "Six (6)",
+        "rationale": "Six ans est le mandat d’un sénateur."
+      },
+      {
+        "text": "À vie",
+        "rationale": "Les juges de la Cour suprême servent à vie, mais les représentants sont des fonctionnaires élus."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Indiquez le nom de votre représentant au Congrès des États-Unis.",
+    "correctAnswers": [
+      {
+        "text": "Les réponses varieront",
+        "rationale": "La réponse à cette question dépend de votre district du Congrès. Vous devriez consulter house.gov."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Le nom du sénateur",
+        "rationale": "Un sénateur représente l’ensemble de l’État et est différent d’un représentant d’un district spécifique."
+      },
+      {
+        "text": "Le nom du gouverneur",
+        "rationale": "Le gouverneur est le chef du pouvoir exécutif de l’État."
+      },
+      {
+        "text": "Le nom du maire",
+        "rationale": "Le maire est le chef du gouvernement d’une ville."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Qui représente un sénateur des États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "toutes les personnes de l'État",
+        "rationale": "Les sénateurs représentent les intérêts de l’ensemble de leur État, pas seulement d’un district spécifique."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "uniquement leur parti politique",
+        "rationale": "Bien qu’ils appartiennent à un parti politique, les sénateurs sont légalement tenus de représenter tous les habitants de leur État."
+      },
+      {
+        "text": "uniquement la ville où ils vivent",
+        "rationale": "Les sénateurs représentent tout l'État, pas seulement une ville."
+      },
+      {
+        "text": "le Président",
+        "rationale": "En tant que membres du pouvoir législatif, les sénateurs contrôlent le Président, qui dirige le pouvoir exécutif."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Pourquoi certains États ont-ils plus de représentants que d'autres États ?",
+    "correctAnswers": [
+      {
+        "text": "(en raison de) la population de l'État",
+        "rationale": "Le nombre de représentants est réparti en fonction de la population de chaque État, déterminée par le recensement tous les 10 ans."
+      },
+      {
+        "text": "(parce qu')ils ont plus d'habitants",
+        "rationale": "Les États avec une population plus importante obtiennent davantage de représentants."
+      },
+      {
+        "text": "(parce que) certains États ont plus d'habitants",
+        "rationale": "La répartition accorde plus de sièges aux États qui comptent plus d'habitants."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(en raison de) la superficie terrestre de l'État",
+        "rationale": "Le nombre de représentants est basé sur la population, pas sur la taille physique de l'État."
+      },
+      {
+        "text": "(en raison de) la richesse de l'État",
+        "rationale": "La population, et non la puissance économique de l'État, est la norme."
+      },
+      {
+        "text": "en raison de la date de fondation de l'État",
+        "rationale": "L'ordre dans lequel un État a rejoint l'Union n'affecte pas son nombre de représentants."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Nous élisons un président pour combien d'années ?",
+    "correctAnswers": [
+      {
+        "text": "Quatre (4)",
+        "rationale": "Le mandat du président est de quatre ans."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Deux (2)",
+        "rationale": "Deux ans est le mandat d'un membre de la Chambre des représentants."
+      },
+      {
+        "text": "Six (6)",
+        "rationale": "Six ans est le mandat d'un sénateur."
+      },
+      {
+        "text": "Cinq (5)",
+        "rationale": "Il n’existe pas de fonctions fédérales aux États-Unis avec un mandat de cinq ans."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Au cours de quel mois votons-nous pour le président ?",
+    "correctAnswers": [
+      {
+        "text": "novembre",
+        "rationale": "L'élection présidentielle américaine a lieu tous les quatre ans, le mardi suivant le premier lundi de novembre."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "janvier",
+        "rationale": "Le nouveau président est investi en janvier."
+      },
+      {
+        "text": "juillet",
+        "rationale": "Le 4 juillet est la fête de l'Indépendance."
+      },
+      {
+        "text": "octobre",
+        "rationale": "Octobre est généralement une période de campagne intense et finale avant l'élection."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Quel est le nom du président des États-Unis actuellement ?",
+    "correctAnswers": [
+      {
+        "text": "Donald J. Trump",
+        "rationale": "(En juillet 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "JD Vance",
+        "rationale": "JD Vance est l’actuel vice-président."
+      },
+      {
+        "text": "Mike Johnson",
+        "rationale": "Mike Johnson est l’actuel président de la Chambre des représentants."
+      },
+      {
+        "text": "Joe Biden",
+        "rationale": "Joe Biden est l’ancien président."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Quel est le nom du vice-président des États-Unis actuellement ?",
+    "correctAnswers": [
+      {
+        "text": "JD Vance",
+        "rationale": "(En juillet 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Donald J. Trump",
+        "rationale": "Donald J. Trump est l’actuel président."
+      },
+      {
+        "text": "Kamala Harris",
+        "rationale": "Kamala Harris est l’ancienne vice-présidente."
+      },
+      {
+        "text": "John Roberts",
+        "rationale": "John Roberts est l’actuel président de la Cour suprême."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Si le président ne peut plus exercer ses fonctions, qui devient président ?",
+    "correctAnswers": [
+      {
+        "text": "le vice-président",
+        "rationale": "Le vice-président accède à la présidence si le président ne peut plus exercer ses fonctions."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "le président de la Chambre des représentants",
+        "rationale": "Le président de la Chambre des représentants accède à la présidence seulement si le président et le vice-président ne peuvent plus exercer leurs fonctions."
+      },
+      {
+        "text": "le juge en chef",
+        "rationale": "Le juge en chef n'est pas dans la ligne de succession présidentielle."
+      },
+      {
+        "text": "le secrétaire d'État",
+        "rationale": "Le secrétaire d'État est le quatrième dans la ligne de succession présidentielle."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Si le Président et le Vice-Président ne peuvent plus servir, qui devient Président ?",
+    "correctAnswers": [
+      {
+        "text": "le Président de la Chambre des représentants",
+        "rationale": "Le Président de la Chambre des représentants est troisième dans la ligne de succession présidentielle."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "le Secrétaire d'État",
+        "rationale": "Le Secrétaire d'État est quatrième dans la ligne de succession, après le Président de la Chambre des représentants."
+      },
+      {
+        "text": "le Président de la Cour suprême",
+        "rationale": "Le Président de la Cour suprême ne fait pas partie de la ligne de succession présidentielle."
+      },
+      {
+        "text": "le Président pro tempore du Sénat",
+        "rationale": "Le Président pro tempore du Sénat est quatrième dans l'ordre, après le Président de la Chambre des représentants."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Qui est le commandant en chef de l'armée ?",
+    "correctAnswers": [
+      {
+        "text": "le Président",
+        "rationale": "Le Président détient l'autorité suprême sur les forces armées des États-Unis en tant que commandant en chef."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "le Secrétaire à la Défense",
+        "rationale": "Le Secrétaire à la Défense est le chef civil du département de la Défense, agissant sous l'autorité du Président."
+      },
+      {
+        "text": "le Président des chefs d'état-major interarmées",
+        "rationale": "Le Président des chefs d'état-major interarmées est l'officier militaire le plus haut gradé et le principal conseiller militaire du Président."
+      },
+      {
+        "text": "le Vice-Président",
+        "rationale": "Le Vice-Président n'a pas d'autorité de commandement directe sur l'armée."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Qui signe les projets de loi pour qu'ils deviennent des lois ?",
+    "correctAnswers": [
+      {
+        "text": "le Président",
+        "rationale": "Un projet de loi adopté par le Congrès doit être signé par le Président pour devenir loi."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "le Président de la Chambre des représentants",
+        "rationale": "Le Président de la Chambre dirige le processus pour qu’un projet de loi soit adopté par la Chambre, mais n’a pas l’autorité finale pour le signer en loi."
+      },
+      {
+        "text": "le Vice-président",
+        "rationale": "Le Vice-président peut voter pour départager au Sénat mais ne signe pas les projets de loi pour les transformer en lois."
+      },
+      {
+        "text": "le Juge en chef",
+        "rationale": "Le Juge en chef interprète les lois et ne participe pas au processus législatif."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Qui oppose son veto aux projets de loi ?",
+    "correctAnswers": [
+      {
+        "text": "le Président",
+        "rationale": "Le Président a le pouvoir de mettre son veto aux lois adoptées par le Congrès."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "le Congrès",
+        "rationale": "Le Congrès adopte les lois ; il peut aussi passer outre un veto présidentiel."
+      },
+      {
+        "text": "la Cour suprême",
+        "rationale": "La Cour suprême peut juger une loi inconstitutionnelle après son adoption, mais elle ne peut pas opposer son veto à un projet de loi."
+      },
+      {
+        "text": "le Gouverneur",
+        "rationale": "Un gouverneur a un droit de veto sur les lois de l'État, pas sur les lois fédérales."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Que fait le cabinet du président ?",
+    "correctAnswers": [
+      {
+        "text": "conseille le président",
+        "rationale": "Le cabinet, composé des chefs des départements exécutifs, fournit des conseils d’experts au président."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "fait les lois",
+        "rationale": "Les lois sont faites par le Congrès."
+      },
+      {
+        "text": "élit le président",
+        "rationale": "Le président est élu par le peuple et le collège électoral."
+      },
+      {
+        "text": "déclare la guerre",
+        "rationale": "Déclarer la guerre est un pouvoir exclusif du Congrès."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Quels sont deux postes au niveau du cabinet ?",
+    "correctAnswers": [
+      {
+        "text": "Secrétaire d'État",
+        "rationale": "Le Secrétaire d'État est un membre clé du cabinet responsable de la politique étrangère."
+      },
+      {
+        "text": "Secrétaire du Trésor",
+        "rationale": "Le Secrétaire du Trésor est responsable de la politique financière et économique du pays."
+      },
+      {
+        "text": "Secrétaire de la Défense",
+        "rationale": "Le Secrétaire à la Défense supervise la politique militaire et de défense."
+      },
+      {
+        "text": "Procureur général",
+        "rationale": "Le Procureur général est le chef du département de la Justice et le principal responsable de l'application de la loi."
+      },
+      {
+        "text": "Secrétaire à l'Agriculture",
+        "rationale": "Le Secrétaire à l'Agriculture supervise les politiques agricoles, de sécurité alimentaire et de développement rural."
+      },
+      {
+        "text": "Secrétaire au Commerce",
+        "rationale": "Le Secrétaire au Commerce promeut la croissance économique et le commerce."
+      },
+      {
+        "text": "Secrétaire à l'Éducation",
+        "rationale": "Le Secrétaire à l'Éducation supervise la politique et les programmes éducatifs fédéraux."
+      },
+      {
+        "text": "Secrétaire à l'Énergie",
+        "rationale": "Le Secrétaire à l'Énergie gère la politique énergétique et la sécurité nucléaire."
+      },
+      {
+        "text": "Secrétaire à la Santé et aux Services sociaux",
+        "rationale": "Le Secrétaire à la Santé et aux Services sociaux supervise les programmes de santé et de bien-être."
+      },
+      {
+        "text": "Secrétaire à la Sécurité intérieure",
+        "rationale": "Le Secrétaire à la Sécurité intérieure protège la nation contre les menaces à la sécurité."
+      },
+      {
+        "text": "Secrétaire au Logement et au Développement urbain",
+        "rationale": "Le Secrétaire au Logement et au Développement urbain supervise les politiques de logement et de développement urbain."
+      },
+      {
+        "text": "Secrétaire à l'Intérieur",
+        "rationale": "Le Secrétaire à l'Intérieur gère les terres publiques et les ressources naturelles."
+      },
+      {
+        "text": "Secrétaire au Travail",
+        "rationale": "Le Secrétaire au Travail supervise la sécurité au travail et les relations de travail."
+      },
+      {
+        "text": "Secrétaire aux Transports",
+        "rationale": "Le Secrétaire aux Transports supervise les infrastructures de transport et la sécurité."
+      },
+      {
+        "text": "Secrétaire aux Anciens Combattants",
+        "rationale": "Le Secrétaire aux Anciens Combattants fournit des services aux anciens combattants militaires."
+      },
+      {
+        "text": "Vice-président",
+        "rationale": "Le vice-président est également considéré comme un poste de niveau ministériel."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Président de la Cour suprême, Président de la Chambre des représentants, Chef de la majorité au Sénat, Chef de la minorité à la Chambre",
+        "rationale": "Le président de la Cour suprême est le chef du pouvoir judiciaire et non un membre du Cabinet exécutif. Le président de la Chambre est un leader du pouvoir législatif, non un membre du Cabinet. Le chef de la majorité au Sénat est un poste législatif. Le chef de la minorité à la Chambre est également un poste législatif."
+      },
+      {
+        "text": "Président de la Réserve fédérale, Juge de la Cour suprême, Sénateur américain, Représentant américain",
+        "rationale": "Le président de la Réserve fédérale est un poste indépendant, non un membre du Cabinet. Les juges de la Cour suprême font partie du pouvoir judiciaire. Les sénateurs et représentants américains font partie du pouvoir législatif, non du Cabinet exécutif."
+      },
+      {
+        "text": "Gouverneur d'État, Maire, Commissaire de comté, Membre du conseil municipal",
+        "rationale": "Les gouverneurs des États sont des dirigeants au niveau de l'État, pas des membres du Cabinet fédéral. Les maires sont des responsables du gouvernement local. Les commissaires de comté servent au niveau du comté. Les membres du conseil municipal sont des responsables du gouvernement local. Aucun de ces postes n'est un poste au sein du Cabinet fédéral."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Que fait le pouvoir judiciaire ?",
+    "correctAnswers": [
+      {
+        "text": "révise les lois",
+        "rationale": "Le pouvoir judiciaire révise les lois pour s'assurer qu'elles sont constitutionnelles."
+      },
+      {
+        "text": "explique les lois",
+        "rationale": "Le pouvoir judiciaire interprète la signification des lois et les applique à des cas spécifiques."
+      },
+      {
+        "text": "résout les différends",
+        "rationale": "Il résout les différends juridiques en rendant des décisions."
+      },
+      {
+        "text": "décide si une loi est contraire à la Constitution",
+        "rationale": "Le pouvoir judiciaire a le pouvoir de contrôle judiciaire pour déterminer si les lois sont constitutionnelles."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "fait des lois, applique des lois, conseille le Président",
+        "rationale": "Le pouvoir législatif (Congrès) fait les lois. Le pouvoir exécutif applique les lois. Le rôle du Cabinet est de conseiller le Président."
+      },
+      {
+        "text": "perçoit des impôts, imprime de l'argent, réglemente le commerce",
+        "rationale": "Ce sont des pouvoirs du Congrès, pas du pouvoir judiciaire."
+      },
+      {
+        "text": "commande les forces armées, négocie les traités, nomme les ambassadeurs",
+        "rationale": "Ce sont des pouvoirs du Président, pas du pouvoir judiciaire."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Quelle est la plus haute cour des États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "la Cour suprême",
+        "rationale": "La Cour suprême est la plus haute juridiction du système judiciaire américain."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "une Cour suprême d'État",
+        "rationale": "Une Cour suprême d'État est la plus haute juridiction dans le système judiciaire de cet État, mais la Cour suprême des États-Unis est supérieure pour toute la nation."
+      },
+      {
+        "text": "une cour d'appel",
+        "rationale": "Une cour d'appel est une juridiction inférieure à la Cour suprême."
+      },
+      {
+        "text": "la Cour internationale de Justice",
+        "rationale": "La Cour internationale de Justice est un organe judiciaire de l'ONU qui traite les différends entre pays."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Combien de juges y a-t-il à la Cour suprême ?",
+    "correctAnswers": [
+      {
+        "text": "Neuf (9)",
+        "rationale": "La Cour suprême est composée d’un juge en chef et de huit juges associés."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Sept (7)",
+        "rationale": "Le nombre de juges est fixé par la loi et est de neuf depuis 1869."
+      },
+      {
+        "text": "Douze (12)",
+        "rationale": "Douze se rapporte au nombre de cours d’appel régionales, pas au nombre de juges de la Cour suprême."
+      },
+      {
+        "text": "Cinquante (50)",
+        "rationale": "Cinquante est le nombre d’États."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Qui est actuellement le juge en chef des États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "John Roberts",
+        "rationale": "John G. Roberts, Jr. est le 17e et actuel juge en chef."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Clarence Thomas",
+        "rationale": "Clarence Thomas est actuellement le juge associé ayant servi le plus longtemps."
+      },
+      {
+        "text": "Merrick Garland",
+        "rationale": "Merrick Garland est l'actuel procureur général."
+      },
+      {
+        "text": "Ruth Bader Ginsburg",
+        "rationale": "Ruth Bader Ginsburg était une juge associée respectée qui est décédée en 2020."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Selon notre Constitution, certains pouvoirs appartiennent au gouvernement fédéral. Quel est l’un des pouvoirs du gouvernement fédéral ?",
+    "correctAnswers": [
+      {
+        "text": "imprimer de l’argent",
+        "rationale": "L’impression de la monnaie est un pouvoir exclusif du gouvernement fédéral."
+      },
+      {
+        "text": "déclarer la guerre",
+        "rationale": "Déclarer la guerre est un pouvoir du Congrès fédéral."
+      },
+      {
+        "text": "créer une armée",
+        "rationale": "Créer et entretenir une armée pour la défense nationale est un rôle du gouvernement fédéral."
+      },
+      {
+        "text": "conclure des traités",
+        "rationale": "La conclusion de traités officiels avec d’autres pays est un pouvoir du gouvernement fédéral."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "délivrer un permis de conduire, fournir l’éducation, assurer la protection (police), réglementer les lois sur le mariage",
+        "rationale": "La délivrance de permis de conduire est une compétence des gouvernements des États individuels. L’exploitation des systèmes éducatifs relève principalement de la responsabilité des gouvernements des États et locaux. La fourniture de forces de police est principalement une compétence des gouvernements des États et locaux. La réglementation des lois sur le mariage est une compétence de l’État, non fédérale."
+      },
+      {
+        "text": "organiser des élections, établir des tribunaux locaux, délivrer des licences professionnelles, réglementer le commerce intrastatal",
+        "rationale": "L'organisation des élections est gérée par les gouvernements des États et locaux. L'établissement de tribunaux locaux est une compétence de l'État. La délivrance de licences professionnelles est assurée par les gouvernements des États. La réglementation du commerce à l'intérieur d'un État (intrastatal) relève de la compétence de l'État."
+      },
+      {
+        "text": "gérer les ressources naturelles, établir des municipalités, réglementer les entreprises locales, fournir des services d'incendie",
+        "rationale": "La gestion des ressources naturelles à l'intérieur des frontières de l'État est principalement une responsabilité de l'État. L'établissement de municipalités est une fonction des gouvernements de l'État et locaux. La réglementation des entreprises locales est généralement effectuée par les autorités de l'État et locales. Fournir des services d'incendie est une responsabilité du gouvernement local."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Selon notre Constitution, certains pouvoirs appartiennent aux États. Quel est l’un des pouvoirs des États ?",
+    "correctAnswers": [
+      {
+        "text": "fournir l'enseignement et l'éducation",
+        "rationale": "La politique éducative et le fonctionnement des écoles relèvent principalement de la responsabilité des États."
+      },
+      {
+        "text": "fournir une protection (police)",
+        "rationale": "Maintenir l'ordre public en exploitant la police d'État et locale est un pouvoir des États."
+      },
+      {
+        "text": "délivrer un permis de conduire",
+        "rationale": "Chaque État fixe ses propres normes et procédures pour délivrer les permis de conduire."
+      },
+      {
+        "text": "fournir la sécurité (services d'incendie)",
+        "rationale": "Les services de protection contre les incendies et de sécurité sont généralement fournis par les gouvernements des États et locaux."
+      },
+      {
+        "text": "approuver le zonage et l'utilisation des sols",
+        "rationale": "Les États ont le pouvoir de réglementer l'utilisation des terres et le zonage à l'intérieur de leurs frontières."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "imprimer de l'argent, déclarer la guerre, conclure des traités",
+        "rationale": "Imprimer de l'argent est un pouvoir exclusif du gouvernement fédéral, pas des États. Déclarer la guerre est un pouvoir du Congrès fédéral, pas des États. Conclure des traités avec d'autres pays est un pouvoir du gouvernement fédéral, pas des États."
+      },
+      {
+        "text": "réglementer le commerce interétatique, établir des bureaux de poste, frapper la monnaie",
+        "rationale": "Ce sont tous des pouvoirs exclusifs du gouvernement fédéral que les États ne peuvent pas exercer."
+      },
+      {
+        "text": "créer une armée, établir des lois sur l'immigration, réglementer le commerce extérieur",
+        "rationale": "Ce sont des pouvoirs fédéraux supplémentaires qui ne sont pas accordés aux États individuels en vertu de la Constitution."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Qui est le gouverneur de votre État actuellement ?",
+    "correctAnswers": [
+      {
+        "text": "Les réponses varieront",
+        "rationale": "La réponse à cette question dépend de l’État où vous vivez. Vous devriez consulter usa.gov."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Le nom du sénateur",
+        "rationale": "Un sénateur fait partie du pouvoir législatif fédéral et est différent du gouverneur, qui est le chef du pouvoir exécutif de l’État."
+      },
+      {
+        "text": "Le nom du maire",
+        "rationale": "Le maire est le chef du gouvernement d'une ville, différent du gouverneur qui est le chef de tout l'État."
+      },
+      {
+        "text": "Le nom du président",
+        "rationale": "Le président est le chef du gouvernement fédéral, différent du gouverneur qui est le chef d’un gouvernement d’État."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Quelle est la capitale de votre État ?",
+    "correctAnswers": [
+      {
+        "text": "Les réponses varieront",
+        "rationale": "La réponse à cette question dépend de l'État dans lequel vous vivez."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Washington D.C.",
+        "rationale": "Washington, D.C. est la capitale des États-Unis, pas celle d'un État. Chaque État a sa propre capitale."
+      },
+      {
+        "text": "New York",
+        "rationale": "New York est la plus grande ville de l'État de New York, mais Albany est la capitale de l'État."
+      },
+      {
+        "text": "Los Angeles",
+        "rationale": "Los Angeles est la plus grande ville de Californie, mais Sacramento en est la capitale."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Quels sont les deux principaux partis politiques aux États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "Démocrate et Républicain",
+        "rationale": "Les partis démocrate et républicain sont les deux principaux partis qui dominent la politique américaine aujourd'hui."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Travailliste et Conservateur",
+        "rationale": "Les partis travailliste et conservateur sont les principaux partis politiques au Royaume-Uni."
+      },
+      {
+        "text": "Libéral et Vert",
+        "rationale": "Des partis comme le parti libertarien et le parti vert sont des tiers partis aux États-Unis, mais ne font pas partie des deux principaux partis."
+      },
+      {
+        "text": "Sénat et Chambre",
+        "rationale": "Le Sénat et la Chambre sont les deux parties du Congrès, pas des partis politiques."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Quel est le parti politique du président actuel ?",
+    "correctAnswers": [
+      {
+        "text": "Républicain (Parti)",
+        "rationale": "Le président Donald Trump est membre du Parti républicain. (En juillet 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Démocrate (Parti)",
+        "rationale": "Le Parti démocrate est actuellement le principal parti d'opposition."
+      },
+      {
+        "text": "Indépendant",
+        "rationale": "Le président actuel est membre d'un grand parti, le Parti républicain."
+      },
+      {
+        "text": "Libertarien (Parti)",
+        "rationale": "Le Parti libertarien est l'un des partis tiers aux États-Unis."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Quel est le nom du président de la Chambre des représentants actuellement ?",
+    "correctAnswers": [
+      {
+        "text": "Mike Johnson",
+        "rationale": "(En juillet 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nancy Pelosi",
+        "rationale": "Nancy Pelosi a été une ancienne présidente de la Chambre des représentants."
+      },
+      {
+        "text": "Kevin McCarthy",
+        "rationale": "Kevin McCarthy était le président de la Chambre juste avant Mike Johnson."
+      },
+      {
+        "text": "Chuck Schumer",
+        "rationale": "Chuck Schumer est l'actuel chef de la majorité au Sénat."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Il y a quatre amendements à la Constitution concernant qui peut voter. Décrivez-en un.",
+    "correctAnswers": [
+      {
+        "text": "Les citoyens âgés de dix-huit (18) ans et plus (peuvent voter)",
+        "rationale": "Le 26e amendement a abaissé l'âge de vote à 18 ans."
+      },
+      {
+        "text": "Vous n'êtes pas obligé de payer (une taxe de vote) pour voter",
+        "rationale": "Le 24e amendement a supprimé les taxes de vote lors des élections fédérales."
+      },
+      {
+        "text": "Tout citoyen peut voter. (Les femmes et les hommes peuvent voter.)",
+        "rationale": "Le 19e amendement a accordé aux femmes le droit de vote."
+      },
+      {
+        "text": "Un citoyen masculin de toute race (peut voter)",
+        "rationale": "Le 15e amendement a interdit la discrimination dans le vote fondée sur la race."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Les résidents permanents peuvent voter, seules les personnes possédant une propriété peuvent voter, seules les personnes de plus de 30 ans peuvent voter, seules les personnes ayant un diplôme universitaire peuvent voter",
+        "rationale": "Le droit de vote aux élections fédérales est généralement réservé aux citoyens américains, et non aux résidents permanents. La propriété était une exigence au début, mais elle n'est plus requise pour voter. L'âge de vote est de 18 ans et plus, pas 30, selon le 26e amendement. Le niveau d'éducation n'est pas une exigence pour voter aux États-Unis."
+      },
+      {
+        "text": "Seules les personnes mariées peuvent voter, Seules les personnes employées peuvent voter, Seuls les anciens combattants peuvent voter, Seuls les propriétaires peuvent voter",
+        "rationale": "Le statut marital n’a jamais été une exigence constitutionnelle pour voter. Le statut professionnel n’est pas une condition pour voter ; les citoyens sans emploi conservent leur droit de vote. Le service militaire n’est pas requis pour voter ; les citoyens civils ont les mêmes droits de vote. La propriété d’un logement n’est pas une exigence pour voter selon la loi actuelle."
+      },
+      {
+        "text": "Seuls les contribuables peuvent voter, Seules les personnes nées aux États-Unis peuvent voter, Seules les personnes parlant anglais peuvent voter, Seules les personnes sans casier judiciaire peuvent voter",
+        "rationale": "Bien que la plupart des électeurs paient des impôts, le paiement d’impôts n’est pas une exigence constitutionnelle pour voter. Les citoyens naturalisés ont les mêmes droits de vote que ceux nés aux États-Unis. Les exigences linguistiques pour voter ont été largement supprimées par la loi fédérale. Bien que certains États restreignent le vote de certains criminels, l’absence de casier judiciaire n’est pas une exigence constitutionnelle universelle."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Quelle est une responsabilité réservée uniquement aux citoyens des États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "siéger dans un jury",
+        "rationale": "Le devoir de jury est une responsabilité clé réservée aux citoyens américains."
+      },
+      {
+        "text": "voter à une élection fédérale",
+        "rationale": "Voter à une élection fédérale est à la fois un droit et une responsabilité clé d'un citoyen."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "payer des impôts, obéir à la loi",
+        "rationale": "Payer des impôts est une responsabilité de tous les résidents ayant un revenu (comme les résidents permanents), pas seulement des citoyens. Obéir à la loi est une responsabilité pour tous aux États-Unis, quel que soit le statut de citoyenneté."
+      },
+      {
+        "text": "obtenir un permis de conduire, aller à l'école",
+        "rationale": "Obtenir un permis de conduire est possible pour les résidents permanents et autres résidents légaux, pas seulement pour les citoyens. La fréquentation scolaire est obligatoire pour tous les enfants, quel que soit le statut de citoyenneté."
+      },
+      {
+        "text": "travailler légalement, participer à la communauté",
+        "rationale": "Travailler légalement est autorisé pour les résidents permanents et autres non-citoyens autorisés, pas seulement pour les citoyens. La participation communautaire est encouragée pour tous les résidents, pas seulement pour les citoyens."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Nommez un droit réservé uniquement aux citoyens des États-Unis.",
+    "correctAnswers": [
+      {
+        "text": "voter lors d'une élection fédérale",
+        "rationale": "Voter aux élections fédérales est un droit réservé aux citoyens."
+      },
+      {
+        "text": "se présenter à une fonction fédérale",
+        "rationale": "Le droit de se présenter à une fonction fédérale, comme président, sénateur ou représentant, est réservé aux citoyens."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "liberté de religion, liberté d'expression",
+        "rationale": "La liberté de religion est un droit garanti à tous aux États-Unis, pas seulement aux citoyens. La liberté d'expression est un droit garanti à tous aux États-Unis, pas seulement aux citoyens."
+      },
+      {
+        "text": "droits à une procédure régulière, protection égale",
+        "rationale": "Les droits à une procédure régulière sont garantis à toutes les personnes relevant de la juridiction des États-Unis, pas seulement aux citoyens. La protection égale prévue par la loi s'applique à tout le monde aux États-Unis, quel que soit le statut de citoyenneté."
+      },
+      {
+        "text": "droit à un avocat, protection contre les fouilles déraisonnables",
+        "rationale": "Le droit à un avocat est garanti à toutes les personnes accusées de crimes, quelle que soit leur citoyenneté. La protection contre les fouilles et saisies déraisonnables s'applique à tout le monde aux États-Unis, pas seulement aux citoyens."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Quels sont deux droits de toute personne vivant aux États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "liberté d'expression",
+        "rationale": "Tout le monde aux États-Unis a le droit d'exprimer ses opinions."
+      },
+      {
+        "text": "liberté de parole",
+        "rationale": "Tout le monde aux États-Unis a le droit de parler librement."
+      },
+      {
+        "text": "liberté de réunion",
+        "rationale": "Tout le monde aux États-Unis a le droit de se réunir pacifiquement."
+      },
+      {
+        "text": "liberté de pétitionner le gouvernement",
+        "rationale": "Tout le monde aux États-Unis a le droit de pétitionner le gouvernement pour réparation de griefs."
+      },
+      {
+        "text": "liberté de religion",
+        "rationale": "Tout le monde aux États-Unis a le droit de pratiquer n'importe quelle religion ou de n'en pratiquer aucune."
+      },
+      {
+        "text": "le droit de porter des armes",
+        "rationale": "Le deuxième amendement protège le droit de posséder et de porter des armes."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "le droit de voter à une élection fédérale, le droit de se présenter à un poste fédéral, le droit à un passeport américain, le droit de siéger dans un jury",
+        "rationale": "Le droit de voter à une élection fédérale est réservé uniquement aux citoyens américains, pas à toutes les personnes vivant aux États-Unis. Le droit de se présenter à un poste fédéral est réservé uniquement aux citoyens américains. Les passeports américains sont délivrés uniquement aux citoyens américains, pas à tous les résidents. Le service dans un jury est généralement limité aux citoyens dans la plupart des juridictions."
+      },
+      {
+        "text": "le droit aux prestations de sécurité sociale, le droit à Medicare, le droit aux allocations de chômage, le droit à l'emploi fédéral",
+        "rationale": "Les prestations de sécurité sociale sont principalement destinées aux citoyens et aux travailleurs autorisés qui ont cotisé. Medicare est principalement destiné aux citoyens et aux résidents permanents qui remplissent les conditions. Les allocations de chômage exigent la citoyenneté ou une autorisation de travail dans la plupart des États. De nombreux emplois fédéraux exigent la citoyenneté américaine."
+      },
+      {
+        "text": "le droit de parrainer l'immigration familiale, le droit à la protection diplomatique à l'étranger, le droit de revenir aux États-Unis, le droit d'occuper une fonction fédérale",
+        "rationale": "Le droit de parrainer certains membres de la famille pour l'immigration est principalement réservé aux citoyens et aux résidents permanents. La protection diplomatique à l'étranger est principalement pour les citoyens américains. Le droit de revenir aux États-Unis sans restriction est réservé aux citoyens. Occuper une fonction fédérale requiert généralement la citoyenneté."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "À quoi montrons-nous de la loyauté lorsque nous récitons le Serment d’allégeance ?",
+    "correctAnswers": [
+      {
+        "text": "les États-Unis",
+        "rationale": "Le Serment d’allégeance est une expression de loyauté envers la nation des États-Unis."
+      },
+      {
+        "text": "le drapeau",
+        "rationale": "Le drapeau symbolise les États-Unis, donc lui prêter serment signifie montrer sa loyauté au pays."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "le Président, la Constitution",
+        "rationale": "La loyauté est jurée à la nation elle-même, non à une personne ou à un gouvernement spécifique comme le Président. Les citoyens ont le devoir de défendre la Constitution, mais l’objet direct du Serment d’allégeance est les États-Unis et leur drapeau."
+      },
+      {
+        "text": "le Congrès, la Cour suprême",
+        "rationale": "Le Serment est envers la nation dans son ensemble, non envers des branches spécifiques du gouvernement comme le Congrès. La Cour suprême est une branche du gouvernement, mais la loyauté est jurée au pays lui-même."
+      },
+      {
+        "text": "ton État, ta communauté",
+        "rationale": "Bien que la loyauté envers son État soit importante, le Serment d’allégeance est envers toute la nation fédérale. La loyauté envers la communauté est importante, mais le Serment est spécifiquement envers la nation."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Quelle est une promesse que vous faites lorsque vous devenez citoyen des États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "obéir aux lois des États-Unis",
+        "rationale": "Le serment d’allégeance inclut une promesse d’obéir aux lois des États-Unis."
+      },
+      {
+        "text": "être loyal envers les États-Unis",
+        "rationale": "C’est une partie essentielle du serment d’allégeance."
+      },
+      {
+        "text": "servir dans l’armée américaine (si nécessaire)",
+        "rationale": "C’est une promesse de porter les armes au nom de la nation lorsque cela est requis."
+      },
+      {
+        "text": "renoncer à la loyauté envers d’autres pays",
+        "rationale": "Le serment d’allégeance inclut le renoncement à l’allégeance envers des États étrangers."
+      },
+      {
+        "text": "défendre la Constitution et les lois des États-Unis",
+        "rationale": "Les nouveaux citoyens promettent de soutenir et de défendre la Constitution et les lois."
+      },
+      {
+        "text": "servir (accomplir un travail important pour) la nation (si nécessaire)",
+        "rationale": "Les citoyens promettent d’accomplir des travaux d’importance nationale lorsque cela est requis."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "voter chaque année, toujours parler anglais, ne jamais quitter les États-Unis",
+        "rationale": "Le vote est un droit et une responsabilité cruciale d’un citoyen, mais ce n’est pas un devoir légal ni une partie du serment. Bien que la maîtrise de l’anglais soit une exigence pour la citoyenneté, il n’y a pas de promesse de parler uniquement anglais. Les citoyens américains ont le droit de voyager et de vivre librement à l’étranger."
+      },
+      {
+        "text": "payer plus d’impôts, servir dans le gouvernement, donner à des œuvres de charité",
+        "rationale": "Les citoyens paient les mêmes taux d’imposition qu’avant la citoyenneté, en fonction des revenus, et non des taux plus élevés dus à la citoyenneté. Servir dans le gouvernement est une opportunité, pas une promesse obligatoire. Les dons caritatifs sont encouragés mais ne sont pas une obligation légale ni une promesse de serment."
+      },
+      {
+        "text": "changer votre nom, renoncer à votre citoyenneté précédente, vivre en Amérique pour toujours",
+        "rationale": "Le changement de nom est facultatif et non requis pour la citoyenneté. Bien que certains pays exigent l’abandon de la citoyenneté précédente, le serment américain ne l’exige pas explicitement. Les citoyens peuvent vivre à l’étranger et conserver leur citoyenneté."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Quel âge doivent avoir les citoyens pour voter pour le président ?",
+    "correctAnswers": [
+      {
+        "text": "dix-huit (18) ans et plus",
+        "rationale": "Le 26e amendement a fixé l'âge de vote national à 18 ans."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "seize (16) ans et plus",
+        "rationale": "Bien que certains pays ou élections locales spécifiques permettent de voter à 16 ans, l'âge de vote fédéral aux États-Unis est de 18 ans."
+      },
+      {
+        "text": "vingt et un (21) ans et plus",
+        "rationale": "Avant l'adoption du 26e amendement, l'âge de vote était de 21 ans dans de nombreux États."
+      },
+      {
+        "text": "il n'y a pas de limite d'âge",
+        "rationale": "Il existe un âge minimum légal pour être éligible au vote."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Quelles sont deux façons pour les Américains de participer à leur démocratie ?",
+    "correctAnswers": [
+      {
+        "text": "voter",
+        "rationale": "Voter est la manière la plus fondamentale de participer à la démocratie."
+      },
+      {
+        "text": "rejoindre un parti politique",
+        "rationale": "Rejoindre un parti politique permet aux citoyens de soutenir les candidats et les causes en lesquels ils croient."
+      },
+      {
+        "text": "aider à une campagne",
+        "rationale": "Faire du bénévolat pour des campagnes politiques est une manière active de participer au processus démocratique."
+      },
+      {
+        "text": "rejoindre un groupe civique",
+        "rationale": "Les groupes civiques permettent aux citoyens de travailler ensemble sur des problèmes communautaires."
+      },
+      {
+        "text": "rejoindre un groupe communautaire",
+        "rationale": "Les groupes communautaires aident les citoyens à traiter les préoccupations et les problèmes locaux."
+      },
+      {
+        "text": "donner à un élu votre opinion sur une question",
+        "rationale": "Contacter les élus est une façon importante de faire entendre votre voix."
+      },
+      {
+        "text": "appeler les sénateurs et les représentants",
+        "rationale": "Appeler vos représentants est une manière directe de participer à la démocratie."
+      },
+      {
+        "text": "soutenir ou s’opposer publiquement à une question ou une politique",
+        "rationale": "Le plaidoyer public est une méthode clé de participation démocratique."
+      },
+      {
+        "text": "se présenter à une élection",
+        "rationale": "Se présenter à une élection est l’une des façons les plus directes de participer à la démocratie."
+      },
+      {
+        "text": "écrire à un journal",
+        "rationale": "Écrire des lettres aux journaux aide à partager vos opinions avec la communauté."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "regarder les nouvelles à la télévision, hisser un drapeau américain, payer des impôts, lire des journaux",
+        "rationale": "Bien qu’il soit important de rester informé, regarder les nouvelles seul n’est pas considéré comme une « participation » active. Hissser un drapeau américain est une bonne façon de montrer son patriotisme, mais ce n’est pas une participation au « processus » démocratique. Payer des impôts est une obligation légale, différente d’un acte volontaire de participation. Lire les journaux vous aide à rester informé, mais c’est passif plutôt qu’une participation active."
+      },
+      {
+        "text": "assister à des défilés, afficher des symboles patriotiques, respecter les lois, respecter le drapeau",
+        "rationale": "Assister à des défilés montre l’esprit civique mais ne participe pas directement aux processus démocratiques. Afficher des symboles patriotiques montre du soutien mais ne constitue pas une participation démocratique. Respecter les lois est un devoir civique et une exigence légale, pas une participation démocratique volontaire. Respecter le drapeau montre du patriotisme mais ne participe pas aux processus démocratiques."
+      },
+      {
+        "text": "chanter l’hymne national, célébrer les fêtes, porter des vêtements patriotiques, publier sur les réseaux sociaux",
+        "rationale": "Chanter l’hymne national, célébrer des fêtes et porter des vêtements patriotiques sont des expressions de patriotisme mais ne constituent pas une participation au \"processus\" démocratique. Publier sur les réseaux sociaux peut exprimer une opinion, mais ce n’est pas une participation formelle aux procédures et institutions démocratiques."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Quelle est la dernière date à laquelle vous pouvez envoyer les formulaires de l’impôt fédéral sur le revenu ?",
+    "correctAnswers": [
+      {
+        "text": "15 avril",
+        "rationale": "La date limite habituelle pour déclarer les impôts est le 15 avril. (Elle peut être prolongée si cela tombe un week-end ou un jour férié)."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "1er janvier",
+        "rationale": "Le 1er janvier est le jour de l’An."
+      },
+      {
+        "text": "31 décembre",
+        "rationale": "Le 31 décembre est la fin de l’année fiscale."
+      },
+      {
+        "text": "4 juillet",
+        "rationale": "Le 4 juillet est le jour de l’Indépendance."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "متى يجب على جميع الرجال التسجيل في خدمة الانتقاء؟",
+    "correctAnswers": [
+      {
+        "text": "à l’âge de dix-huit (18) ans",
+        "rationale": "L’inscription doit avoir lieu dans les 30 jours suivant le 18e anniversaire."
+      },
+      {
+        "text": "entre dix-huit (18) et vingt-six (26) ans",
+        "rationale": "Bien que l’inscription doive se faire à 18 ans, il est possible de s’inscrire jusqu’à 26 ans."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "lorsqu’ils rejoignent l’armée, lorsqu’ils votent",
+        "rationale": "S’inscrire au Service sélectif est un processus distinct de l’enrôlement réel et sert à un éventuel recrutement. L’inscription au Service sélectif et l’inscription des électeurs sont des processus distincts avec des exigences et des délais différents."
+      },
+      {
+        "text": "lorsqu’ils se marient, lorsqu’ils obtiennent leur diplôme de lycée",
+        "rationale": "Le statut matrimonial ne déclenche pas les exigences d’inscription au Service sélectif. L’obtention du diplôme d’études secondaires n’est pas liée au calendrier d’inscription, qui repose uniquement sur l’âge."
+      },
+      {
+        "text": "lorsqu’ils ont 21 ans, lorsqu’ils ont 30 ans",
+        "rationale": "L’âge d’inscription est 18, pas 21. À 30 ans, les hommes sont au-delà de la tranche d’âge requise (18-26), donc il serait trop tard pour s’inscrire."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Quelle est l’une des raisons pour lesquelles les colons sont venus en Amérique ?",
+    "correctAnswers": [
+      {
+        "text": "liberté",
+        "rationale": "De nombreux colons sont venus en Amérique à la recherche de diverses formes de liberté."
+      },
+      {
+        "text": "liberté politique",
+        "rationale": "Certains colons sont venus en Amérique à la recherche d’une plus grande liberté politique."
+      },
+      {
+        "text": "liberté religieuse",
+        "rationale": "De nombreux colons sont venus en Amérique pour pratiquer librement leur religion."
+      },
+      {
+        "text": "opportunité économique",
+        "rationale": "De nombreux colons sont venus en Amérique à la recherche de meilleures opportunités économiques."
+      },
+      {
+        "text": "pratiquer leur religion",
+        "rationale": "La pratique religieuse était une motivation majeure pour de nombreux colons."
+      },
+      {
+        "text": "échapper à la persécution",
+        "rationale": "De nombreux colons ont fui les persécutions dans leurs pays d’origine."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "servir le roi britannique, pour des vacances, conquérir les Amérindiens",
+        "rationale": "Les colons cherchaient à échapper à l’autorité du roi britannique, pas à le servir. Traverser l’Atlantique à cette époque était un voyage périlleux et mortel, loin d’être des vacances. Bien que des conflits et des conquêtes aient eu lieu, ce n’était pas la principale raison invoquée pour venir en Amérique."
+      },
+      {
+        "text": "échapper à la pauvreté, trouver de l’or, établir des routes commerciales",
+        "rationale": "Bien que l’opportunité économique ait été une raison valable, ces motivations spécifiques simplifient à l’excès les facteurs religieux, politiques et économiques complexes qui ont motivé la colonisation."
+      },
+      {
+        "text": "répandre le christianisme, revendiquer des terres pour l’Espagne, trouver le passage du Nord-Ouest",
+        "rationale": "C’étaient des motivations pour certains explorateurs et missionnaires, mais pas les raisons principales pour lesquelles les colons ordinaires sont venus établir des colonies permanentes en Amérique."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Qui vivait en Amérique avant l’arrivée des Européens ?",
+    "correctAnswers": [
+      {
+        "text": "Indiens d’Amérique",
+        "rationale": "Peuples autochtones ayant vécu en Amérique pendant des milliers d’années avant la colonisation européenne."
+      },
+      {
+        "text": "Amérindiens",
+        "rationale": "Autre terme désignant les peuples autochtones qui vivaient dans les Amériques bien avant l’arrivée des Européens."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Personne, Africains",
+        "rationale": "Des millions de peuples autochtones vivaient en Amérique bien avant l’arrivée des Européens. Les Africains ont ensuite été amenés de force en Amérique comme esclaves, et non comme les habitants originaux qui y étaient déjà."
+      },
+      {
+        "text": "Vikings, explorateurs chinois",
+        "rationale": "Bien que les Vikings aient pu visiter brièvement l’Amérique du Nord vers l’an 1000, ils n’y ont pas établi de colonies permanentes et n’étaient pas les habitants d’origine. Les explorateurs chinois n’ont pas atteint les Amériques avant l’arrivée des Européens."
+      },
+      {
+        "text": "Conquistadors espagnols, colons anglais",
+        "rationale": "Les conquistadors espagnols faisaient partie des premiers Européens à arriver, pas des habitants pré-européens. Les colons anglais sont arrivés au XVIIe siècle, bien après que les peuples autochtones y aient vécu pendant des milliers d’années."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Quel groupe de personnes a été emmené en Amérique et vendu comme esclaves ?",
+    "correctAnswers": [
+      {
+        "text": "Africains",
+        "rationale": "Les Africains ont été amenés de force en Amérique et vendus comme esclaves."
+      },
+      {
+        "text": "personnes d’Afrique",
+        "rationale": "Des personnes du continent africain ont été réduites en esclavage et amenées en Amérique."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Européens",
+        "rationale": "Les Européens étaient les immigrants ou colons."
+      },
+      {
+        "text": "Indiens d’Amérique",
+        "rationale": "Bien que les Amérindiens aient fait face à l’oppression et à la perte de leurs terres, ils n’ont pas été les victimes de la traite transatlantique des esclaves."
+      },
+      {
+        "text": "Asiatiques",
+        "rationale": "L’immigration en provenance d’Asie a commencé principalement dans la seconde moitié du XIXe siècle."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Pourquoi les colons se sont-ils battus contre les Britanniques ?",
+    "correctAnswers": [
+      {
+        "text": "à cause des impôts élevés (imposition sans représentation)",
+        "rationale": "Ils étaient en colère contre les impôts imposés sans avoir de représentants au Parlement britannique."
+      },
+      {
+        "text": "parce que l'armée britannique restait dans leurs maisons",
+        "rationale": "Le Quartering Act obligeait les colons à loger et nourrir les soldats britanniques."
+      },
+      {
+        "text": "parce qu’ils n’avaient pas d’autonomie gouvernementale",
+        "rationale": "Les colons voulaient se gouverner eux-mêmes et être libres de la domination unilatérale du gouvernement britannique."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "parce qu’ils voulaient un nouveau roi, parce qu’ils voulaient s’allier avec la France, parce qu’ils voulaient abolir tous les impôts",
+        "rationale": "Ils cherchaient à établir une république et à se libérer de la domination d’un roi, pas simplement à le remplacer. L’alliance avec la France était une stratégie pendant la guerre, pas la raison fondamentale de son déclenchement. Le problème n’était pas les impôts en général, mais les impôts « injustes » imposés sans leur consentement."
+      },
+      {
+        "text": "à cause des persécutions religieuses, des difficultés économiques, des différends territoriaux",
+        "rationale": "Bien que ceux-ci aient contribué aux griefs coloniaux, les principales raisons de se battre étaient politiques : taxation sans représentation, cantonnement forcé des soldats et absence d’autonomie gouvernementale."
+      },
+      {
+        "text": "parce qu’ils voulaient l’indépendance immédiatement, parce qu’ils détestaient tous les Britanniques, parce qu’ils voulaient s’étendre vers l’ouest",
+        "rationale": "Les colons cherchaient initialement la réconciliation et se sont seulement progressivement orientés vers l’indépendance. Leurs griefs concernaient les politiques britanniques, pas les Britanniques en tant que personnes. L’expansion vers l’ouest n’était pas une cause principale du conflit."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Qui a rédigé la Déclaration d'indépendance ?",
+    "correctAnswers": [
+      {
+        "text": "(Thomas) Jefferson",
+        "rationale": "Thomas Jefferson était l'auteur principal de la Déclaration d'indépendance."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "George Washington",
+        "rationale": "George Washington était le commandant en chef de l'armée continentale et le premier président."
+      },
+      {
+        "text": "Abraham Lincoln",
+        "rationale": "Abraham Lincoln était le 16e président pendant la guerre de Sécession."
+      },
+      {
+        "text": "Benjamin Franklin",
+        "rationale": "Benjamin Franklin faisait partie du comité, a révisé le document et l'a signé, mais il n'était pas l'auteur principal."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Quand la Déclaration d'indépendance a-t-elle été adoptée ?",
+    "correctAnswers": [
+      {
+        "text": "4 juillet 1776",
+        "rationale": "Cette date est célébrée comme la fête de l'indépendance aux États-Unis."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "17 septembre 1787",
+        "rationale": "Le 17 septembre 1787 est la date de signature de la Constitution, pas l’adoption de la Déclaration d’indépendance."
+      },
+      {
+        "text": "12 octobre 1492",
+        "rationale": "Le 12 octobre 1492 est la date où Christophe Colomb est arrivé en Amérique, pas l’adoption de la Déclaration."
+      },
+      {
+        "text": "19 avril 1775",
+        "rationale": "Le 19 avril 1775 marque le début de la guerre d'indépendance à Lexington et Concord, pas l’adoption de la Déclaration."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Il y avait 13 États originaux. Nommez-en trois.",
+    "correctAnswers": [
+      {
+        "text": "New Hampshire",
+        "rationale": "Le New Hampshire était l'une des 13 colonies originales."
+      },
+      {
+        "text": "Massachusetts",
+        "rationale": "Le Massachusetts était l'une des 13 colonies originales."
+      },
+      {
+        "text": "Rhode Island",
+        "rationale": "Le Rhode Island était l'une des 13 colonies originales."
+      },
+      {
+        "text": "Connecticut",
+        "rationale": "Le Connecticut était l'une des 13 colonies originales."
+      },
+      {
+        "text": "New York",
+        "rationale": "New York était l'une des 13 colonies originales."
+      },
+      {
+        "text": "New Jersey",
+        "rationale": "Le New Jersey était l'une des 13 colonies originales."
+      },
+      {
+        "text": "Pennsylvanie",
+        "rationale": "La Pennsylvanie était l'une des 13 colonies originales."
+      },
+      {
+        "text": "Delaware",
+        "rationale": "Le Delaware était l'une des 13 colonies originales."
+      },
+      {
+        "text": "Maryland",
+        "rationale": "Le Maryland faisait partie des 13 colonies originales."
+      },
+      {
+        "text": "Virginie",
+        "rationale": "La Virginie faisait partie des 13 colonies originales."
+      },
+      {
+        "text": "Caroline du Nord",
+        "rationale": "La Caroline du Nord faisait partie des 13 colonies originales."
+      },
+      {
+        "text": "Caroline du Sud",
+        "rationale": "La Caroline du Sud faisait partie des 13 colonies originales."
+      },
+      {
+        "text": "Géorgie",
+        "rationale": "La Géorgie faisait partie des 13 colonies originales."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Floride, Californie, Texas, Alaska",
+        "rationale": "La Floride a rejoint l'Union en tant que 27e État en 1845, ce n'était pas une colonie d'origine. La Californie a rejoint en tant que 31e État en 1850. Le Texas a rejoint en tant que 28e État en 1845. L'Alaska a rejoint en tant que 49e État en 1959, bien après les 13 colonies d'origine."
+      },
+      {
+        "text": "Ohio, Kentucky, Vermont, Tennessee",
+        "rationale": "L'Ohio a rejoint l'Union en tant que 17e État en 1803, après les 13 originaux. Le Kentucky était le 15e État en 1792. Le Vermont était le 14e État en 1791. Le Tennessee était le 16e État en 1796. Tous ont rejoint après les 13 colonies originales."
+      },
+      {
+        "text": "Hawaï, Nevada, Colorado, Utah",
+        "rationale": "Hawaï a rejoint en tant que 50e État en 1959. Le Nevada a rejoint en tant que 36e État en 1864. Le Colorado a rejoint en tant que 38e État en 1876. L'Utah a rejoint en tant que 45e État en 1896. Aucun ne faisait partie des 13 colonies originales établies avant l'indépendance."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Que s'est-il passé à la Convention constitutionnelle ?",
+    "correctAnswers": [
+      {
+        "text": "La Constitution a été rédigée.",
+        "rationale": "La Convention constitutionnelle a été tenue pour créer un nouveau cadre de gouvernement, ce qui a donné lieu à la Constitution des États-Unis."
+      },
+      {
+        "text": "Les Pères fondateurs ont rédigé la Constitution.",
+        "rationale": "Les Pères fondateurs se sont réunis à la Convention constitutionnelle pour rédiger la Constitution."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "La Déclaration d'indépendance a été rédigée.",
+        "rationale": "La Déclaration d'indépendance a été rédigée 11 ans plus tôt, au Congrès continental en 1776."
+      },
+      {
+        "text": "La guerre d'indépendance a commencé.",
+        "rationale": "La guerre d'indépendance a commencé en 1775 et s'était déjà terminée avant la Convention constitutionnelle (1787)."
+      },
+      {
+        "text": "George Washington a été élu président.",
+        "rationale": "George Washington a été élu premier président en 1789, sous la Constitution, après la Convention."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Quand la Constitution a-t-elle été rédigée ?",
+    "correctAnswers": [
+      {
+        "text": "1787",
+        "rationale": "La Constitution a été rédigée lors de la Convention constitutionnelle à Philadelphie en 1787."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "1776",
+        "rationale": "1776 est l'année où la Déclaration d'indépendance a été adoptée."
+      },
+      {
+        "text": "1865",
+        "rationale": "1865 est l'année où la guerre civile a pris fin et où le 13e amendement, abolissant l'esclavage, a été ratifié."
+      },
+      {
+        "text": "1789",
+        "rationale": "1789 est l'année où la Constitution est entrée en vigueur et où le gouvernement américain a été officiellement formé."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Les Federalist Papers ont soutenu l'adoption de la Constitution des États-Unis. Nommez un des auteurs.",
+    "correctAnswers": [
+      {
+        "text": "(James) Madison",
+        "rationale": "James Madison était l’un des trois auteurs des Federalist Papers."
+      },
+      {
+        "text": "(Alexander) Hamilton",
+        "rationale": "Alexander Hamilton était l’un des trois auteurs des Federalist Papers."
+      },
+      {
+        "text": "(John) Jay",
+        "rationale": "John Jay était l’un des trois auteurs des Federalist Papers."
+      },
+      {
+        "text": "Publius",
+        "rationale": "Publius était le pseudonyme utilisé par Madison, Hamilton et Jay pour écrire les Federalist Papers."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Thomas Jefferson, George Washington, John Hancock",
+        "rationale": "Jefferson était un Anti-Fédéraliste qui s’opposait aux arguments des Federalist Papers. Bien que Washington ait été un ardent partisan de la Constitution, il n’était pas l’un des auteurs. John Hancock est célèbre pour avoir été le premier à signer la Déclaration d’indépendance."
+      },
+      {
+        "text": "Benjamin Franklin, Samuel Adams, Patrick Henry",
+        "rationale": "Franklin était un partisan de la Constitution mais n’a pas écrit les Federalist Papers. Adams et Henry étaient Anti-Fédéralistes, opposés à la Constitution, et n’auraient pas écrit de textes la soutenant."
+      },
+      {
+        "text": "Thomas Paine, John Adams, Benedict Arnold",
+        "rationale": "Paine a écrit « Le Sens commun » et d’autres pamphlets révolutionnaires mais pas les Federalist Papers. John Adams était à l’étranger durant cette période et n’a pas participé à leur rédaction. Benedict Arnold était un traître pendant la guerre d’indépendance."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Pour quoi Benjamin Franklin est-il célèbre ?",
+    "correctAnswers": [
+      {
+        "text": "diplomate américain",
+        "rationale": "Benjamin Franklin a servi comme diplomate en France pendant la guerre d’indépendance."
+      },
+      {
+        "text": "le membre le plus âgé de la Convention constitutionnelle",
+        "rationale": "À 81 ans, Franklin était le délégué le plus âgé à la Convention constitutionnelle."
+      },
+      {
+        "text": "premier maître de poste général des États-Unis",
+        "rationale": "Franklin a été nommé premier maître de poste général par le Congrès continental."
+      },
+      {
+        "text": "auteur de « Poor Richard's Almanac »",
+        "rationale": "Franklin a publié « Poor Richard's Almanac », qui contenait des prévisions météorologiques, des conseils domestiques et des proverbes."
+      },
+      {
+        "text": "a fondé les premières bibliothèques gratuites",
+        "rationale": "Franklin a fondé la première bibliothèque par abonnement en Amérique, qui est devenue le modèle des bibliothèques publiques gratuites."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "premier président des États-Unis, a rédigé la Déclaration d’indépendance, général de l’armée continentale",
+        "rationale": "Le premier président était George Washington, pas Benjamin Franklin. L’auteur principal de la Déclaration d’indépendance était Thomas Jefferson, pas Franklin. Le général de l’armée continentale était George Washington, pas Franklin."
+      },
+      {
+        "text": "a inventé le téléphone, fondé l’Université Harvard, rédigé la Constitution",
+        "rationale": "Le téléphone a été inventé par Alexander Graham Bell, pas par Benjamin Franklin. L’Université Harvard a été fondée en 1636, bien avant l’époque de Franklin. Bien que Franklin ait participé à la Convention constitutionnelle, James Madison est considéré comme le principal auteur de la Constitution."
+      },
+      {
+        "text": "a découvert l’Amérique, fut le premier président de la Cour suprême, a dirigé la Boston Tea Party",
+        "rationale": "L’Amérique a été découverte par Christophe Colomb et les peuples autochtones y vivaient bien avant. Le premier président de la Cour suprême était John Jay, pas Franklin. La Boston Tea Party a été organisée par Samuel Adams et les Fils de la Liberté, pas Franklin."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Qui est le « Père de notre pays » ?",
+    "correctAnswers": [
+      {
+        "text": "(George) Washington",
+        "rationale": "Il est appelé le « Père de sa Patrie » pour son leadership pendant la guerre d'indépendance et pour avoir établi la nouvelle nation."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Abraham Lincoln",
+        "rationale": "Lincoln est connu comme le « Grand Émancipateur » et le président qui a préservé l'Union."
+      },
+      {
+        "text": "Thomas Jefferson",
+        "rationale": "Jefferson était l'auteur de la Déclaration d'indépendance et le troisième président."
+      },
+      {
+        "text": "Benjamin Franklin",
+        "rationale": "Franklin était un brillant diplomate, inventeur et l'un des Pères fondateurs."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Qui était le premier président ?",
+    "correctAnswers": [
+      {
+        "text": "(George) Washington",
+        "rationale": "George Washington fut le premier président des États-Unis."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "John Adams",
+        "rationale": "John Adams fut le premier vice-président et le deuxième président."
+      },
+      {
+        "text": "Thomas Jefferson",
+        "rationale": "Thomas Jefferson fut le troisième président."
+      },
+      {
+        "text": "Alexander Hamilton",
+        "rationale": "Alexander Hamilton fut le premier secrétaire du Trésor mais ne devint jamais président."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Quel territoire les États-Unis ont-ils acheté à la France en 1803 ?",
+    "correctAnswers": [
+      {
+        "text": "le Territoire de la Louisiane",
+        "rationale": "L'achat de la Louisiane a doublé la taille des États-Unis."
+      },
+      {
+        "text": "Louisiane",
+        "rationale": "Le Territoire de la Louisiane a été acheté à la France en 1803."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Alaska",
+        "rationale": "L'Alaska a été acheté à la Russie, et non à la France, en 1867."
+      },
+      {
+        "text": "Floride",
+        "rationale": "La Floride a été cédée par l'Espagne en 1819."
+      },
+      {
+        "text": "Texas",
+        "rationale": "Le Texas a été annexé en 1845 après avoir été une république indépendante."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Nommez une guerre menée par les États-Unis au XIXe siècle.",
+    "correctAnswers": [
+      {
+        "text": "Guerre de 1812",
+        "rationale": "La guerre de 1812 a été menée entre les États-Unis et la Grande-Bretagne."
+      },
+      {
+        "text": "Guerre américano-mexicaine",
+        "rationale": "La guerre américano-mexicaine s'est déroulée de 1846 à 1848."
+      },
+      {
+        "text": "Guerre de Sécession",
+        "rationale": "La guerre de Sécession s'est déroulée de 1861 à 1865."
+      },
+      {
+        "text": "Guerre hispano-américaine",
+        "rationale": "La guerre hispano-américaine a eu lieu en 1898."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Guerre d'indépendance, Première Guerre mondiale, Deuxième Guerre mondiale, Guerre de Corée",
+        "rationale": "La guerre d'Indépendance a eu lieu au XVIIIe siècle (1775-1783), pas au XIXe. La Première Guerre mondiale a eu lieu au XXe siècle (1914-1918). La Seconde Guerre mondiale a eu lieu au XXe siècle (1939-1945). La guerre de Corée a eu lieu au XXe siècle (1950-1953). Aucune de ces guerres n'a eu lieu au XIXe siècle."
+      },
+      {
+        "text": "Guerre du Viêt Nam, Guerre du Golfe, Guerre d'Irak, Guerre d'Afghanistan",
+        "rationale": "La guerre du Viêt Nam a eu lieu au XXe siècle (1955-1975). La guerre du Golfe a eu lieu au XXe siècle (1991). La guerre d'Irak a commencé en 2003. La guerre d'Afghanistan a commencé en 2001. Tous ces conflits ont eu lieu bien après le XIXe siècle."
+      },
+      {
+        "text": "Guerre de la Conquête, Guerre du roi Philippe, Rébellion de Bacon, Guerre de Pontiac",
+        "rationale": "La guerre de la Conquête a eu lieu au XVIIIe siècle (1754-1763). La guerre du roi Philippe a eu lieu au XVIIe siècle (1675-1676). La rébellion de Bacon a eu lieu en 1676. La guerre de Pontiac a eu lieu dans les années 1760. Tous ces conflits ont eu lieu avant le XIXe siècle."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Nommez la guerre américaine entre le Nord et le Sud.",
+    "correctAnswers": [
+      {
+        "text": "la guerre de Sécession",
+        "rationale": "La guerre de Sécession a opposé les États du Nord et du Sud à propos de l’esclavage et des droits des États."
+      },
+      {
+        "text": "la guerre entre les États",
+        "rationale": "C'était un terme couramment utilisé dans les États du Sud."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "la guerre d'Indépendance, la guerre de 1812",
+        "rationale": "La guerre d’Indépendance s’est déroulée entre les colonies américaines et la Grande-Bretagne, pas entre le Nord et le Sud. La guerre de 1812 a opposé les États-Unis à la Grande-Bretagne, pas un conflit interne."
+      },
+      {
+        "text": "la Première Guerre mondiale, la Seconde Guerre mondiale",
+        "rationale": "La Première Guerre mondiale était un conflit mondial impliquant de nombreuses nations, pas une guerre entre le Nord et le Sud. La Seconde Guerre mondiale était un conflit mondial entre les Alliés, y compris les États-Unis, et les puissances de l’Axe, pas une guerre interne américaine."
+      },
+      {
+        "text": "la guerre américano-mexicaine, la guerre hispano-américaine",
+        "rationale": "La guerre américano-mexicaine a opposé les États-Unis et le Mexique, pas le Nord et le Sud. La guerre hispano-américaine a opposé les États-Unis et l’Espagne, pas un conflit interne entre régions."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Nommez un problème qui a conduit à la guerre de Sécession.",
+    "correctAnswers": [
+      {
+        "text": "l’esclavage",
+        "rationale": "L’existence de l’esclavage fut la cause la plus fondamentale et centrale du conflit entre le Nord et le Sud."
+      },
+      {
+        "text": "raisons économiques",
+        "rationale": "Il y avait d’importantes différences et conflits économiques entre le Nord industriel et le Sud agricole."
+      },
+      {
+        "text": "droits des États",
+        "rationale": "Il y eut un grand débat sur les droits des États à décider de leurs propres affaires face au pouvoir du gouvernement fédéral."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "guerre avec l’Angleterre, différences religieuses, disputes sur le pétrole",
+        "rationale": "Le conflit avec l’Angleterre fut une cause de la guerre d’Indépendance et de la guerre de 1812, pas de la guerre de Sécession. Bien que la religion ait été un facteur, ce n’était pas une cause principale de la guerre de Sécession. L’industrie pétrolière à grande échelle s’est développée aux États-Unis après la guerre de Sécession, donc les disputes sur le pétrole n’en furent pas une cause."
+      },
+      {
+        "text": "expansion territoriale, problèmes d’immigration, différends commerciaux étrangers",
+        "rationale": "Bien que l’expansion territoriale ait été débattue, la question centrale était de savoir si les nouveaux territoires permettraient l’esclavage. L’immigration n’était pas une cause principale de la guerre de Sécession. Les différends commerciaux étrangers n’étaient pas un facteur majeur menant à la guerre de Sécession."
+      },
+      {
+        "text": "différends sur l’or, conflits avec les Amérindiens, désaccords sur la Constitution",
+        "rationale": "Les découvertes d’or ont eu lieu principalement à l’Ouest et n’ont pas été une cause majeure du conflit Nord-Sud. Les conflits avec les Amérindiens étaient permanents mais n’étaient pas une cause de la guerre de Sécession. Les désaccords constitutionnels existaient, mais portaient sur l’esclavage et les droits des États."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Quelle est une chose importante qu'Abraham Lincoln a faite ?",
+    "correctAnswers": [
+      {
+        "text": "a libéré les esclaves (Proclamation d'émancipation)",
+        "rationale": "Pendant la guerre, il a publié la Proclamation d'émancipation, qui a libéré les esclaves de la Confédération."
+      },
+      {
+        "text": "a sauvé (ou préservé) l'Union",
+        "rationale": "Il a empêché la sécession du Sud et a maintenu les États-Unis comme une seule nation."
+      },
+      {
+        "text": "a dirigé les États-Unis pendant la guerre de Sécession",
+        "rationale": "Il a dirigé l'Union en tant que président lors de la plus grande crise de la nation, la guerre de Sécession."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "a écrit la Déclaration d'indépendance, fut le premier président, donna aux femmes le droit de vote",
+        "rationale": "La Déclaration d'indépendance a été rédigée par Thomas Jefferson, pas par Abraham Lincoln. Le premier président était George Washington, pas Lincoln. Le droit de vote des femmes a été obtenu par le 19e amendement en 1920, bien après la mort de Lincoln en 1865."
+      },
+      {
+        "text": "a fondé le Parti républicain, a construit le chemin de fer transcontinental, a découvert l'électricité",
+        "rationale": "Bien que Lincoln fût républicain, le parti a été fondé en 1854 avant sa présidence. Le chemin de fer transcontinental a été construit par des entreprises privées avec le soutien du gouvernement, pas directement par Lincoln. L'électricité a été découverte et étudiée par des scientifiques comme Benjamin Franklin, pas par Lincoln."
+      },
+      {
+        "text": "a écrit la Constitution, fut juge à la Cour suprême, inventa le téléphone",
+        "rationale": "La Constitution a été principalement rédigée par James Madison et d'autres pères fondateurs, pas par Lincoln. Lincoln n'a jamais été juge à la Cour suprême; il était président. Le téléphone a été inventé par Alexander Graham Bell en 1876, après la mort de Lincoln."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Qu'a fait la Proclamation d'émancipation ?",
+    "correctAnswers": [
+      {
+        "text": "a libéré les esclaves",
+        "rationale": "La Proclamation d'émancipation a déclaré la liberté des personnes réduites en esclavage."
+      },
+      {
+        "text": "a libéré les esclaves dans la Confédération",
+        "rationale": "Plus précisément, il a libéré les esclaves dans les États en rébellion (la Confédération)."
+      },
+      {
+        "text": "a libéré les esclaves dans les États confédérés",
+        "rationale": "La proclamation s'appliquait aux esclaves dans les États qui avaient fait sécession de l'Union."
+      },
+      {
+        "text": "a libéré les esclaves dans la plupart des États du Sud",
+        "rationale": "Il a libéré les esclaves dans les États du Sud rebelles pendant la guerre de Sécession."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "a libéré tous les esclaves, a déclaré l'indépendance vis-à-vis de la Grande-Bretagne",
+        "rationale": "Techniquement, la Proclamation d'émancipation n'a pas libéré les esclaves dans les États frontaliers restés dans l'Union ; le 13e amendement a achevé ce processus. La déclaration d'indépendance de la Grande-Bretagne a été faite par la Déclaration d'indépendance en 1776, pas par la Proclamation d'émancipation."
+      },
+      {
+        "text": "a donné aux femmes le droit de vote, a mis fin à la guerre de Sécession",
+        "rationale": "Le droit de vote des femmes a été obtenu par le 19e amendement en 1920, pas par la Proclamation d'émancipation. Bien que la Proclamation d'émancipation ait été publiée pendant la guerre de Sécession, elle n'a pas mis fin à la guerre ; la guerre s'est poursuivie jusqu'en 1865."
+      },
+      {
+        "text": "a établi la Constitution, a créé la Déclaration des droits",
+        "rationale": "La Constitution a été établie en 1787, bien avant la Proclamation d'émancipation de 1863. La Déclaration des droits a été créée comme les dix premiers amendements à la Constitution en 1791, également avant la Proclamation d'émancipation."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Qu’a fait Susan B. Anthony ?",
+    "correctAnswers": [
+      {
+        "text": "a lutté pour les droits des femmes",
+        "rationale": "Elle a été une dirigeante clé du mouvement pour le suffrage des femmes."
+      },
+      {
+        "text": "a lutté pour les droits civiques",
+        "rationale": "Les droits des femmes font partie du mouvement plus large des droits civiques."
+      },
+      {
+        "text": "a lutté pour le suffrage des femmes",
+        "rationale": "Elle a été une dirigeante dans le mouvement pour garantir le droit de vote des femmes."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "a été la première femme élue au Sénat, était infirmière pendant la guerre de Sécession",
+        "rationale": "Elle a lutté toute sa vie pour le droit de vote des femmes mais n’a pas vécu assez longtemps pour les voir voter ou occuper des fonctions. L’infirmière célèbre de l’époque de la guerre de Sécession était Clara Barton, qui a fondé la Croix-Rouge américaine, pas Susan B. Anthony."
+      },
+      {
+        "text": "a signé la Proclamation d’émancipation, a été la première femme Présidente",
+        "rationale": "La Proclamation d’émancipation était un ordre exécutif émis par le président Abraham Lincoln, pas Susan B. Anthony. Il n’y a jamais eu de femme présidente dans l’histoire des États-Unis, et Anthony a vécu au XIXe siècle, quand les femmes ne pouvaient même pas voter."
+      },
+      {
+        "text": "a fondé la Croix-Rouge américaine, a rédigé la Déclaration d’indépendance",
+        "rationale": "La Croix-Rouge américaine a été fondée par Clara Barton, pas Susan B. Anthony. La Déclaration d’indépendance a été rédigée par Thomas Jefferson et d’autres pères fondateurs en 1776, bien avant la naissance d’Anthony en 1820."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Nommez une guerre à laquelle les États-Unis ont participé au XXe siècle.",
+    "correctAnswers": [
+      {
+        "text": "Première Guerre mondiale",
+        "rationale": "Les États-Unis sont entrés en guerre en 1917."
+      },
+      {
+        "text": "Deuxième Guerre mondiale",
+        "rationale": "Les États-Unis sont entrés en guerre après l'attaque de Pearl Harbor en 1941."
+      },
+      {
+        "text": "Guerre de Corée",
+        "rationale": "Cette guerre a commencé en 1950."
+      },
+      {
+        "text": "Guerre du Viêt Nam",
+        "rationale": "Cette guerre a eu lieu dans les années 1960 et 1970."
+      },
+      {
+        "text": "Guerre du Golfe (persique)",
+        "rationale": "Cette guerre a eu lieu en 1991."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Guerre de Sécession, Guerre d'indépendance, Guerre américano-mexicaine, Guerre de 1812, Guerre hispano-américaine",
+        "rationale": "La guerre de Sécession s'est déroulée au XIXe siècle (1861-1865), pas au XXe. La guerre d'indépendance a eu lieu au XVIIIe siècle (1775-1783). La guerre américano-mexicaine s'est déroulée au XIXe siècle (1846-1848). La guerre de 1812 a eu lieu au début du XIXe siècle. La guerre hispano-américaine s'est déroulée en 1898, techniquement au XIXe siècle."
+      },
+      {
+        "text": "Guerre de la Conquête, Guerre du roi Philippe, Rébellion de Bacon, Rébellion de Shays, Rébellion du whisky",
+        "rationale": "La guerre de la Conquête a eu lieu dans les années 1750-1760. La guerre du roi Philippe a eu lieu dans les années 1670. La rébellion de Bacon a eu lieu en 1676. La rébellion de Shays a eu lieu dans les années 1780. La rébellion du whisky a eu lieu dans les années 1790. Tous ces conflits sont antérieurs au XXe siècle."
+      },
+      {
+        "text": "Guerres napoléoniennes, Guerre de Crimée, Guerre franco-prussienne, Guerres des Boers, Guerre russo-japonaise",
+        "rationale": "Ces conflits ne correspondent pas à des guerres du XXe siècle auxquelles les États-Unis ont participé. La plupart se sont déroulés avant 1900 (napoléoniennes, Crimée, franco-prussienne, Boers). La guerre russo-japonaise (1904-1905) a bien eu lieu au XXe siècle, mais les États-Unis n’y étaient pas belligérants."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Qui était président pendant la Première Guerre mondiale ?",
+    "correctAnswers": [
+      {
+        "text": "(Woodrow) Wilson",
+        "rationale": "Woodrow Wilson était le président qui a dirigé les États-Unis pendant la Première Guerre mondiale."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Franklin Roosevelt",
+        "rationale": "Franklin Roosevelt était le président pendant la Seconde Guerre mondiale."
+      },
+      {
+        "text": "Abraham Lincoln",
+        "rationale": "Abraham Lincoln était le président pendant la guerre de Sécession."
+      },
+      {
+        "text": "Theodore Roosevelt",
+        "rationale": "Theodore Roosevelt a été président avant la Première Guerre mondiale."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Qui était président pendant la Grande Dépression et la Seconde Guerre mondiale ?",
+    "correctAnswers": [
+      {
+        "text": "(Franklin) Roosevelt",
+        "rationale": "Franklin D. Roosevelt a dirigé le pays à travers ces deux crises nationales."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Woodrow Wilson",
+        "rationale": "Woodrow Wilson était président pendant la Première Guerre mondiale."
+      },
+      {
+        "text": "Herbert Hoover",
+        "rationale": "Herbert Hoover était président lorsque la Grande Dépression a commencé."
+      },
+      {
+        "text": "Harry Truman",
+        "rationale": "Harry Truman était le président qui a conclu la Seconde Guerre mondiale après la mort de Roosevelt."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Contre qui les États-Unis se sont-ils battus pendant la Seconde Guerre mondiale ?",
+    "correctAnswers": [
+      {
+        "text": "le Japon, l'Allemagne et l'Italie",
+        "rationale": "Ces trois pays formaient les puissances de l'Axe."
+      },
+      {
+        "text": "le Japon",
+        "rationale": "Le Japon était une puissance majeure de l'Axe contre laquelle les États-Unis se sont battus."
+      },
+      {
+        "text": "l'Allemagne",
+        "rationale": "L'Allemagne était une puissance majeure de l'Axe contre laquelle les États-Unis se sont battus."
+      },
+      {
+        "text": "l'Italie",
+        "rationale": "L'Italie était une puissance de l'Axe contre laquelle les États-Unis se sont battus."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "l'Union soviétique",
+        "rationale": "L'Union soviétique était un allié des États-Unis pendant la Seconde Guerre mondiale, pas un ennemi."
+      },
+      {
+        "text": "la Grande-Bretagne",
+        "rationale": "La Grande-Bretagne était un allié majeur des États-Unis pendant la Seconde Guerre mondiale, pas un ennemi."
+      },
+      {
+        "text": "la France",
+        "rationale": "La France a été libérée par les États-Unis et leurs alliés pendant la Seconde Guerre mondiale, pas un ennemi."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Avant d’être président, Eisenhower était général. Dans quelle guerre a-t-il combattu ?",
+    "correctAnswers": [
+      {
+        "text": "Seconde Guerre mondiale",
+        "rationale": "Dwight D. Eisenhower était le commandant suprême de la Force expéditionnaire alliée en Europe pendant la Seconde Guerre mondiale."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Première Guerre mondiale",
+        "rationale": "Eisenhower a servi aux États-Unis pendant la Première Guerre mondiale."
+      },
+      {
+        "text": "Guerre de Sécession",
+        "rationale": "La guerre de Sécession a eu lieu avant la naissance d’Eisenhower."
+      },
+      {
+        "text": "Guerre du Vietnam",
+        "rationale": "La guerre du Vietnam s’est intensifiée après la présidence d’Eisenhower."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Pendant la guerre froide, quelle était la principale préoccupation des États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "le communisme",
+        "rationale": "Après la Seconde Guerre mondiale, l'objectif principal de la politique étrangère américaine était de contenir la propagation du communisme, dirigé par l'Union soviétique."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "le changement climatique",
+        "rationale": "Le changement climatique n'est devenu que récemment une préoccupation internationale majeure."
+      },
+      {
+        "text": "le colonialisme",
+        "rationale": "Bien que la guerre froide ait coïncidé avec l'ère de la décolonisation, la principale préoccupation des États-Unis était le communisme."
+      },
+      {
+        "text": "la Grande Dépression",
+        "rationale": "La Grande Dépression était le principal problème des années 1930, avant la guerre froide."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Quel mouvement a essayé de mettre fin à la discrimination raciale ?",
+    "correctAnswers": [
+      {
+        "text": "mouvement des droits civiques",
+        "rationale": "Le mouvement des droits civiques des années 1950 et 1960 a œuvré pour mettre fin à la discrimination légale et sociale envers les Afro-Américains."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "le mouvement de tempérance",
+        "rationale": "Le mouvement de tempérance était un mouvement social visant à interdire la consommation d’alcool."
+      },
+      {
+        "text": "le mouvement pour le suffrage des femmes",
+        "rationale": "Le mouvement pour le suffrage des femmes visait à obtenir le droit de vote pour les femmes."
+      },
+      {
+        "text": "le mouvement anti-guerre",
+        "rationale": "Le mouvement anti-guerre s’est concentré sur l’opposition à une guerre spécifique, en particulier la guerre du Vietnam."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Qu'a fait Martin Luther King, Jr. ?",
+    "correctAnswers": [
+      {
+        "text": "s'est battu pour les droits civiques",
+        "rationale": "Il était un leader emblématique du mouvement des droits civiques qui s'est battu contre la discrimination raciale par la résistance non violente."
+      },
+      {
+        "text": "a œuvré pour l'égalité de tous les Américains",
+        "rationale": "Son objectif était de créer une société où les personnes de toutes races étaient traitées de manière égale."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "était le premier président noir, était sénateur américain",
+        "rationale": "Le premier président noir des États-Unis était Barack Obama, pas Martin Luther King, Jr. Martin Luther King, Jr. était un pasteur et un activiste, pas un élu comme un sénateur américain."
+      },
+      {
+        "text": "s'est battu pour libérer les esclaves, a fondé la NAACP",
+        "rationale": "La lutte pour libérer les esclaves a eu lieu environ 100 ans avant son époque, pendant l'ère de la guerre civile. La NAACP a été fondée en 1909 par W.E.B. Du Bois et d'autres, avant la naissance de King en 1929."
+      },
+      {
+        "text": "était juge à la Cour suprême, a inventé le téléphone",
+        "rationale": "Martin Luther King, Jr. n'a jamais été juge à la Cour suprême ; il était un leader des droits civiques et un pasteur. Le téléphone a été inventé par Alexander Graham Bell en 1876, bien avant la naissance de King."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Quel événement majeur s'est produit le 11 septembre 2001 aux États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "Des terroristes ont attaqué les États-Unis",
+        "rationale": "Ce jour-là, des terroristes d'al-Qaïda ont détourné des avions et attaqué le World Trade Center, le Pentagone et d'autres sites."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pearl Harbor a été attaqué",
+        "rationale": "L'attaque sur Pearl Harbor a eu lieu le 7 décembre 1941, entraînant l'entrée des États-Unis dans la Seconde Guerre mondiale."
+      },
+      {
+        "text": "Le marché boursier s'est effondré",
+        "rationale": "Le grand krach boursier qui a déclenché la Grande Dépression a eu lieu en 1929."
+      },
+      {
+        "text": "La guerre d'Irak a commencé",
+        "rationale": "La guerre d'Irak a commencé en 2003, après les attentats du 11 septembre."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Nommez une tribu amérindienne aux États-Unis.",
+    "correctAnswers": [
+      {
+        "text": "Cherokee",
+        "rationale": "Les Cherokee sont une tribu amérindienne originaire du sud-est des États-Unis."
+      },
+      {
+        "text": "Navajo",
+        "rationale": "Les Navajos sont une tribu amérindienne du sud-ouest des États-Unis."
+      },
+      {
+        "text": "Sioux",
+        "rationale": "Les Sioux sont une tribu amérindienne de la région des Grandes Plaines."
+      },
+      {
+        "text": "Chippewa",
+        "rationale": "Les Chippewa (Ojibwés) sont une tribu amérindienne de la région des Grands Lacs."
+      },
+      {
+        "text": "Choctaw",
+        "rationale": "Les Choctaw sont une tribu amérindienne originaire du sud-est des États-Unis."
+      },
+      {
+        "text": "Pueblo",
+        "rationale": "Les Pueblos sont des tribus amérindiennes du sud-ouest des États-Unis."
+      },
+      {
+        "text": "Apache",
+        "rationale": "Les Apaches sont une tribu amérindienne du sud-ouest des États-Unis."
+      },
+      {
+        "text": "Iroquois",
+        "rationale": "Les Iroquois sont une confédération de tribus amérindiennes du nord-est des États-Unis."
+      },
+      {
+        "text": "Creek",
+        "rationale": "Les Creeks (Muscogees) sont une tribu amérindienne du sud-est des États-Unis."
+      },
+      {
+        "text": "Pieds-Noirs",
+        "rationale": "Les Pieds-Noirs sont une tribu amérindienne des Grandes Plaines du Nord."
+      },
+      {
+        "text": "Séminole",
+        "rationale": "Les Séminoles sont une tribu amérindienne de Floride."
+      },
+      {
+        "text": "Cheyenne",
+        "rationale": "Les Cheyennes sont une tribu amérindienne des Grandes Plaines."
+      },
+      {
+        "text": "Arawak",
+        "rationale": "Les Arawaks étaient des peuples indigènes des Caraïbes et d'Amérique du Sud."
+      },
+      {
+        "text": "Shawnee",
+        "rationale": "Les Shawnees sont une tribu amérindienne originaire de la vallée de l'Ohio."
+      },
+      {
+        "text": "Mohegan",
+        "rationale": "Les Mohegans sont une tribu amérindienne du Connecticut."
+      },
+      {
+        "text": "Huron",
+        "rationale": "Les Hurons (Wyandots) sont une tribu amérindienne de la région des Grands Lacs."
+      },
+      {
+        "text": "Oneida",
+        "rationale": "Les Oneidas sont une tribu amérindienne et font partie de la confédération iroquoise."
+      },
+      {
+        "text": "Lakota",
+        "rationale": "Les Lakotas sont une tribu amérindienne et font partie de la nation Sioux."
+      },
+      {
+        "text": "Crow",
+        "rationale": "Les Crow sont une tribu amérindienne des Grandes Plaines du Nord."
+      },
+      {
+        "text": "Teton",
+        "rationale": "Les Teton sont une division de la tribu Lakota Sioux."
+      },
+      {
+        "text": "Hopi",
+        "rationale": "Les Hopis sont une tribu amérindienne d'Arizona."
+      },
+      {
+        "text": "Inuit",
+        "rationale": "Les Inuits sont des peuples autochtones de l'Alaska et des régions arctiques."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Inca, Aztèques, Mayas, Olmèques",
+        "rationale": "Les Incas étaient une civilisation principalement située en Amérique du Sud, comme le Pérou. Les Aztèques étaient une civilisation située dans la région du Mexique actuel. Les Mayas étaient une civilisation située en Amérique centrale. Les Olmèques étaient une ancienne civilisation au Mexique. Aucun de ceux-ci n'était une tribu amérindienne des États-Unis actuels."
+      },
+      {
+        "text": "Zoulous, Massaï, Yoruba, Bantous",
+        "rationale": "Les Zoulous sont un peuple d'Afrique du Sud. Les Massaïs viennent d'Afrique de l'Est (Kenya et Tanzanie). Les Yorubas viennent d'Afrique de l'Ouest (Nigeria). Les Bantous sont un grand groupe de peuples d'Afrique subsaharienne. Aucun de ceux-ci n'est une tribu amérindienne des États-Unis."
+      },
+      {
+        "text": "Celtes, Vikings, Saxons, Normands",
+        "rationale": "Les Celtes étaient des peuples anciens d'Europe. Les Vikings venaient de Scandinavie. Les Saxons étaient des peuples germaniques installés en Angleterre. Les Normands venaient du nord de la France. Aucun de ceux-ci n'était une tribu amérindienne native des États-Unis."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Nommez l’un des deux plus longs fleuves des États-Unis.",
+    "correctAnswers": [
+      {
+        "text": "Missouri (Fleuve)",
+        "rationale": "Le fleuve Missouri est le plus long fleuve des États-Unis."
+      },
+      {
+        "text": "Mississippi (Fleuve)",
+        "rationale": "Le fleuve Mississippi est le deuxième plus long fleuve des États-Unis."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nil (Fleuve), Amazone (Fleuve)",
+        "rationale": "Le Nil est le plus long fleuve du monde, situé en Afrique, et non aux États-Unis. L’Amazone se trouve en Amérique du Sud, pas aux États-Unis."
+      },
+      {
+        "text": "Colorado (Fleuve), Rio Grande (Fleuve)",
+        "rationale": "Le fleuve Colorado est un fleuve majeur du sud-ouest américain, mais il n’est pas l’un des deux plus longs. Le Rio Grande forme une partie de la frontière avec le Mexique, mais il n’est pas l’un des deux plus longs."
+      },
+      {
+        "text": "Ohio (Fleuve), Columbia (Fleuve)",
+        "rationale": "L’Ohio est un affluent majeur du Mississippi mais n’est pas l’un des deux plus longs fleuves. Le Columbia traverse le nord-ouest du Pacifique mais n’est pas l’un des deux plus longs fleuves."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Quel océan borde la côte ouest des États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "Pacifique (Océan)",
+        "rationale": "La Californie, l'Oregon et l'État de Washington sont sur l'océan Pacifique."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Atlantique (Océan)",
+        "rationale": "L'océan Atlantique est sur la côte est des États-Unis."
+      },
+      {
+        "text": "Indien (Océan)",
+        "rationale": "L'océan Indien ne borde pas les États-Unis."
+      },
+      {
+        "text": "Arctique (Océan)",
+        "rationale": "L'océan Arctique borde la côte nord de l'Alaska."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Quel océan se trouve sur la côte est des États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "Atlantique (Océan)",
+        "rationale": "New York, la Floride et le Maine se trouvent sur l’océan Atlantique."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pacifique (Océan)",
+        "rationale": "L’océan Pacifique est sur la côte ouest des États-Unis."
+      },
+      {
+        "text": "Golfe du Mexique",
+        "rationale": "Le golfe du Mexique est sur la côte sud-est des États-Unis."
+      },
+      {
+        "text": "Méditerranée (Mer)",
+        "rationale": "La mer Méditerranée est située entre l’Europe et l’Afrique."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Nommez un territoire des États-Unis.",
+    "correctAnswers": [
+      {
+        "text": "Porto Rico",
+        "rationale": "Porto Rico est un territoire non incorporé des États-Unis dans les Caraïbes."
+      },
+      {
+        "text": "Guam",
+        "rationale": "Guam est un territoire américain dans l'océan Pacifique."
+      },
+      {
+        "text": "Îles Vierges américaines",
+        "rationale": "Les Îles Vierges des États-Unis sont un groupe d’îles caribéennes et un territoire américain."
+      },
+      {
+        "text": "Samoa américaines",
+        "rationale": "Les Samoa américaines sont un territoire américain dans le sud du Pacifique."
+      },
+      {
+        "text": "Îles Mariannes du Nord",
+        "rationale": "Les Îles Mariannes du Nord sont un commonwealth américain dans l'océan Pacifique."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Hawaï, Alaska, Californie, Texas, Floride",
+        "rationale": "Hawaï est le 50e État des États-Unis, pas un territoire. L'Alaska est le 49e État, pas un territoire. La Californie a rejoint l'Union en 1850. Le Texas a rejoint l'Union en 1845. La Floride a rejoint l'Union en 1845. Tous sont des États, pas des territoires."
+      },
+      {
+        "text": "Philippines, Cuba, Panama, Mexique, Canada",
+        "rationale": "Les Philippines étaient un territoire américain dans le passé mais sont devenues un pays indépendant en 1946. Cuba est un pays indépendant et n'a jamais été un territoire américain. Le Panama est un pays indépendant, bien que les États-Unis aient contrôlé la zone du canal de Panama. Le Mexique est un pays indépendant. Le Canada est un pays indépendant."
+      },
+      {
+        "text": "Japon, Corée du Sud, Allemagne, Royaume-Uni, Australie",
+        "rationale": "Le Japon est un pays indépendant qui a été occupé par les États-Unis après la Seconde Guerre mondiale mais n’a jamais été un territoire. La Corée du Sud est un pays indépendant avec une présence militaire américaine mais n’est pas un territoire. L’Allemagne a été occupée après la Seconde Guerre mondiale mais n’a jamais été un territoire américain. Le Royaume-Uni est un pays indépendant et une ancienne puissance coloniale. L’Australie est un pays indépendant et n’a jamais été un territoire américain."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Nommez un État qui borde le Canada.",
+    "correctAnswers": [
+      {
+        "text": "Washington",
+        "rationale": "Washington partage une frontière avec la province canadienne de la Colombie-Britannique."
+      },
+      {
+        "text": "Alaska",
+        "rationale": "L’Alaska borde le Yukon et la Colombie-Britannique au Canada."
+      },
+      {
+        "text": "New York",
+        "rationale": "New York partage une frontière avec l’Ontario et le Québec au Canada."
+      },
+      {
+        "text": "Montana",
+        "rationale": "Le Montana partage une longue frontière avec la Colombie-Britannique, l’Alberta et la Saskatchewan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Oregon, Californie, Nevada, Utah",
+        "rationale": "L’Oregon est au sud de l’État de Washington et ne borde pas le Canada. La Californie borde le Mexique, pas le Canada. Le Nevada est un État intérieur de l’ouest qui ne borde pas le Canada. L’Utah est un État enclavé à l’intérieur des États-Unis et ne borde pas le Canada."
+      },
+      {
+        "text": "Colorado, Arizona, Nouveau-Mexique, Texas",
+        "rationale": "Le Colorado est un État enclavé à l’intérieur des États-Unis. L’Arizona borde le Mexique, pas le Canada. Le Nouveau-Mexique borde le Mexique, pas le Canada. Le Texas borde le Mexique, pas le Canada. Aucun de ces États du sud-ouest ne borde le Canada."
+      },
+      {
+        "text": "Floride, Géorgie, Caroline du Sud, Caroline du Nord",
+        "rationale": "La Floride est dans le sud-est des États-Unis et borde l’océan Atlantique et le golfe du Mexique. La Géorgie est dans le sud-est des États-Unis. La Caroline du Sud est sur la côte atlantique. La Caroline du Nord est sur la côte atlantique. Tous ces États du sud-est sont loin de la frontière canadienne."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Nommez un État qui borde le Mexique.",
+    "correctAnswers": [
+      {
+        "text": "Californie",
+        "rationale": "La Californie partage une frontière sud avec le Mexique."
+      },
+      {
+        "text": "Arizona",
+        "rationale": "L’Arizona partage une grande partie de sa frontière sud avec le Mexique."
+      },
+      {
+        "text": "Nouveau-Mexique",
+        "rationale": "Le Nouveau-Mexique borde le Mexique au sud."
+      },
+      {
+        "text": "Texas",
+        "rationale": "Le Texas partage la plus longue frontière avec le Mexique parmi les États américains."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nevada, Utah, Colorado, Oklahoma",
+        "rationale": "Le Nevada est à l’est de la Californie et de l’Arizona et ne borde pas le Mexique. L’Utah est un État enclavé au nord de l’Arizona. Le Colorado est un État enclavé à l’intérieur des États-Unis. L’Oklahoma est dans le centre-sud des États-Unis mais ne borde pas le Mexique. Aucun de ces États ne partage une frontière avec le Mexique."
+      },
+      {
+        "text": "Floride, Louisiane, Mississippi, Alabama",
+        "rationale": "La Floride est de l’autre côté du golfe du Mexique par rapport au Mexique mais ne partage pas de frontière terrestre. La Louisiane borde le golfe du Mexique mais pas directement le Mexique. Le Mississippi est sur la côte du golfe mais ne borde pas le Mexique. L’Alabama est sur la côte du golfe mais ne borde pas le Mexique. Ces États du golfe sont séparés du Mexique par l’eau."
+      },
+      {
+        "text": "Washington, Oregon, Idaho, Montana",
+        "rationale": "L’État de Washington borde le Canada, pas le Mexique. L’Oregon est sur la côte pacifique mais au nord de la Californie. L’Idaho est un État enclavé du nord-ouest. Le Montana borde le Canada, pas le Mexique. Tous ces États se trouvent dans le nord ou le nord-ouest des États-Unis, loin de la frontière mexicaine."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Quelle est la capitale des États-Unis ?",
+    "correctAnswers": [
+      {
+        "text": "Washington, D.C.",
+        "rationale": "D.C. signifie District de Columbia."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "New York",
+        "rationale": "New York est la plus grande ville des États-Unis et fut sa première capitale, mais ce n’est pas la capitale actuelle."
+      },
+      {
+        "text": "Philadelphie",
+        "rationale": "Philadelphie est une ville historique où la Déclaration et la Constitution ont été signées, et elle fut une ancienne capitale."
+      },
+      {
+        "text": "État de Washington",
+        "rationale": "L’État de Washington est un État du nord-ouest du Pacifique, différent de la capitale Washington, D.C."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Où se trouve la Statue de la Liberté ?",
+    "correctAnswers": [
+      {
+        "text": "New York (Port)",
+        "rationale": "La Statue de la Liberté se trouve dans le port de New York."
+      },
+      {
+        "text": "Île de la Liberté",
+        "rationale": "Plus précisément, elle est située sur l'Île de la Liberté dans le port de New York."
+      },
+      {
+        "text": "New Jersey",
+        "rationale": "L'Île de la Liberté se trouve techniquement dans les eaux du New Jersey, mais est administrée par New York."
+      },
+      {
+        "text": "près de New York",
+        "rationale": "La Statue de la Liberté est située près de New York, dans le port."
+      },
+      {
+        "text": "sur le fleuve Hudson",
+        "rationale": "La statue se trouve là où le fleuve Hudson rencontre le port de New York."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Washington D.C., Philadelphie",
+        "rationale": "La Statue de la Liberté n'est pas à Washington, D.C., la capitale du pays. Elle n'est pas non plus à Philadelphie, berceau de l'indépendance américaine."
+      },
+      {
+        "text": "Port de Boston, Baie de San Francisco",
+        "rationale": "La Statue de la Liberté ne se trouve pas dans le port de Boston ni dans la baie de San Francisco. Elle se trouve dans le port de New York."
+      },
+      {
+        "text": "Los Angeles, Chicago",
+        "rationale": "La Statue de la Liberté n'est pas à Los Angeles ni à Chicago. Elle se trouve dans le port de New York."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Pourquoi le drapeau a-t-il 13 bandes ?",
+    "correctAnswers": [
+      {
+        "text": "parce qu'il y avait 13 colonies originales",
+        "rationale": "Les 13 bandes représentent les 13 colonies originales qui ont déclaré leur indépendance."
+      },
+      {
+        "text": "à cause des 13 États originaux",
+        "rationale": "Les 13 bandes représentent les 13 États originaux qui ont formé l'Union."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "pour les 13 signataires de la Déclaration",
+        "rationale": "Il y avait 56 signataires de la Déclaration d'indépendance."
+      },
+      {
+        "text": "pour les 13 premiers articles de la Constitution",
+        "rationale": "La Constitution comptait à l'origine sept articles."
+      },
+      {
+        "text": "parce que 13 est un nombre porte-bonheur",
+        "rationale": "Le nombre de bandes est basé sur un fait historique, pas sur la chance."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Pourquoi le drapeau a-t-il 50 étoiles ?",
+    "correctAnswers": [
+      {
+        "text": "parce qu'il y a 50 États",
+        "rationale": "Chaque étoile représente un des États de l'Union."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "parce qu'il y avait 50 colonies originales",
+        "rationale": "Il y avait 13 colonies originales."
+      },
+      {
+        "text": "parce qu'il y a eu 50 présidents",
+        "rationale": "Le nombre d'étoiles n'est pas lié au nombre de présidents."
+      },
+      {
+        "text": "parce qu'il y a eu des guerres dans 50 États",
+        "rationale": "Les étoiles représentent les États, pas les guerres."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Quel est le nom de l'hymne national ?",
+    "correctAnswers": [
+      {
+        "text": "La Bannière étoilée",
+        "rationale": "Les paroles viennent d’un poème écrit par Francis Scott Key pendant la guerre de 1812."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "L'Amérique la Belle",
+        "rationale": "L’Amérique la Belle est une chanson patriotique populaire, mais ce n’est pas l’hymne national."
+      },
+      {
+        "text": "Mon pays, 'Tis of Thee",
+        "rationale": "Mon pays, 'Tis of Thee est une chanson patriotique, mais ce n’est pas l’hymne national."
+      },
+      {
+        "text": "Que Dieu bénisse l’Amérique",
+        "rationale": "\"Que Dieu bénisse l’Amérique\" est une chanson patriotique populaire, mais ce n’est pas l’hymne national."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Quand célébrons-nous la fête de l'indépendance ?",
+    "correctAnswers": [
+      {
+        "text": "4 juillet",
+        "rationale": "Cela commémore l'adoption de la Déclaration d'indépendance le 4 juillet 1776."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "1er janvier",
+        "rationale": "Le 1er janvier est le jour de l'An."
+      },
+      {
+        "text": "le dernier lundi de mai",
+        "rationale": "C'est le Memorial Day, qui rend hommage aux soldats morts au service militaire."
+      },
+      {
+        "text": "le quatrième jeudi de novembre",
+        "rationale": "C'est le jour de Thanksgiving."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Nommez deux jours fériés nationaux des États-Unis.",
+    "correctAnswers": [
+      {
+        "text": "Jour de l’An",
+        "rationale": "Célèbre le début de la nouvelle année le 1er janvier."
+      },
+      {
+        "text": "Jour de Martin Luther King, Jr.",
+        "rationale": "Rend hommage au leader des droits civiques Martin Luther King, Jr."
+      },
+      {
+        "text": "Jour des Présidents",
+        "rationale": "Célèbre les anniversaires de George Washington et Abraham Lincoln."
+      },
+      {
+        "text": "Jour du Souvenir",
+        "rationale": "Rend hommage aux soldats morts au service."
+      },
+      {
+        "text": "Jour de l’Indépendance",
+        "rationale": "Célèbre l’adoption de la Déclaration d’indépendance en 1776."
+      },
+      {
+        "text": "Fête du Travail",
+        "rationale": "Rend hommage aux travailleurs américains et au mouvement ouvrier."
+      },
+      {
+        "text": "Jour de Christophe Colomb",
+        "rationale": "Commémore l’arrivée de Christophe Colomb en Amérique."
+      },
+      {
+        "text": "Jour des anciens combattants",
+        "rationale": "Rend hommage à tous les anciens combattants américains."
+      },
+      {
+        "text": "Action de grâce",
+        "rationale": "Jour pour rendre grâce pour les récoltes et bénédictions."
+      },
+      {
+        "text": "Noël",
+        "rationale": "Célèbre la naissance de Jésus-Christ et est largement observé aux États-Unis."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Saint-Valentin, Halloween, Poisson d’avril, Saint-Patrick",
+        "rationale": "La Saint-Valentin est largement célébrée mais n'est pas un jour férié fédéral. Halloween est largement célébré mais n'est pas un jour férié fédéral. Le Poisson d’avril n’est pas un jour férié officiel. La Saint-Patrick est célébrée mais n’est pas un jour férié fédéral. Aucun de ceux-ci n'est un jour férié national officiel aux États-Unis."
+      },
+      {
+        "text": "Fête des Mères, Fête des Pères, Pâques, Jour de la Marmotte",
+        "rationale": "La Fête des Mères est célébrée mais n'est pas un jour férié fédéral. La Fête des Pères est célébrée mais n'est pas un jour férié fédéral. Pâques est une fête religieuse mais pas un jour férié fédéral. Le Jour de la Marmotte est observé mais n'est pas un jour férié fédéral. Ce sont des célébrations culturelles ou religieuses, pas des jours fériés nationaux."
+      },
+      {
+        "text": "Black Friday, Dimanche du Super Bowl, Jour des Impôts, Jour des Élections",
+        "rationale": "Le Black Friday est un jour de shopping mais pas un jour férié fédéral. Le dimanche du Super Bowl est un événement populaire mais pas un jour férié fédéral. Le Jour des Impôts (15 avril) est une date limite mais pas un jour férié. Le Jour des Élections est important mais n'est pas un jour férié fédéral dans la plupart des États. Aucun de ceux-ci n'est un jour férié national officiel aux États-Unis."
+      }
+    ]
+  }
+]

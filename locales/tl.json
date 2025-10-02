@@ -1,0 +1,190 @@
+{
+  "app": {
+    "title": "Handa na para sa Pagkamamamayan",
+    "subtitle": "Pumasa sa US Citizen Interview gamit ang AI"
+  },
+  "language": {
+    "selectLanguage": "Pumili ng Wika",
+    "selectLanguageDescription": "Pakipili ang inyong gustong wika para magpatuloy.",
+    "canChangeInSettings": "Pwede ninyong baguhin ito sa settings mamaya."
+  },
+  "common": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "back": "Bumalik",
+    "complete": "Kumpletuhin",
+    "later": "Mamaya",
+    "setup": "I-setup",
+    "loading": "Naglo-load..."
+  },
+  "location": {
+    "error": "Error",
+    "zipCodeRequired": "Pakitype ang 5-digit na ZIP code.",
+    "stateNotFound": "Hindi makita ang impormasyon ng estado para sa ZIP code na ito.",
+    "loadingInfo": "Nilo-load ang Impormasyon",
+    "loadingRepresentative": "Hinahanap ang impormasyon ng kinatawan...",
+    "multipleRepsFound": "Maraming Kinatawan ang Nahanap",
+    "multipleRepsMessage": "Ang ZIP code {zipCode} sa {stateName} ay sumasaklaw sa maraming distrito:{apiAttribution}\n\n{repList}\n\nPaki-select ang tamang kinatawan.",
+    "checkWithAddress": "I-check gamit ang Eksaktong Address",
+    "addressBasedSearch": "Address-Based na Paghahanap",
+    "addressSearchInstructions": "Para mahanap ang tamang kinatawan, pakitype ang inyong address sa opisyal na website.\n\nPagkatapos maghanap, bumalik at pumili sa mga opsyon sa ibaba.",
+    "openOfficialSite": "Buksan ang Opisyal na Site",
+    "cannotOpenBrowser": "Hindi mabuksan ang browser.",
+    "autoComplete": "Auto Complete",
+    "autoCompleteMessage": "Na-detect ang estado ng {stateName}.{apiAttribution}\n\nGusto ninyo bang i-set automatically ang lahat ng impormasyon?\n\n• Kabisera: {capital}\n• Gobernador: {governor}\n• Mga Senador: {senators}\n• Kinatawan: {representative}",
+    "autoCompleteMessageNoRep": "Na-detect ang estado ng {stateName}.\n\nGusto ninyo bang i-set automatically ang lahat ng impormasyon?\n\n• Kabisera: {capital}\n• Gobernador: {governor}\n• Mga Senador: {senators}\n• Kinatawan: Kailangan ng manual input",
+    "manualInput": "Manual Input",
+    "setupComplete": "Tapos na ang Setup",
+    "setupError": "May naganap na error sa pag-setup",
+    "stateInfoSet": "Naka-set na automatically ang impormasyon ng {stateName} state!",
+    "capital": "Kabisera",
+    "governor": "Gobernador",
+    "senators": "Mga Senador",
+    "representative": "Kinatawan",
+    "autoSet": "Automatic na Set",
+    "multipleDistrictsInfo": "ℹ️ Ang ZIP code ay sumasaklaw sa maraming distrito, pinapakita ang lahat ng kinatawan.",
+    "addRepresentativeInfo": "Pwedeng idagdag ang impormasyon ng kinatawan sa Resources & Settings."
+  },
+  "menu": {
+    "learn": {
+      "title": "Matuto",
+      "subtitle": "Bumuo ng inyong knowledge foundation",
+      "allQuestions": "Lahat ng Tanong",
+      "allQuestionsSubtitle": "Tingnan ang lahat ng 100 tanong",
+      "storyMode": "Story Mode",
+      "storyModeSubtitle": "American Adventure Story ★",
+      "audioLearning": "Audio Learning sa Driving",
+      "audioLearningSubtitle": "Matuto habang nagmamaneho"
+    },
+    "practiceTests": {
+      "title": "Practice Tests",
+      "subtitle": "I-check ang knowledge at tukuyin ang weaknesses",
+      "flashcardMode": "Flashcard Mode",
+      "flashcardModeSubtitle": "Epektibong memorya sa lahat ng 100 tanong",
+      "practiceTest": "Practice Test",
+      "practiceTestSubtitle": "Random na 10 tanong",
+      "practiceTestVoice": "Practice Test (may boses)",
+      "practiceTestVoiceSubtitle": "Practice test na may TTS at boses",
+      "weaknessTest": "Weakness Test",
+      "weaknessTestSubtitle": "Focus sa mga mali na tanong",
+      "customTest": "Custom Test",
+      "customTestSubtitle": "Pumili ng topics at bilang ng tanong"
+    },
+    "aiMockInterview": {
+      "title": "AI Mock Interview",
+      "subtitle": "Practice ng speaking skills",
+      "standardInterview": "Standard Interview",
+      "standardInterviewSubtitle": "AI-powered interview practice",
+      "deepDiveInterview": "Deep Dive Interview",
+      "deepDiveInterviewSubtitle": "AI follow-up questions",
+      "n400Practice": "N-400 Practice",
+      "n400PracticeSubtitle": "Oath at personal questions"
+    },
+    "myProgress": {
+      "title": "Aking Progress",
+      "subtitle": "I-track ang inyong learning journey",
+      "progressDashboard": "Progress Dashboard",
+      "progressDashboardSubtitle": "Tingnan ang inyong statistics at achievements",
+      "aiTutorAdvice": "AI Tutor Advice",
+      "aiTutorAdviceSubtitle": "Personalized learning guide"
+    },
+    "sections": {
+      "resources": {
+        "title": "Mga Mapagkukunan",
+        "subtitle": "Pinakabagong impormasyon at opisyal na materyales",
+        "updatedInfo": "Napapanahong Impormasyon",
+        "updatedInfoSubtitle": "Kasalukuyang Pangulo, VP, atbp.",
+        "officialLinks": "Opisyal na mga Link",
+        "officialLinksSubtitle": "USCIS website at iba pa"
+      }
+    }
+  },
+  "interview": {
+    "welcomeTitle": "Handa na para sa Pagkamamamayan?",
+    "welcomeSubtitle": "Mag-practice, matuto, at magtagumpay!",
+    "locationSetupTitle": "Pag-setup ng Impormasyon ng Lokasyon",
+    "locationSetupMessage": "Ang ilang tanong sa citizenship interview ay may iba't ibang sagot depende sa inyong residential area.\n\nGusto ninyo bang i-setup ang inyong location information?",
+    "additionalInfoTitle": "Kailangan ng Karagdagang Impormasyon",
+    "additionalInfoMessage": "Para sa mas tumpak na mga sagot, mangyaring mag-setup ng karagdagang {missingInfo} na impormasyon.",
+    "userSetAnswer": "Ito ang sagot na inyong itinakda sa inyong location settings.",
+    "locationSettingRequired": "Ang ilang tanong ay may iba't ibang sagot depende sa inyong lokasyon. Pakiset ang inyong estado sa Resources & Settings.",
+    "additionalInfoRequired": "Para sa mas tumpak na mga sagot, pakiset ang {missingInfo} na impormasyon sa Resources & Settings."
+  },
+  "resources": {
+    "title": "Mga Setting ng Wika at Lokasyon",
+    "locationSettings": "Mga Setting ng Lokasyon",
+    "locationDescription": "I-set up ang impormasyon ng inyong residential area para sa mga tanong sa citizenship interview na may iba-ibang sagot sa bawat estado.",
+    "selectedState": "Napiling Estado",
+    "capital": "Kabisera",
+    "governor": "Gobernador",
+    "senator1": "Senador 1",
+    "senator2": "Senador 2",
+    "representative": "Kinatawan",
+    "setup": "I-setup",
+    "selectState": "Pumili ng Estado",
+    "selectStateDescription": "Pakipili ang inyong residential area",
+    "zipCodeSearch": "ZIP Code Search",
+    "zipCodeSearchDescription": "Pwede ninyong i-set nang automatic ang location information sa pag-type ng ZIP code.",
+    "enterZipCode": "I-type ang ZIP Code",
+    "search": "Maghanap",
+    "resetSettings": "I-reset ang Settings",
+    "resetDescription": "Tanggalin lahat ng location settings.",
+    "reset": "I-reset",
+    "cancel": "Kanselahin",
+    "delete": "I-delete",
+    "complete": "Tapos",
+    "allSettingsDeleted": "Lahat ng mga setting ay na-delete na.",
+    "confirmDelete": "Sigurado ba kayong gusto ninyong tanggalin lahat ng settings?",
+    "edit": "I-edit",
+    "save": "I-save",
+    "editField": "I-edit ang {field}",
+    "stateSetupComplete": "Tapos na ang State Setup",
+    "stateSetupMessage": "Na-set na ang estado ng {stateName}.\nKabisera: {capital}\n\nPaki-set din ang ibang impormasyon.",
+    "notSet": "Hindi pa na-set",
+    "zipCode": "ZIP Code",
+    "usageGuide": "Gabay sa Paggamit",
+    "updatedInfo2025": "Updated Information (2025 Edition)",
+    "yearlyChangingInfo": "Impormasyon ng mga political office na nagbabago taun-taon.",
+    "currentPresident": "Kasalukuyang Presidente",
+    "currentVicePresident": "Kasalukuyang Bise Presidente",
+    "currentSpeaker": "Kasalukuyang Speaker ng House",
+    "updateCycle": "Update Cycle",
+    "autoUpdateByElection": "Automatic na naa-update base sa election results",
+    "configuredLocationInfo": "Na-configure na Location Information",
+    "currentStateInfo": "Kasalukuyang impormasyon ng estado ng {stateName}.",
+    "usageGuideText": "• Ang na-configure na impormasyon ay automatic na gagamitin sa mga tanong na may iba-ibang sagot depende sa taon/estado.\n• Ang Presidente, Bise Presidente, Speaker ng House, etc. ay automatic na naa-update.\n• Pakitype nang manual ang impormasyon ng Gobernador, Senador, at Kinatawan.\n• Ang tumpak na impormasyon ay makikita sa senate.gov at house.gov.",
+    "enterNamePlaceholder": "I-type ang pangalan",
+    "languageSettings": "Mga Setting ng Wika",
+    "languageDescription": "Pumili ng inyong gustong wika para sa interface ng app.",
+    "currentLanguage": "Kasalukuyang Wika",
+    "selectLanguage": "Pumili ng Wika",
+    "languageChanged": "Matagumpay na nabago ang wika.",
+    "languageChangeError": "Hindi nabago ang wika. Pakisubukan ulit.",
+    "error": "Error"
+  },
+  "questions": {
+    "correctAnswers": "Tamang Sagot",
+    "question": "Tanong"
+  },
+  "story": {
+    "loading": "Nilo-load ang mga kuwento...",
+    "loadErrorTitle": "Error",
+    "loadErrorMessage": "Nabigong i-load ang data.",
+    "relatedQuestions": "Kaugnay na mga Tanong ({count})",
+    "modal": {
+      "title": "Detalye ng Tanong",
+      "answersTitleSingular": "Sagot",
+      "answersTitlePlural": "Mga Sagot",
+      "noAnswers": "Walang mga sagot"
+    },
+    "languageToggle": {
+      "korean": "Koreano",
+      "english": "Ingles",
+      "original": "Orihinal"
+    },
+    "chapter": "Kabanata {number}"
+  },
+  "disclaimer": {
+    "text": "Ang app na ito ay hindi kaanib o inendorso ng anumang ahensya ng gobyerno. Ito ay isang independiyenteng tool na idinisenyo upang tulungan kang maghanda para sa panayam sa pagkamamamayan."
+  }
+}

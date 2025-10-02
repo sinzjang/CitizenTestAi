@@ -1,0 +1,3800 @@
+[
+  {
+    "id": 1,
+    "question_ko": "미국의 최고법은 무엇인가?",
+    "question_en": "What is the supreme law of the land?",
+    "correctAnswers": [
+      {
+        "text_ko": "헌법",
+        "text_en": "the Constitution",
+        "rationale_ko": "정답입니다. 헌법은 미국 정부의 근간을 이루는 최고의 법입니다.",
+        "rationale_en": "The Constitution is the foundational, supreme law of the U.S. government."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "독립선언서",
+        "text_en": "the Declaration of Independence",
+        "rationale_ko": "독립선언서는 미국의 독립을 선언한 중요한 문서이지만, 법률은 아닙니다.",
+        "rationale_en": "The Declaration of Independence is a crucial document that declared independence, but it is not a law."
+      },
+      {
+        "text_ko": "권리장전",
+        "text_en": "the Bill of Rights",
+        "rationale_ko": "권리장전은 헌법의 일부(첫 10개 수정 조항)이지만, 헌법 전체를 의미하지는 않습니다.",
+        "rationale_en": "The Bill of Rights is a part of the Constitution (the first 10 amendments), not the entire supreme law itself."
+      },
+      {
+        "text_ko": "연방주의자 논집",
+        "text_en": "the Federalist Papers",
+        "rationale_ko": "연방주의자 논집은 헌법의 비준을 설득하기 위해 쓰인 에세이 모음입니다.",
+        "rationale_en": "The Federalist Papers were a series of essays written to persuade people to ratify the Constitution."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question_ko": "헌법은 무엇을 하는가?",
+    "question_en": "What does the Constitution do?",
+    "correctAnswers": [
+      {
+        "text_ko": "정부를 구성한다",
+        "text_en": "sets up the government",
+        "rationale_ko": "정답입니다. 헌법의 주요 기능 중 하나는 정부를 조직하고 정의하는 것입니다.",
+        "rationale_en": "One of the main functions of the Constitution is to establish and define the government."
+      },
+      {
+        "text_ko": "정부를 정의한다",
+        "text_en": "defines the government",
+        "rationale_ko": "정답입니다. 헌법은 정부 각 부처의 권한과 책임을 명시합니다.",
+        "rationale_en": "The Constitution specifies the powers and responsibilities of each branch of government."
+      },
+      {
+        "text_ko": "미국인의 기본권을 보호한다",
+        "text_en": "protects basic rights of Americans",
+        "rationale_ko": "정답입니다. 권리장전을 포함한 여러 수정 조항이 시민의 기본권을 보호합니다.",
+        "rationale_en": "Several amendments, including the Bill of Rights, protect the basic rights of citizens."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "대통령을 선출한다",
+        "text_en": "elects the President",
+        "rationale_ko": "헌법은 대통령 선출 절차를 규정하지만, 헌법 자체가 대통령을 선출하지는 않습니다.",
+        "rationale_en": "The Constitution outlines the process for electing a President, but it does not elect the President itself."
+      },
+      {
+        "text_ko": "법을 만든다",
+        "text_en": "makes laws",
+        "rationale_ko": "법을 만드는 주체는 헌법이 아닌 의회(Congress)입니다.",
+        "rationale_en": "Laws are made by Congress, not directly by the Constitution."
+      },
+      {
+        "text_ko": "세금을 징수한다",
+        "text_en": "collects taxes",
+        "rationale_ko": "세금 징수는 헌법에 의해 부여된 의회의 권한 중 하나이지, 헌법 자체가 하는 일은 아닙니다.",
+        "rationale_en": "Collecting taxes is a power granted to Congress by the Constitution, not an action of the Constitution itself."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question_ko": "자치정부라는 개념의 첫 세 단어는 무엇인가?",
+    "question_en": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+    "correctAnswers": [
+      {
+        "text_ko": "우리 국민은",
+        "text_en": "We the People",
+        "rationale_ko": "정답입니다. 이 단어들은 주권이 국민에게 있음을 상징합니다.",
+        "rationale_en": "These words symbolize that the power of the government comes from the people."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "네 가지 점수",
+        "text_en": "Four score and",
+        "rationale_ko": "이것은 링컨의 게티즈버그 연설 첫 부분입니다.",
+        "rationale_en": "This is the beginning of Lincoln's Gettysburg Address."
+      },
+      {
+        "text_ko": "의회는 만들어야 한다",
+        "text_en": "Congress shall make",
+        "rationale_ko": "이것은 헌법 제1조의 내용 중 일부입니다.",
+        "rationale_en": "This is a phrase from Article I of the Constitution."
+      },
+      {
+        "text_ko": "나는 충성을 맹세한다",
+        "text_en": "I pledge allegiance",
+        "rationale_ko": "이것은 국기에 대한 맹세의 첫 부분입니다.",
+        "rationale_en": "This is the beginning of the Pledge of Allegiance."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question_ko": "수정헌법이란 무엇인가?",
+    "question_en": "What is an amendment?",
+    "correctAnswers": [
+      {
+        "text_ko": "헌법에 대한 변경",
+        "text_en": "a change",
+        "rationale_ko": "정답입니다. 수정헌법은 헌법을 변경하는 것입니다.",
+        "rationale_en": "An amendment is a change to the Constitution."
+      },
+      {
+        "text_ko": "헌법에 대한 추가",
+        "text_en": "an addition",
+        "rationale_ko": "정답입니다. 수정헌법은 헌법에 새로운 내용을 추가하는 것입니다.",
+        "rationale_en": "An amendment is an addition to the Constitution."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "새로운 법",
+        "text_en": "a new law",
+        "rationale_ko": "새로운 법(law)은 의회가 만들며, 헌법을 바꾸는 수정헌법(amendment)과는 다릅니다.",
+        "rationale_en": "A new law is created by Congress and is different from an amendment, which changes the Constitution itself."
+      },
+      {
+        "text_ko": "대법원 판결",
+        "text_en": "a Supreme Court decision",
+        "rationale_ko": "대법원 판결은 법을 해석하는 것이지, 헌법의 조항을 직접 변경하는 것은 아닙니다.",
+        "rationale_en": "A Supreme Court decision interprets the law, but it does not directly change the text of the Constitution."
+      },
+      {
+        "text_ko": "대통령 행정명령",
+        "text_en": "a presidential order",
+        "rationale_ko": "행정명령은 대통령이 행정부 운영을 위해 내리는 지시이며, 헌법을 수정할 수는 없습니다.",
+        "rationale_en": "A presidential order is a directive from the President for managing the executive branch; it cannot amend the Constitution."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question_ko": "헌법의 첫 10개 수정 조항을 무엇이라고 부르는가?",
+    "question_en": "What do we call the first ten amendments to the Constitution?",
+    "correctAnswers": [
+      {
+        "text_ko": "권리장전",
+        "text_en": "the Bill of Rights",
+        "rationale_ko": "정답입니다. 이 10개 조항은 개인의 핵심적인 권리와 자유를 보장합니다.",
+        "rationale_en": "These ten amendments guarantee core individual rights and freedoms."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "독립선언서",
+        "text_en": "the Declaration of Independence",
+        "rationale_ko": "독립선언서는 1776년에 독립을 선언한 문서로, 헌법 수정 조항이 아닙니다.",
+        "rationale_en": "The Declaration of Independence, from 1776, declared independence and is not a set of constitutional amendments."
+      },
+      {
+        "text_ko": "연방주의자 논집",
+        "text_en": "the Federalist Papers",
+        "rationale_ko": "연방주의자 논집은 헌법의 비준을 설득하기 위해 쓰인 에세이 모음입니다.",
+        "rationale_en": "The Federalist Papers were a series of essays written to persuade people to ratify the Constitution."
+      },
+      {
+        "text_ko": "해방 선언",
+        "text_en": "the Emancipation Proclamation",
+        "rationale_ko": "해방 선언은 링컨이 남부 연합의 노예를 해방시킨 행정명령입니다.",
+        "rationale_en": "The Emancipation Proclamation was an executive order by Lincoln that freed slaves in the Confederacy."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question_ko": "1차 헌법 수정안에 있는 권리 또는 자유 중 한 가지는 무엇인가?",
+    "question_en": "What is one right or freedom from the First Amendment?",
+    "correctAnswers": [
+      {
+        "text_ko": "종교의 자유",
+        "text_en": "freedom of religion",
+        "rationale_ko": "정답입니다. 1차 수정안은 정부가 개인의 종교 선택에 간섭하는 것을 금지합니다.",
+        "rationale_en": "The First Amendment prohibits the government from interfering with an individual's choice of religion."
+      },
+      {
+        "text_ko": "언론의 자유",
+        "text_en": "freedom of speech",
+        "rationale_ko": "정답입니다. 1차 수정안은 정부가 개인의 표현을 부당하게 억압하는 것을 금지합니다.",
+        "rationale_en": "The First Amendment prohibits the government from unduly suppressing individual expression."
+      },
+      {
+        "text_ko": "집회의 자유",
+        "text_en": "freedom of assembly",
+        "rationale_ko": "정답입니다. 사람들은 평화롭게 모여서 의견을 나눌 권리가 있습니다.",
+        "rationale_en": "People have the right to gather peacefully and share their opinions."
+      },
+      {
+        "text_ko": "출판의 자유",
+        "text_en": "freedom of the press",
+        "rationale_ko": "정답입니다. 정부의 사전 검열 없이 자유롭게 정보를 인쇄하고 배포할 수 있는 권리입니다.",
+        "rationale_en": "This is the right to print and distribute information without prior government censorship."
+      },
+      {
+        "text_ko": "정부에 청원할 자유",
+        "text_en": "freedom to petition the government",
+        "rationale_ko": "정답입니다. 시민들은 정부 정책의 변경을 요구할 권리가 있습니다.",
+        "rationale_en": "Citizens have the right to request changes in government policy."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "투표할 권리",
+        "text_en": "the right to vote",
+        "rationale_ko": "투표권은 중요하지만, 1차 수정안이 아닌 다른 수정 조항들(15, 19, 26차 등)에 의해 보장됩니다.",
+        "rationale_en": "While important, the right to vote is protected by other amendments (like the 15th, 19th, and 26th), not the First."
+      },
+      {
+        "text_ko": "무기를 소지할 권리",
+        "text_en": "the right to bear arms",
+        "rationale_ko": "무기 소지 권리는 2차 수정안에 의해 보장되는 권리입니다.",
+        "rationale_en": "The right to bear arms is a right protected by the Second Amendment."
+      },
+      {
+        "text_ko": "행복을 추구할 권리",
+        "text_en": "the right to the pursuit of happiness",
+        "rationale_ko": "'행복 추구'는 독립선언서에 언급된 이상적인 권리입니다.",
+        "rationale_en": "The 'pursuit of happiness' is an ideal right mentioned in the Declaration of Independence."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question_ko": "헌법에는 몇 개의 수정 조항이 있는가?",
+    "question_en": "How many amendments does the Constitution have?",
+    "correctAnswers": [
+      {
+        "text_ko": "27개",
+        "text_en": "Twenty-seven (27)",
+        "rationale_ko": "정답입니다. 1791년 권리장전 이후로 17개가 더 추가되어 총 27개입니다.",
+        "rationale_en": "After the Bill of Rights in 1791, 17 more have been added, for a total of 27."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "10개",
+        "text_en": "Ten (10)",
+        "rationale_ko": "10개는 권리장전(Bill of Rights)에 포함된 수정 조항의 수입니다.",
+        "rationale_en": "Ten is the number of amendments in the Bill of Rights."
+      },
+      {
+        "text_ko": "50개",
+        "text_en": "Fifty (50)",
+        "rationale_ko": "50은 미국의 주(state)의 수입니다.",
+        "rationale_en": "Fifty is the number of states in the U.S."
+      },
+      {
+        "text_ko": "13개",
+        "text_en": "Thirteen (13)",
+        "rationale_ko": "13은 미국 건국 당시 최초의 식민지(주)의 수입니다.",
+        "rationale_en": "Thirteen is the number of the original colonies (states) when the U.S. was founded."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question_ko": "독립선언서가 한 일은 무엇인가?",
+    "question_en": "What did the Declaration of Independence do?",
+    "correctAnswers": [
+      {
+        "text_ko": "영국으로부터 독립을 선언했다",
+        "text_en": "announced our independence (from Great Britain)",
+        "rationale_ko": "정답입니다. 독립선언서는 미국이 더 이상 영국 식민지가 아님을 전 세계에 알렸습니다.",
+        "rationale_en": "It announced to the world that the colonies were no longer under British rule."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "여성에게 투표권을 주었다",
+        "text_en": "gave women the right to vote",
+        "rationale_ko": "여성 투표권은 1920년에 비준된 19차 수정헌법에 의해 보장되었습니다.",
+        "rationale_en": "Women's right to vote was granted by the 19th Amendment, ratified in 1920."
+      },
+      {
+        "text_ko": "노예를 해방시켰다",
+        "text_en": "freed the slaves",
+        "rationale_ko": "노예 해방은 1863년 링컨의 해방 선언(Emancipation Proclamation)과 13차 수정헌법에 의해 이루어졌습니다.",
+        "rationale_en": "The slaves were freed by Lincoln's Emancipation Proclamation in 1863 and later the 13th Amendment."
+      },
+      {
+        "text_ko": "헌법을 만들었다",
+        "text_en": "created the Constitution",
+        "rationale_ko": "헌법은 독립선언서 이후 1787년 제헌 회의에서 만들어졌습니다.",
+        "rationale_en": "The Constitution was created later, at the Constitutional Convention in 1787."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question_ko": "독립선언서에 나오는 두 가지 권리는 무엇인가?",
+    "question_en": "What are two rights in the Declaration of Independence?",
+    "correctAnswers": [
+      {
+        "text_ko": "생명과 자유",
+        "text_en": "life and liberty",
+        "rationale_ko": "정답입니다. 생명, 자유, 행복 추구는 독립선언서가 천명한 양도할 수 없는 권리입니다.",
+        "rationale_en": "Life, liberty, and the pursuit of happiness are the unalienable rights listed in the Declaration."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "언론과 종교의 자유",
+        "text_en": "freedom of speech and religion",
+        "rationale_ko": "언론과 종교의 자유는 권리장전, 즉 1차 수정헌법에 명시된 권리입니다.",
+        "rationale_en": "Freedom of speech and religion are rights listed in the Bill of Rights (the First Amendment)."
+      },
+      {
+        "text_ko": "투표와 공직 출마의 권리",
+        "text_en": "the right to vote and run for office",
+        "rationale_ko": "이 권리들은 미국 시민에게 주어지는 중요한 권리이지만, 독립선언서가 아닌 헌법에 의해 규정됩니다.",
+        "rationale_en": "These are important rights for U.S. citizens, but they are defined by the Constitution, not the Declaration of Independence."
+      },
+      {
+        "text_ko": "재산 소유와 교육의 권리",
+        "text_en": "the right to own property and education",
+        "rationale_ko": "이것들은 중요한 권리이지만, 독립선언서에 명시된 핵심 3대 권리는 아닙니다.",
+        "rationale_en": "These are important rights, but they are not the three core unalienable rights mentioned in the Declaration."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question_ko": "종교의 자유란 무엇인가?",
+    "question_en": "What is freedom of religion?",
+    "correctAnswers": [
+      {
+        "text_ko": "원하는 종교를 믿거나, 또는 어떤 종교도 믿지 않을 수 있다",
+        "text_en": "You can practice any religion, or not practice a religion",
+        "rationale_ko": "정답입니다. 미국에서는 국교가 없으며, 정부는 개인의 종교 선택에 간섭할 수 없습니다.",
+        "rationale_en": "The U.S. does not have a state religion, and the government cannot interfere with an individual's choice."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "기독교만 믿을 수 있다",
+        "text_en": "You can only practice Christianity",
+        "rationale_ko": "미국은 특정 종교를 국교로 지정하지 않으며 모든 종교(또는 무종교)의 자유를 보장합니다.",
+        "rationale_en": "The U.S. does not have an official state religion and guarantees freedom for all religions, or no religion."
+      },
+      {
+        "text_ko": "정부가 승인한 종교만 믿어야 한다",
+        "text_en": "You must practice a religion approved by the government",
+        "rationale_ko": "정부의 승인은 필요 없으며, 이는 종교의 자유 원칙에 위배됩니다.",
+        "rationale_en": "This is incorrect; government approval is not needed and would violate the principle of religious freedom."
+      },
+      {
+        "text_ko": "종교 활동에 세금을 내야 한다",
+        "text_en": "You must pay a tax on your religious activities",
+        "rationale_ko": "종교 활동은 일반적으로 과세 대상이 아니며, 이는 종교의 자유를 억압할 수 있습니다.",
+        "rationale_en": "Religious activities are generally tax-exempt, as taxing them could suppress religious freedom."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question_ko": "미국의 경제 체제는 무엇인가?",
+    "question_en": "What is the economic system in the United States?",
+    "correctAnswers": [
+      {
+        "text_ko": "자본주의 경제",
+        "text_en": "capitalist economy",
+        "rationale_ko": "정답입니다. 미국은 사유 재산과 자유 시장을 기반으로 하는 자본주의 경제 체제를 채택하고 있습니다.",
+        "rationale_en": "The U.S. operates under a capitalist economy, based on private property and free markets."
+      },
+      {
+        "text_ko": "시장 경제",
+        "text_en": "market economy",
+        "rationale_ko": "정답입니다. 수요와 공급에 따라 가격이 결정되는 시장 경제 역시 미국의 경제 체제를 설명하는 말입니다.",
+        "rationale_en": "A market economy, where prices are determined by supply and demand, also describes the U.S. economic system."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "사회주의 경제",
+        "text_en": "socialist economy",
+        "rationale_ko": "사회주의 경제는 생산 수단을 국가나 공동체가 소유하는 체제로, 미국과는 다릅니다.",
+        "rationale_en": "A socialist economy, where the means of production are owned by the state or community, is different from the U.S. system."
+      },
+      {
+        "text_ko": "공산주의 경제",
+        "text_en": "communist economy",
+        "rationale_ko": "공산주의 경제는 모든 재산을 공유하고 국가가 생산과 분배를 통제하는 체제입니다.",
+        "rationale_en": "A communist economy involves shared property and state control over all production and distribution."
+      },
+      {
+        "text_ko": "중상주의 경제",
+        "text_en": "mercantilist economy",
+        "rationale_ko": "중상주의는 국가가 무역을 통제하여 부를 축적하는 16-18세기 유럽의 경제 정책이었습니다.",
+        "rationale_en": "Mercantilism was a 16th-18th century European economic policy where the state controlled trade to accumulate wealth."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question_ko": "'법치주의'란 무엇인가?",
+    "question_en": "What is the 'rule of law'?",
+    "correctAnswers": [
+      {
+        "text_ko": "모든 사람은 법을 따라야 한다",
+        "text_en": "Everyone must follow the law",
+        "rationale_ko": "정답입니다. 법치주의는 지위 고하를 막론하고 모든 사람이 법 아래 평등하다는 원칙입니다.",
+        "rationale_en": "The rule of law is the principle that all people are subject to and accountable under the law, regardless of status."
+      },
+      {
+        "text_ko": "지도자도 법을 따라야 한다",
+        "text_en": "Leaders must obey the law",
+        "rationale_ko": "정답입니다. 대통령을 포함한 모든 정부 지도자 역시 법의 지배를 받습니다.",
+        "rationale_en": "Government leaders, including the President, are also subject to the rule of law."
+      },
+      {
+        "text_ko": "누구도 법 위에 있지 않다",
+        "text_en": "No one is above the law",
+        "rationale_ko": "정답입니다. 이 말은 법치주의의 핵심을 가장 잘 표현합니다.",
+        "rationale_en": "This phrase best summarizes the core principle of the rule of law."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "법은 계속 바뀐다",
+        "text_en": "Laws are always changing",
+        "rationale_ko": "법이 바뀔 수는 있지만, 이것이 법치주의의 정의는 아닙니다.",
+        "rationale_en": "While laws can change, this is not the definition of the rule of law."
+      },
+      {
+        "text_ko": "대통령은 법을 만든다",
+        "text_en": "The President makes the law",
+        "rationale_ko": "법을 만드는 곳은 의회이며, 대통령은 법을 집행합니다. 이는 권력 분립의 원칙입니다.",
+        "rationale_en": "Congress makes the law, and the President executes it. This is the principle of separation of powers."
+      },
+      {
+        "text_ko": "모든 법은 공정하다",
+        "text_en": "All laws are fair",
+        "rationale_ko": "법치주의는 법의 공정성을 지향하지만, 모든 법이 항상 완벽하게 공정하다고 보장하지는 않습니다.",
+        "rationale_en": "The rule of law aims for fairness, but it doesn't guarantee that every single law is perfectly fair."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question_ko": "정부의 한 부서 또는 한 부분을 말해보시오.",
+    "question_en": "Name one branch or part of the government.",
+    "correctAnswers": [
+      {
+        "text_ko": "의회 (입법부)",
+        "text_en": "Congress (legislative)",
+        "rationale_ko": "정답입니다. 의회는 법을 만드는 입법부입니다.",
+        "rationale_en": "Congress is the legislative branch, which makes laws."
+      },
+      {
+        "text_ko": "대통령 (행정부)",
+        "text_en": "President (executive)",
+        "rationale_ko": "정답입니다. 대통령은 법을 집행하는 행정부의 수장입니다.",
+        "rationale_en": "The President is the head of the executive branch, which carries out laws."
+      },
+      {
+        "text_ko": "법원 (사법부)",
+        "text_en": "the courts (judicial)",
+        "rationale_ko": "정답입니다. 법원은 법을 해석하고 적용하는 사법부입니다.",
+        "rationale_en": "The courts are the judicial branch, which interprets and applies laws."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "주 정부",
+        "text_en": "the states",
+        "rationale_ko": "주는 연방 정부 시스템의 중요한 부분이지만, 연방 정부의 3부(branch) 중 하나는 아닙니다.",
+        "rationale_en": "The states are a crucial part of the federal system, but not one of the three branches of the federal government."
+      },
+      {
+        "text_ko": "군대",
+        "text_en": "the military",
+        "rationale_ko": "군대는 행정부의 통제를 받는 중요한 기관이지만, 독립된 정부 부서는 아닙니다.",
+        "rationale_en": "The military is a vital institution controlled by the executive branch, but not a separate branch of government itself."
+      },
+      {
+        "text_ko": "경찰",
+        "text_en": "the police",
+        "rationale_ko": "경찰은 주로 주 또는 지방 정부 소속으로 법을 집행하는 기관입니다.",
+        "rationale_en": "The police are law enforcement agencies, typically under state or local government."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question_ko": "정부의 한 부서가 너무 강력해지는 것을 막는 것은 무엇인가?",
+    "question_en": "What stops one branch of government from becoming too powerful?",
+    "correctAnswers": [
+      {
+        "text_ko": "견제와 균형",
+        "text_en": "checks and balances",
+        "rationale_ko": "정답입니다. 각 부서가 서로의 권한을 확인하고 제한하는 시스템입니다.",
+        "rationale_en": "This is the system where each branch can review and limit the powers of the others."
+      },
+      {
+        "text_ko": "권력 분립",
+        "text_en": "separation of powers",
+        "rationale_ko": "정답입니다. 정부의 권력을 입법, 행정, 사법으로 나누는 원칙입니다.",
+        "rationale_en": "This is the principle of dividing governmental power among the legislative, executive, and judicial branches."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "법치주의",
+        "text_en": "the rule of law",
+        "rationale_ko": "법치주의는 모두가 법을 따라야 한다는 원칙으로, 권력 남용을 막지만 이 질문의 가장 직접적인 답은 아닙니다.",
+        "rationale_en": "The rule of law, the principle that everyone must follow the law, helps prevent abuse of power but is not the most direct answer here."
+      },
+      {
+        "text_ko": "연방주의",
+        "text_en": "federalism",
+        "rationale_ko": "연방주의는 연방 정부와 주 정부 간의 권력 분배에 관한 원칙입니다.",
+        "rationale_en": "Federalism is the principle of power-sharing between the federal and state governments."
+      },
+      {
+        "text_ko": "권리장전",
+        "text_en": "the Bill of Rights",
+        "rationale_ko": "권리장전은 정부로부터 개인의 자유를 보호하지만, 정부 부서 간의 권력 균형을 직접적으로 다루지는 않습니다.",
+        "rationale_en": "The Bill of Rights protects individual freedoms from the government, but doesn't directly address the balance of power between branches."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question_ko": "행정부를 책임지는 사람은 누구인가?",
+    "question_en": "Who is in charge of the executive branch?",
+    "correctAnswers": [
+      {
+        "text_ko": "대통령",
+        "text_en": "the President",
+        "rationale_ko": "정답입니다. 대통령은 행정부의 최고 책임자입니다.",
+        "rationale_en": "The President is the chief of the executive branch."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "하원의장",
+        "text_en": "the Speaker of the House",
+        "rationale_ko": "하원의장은 입법부인 하원의 지도자입니다.",
+        "rationale_en": "The Speaker of the House is the leader of the House of Representatives, which is in the legislative branch."
+      },
+      {
+        "text_ko": "연방 대법원장",
+        "text_en": "the Chief Justice",
+        "rationale_ko": "연방 대법원장은 사법부인 연방 대법원의 수장입니다.",
+        "rationale_en": "The Chief Justice is the head of the Supreme Court, which is in the judicial branch."
+      },
+      {
+        "text_ko": "국무부 장관",
+        "text_en": "the Secretary of State",
+        "rationale_ko": "국무부 장관은 행정부의 고위 각료이지만, 행정부 전체의 책임자는 아닙니다.",
+        "rationale_en": "The Secretary of State is a high-ranking cabinet member in the executive branch, but not the head of the entire branch."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question_ko": "연방법을 만드는 곳은 어디인가?",
+    "question_en": "Who makes federal laws?",
+    "correctAnswers": [
+      {
+        "text_ko": "의회",
+        "text_en": "Congress",
+        "rationale_ko": "정답입니다. 연방법은 의회(상원과 하원)에서 제정합니다.",
+        "rationale_en": "Federal laws are made by Congress (the Senate and House)."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "대통령",
+        "text_en": "the President",
+        "rationale_ko": "대통령은 의회가 통과시킨 법안에 서명하여 법으로 만들지만, 법을 직접 만들지는 않습니다.",
+        "rationale_en": "The President signs bills passed by Congress into law, but does not create the laws."
+      },
+      {
+        "text_ko": "연방 대법원",
+        "text_en": "the Supreme Court",
+        "rationale_ko": "연방 대법원은 법을 해석하고 위헌 여부를 판단하지만, 법을 만들지는 않습니다.",
+        "rationale_en": "The Supreme Court interprets laws and decides if they are constitutional, but it does not make them."
+      },
+      {
+        "text_ko": "주 의회",
+        "text_en": "the state legislature",
+        "rationale_ko": "주 의회는 연방법이 아닌 주법(state law)을 만듭니다.",
+        "rationale_en": "State legislatures make state laws, not federal laws."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question_ko": "미국 의회의 두 부분은 무엇인가?",
+    "question_en": "What are the two parts of the U.S. Congress?",
+    "correctAnswers": [
+      {
+        "text_ko": "상원과 하원",
+        "text_en": "the Senate and House (of Representatives)",
+        "rationale_ko": "정답입니다. 미국 의회는 상원과 하원의 양원제로 구성됩니다.",
+        "rationale_en": "The U.S. Congress is a bicameral legislature, consisting of the Senate and the House."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "대통령과 내각",
+        "text_en": "the President and the Cabinet",
+        "rationale_ko": "이것은 행정부를 구성하는 요소입니다.",
+        "rationale_en": "This describes the executive branch."
+      },
+      {
+        "text_ko": "연방 법원과 주 법원",
+        "text_en": "the federal and state courts",
+        "rationale_ko": "이것은 사법부의 체계를 설명합니다.",
+        "rationale_en": "This describes the structure of the judicial branch."
+      },
+      {
+        "text_ko": "민주당과 공화당",
+        "text_en": "the Democratic and Republican parties",
+        "rationale_ko": "이것은 미국의 주요 정당입니다.",
+        "rationale_en": "These are the major political parties in the U.S."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question_ko": "미국 상원의원은 몇 명인가?",
+    "question_en": "How many U.S. Senators are there?",
+    "correctAnswers": [
+      {
+        "text_ko": "100명",
+        "text_en": "One hundred (100)",
+        "rationale_ko": "정답입니다. 50개 주에서 각각 2명씩 선출하여 총 100명입니다.",
+        "rationale_en": "There are two senators from each of the 50 states, totaling 100."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "435명",
+        "text_en": "Four hundred thirty-five (435)",
+        "rationale_ko": "435명은 하원의원의 수입니다.",
+        "rationale_en": "435 is the number of members in the House of Representatives."
+      },
+      {
+        "text_ko": "50명",
+        "text_en": "Fifty (50)",
+        "rationale_ko": "50은 미국의 주의 수입니다.",
+        "rationale_en": "50 is the number of states in the U.S."
+      },
+      {
+        "text_ko": "9명",
+        "text_en": "Nine (9)",
+        "rationale_ko": "9명은 연방 대법원 판사의 수입니다.",
+        "rationale_en": "Nine is the number of justices on the Supreme Court."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question_ko": "미국 상원의원을 몇 년 임기로 선출하는가?",
+    "question_en": "We elect a U.S. Senator for how many years?",
+    "correctAnswers": [
+      {
+        "text_ko": "6년",
+        "text_en": "Six (6)",
+        "rationale_ko": "정답입니다. 상원의원의 임기는 6년입니다.",
+        "rationale_en": "The term for a U.S. Senator is six years."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "2년",
+        "text_en": "Two (2)",
+        "rationale_ko": "2년은 하원의원의 임기입니다.",
+        "rationale_en": "Two years is the term for a member of the House of Representatives."
+      },
+      {
+        "text_ko": "4년",
+        "text_en": "Four (4)",
+        "rationale_ko": "4년은 대통령의 임기입니다.",
+        "rationale_en": "Four years is the term for the President."
+      },
+      {
+        "text_ko": "8년",
+        "text_en": "Eight (8)",
+        "rationale_ko": "대통령은 최대 2번, 즉 8년까지 재임할 수 있지만, 상원의원 임기와는 다릅니다.",
+        "rationale_en": "A President can serve a maximum of two terms, or eight years, but this is different from a Senator's term."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question_ko": "당신이 사는 주의 미국 상원의원 중 한 명은 현재 누구인가?",
+    "question_en": "Who is one of your state’s U.S. Senators now?",
+    "correctAnswers": [
+      {
+        "text_ko": "답은 주에 따라 다름",
+        "text_en": "Answers will vary",
+        "rationale_ko": "이 질문의 정답은 거주하는 주에 따라 다릅니다. senate.gov에서 확인해야 합니다.",
+        "rationale_en": "The answer to this question depends on the state where you live. You should check senate.gov."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "주지사 이름",
+        "text_en": "The name of the Governor",
+        "rationale_ko": "주지사는 주 행정부의 수장이며, 연방 상원의원이 아닙니다.",
+        "rationale_en": "The Governor is the head of the state's executive branch, not a federal Senator."
+      },
+      {
+        "text_ko": "하원의원 이름",
+        "text_en": "The name of the Representative",
+        "rationale_ko": "하원의원은 연방 하원의 구성원이며, 상원의원과는 다릅니다.",
+        "rationale_en": "A Representative is a member of the House of Representatives, which is different from a Senator."
+      },
+      {
+        "text_ko": "대통령 이름",
+        "text_en": "The name of the President",
+        "rationale_ko": "대통령은 연방 행정부의 수장입니다.",
+        "rationale_en": "The President is the head of the federal executive branch."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question_ko": "하원은 몇 명의 투표 의원으로 구성되어 있는가?",
+    "question_en": "The House of Representatives has how many voting members?",
+    "correctAnswers": [
+      {
+        "text_ko": "435명",
+        "text_en": "Four hundred thirty-five (435)",
+        "rationale_ko": "정답입니다. 하원의원 수는 각 주의 인구에 비례하여 정해집니다.",
+        "rationale_en": "The number of representatives is based on each state's population."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "100명",
+        "text_en": "One hundred (100)",
+        "rationale_ko": "100명은 상원의원의 수입니다.",
+        "rationale_en": "100 is the number of Senators."
+      },
+      {
+        "text_ko": "50명",
+        "text_en": "Fifty (50)",
+        "rationale_ko": "50은 미국의 주의 수입니다.",
+        "rationale_en": "50 is the number of states."
+      },
+      {
+        "text_ko": "538명",
+        "text_en": "Five hundred thirty-eight (538)",
+        "rationale_ko": "538은 대통령 선거인단의 총 수입니다.",
+        "rationale_en": "538 is the total number of electors in the Electoral College."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question_ko": "미국 하원의원을 몇 년 임기로 선출하는가?",
+    "question_en": "We elect a U.S. Representative for how many years?",
+    "correctAnswers": [
+      {
+        "text_ko": "2년",
+        "text_en": "Two (2)",
+        "rationale_ko": "정답입니다. 하원의원의 임기는 2년입니다.",
+        "rationale_en": "The term for a U.S. Representative is two years."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "4년",
+        "text_en": "Four (4)",
+        "rationale_ko": "4년은 대통령의 임기입니다.",
+        "rationale_en": "Four years is the term for the President."
+      },
+      {
+        "text_ko": "6년",
+        "text_en": "Six (6)",
+        "rationale_ko": "6년은 상원의원의 임기입니다.",
+        "rationale_en": "Six years is the term for a Senator."
+      },
+      {
+        "text_ko": "평생",
+        "text_en": "For life",
+        "rationale_ko": "연방 대법원 판사는 종신직이지만, 하원의원은 선출직입니다.",
+        "rationale_en": "Supreme Court justices serve for life, but Representatives are elected officials."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question_ko": "당신 지역의 미국 하원의원 이름을 말해보시오.",
+    "question_en": "Name your U.S. Representative.",
+    "correctAnswers": [
+      {
+        "text_ko": "답은 거주 지역에 따라 다름",
+        "text_en": "Answers will vary",
+        "rationale_ko": "이 질문의 정답은 거주하는 선거구에 따라 다릅니다. house.gov에서 확인해야 합니다.",
+        "rationale_en": "The answer to this question depends on your congressional district. You should check house.gov."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "상원의원 이름",
+        "text_en": "The name of the Senator",
+        "rationale_ko": "상원의원은 주 전체를 대표하며, 특정 선거구의 하원의원과는 다릅니다.",
+        "rationale_en": "A Senator represents the entire state and is different from a Representative for a specific district."
+      },
+      {
+        "text_ko": "주지사 이름",
+        "text_en": "The name of the Governor",
+        "rationale_ko": "주지사는 주 행정부의 수장입니다.",
+        "rationale_en": "The Governor is the head of the state's executive branch."
+      },
+      {
+        "text_ko": "시장 이름",
+        "text_en": "The name of the Mayor",
+        "rationale_ko": "시장은 시(city) 행정부의 수장입니다.",
+        "rationale_en": "The Mayor is the head of a city's government."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question_ko": "미국 상원의원은 누구를 대표하는가?",
+    "question_en": "Who does a U.S. Senator represent?",
+    "correctAnswers": [
+      {
+        "text_ko": "그들이 속한 주의 모든 사람들",
+        "text_en": "all people of the state",
+        "rationale_ko": "정답입니다. 상원의원은 특정 지역구가 아닌 주 전체의 이익을 대표합니다.",
+        "rationale_en": "Senators represent the interests of their entire state, not just a specific district."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "자신이 속한 정당",
+        "text_en": "only their political party",
+        "rationale_ko": "상원의원은 정당에 소속되어 있지만, 법적으로는 주 전체 주민을 대표해야 합니다.",
+        "rationale_en": "While they belong to a political party, Senators are legally bound to represent all the people of their state."
+      },
+      {
+        "text_ko": "자신이 사는 도시",
+        "text_en": "only the city they live in",
+        "rationale_ko": "상원의원은 도시가 아닌 주 전체를 대표합니다.",
+        "rationale_en": "Senators represent the entire state, not just one city."
+      },
+      {
+        "text_ko": "대통령",
+        "text_en": "the President",
+        "rationale_ko": "상원의원은 입법부 소속으로 행정부의 수장인 대통령을 견제하는 역할을 합니다.",
+        "rationale_en": "As part of the legislative branch, Senators provide a check on the President, who heads the executive branch."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question_ko": "왜 어떤 주는 다른 주보다 더 많은 하원의원을 갖는가?",
+    "question_en": "Why do some states have more Representatives than other states?",
+    "correctAnswers": [
+      {
+        "text_ko": "(주의) 인구 때문에",
+        "text_en": "(because of) the state’s population",
+        "rationale_ko": "정답입니다. 하원의원 수는 10년마다 실시되는 인구조사 결과에 따라 각 주의 인구에 비례하여 배분됩니다.",
+        "rationale_en": "The number of representatives is apportioned based on each state's population, as determined by the census every 10 years."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "(주의) 면적 때문에",
+        "text_en": "(because of) the state’s land area",
+        "rationale_ko": "하원의원 수는 주의 크기가 아닌 인구 수에 따라 결정됩니다.",
+        "rationale_en": "The number of representatives is based on population, not the physical size of the state."
+      },
+      {
+        "text_ko": "(주의) 경제력 때문에",
+        "text_en": "(because of) the state’s wealth",
+        "rationale_ko": "주의 경제력이 아닌 인구 수가 기준입니다.",
+        "rationale_en": "Population, not the state's economic power, is the standard."
+      },
+      {
+        "text_ko": "건국 시기 때문에",
+        "text_en": "because of when the state was founded",
+        "rationale_ko": "주가 연방에 가입한 순서는 하원의원 수와 관련이 없습니다.",
+        "rationale_en": "The order in which a state joined the Union does not affect its number of representatives."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question_ko": "대통령을 몇 년 임기로 선출하는가?",
+    "question_en": "We elect a President for how many years?",
+    "correctAnswers": [
+      {
+        "text_ko": "4년",
+        "text_en": "Four (4)",
+        "rationale_ko": "정답입니다. 대통령의 임기는 4년입니다.",
+        "rationale_en": "The term for the President is four years."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "2년",
+        "text_en": "Two (2)",
+        "rationale_ko": "2년은 하원의원의 임기입니다.",
+        "rationale_en": "Two years is the term for a member of the House of Representatives."
+      },
+      {
+        "text_ko": "6년",
+        "text_en": "Six (6)",
+        "rationale_ko": "6년은 상원의원의 임기입니다.",
+        "rationale_en": "Six years is the term for a Senator."
+      },
+      {
+        "text_ko": "5년",
+        "text_en": "Five (5)",
+        "rationale_ko": "미국 연방 공직자 중 임기가 5년인 경우는 없습니다.",
+        "rationale_en": "There are no federal offices in the U.S. with a five-year term."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question_ko": "우리는 대통령을 어느 달에 선출하는가?",
+    "question_en": "In what month do we vote for President?",
+    "correctAnswers": [
+      {
+        "text_ko": "11월",
+        "text_en": "November",
+        "rationale_ko": "정답입니다. 미국 대통령 선거는 4년마다 11월 첫째 월요일 다음의 화요일에 실시됩니다.",
+        "rationale_en": "The U.S. presidential election is held every four years on the Tuesday after the first Monday in November."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "1월",
+        "text_en": "January",
+        "rationale_ko": "1월에는 새로운 대통령이 취임합니다.",
+        "rationale_en": "The new President is inaugurated in January."
+      },
+      {
+        "text_ko": "7월",
+        "text_en": "July",
+        "rationale_ko": "7월 4일은 독립기념일입니다.",
+        "rationale_en": "July 4th is Independence Day."
+      },
+      {
+        "text_ko": "10월",
+        "text_en": "October",
+        "rationale_ko": "10월은 선거 막바지 유세가 한창인 시기입니다.",
+        "rationale_en": "October is typically a time of intense, final-stage campaigning before the election."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question_ko": "현재 미국 대통령의 이름은 무엇인가?",
+    "question_en": "What is the name of the President of the United States now?",
+    "correctAnswers": [
+      {
+        "text_ko": "도널드 J. 트럼프",
+        "text_en": "Donald J. Trump",
+        "rationale_ko": "정답입니다. (2025년 7월 기준)",
+        "rationale_en": "(As of July 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "JD 밴스",
+        "text_en": "JD Vance",
+        "rationale_ko": "JD 밴스는 현재 부통령입니다.",
+        "rationale_en": "JD Vance is the current Vice President."
+      },
+      {
+        "text_ko": "마이크 존슨",
+        "text_en": "Mike Johnson",
+        "rationale_ko": "마이크 존슨은 현재 하원의장입니다.",
+        "rationale_en": "Mike Johnson is the current Speaker of the House."
+      },
+      {
+        "text_ko": "조 바이든",
+        "text_en": "Joe Biden",
+        "rationale_ko": "조 바이든은 이전 대통령입니다.",
+        "rationale_en": "Joe Biden is the previous President."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question_ko": "현재 미국 부통령의 이름은 무엇인가?",
+    "question_en": "What is the name of the Vice President of the United States now?",
+    "correctAnswers": [
+      {
+        "text_ko": "JD 밴스",
+        "text_en": "JD Vance",
+        "rationale_ko": "정답입니다. (2025년 7월 기준)",
+        "rationale_en": "(As of July 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "도널드 J. 트럼프",
+        "text_en": "Donald J. Trump",
+        "rationale_ko": "도널드 J. 트럼프는 현재 대통령입니다.",
+        "rationale_en": "Donald J. Trump is the current President."
+      },
+      {
+        "text_ko": "카멀라 해리스",
+        "text_en": "Kamala Harris",
+        "rationale_ko": "카멀라 해리스는 이전 부통령입니다.",
+        "rationale_en": "Kamala Harris is the previous Vice President."
+      },
+      {
+        "text_ko": "존 로버츠",
+        "text_en": "John Roberts",
+        "rationale_ko": "존 로버츠는 현재 연방 대법원장입니다.",
+        "rationale_en": "John Roberts is the current Chief Justice."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question_ko": "대통령이 더 이상 직무를 수행할 수 없게 되면 누가 대통령이 되는가?",
+    "question_en": "If the President can no longer serve, who becomes President?",
+    "correctAnswers": [
+      {
+        "text_ko": "부통령",
+        "text_en": "the Vice President",
+        "rationale_ko": "정답입니다. 대통령 유고 시 부통령이 대통령직을 승계합니다.",
+        "rationale_en": "The Vice President succeeds to the presidency if the President can no longer serve."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "하원의장",
+        "text_en": "the Speaker of the House",
+        "rationale_ko": "하원의장은 대통령과 부통령이 모두 유고 시에 대통령직을 승계합니다.",
+        "rationale_en": "The Speaker of the House succeeds to the presidency only if both the President and Vice President can no longer serve."
+      },
+      {
+        "text_ko": "연방 대법원장",
+        "text_en": "the Chief Justice",
+        "rationale_ko": "연방 대법원장은 대통령 승계 서열에 포함되지 않습니다.",
+        "rationale_en": "The Chief Justice is not in the line of presidential succession."
+      },
+      {
+        "text_ko": "국무부 장관",
+        "text_en": "the Secretary of State",
+        "rationale_ko": "국무부 장관은 대통령 승계 서열 4위입니다.",
+        "rationale_en": "The Secretary of State is fourth in the line of presidential succession."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question_ko": "대통령과 부통령이 모두 직무를 수행할 수 없게 되면 누가 대통령이 되는가?",
+    "question_en": "If both the President and the Vice President can no longer serve, who becomes President?",
+    "correctAnswers": [
+      {
+        "text_ko": "하원의장",
+        "text_en": "the Speaker of the House",
+        "rationale_ko": "정답입니다. 대통령 승계 서열 3위는 하원의장입니다.",
+        "rationale_en": "The Speaker of the House is third in the line of presidential succession."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "국무부 장관",
+        "text_en": "the Secretary of State",
+        "rationale_ko": "국무부 장관은 하원의장 다음 순위인 승계 서열 4위입니다.",
+        "rationale_en": "The Secretary of State is fourth in the line of succession, after the Speaker of the House."
+      },
+      {
+        "text_ko": "연방 대법원장",
+        "text_en": "the Chief Justice",
+        "rationale_ko": "연방 대법원장은 대통령 승계 서열에 포함되지 않습니다.",
+        "rationale_en": "The Chief Justice is not in the line of presidential succession."
+      },
+      {
+        "text_ko": "상원 임시의장",
+        "text_en": "the President pro tempore of the Senate",
+        "rationale_ko": "상원 임시의장은 하원의장 다음 순위인 승계 서열 3위입니다. (수정: 4위입니다. 하원의장 다음)",
+        "rationale_en": "The President pro tempore of the Senate is fourth in line, after the Speaker of the House."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question_ko": "군대의 총사령관은 누구인가?",
+    "question_en": "Who is the Commander in Chief of the military?",
+    "correctAnswers": [
+      {
+        "text_ko": "대통령",
+        "text_en": "the President",
+        "rationale_ko": "정답입니다. 대통령은 미군의 총사령관으로서 군 통수권을 가집니다.",
+        "rationale_en": "The President holds the ultimate authority over the U.S. armed forces as Commander in Chief."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "국방부 장관",
+        "text_en": "the Secretary of Defense",
+        "rationale_ko": "국방부 장관은 대통령의 지휘를 받아 국방부를 이끄는 문민 통제 책임자입니다.",
+        "rationale_en": "The Secretary of Defense is the civilian head of the Department of Defense, acting under the President's command."
+      },
+      {
+        "text_ko": "합동참모의장",
+        "text_en": "the Chairman of the Joint Chiefs of Staff",
+        "rationale_ko": "합동참모의장은 대통령의 최고 군사 자문관이며, 현역 군인 중 최고위 직책입니다.",
+        "rationale_en": "The Chairman of the Joint Chiefs of Staff is the highest-ranking military officer and the principal military advisor to the President."
+      },
+      {
+        "text_ko": "부통령",
+        "text_en": "the Vice President",
+        "rationale_ko": "부통령은 군 통수권을 직접적으로 갖지 않습니다.",
+        "rationale_en": "The Vice President does not have direct command authority over the military."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question_ko": "법안에 서명하여 법으로 만드는 사람은 누구인가?",
+    "question_en": "Who signs bills to become laws?",
+    "correctAnswers": [
+      {
+        "text_ko": "대통령",
+        "text_en": "the President",
+        "rationale_ko": "정답입니다. 의회에서 통과된 법안은 대통령이 서명해야 법으로서 효력을 갖습니다.",
+        "rationale_en": "A bill passed by Congress must be signed by the President to become law."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "하원의장",
+        "text_en": "the Speaker of the House",
+        "rationale_ko": "하원의장은 법안이 하원에서 통과되도록 이끌지만, 최종 서명권자는 아닙니다.",
+        "rationale_en": "The Speaker of the House leads the process for a bill to pass the House, but does not have the final authority to sign it into law."
+      },
+      {
+        "text_ko": "부통령",
+        "text_en": "the Vice President",
+        "rationale_ko": "부통령은 상원에서 동률 투표가 나올 경우 캐스팅 보트를 행사하지만 법안에 서명하지는 않습니다.",
+        "rationale_en": "The Vice President can cast a tie-breaking vote in the Senate but does not sign bills into law."
+      },
+      {
+        "text_ko": "연방 대법원장",
+        "text_en": "the Chief Justice",
+        "rationale_ko": "연방 대법원장은 법을 해석하며, 입법 과정에 참여하지 않습니다.",
+        "rationale_en": "The Chief Justice interprets laws and is not involved in the legislative process."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question_ko": "법안을 거부하는 사람은 누구인가?",
+    "question_en": "Who vetoes bills?",
+    "correctAnswers": [
+      {
+        "text_ko": "대통령",
+        "text_en": "the President",
+        "rationale_ko": "정답입니다. 대통령은 의회에서 통과된 법안에 대해 거부권(veto)을 행사할 수 있습니다.",
+        "rationale_en": "The President has the power to veto bills passed by Congress."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "의회",
+        "text_en": "Congress",
+        "rationale_ko": "의회는 법안을 통과시키는 곳이며, 대통령의 거부권을 재의결(override)할 수는 있습니다.",
+        "rationale_en": "Congress passes bills; it can also override a presidential veto."
+      },
+      {
+        "text_ko": "연방 대법원",
+        "text_en": "the Supreme Court",
+        "rationale_ko": "연방 대법원은 법이 시행된 후 위헌 심사를 할 수는 있지만, 법안 자체를 거부할 수는 없습니다.",
+        "rationale_en": "The Supreme Court can rule a law unconstitutional after it is enacted, but it cannot veto a bill."
+      },
+      {
+        "text_ko": "주지사",
+        "text_en": "the Governor",
+        "rationale_ko": "주지사는 연방법이 아닌 주법(state law)에 대한 거부권을 가집니다.",
+        "rationale_en": "A Governor has veto power over state laws, not federal laws."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question_ko": "대통령의 내각은 무엇을 하는가?",
+    "question_en": "What does the President’s Cabinet do?",
+    "correctAnswers": [
+      {
+        "text_ko": "대통령에게 조언한다",
+        "text_en": "advises the President",
+        "rationale_ko": "정답입니다. 내각은 각 부처의 장관들로 구성되어 대통령에게 전문적인 조언을 제공합니다.",
+        "rationale_en": "The Cabinet, composed of the heads of executive departments, provides expert advice to the President."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "법을 만든다",
+        "text_en": "makes laws",
+        "rationale_ko": "법을 만드는 곳은 의회입니다.",
+        "rationale_en": "Laws are made by Congress."
+      },
+      {
+        "text_ko": "대통령을 선출한다",
+        "text_en": "elects the President",
+        "rationale_ko": "대통령은 국민과 선거인단에 의해 선출됩니다.",
+        "rationale_en": "The President is elected by the people and the Electoral College."
+      },
+      {
+        "text_ko": "전쟁을 선포한다",
+        "text_en": "declares war",
+        "rationale_ko": "전쟁 선포는 의회의 고유 권한입니다.",
+        "rationale_en": "Declaring war is an exclusive power of Congress."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question_ko": "내각 수준의 직책 두 가지는 무엇인가?",
+    "question_en": "What are two Cabinet-level positions?",
+    "correctAnswers": [
+      {
+        "text_ko": "국무부 장관",
+        "text_en": "Secretary of State",
+        "rationale_ko": "정답입니다. 국무부 장관은 외교 정책을 담당하는 핵심 각료입니다.",
+        "rationale_en": "The Secretary of State is a key cabinet member responsible for foreign policy."
+      },
+      {
+        "text_ko": "재무부 장관",
+        "text_en": "Secretary of the Treasury",
+        "rationale_ko": "정답입니다. 재무부 장관은 국가의 재정 및 경제 정책을 담당합니다.",
+        "rationale_en": "The Secretary of the Treasury is responsible for the nation's financial and economic policy."
+      },
+      {
+        "text_ko": "국방부 장관",
+        "text_en": "Secretary of Defense",
+        "rationale_ko": "정답입니다. 국방부 장관은 군사 및 국방 정책을 총괄합니다.",
+        "rationale_en": "The Secretary of Defense oversees military and defense policy."
+      },
+      {
+        "text_ko": "법무부 장관",
+        "text_en": "Attorney General",
+        "rationale_ko": "정답입니다. 법무부 장관은 법무부의 수장으로서 최고 법률 책임자입니다.",
+        "rationale_en": "The Attorney General is the head of the Department of Justice and the chief law enforcement officer."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "연방 대법원장",
+        "text_en": "Chief Justice",
+        "rationale_ko": "연방 대법원장은 사법부의 수장이며, 행정부의 내각 구성원이 아닙니다.",
+        "rationale_en": "The Chief Justice is the head of the judicial branch and not a member of the executive Cabinet."
+      },
+      {
+        "text_ko": "하원의장",
+        "text_en": "Speaker of the House",
+        "rationale_ko": "하원의장은 입법부의 지도자이며, 내각 구성원이 아닙니다.",
+        "rationale_en": "The Speaker of the House is a leader in the legislative branch, not a member of the Cabinet."
+      },
+      {
+        "text_ko": "상원의원",
+        "text_en": "Senator",
+        "rationale_ko": "상원의원은 입법부의 구성원입니다.",
+        "rationale_en": "A Senator is a member of the legislative branch."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question_ko": "사법부가 하는 일은 무엇인가?",
+    "question_en": "What does the judicial branch do?",
+    "correctAnswers": [
+      {
+        "text_ko": "법을 검토한다",
+        "text_en": "reviews laws",
+        "rationale_ko": "정답입니다. 사법부는 법이 헌법에 부합하는지 검토합니다.",
+        "rationale_en": "The judicial branch reviews laws to ensure they are constitutional."
+      },
+      {
+        "text_ko": "법을 설명한다",
+        "text_en": "explains laws",
+        "rationale_ko": "정답입니다. 사법부는 법의 의미를 해석하고 구체적인 사건에 적용합니다.",
+        "rationale_en": "The judicial branch interprets the meaning of laws and applies them to specific cases."
+      },
+      {
+        "text_ko": "분쟁을 해결한다",
+        "text_en": "resolves disputes",
+        "rationale_ko": "정답입니다. 법적인 분쟁에 대해 판결을 내려 해결합니다.",
+        "rationale_en": "It resolves legal disputes by making rulings."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "법을 만든다",
+        "text_en": "makes laws",
+        "rationale_ko": "법을 만드는 곳은 입법부인 의회입니다.",
+        "rationale_en": "The legislative branch (Congress) makes laws."
+      },
+      {
+        "text_ko": "법을 집행한다",
+        "text_en": "enforces laws",
+        "rationale_ko": "법을 집행하는 곳은 행정부입니다.",
+        "rationale_en": "The executive branch enforces laws."
+      },
+      {
+        "text_ko": "대통령에게 조언한다",
+        "text_en": "advises the President",
+        "rationale_ko": "대통령에게 조언하는 것은 내각의 역할입니다.",
+        "rationale_en": "The Cabinet's role is to advise the President."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question_ko": "미국에서 가장 높은 법원은 무엇인가?",
+    "question_en": "What is the highest court in the United States?",
+    "correctAnswers": [
+      {
+        "text_ko": "연방 대법원",
+        "text_en": "the Supreme Court",
+        "rationale_ko": "정답입니다. 연방 대법원은 미국 사법 체계의 최상위에 있는 법원입니다.",
+        "rationale_en": "The Supreme Court is the highest court in the U.S. judicial system."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "주 대법원",
+        "text_en": "a state Supreme Court",
+        "rationale_ko": "주 대법원은 각 주의 사법 체계에서 가장 높지만, 연방 전체에서는 연방 대법원이 더 높습니다.",
+        "rationale_en": "A state Supreme Court is the highest in that state's judicial system, but the U.S. Supreme Court is higher for the entire nation."
+      },
+      {
+        "text_ko": "항소 법원",
+        "text_en": "a court of appeals",
+        "rationale_ko": "항소 법원은 연방 대법원보다 하위 법원입니다.",
+        "rationale_en": "A court of appeals is a lower court than the Supreme Court."
+      },
+      {
+        "text_ko": "국제사법재판소",
+        "text_en": "the International Court of Justice",
+        "rationale_ko": "국제사법재판소는 국가 간의 분쟁을 다루는 UN의 사법 기관입니다.",
+        "rationale_en": "The International Court of Justice is a UN judicial body that handles disputes between countries."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question_ko": "연방 대법원에는 몇 명의 판사가 있는가?",
+    "question_en": "How many justices are on the Supreme Court?",
+    "correctAnswers": [
+      {
+        "text_ko": "9명",
+        "text_en": "Nine (9)",
+        "rationale_ko": "정답입니다. 연방 대법원은 대법원장 1명과 8명의 대법관으로 구성됩니다.",
+        "rationale_en": "The Supreme Court is composed of one Chief Justice and eight Associate Justices."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "7명",
+        "text_en": "Seven (7)",
+        "rationale_ko": "판사의 수는 법률로 정해져 있으며, 1869년 이후로 9명으로 유지되고 있습니다.",
+        "rationale_en": "The number of justices is set by law and has been nine since 1869."
+      },
+      {
+        "text_ko": "12명",
+        "text_en": "Twelve (12)",
+        "rationale_ko": "12는 연방 항소 법원의 순회 구역 수와 관련이 있을 수 있지만, 대법관 수는 아닙니다.",
+        "rationale_en": "Twelve relates to the number of regional circuit courts of appeals, not the number of Supreme Court justices."
+      },
+      {
+        "text_ko": "50명",
+        "text_en": "Fifty (50)",
+        "rationale_ko": "50은 미국의 주의 수입니다.",
+        "rationale_en": "Fifty is the number of states."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question_ko": "현재 연방 대법원장은 누구인가?",
+    "question_en": "Who is the Chief Justice of the United States now?",
+    "correctAnswers": [
+      {
+        "text_ko": "존 로버츠",
+        "text_en": "John Roberts",
+        "rationale_ko": "정답입니다. 존 G. 로버츠 주니어는 현재 제17대 연방 대법원장입니다.",
+        "rationale_en": "John G. Roberts, Jr. is the 17th and current Chief Justice."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "클래런스 토머스",
+        "text_en": "Clarence Thomas",
+        "rationale_ko": "클래런스 토머스는 현재 가장 오래 재임 중인 연방 대법관(Associate Justice)입니다.",
+        "rationale_en": "Clarence Thomas is the current longest-serving Associate Justice."
+      },
+      {
+        "text_ko": "메릭 갈랜드",
+        "text_en": "Merrick Garland",
+        "rationale_ko": "메릭 갈랜드는 현재 법무부 장관입니다.",
+        "rationale_en": "Merrick Garland is the current Attorney General."
+      },
+      {
+        "text_ko": "루스 베이더 긴즈버그",
+        "text_en": "Ruth Bader Ginsburg",
+        "rationale_ko": "루스 베이더 긴즈버그는 2020년에 별세한 존경받는 전 연방 대법관입니다.",
+        "rationale_en": "Ruth Bader Ginsburg was a revered Associate Justice who passed away in 2020."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question_ko": "헌법에 따르면 일부 권한은 연방 정부에 속한다. 연방 정부의 권한 중 하나는 무엇인가?",
+    "question_en": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?",
+    "correctAnswers": [
+      {
+        "text_ko": "화폐를 발행하는 것",
+        "text_en": "to print money",
+        "rationale_ko": "정답입니다. 화폐 발행은 연방 정부의 고유 권한입니다.",
+        "rationale_en": "Printing money is an exclusive power of the federal government."
+      },
+      {
+        "text_ko": "전쟁을 선포하는 것",
+        "text_en": "to declare war",
+        "rationale_ko": "정답입니다. 전쟁 선포는 연방 의회의 권한입니다.",
+        "rationale_en": "Declaring war is a power of the federal Congress."
+      },
+      {
+        "text_ko": "군대를 창설하는 것",
+        "text_en": "to create an army",
+        "rationale_ko": "정답입니다. 국방을 위한 군대 창설 및 유지는 연방 정부의 역할입니다.",
+        "rationale_en": "Creating and maintaining an army for national defense is a role of the federal government."
+      },
+      {
+        "text_ko": "조약을 맺는 것",
+        "text_en": "to make treaties",
+        "rationale_ko": "정답입니다. 다른 나라와의 공식적인 조약 체결은 연방 정부의 권한입니다.",
+        "rationale_en": "Making official treaties with other countries is a power of the federal government."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "운전면허증을 발급하는 것",
+        "text_en": "to give a driver's license",
+        "rationale_ko": "운전면허증 발급은 각 주 정부의 권한입니다.",
+        "rationale_en": "Issuing driver's licenses is a power of the individual state governments."
+      },
+      {
+        "text_ko": "교육을 제공하는 것",
+        "text_en": "to provide schooling and education",
+        "rationale_ko": "교육 시스템 운영은 주로 주 및 지방 정부의 책임입니다.",
+        "rationale_en": "Operating education systems is primarily a responsibility of state and local governments."
+      },
+      {
+        "text_ko": "경찰을 운영하는 것",
+        "text_en": "to provide protection (police)",
+        "rationale_ko": "경찰력 운영은 주로 주 및 지방 정부의 권한입니다.",
+        "rationale_en": "Providing police forces is primarily a power of state and local governments."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question_ko": "헌법에 따르면 일부 권한은 주 정부에 속한다. 주 정부의 권한 중 하나는 무엇인가?",
+    "question_en": "Under our Constitution, some powers belong to the states. What is one power of the states?",
+    "correctAnswers": [
+      {
+        "text_ko": "학교와 교육을 제공하는 것",
+        "text_en": "provide schooling and education",
+        "rationale_ko": "정답입니다. 교육 정책과 학교 운영은 주로 주의 책임입니다.",
+        "rationale_en": "Education policy and school operation are primarily the responsibility of the states."
+      },
+      {
+        "text_ko": "보호(경찰)를 제공하는 것",
+        "text_en": "provide protection (police)",
+        "rationale_ko": "정답입니다. 주 및 지방 경찰을 운영하여 치안을 유지하는 것은 주의 권한입니다.",
+        "rationale_en": "Maintaining public order by operating state and local police is a state power."
+      },
+      {
+        "text_ko": "운전면허증을 발급하는 것",
+        "text_en": "give a driver's license",
+        "rationale_ko": "정답입니다. 운전면허 발급 기준과 절차는 각 주에서 정합니다.",
+        "rationale_en": "Each state sets its own standards and procedures for issuing driver's licenses."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "화폐를 발행하는 것",
+        "text_en": "to print money",
+        "rationale_ko": "화폐 발행은 주가 아닌 연방 정부의 고유 권한입니다.",
+        "rationale_en": "Printing money is an exclusive power of the federal government, not the states."
+      },
+      {
+        "text_ko": "전쟁을 선포하는 것",
+        "text_en": "to declare war",
+        "rationale_ko": "전쟁 선포는 주가 아닌 연방 의회의 권한입니다.",
+        "rationale_en": "Declaring war is a power of the federal Congress, not the states."
+      },
+      {
+        "text_ko": "조약을 맺는 것",
+        "text_en": "to make treaties",
+        "rationale_ko": "다른 나라와의 조약 체결은 주가 아닌 연방 정부의 권한입니다.",
+        "rationale_en": "Making treaties with other countries is a power of the federal government, not the states."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question_ko": "당신이 사는 주의 주지사는 누구인가?",
+    "question_en": "Who is the Governor of your state now?",
+    "correctAnswers": [
+      {
+        "text_ko": "답은 주에 따라 다름",
+        "text_en": "Answers will vary",
+        "rationale_ko": "이 질문의 정답은 거주하는 주에 따라 다릅니다. usa.gov에서 확인해야 합니다.",
+        "rationale_en": "The answer to this question depends on the state where you live. You should check usa.gov."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "상원의원 이름",
+        "text_en": "The name of the Senator",
+        "rationale_ko": "상원의원은 연방 입법부 소속이며, 주 행정부의 수장인 주지사와는 다릅니다.",
+        "rationale_en": "A Senator is part of the federal legislative branch and is different from the Governor, who is the head of the state's executive branch."
+      },
+      {
+        "text_ko": "시장 이름",
+        "text_en": "The name of the Mayor",
+        "rationale_ko": "시장은 시(city) 정부의 수장이며, 주(state) 전체의 수장인 주지사와는 다릅니다.",
+        "rationale_en": "The Mayor is the head of a city government, different from the Governor who is the head of the entire state."
+      },
+      {
+        "text_ko": "대통령 이름",
+        "text_en": "The name of the President",
+        "rationale_ko": "대통령은 연방 정부의 수장이며, 주 정부의 수장인 주지사와는 다릅니다.",
+        "rationale_en": "The President is the head of the federal government, different from the Governor who is the head of a state government."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question_ko": "당신이 사는 주의 주도는 어디인가?",
+    "question_en": "What is the capital of your state?",
+    "correctAnswers": [
+      {
+        "text_ko": "답은 주에 따라 다름",
+        "text_en": "Answers will vary",
+        "rationale_ko": "이 질문의 정답은 거주하는 주에 따라 다릅니다.",
+        "rationale_en": "The answer to this question depends on the state where you live."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "워싱턴 D.C.",
+        "text_en": "Washington, D.C.",
+        "rationale_ko": "워싱턴 D.C.는 미국의 수도이지, 특정 주의 주도는 아닙니다.",
+        "rationale_en": "Washington, D.C. is the capital of the United States, not a state capital."
+      },
+      {
+        "text_ko": "가장 큰 도시 이름",
+        "text_en": "The name of the largest city",
+        "rationale_ko": "주의 주도와 가장 큰 도시가 항상 일치하는 것은 아닙니다. (예: 뉴욕 주의 주도는 올버니)",
+        "rationale_en": "A state's capital is not always its largest city (e.g., the capital of New York is Albany)."
+      },
+      {
+        "text_ko": "가장 유명한 도시 이름",
+        "text_en": "The name of the most famous city",
+        "rationale_ko": "가장 유명한 도시가 주도일 필요는 없습니다.",
+        "rationale_en": "The most famous city is not necessarily the state capital."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question_ko": "미국의 주요 정당 두 개는 무엇인가?",
+    "question_en": "What are the two major political parties in the United States?",
+    "correctAnswers": [
+      {
+        "text_ko": "민주당과 공화당",
+        "text_en": "Democratic and Republican",
+        "rationale_ko": "정답입니다. 민주당과 공화당은 현재 미국의 정치계를 이끄는 양대 정당입니다.",
+        "rationale_en": "The Democratic and Republican parties are the two major parties that dominate U.S. politics today."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "노동당과 보수당",
+        "text_en": "Labour and Conservative",
+        "rationale_ko": "노동당과 보수당은 영국의 주요 정당입니다.",
+        "rationale_en": "The Labour and Conservative parties are the major political parties in the United Kingdom."
+      },
+      {
+        "text_ko": "자유당과 녹색당",
+        "text_en": "Liberal and Green",
+        "rationale_ko": "자유당과 녹색당 등은 미국의 제3당이지만, 주요 양대 정당은 아닙니다.",
+        "rationale_en": "Parties like the Libertarian and Green parties are third parties in the U.S., but not one of the two major parties."
+      },
+      {
+        "text_ko": "상원과 하원",
+        "text_en": "Senate and House",
+        "rationale_ko": "상원과 하원은 의회를 구성하는 두 부분이며, 정당이 아닙니다.",
+        "rationale_en": "The Senate and House are the two parts of Congress, not political parties."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question_ko": "현재 대통령이 속한 정당은 무엇인가?",
+    "question_en": "What is the political party of the President now?",
+    "correctAnswers": [
+      {
+        "text_ko": "공화당",
+        "text_en": "Republican (Party)",
+        "rationale_ko": "정답입니다. 도널드 트럼프 대통령은 공화당 소속입니다. (2025년 7월 기준)",
+        "rationale_en": "President Donald Trump is a member of the Republican Party. (As of July 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "민주당",
+        "text_en": "Democratic (Party)",
+        "rationale_ko": "민주당은 현재 주요 야당입니다.",
+        "rationale_en": "The Democratic Party is currently the main opposition party."
+      },
+      {
+        "text_ko": "무소속",
+        "text_en": "Independent",
+        "rationale_ko": "현 대통령은 주요 정당인 공화당 소속입니다.",
+        "rationale_en": "The current President is a member of a major party, the Republican Party."
+      },
+      {
+        "text_ko": "자유당",
+        "text_en": "Libertarian (Party)",
+        "rationale_ko": "자유당은 미국의 제3당 중 하나입니다.",
+        "rationale_en": "The Libertarian Party is one of the third parties in the U.S."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question_ko": "현재 연방 하원의장의 이름은 무엇인가?",
+    "question_en": "What is the name of the Speaker of the House of Representatives now?",
+    "correctAnswers": [
+      {
+        "text_ko": "마이크 존슨",
+        "text_en": "Mike Johnson",
+        "rationale_ko": "정답입니다. (2025년 7월 기준)",
+        "rationale_en": "(As of July 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "낸시 펠로시",
+        "text_en": "Nancy Pelosi",
+        "rationale_ko": "낸시 펠로시는 이전 하원의장이었습니다.",
+        "rationale_en": "Nancy Pelosi was a previous Speaker of the House."
+      },
+      {
+        "text_ko": "케빈 매카시",
+        "text_en": "Kevin McCarthy",
+        "rationale_ko": "케빈 매카시는 마이크 존슨 바로 이전의 하원의장이었습니다.",
+        "rationale_en": "Kevin McCarthy was the Speaker of the House immediately before Mike Johnson."
+      },
+      {
+        "text_ko": "척 슈머",
+        "text_en": "Chuck Schumer",
+        "rationale_ko": "척 슈머는 현재 상원의 다수당 대표입니다.",
+        "rationale_en": "Chuck Schumer is the current Senate Majority Leader."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question_ko": "헌법에는 투표할 수 있는 사람에 관한 네 가지 수정 조항이 있다. 그 중 하나를 설명하시오.",
+    "question_en": "There are four amendments to the Constitution about who can vote. Describe one of them.",
+    "correctAnswers": [
+      {
+        "text_ko": "18세 이상의 시민은 투표할 수 있다.",
+        "text_en": "Citizens eighteen (18) and older (can vote).",
+        "rationale_ko": "정답입니다. 26차 수정헌법은 투표 연령을 18세로 낮췄습니다.",
+        "rationale_en": "The 26th Amendment lowered the voting age to 18."
+      },
+      {
+        "text_ko": "투표하기 위해 인두세를 낼 필요가 없다.",
+        "text_en": "You don’t have to pay (a poll tax) to vote.",
+        "rationale_ko": "정답입니다. 24차 수정헌법은 투표권 행사의 조건으로 세금을 부과하는 것을 금지했습니다.",
+        "rationale_en": "The 24th Amendment outlawed the use of poll taxes as a voting requirement."
+      },
+      {
+        "text_ko": "시민이라면 누구나 투표할 수 있다. (여성 포함)",
+        "text_en": "Any citizen can vote. (Women and men can vote.)",
+        "rationale_ko": "정답입니다. 19차 수정헌법은 성별에 따른 투표권 차별을 금지했습니다.",
+        "rationale_en": "The 19th Amendment prohibited voting discrimination on the basis of sex."
+      },
+      {
+        "text_ko": "어떤 인종의 남성 시민이든 투표할 수 있다.",
+        "text_en": "A male citizen of any race (can vote).",
+        "rationale_ko": "정답입니다. 15차 수정헌법은 인종에 따른 투표권 차별을 금지했습니다.",
+        "rationale_en": "The 15th Amendment prohibited voting discrimination on the basis of race."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "영주권자는 투표할 수 있다.",
+        "text_en": "Permanent residents can vote.",
+        "rationale_ko": "연방 선거에서의 투표권은 일반적으로 미국 시민에게만 주어집니다.",
+        "rationale_en": "The right to vote in federal elections is generally reserved for U.S. citizens."
+      },
+      {
+        "text_ko": "재산이 있는 사람만 투표할 수 있다.",
+        "text_en": "Only people who own property can vote.",
+        "rationale_ko": "초기에는 그랬지만, 현재는 재산 소유 여부가 투표권의 조건이 아닙니다.",
+        "rationale_en": "This was true in the early days, but property ownership is no longer a requirement to vote."
+      },
+      {
+        "text_ko": "30세 이상만 투표할 수 있다.",
+        "text_en": "Only people over 30 can vote.",
+        "rationale_ko": "26차 수정헌법에 의해 투표 연령은 18세 이상입니다.",
+        "rationale_en": "The voting age is 18 and older, according to the 26th Amendment."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question_ko": "미국 시민에게만 해당되는 책임 중 하나는 무엇인가?",
+    "question_en": "What is one responsibility that is only for United States citizens?",
+    "correctAnswers": [
+      {
+        "text_ko": "배심원으로 봉사하는 것",
+        "text_en": "serve on a jury",
+        "rationale_ko": "정답입니다. 배심원 의무는 미국 시민에게만 주어지는 중요한 책임입니다.",
+        "rationale_en": "Jury duty is a key responsibility reserved for U.S. citizens."
+      },
+      {
+        "text_ko": "연방 선거에서 투표하는 것",
+        "text_en": "vote in a federal election",
+        "rationale_ko": "정답입니다. 연방 선거 투표는 시민의 권리이자 중요한 책임입니다.",
+        "rationale_en": "Voting in a federal election is both a right and a key responsibility of a citizen."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "세금을 내는 것",
+        "text_en": "pay taxes",
+        "rationale_ko": "세금 납부는 시민뿐만 아니라 소득이 있는 모든 거주자(영주권자 등)의 의무입니다.",
+        "rationale_en": "Paying taxes is a responsibility for all residents with income (like permanent residents), not just citizens."
+      },
+      {
+        "text_ko": "법을 준수하는 것",
+        "text_en": "obey the law",
+        "rationale_ko": "법 준수는 미국에 있는 모든 사람의 의무입니다.",
+        "rationale_en": "Obeying the law is a responsibility for everyone in the United States."
+      },
+      {
+        "text_ko": "병역 등록을 하는 것",
+        "text_en": "register for the Selective Service",
+        "rationale_ko": "병역 등록은 시민뿐만 아니라 특정 연령대의 남성 영주권자에게도 해당되는 의무입니다.",
+        "rationale_en": "Registering for the Selective Service is a responsibility for male citizens and also for male permanent residents of a certain age."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question_ko": "미국 시민에게만 해당되는 권리 중 하나를 말해보시오.",
+    "question_en": "Name one right only for United States citizens.",
+    "correctAnswers": [
+      {
+        "text_ko": "연방 선거에서 투표하는 것",
+        "text_en": "vote in a federal election",
+        "rationale_ko": "정답입니다. 연방 선거 투표는 시민의 고유한 권리입니다.",
+        "rationale_en": "Voting in federal elections is a right exclusive to citizens."
+      },
+      {
+        "text_ko": "연방 공직에 출마하는 것",
+        "text_en": "run for federal office",
+        "rationale_ko": "정답입니다. 대통령, 상원의원, 하원의원 등 연방 공직에 출마할 권리는 시민에게만 있습니다.",
+        "rationale_en": "The right to run for federal office, such as President, Senator, or Representative, is reserved for citizens."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "종교의 자유",
+        "text_en": "freedom of religion",
+        "rationale_ko": "종교의 자유는 시민뿐만 아니라 미국에 있는 모든 사람에게 보장되는 권리입니다.",
+        "rationale_en": "Freedom of religion is a right guaranteed to everyone in the United States, not just citizens."
+      },
+      {
+        "text_ko": "언론의 자유",
+        "text_en": "freedom of speech",
+        "rationale_ko": "언론의 자유는 시민뿐만 아니라 미국에 있는 모든 사람에게 보장되는 권리입니다.",
+        "rationale_en": "Freedom of speech is a right guaranteed to everyone in the United States, not just citizens."
+      },
+      {
+        "text_ko": "재산을 소유할 권리",
+        "text_en": "the right to own property",
+        "rationale_ko": "재산 소유권은 시민이 아니더라도 미국 내에서 일반적으로 보장되는 권리입니다.",
+        "rationale_en": "The right to own property is generally a protected right within the U.S., even for non-citizens."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question_ko": "미국에 사는 모든 사람의 권리 두 가지는 무엇인가?",
+    "question_en": "What are two rights of everyone living in the United States?",
+    "correctAnswers": [
+      {
+        "text_ko": "표현의 자유",
+        "text_en": "freedom of expression",
+        "rationale_ko": "정답입니다. 이는 1차 수정헌법에 의해 보호되는 기본권입니다.",
+        "rationale_en": "This is a fundamental right protected by the First Amendment."
+      },
+      {
+        "text_ko": "언론의 자유",
+        "text_en": "freedom of speech",
+        "rationale_ko": "정답입니다. 이는 1차 수정헌법에 의해 보호되는 기본권입니다.",
+        "rationale_en": "This is a fundamental right protected by the First Amendment."
+      },
+      {
+        "text_ko": "집회의 자유",
+        "text_en": "freedom of assembly",
+        "rationale_ko": "정답입니다. 이는 1차 수정헌법에 의해 보호되는 기본권입니다.",
+        "rationale_en": "This is a fundamental right protected by the First Amendment."
+      },
+      {
+        "text_ko": "종교의 자유",
+        "text_en": "freedom of religion",
+        "rationale_ko": "정답입니다. 이는 1차 수정헌법에 의해 보호되는 기본권입니다.",
+        "rationale_en": "This is a fundamental right protected by the First Amendment."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "연방 선거에서 투표할 권리",
+        "text_en": "the right to vote in a federal election",
+        "rationale_ko": "이것은 미국 시민에게만 주어지는 권리입니다.",
+        "rationale_en": "This is a right reserved for U.S. citizens only."
+      },
+      {
+        "text_ko": "연방 공직에 출마할 권리",
+        "text_en": "the right to run for federal office",
+        "rationale_ko": "이것은 미국 시민에게만 주어지는 권리입니다.",
+        "rationale_en": "This is a right reserved for U.S. citizens only."
+      },
+      {
+        "text_ko": "미국 여권을 가질 권리",
+        "text_en": "the right to a U.S. passport",
+        "rationale_ko": "미국 여권은 미국 시민에게만 발급됩니다.",
+        "rationale_en": "U.S. passports are issued only to U.S. citizens."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question_ko": "우리는 충성을 맹세할 때 무엇에 충성을 보이는가?",
+    "question_en": "What do we show loyalty to when we say the Pledge of Allegiance?",
+    "correctAnswers": [
+      {
+        "text_ko": "미국",
+        "text_en": "the United States",
+        "rationale_ko": "정답입니다. 국기에 대한 맹세는 미국이라는 국가에 대한 충성의 표현입니다.",
+        "rationale_en": "The Pledge of Allegiance is an expression of loyalty to the nation of the United States."
+      },
+      {
+        "text_ko": "국기",
+        "text_en": "the flag",
+        "rationale_ko": "정답입니다. 국기는 미국을 상징하므로, 국기에 대한 맹세는 곧 국가에 대한 충성을 의미합니다.",
+        "rationale_en": "The flag symbolizes the United States, so pledging allegiance to it means showing loyalty to the country."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "대통령",
+        "text_en": "the President",
+        "rationale_ko": "충성의 대상은 특정 인물이나 정부가 아닌, 미국이라는 국가 그 자체입니다.",
+        "rationale_en": "Loyalty is pledged to the nation itself, not to a specific person or government."
+      },
+      {
+        "text_ko": "자신이 사는 주",
+        "text_en": "the state where you live",
+        "rationale_ko": "주에 대한 충성심도 중요하지만, 국기에 대한 맹세는 연방 국가 전체에 대한 것입니다.",
+        "rationale_en": "While loyalty to one's state is important, the Pledge of Allegiance is to the entire federal nation."
+      },
+      {
+        "text_ko": "헌법",
+        "text_en": "the Constitution",
+        "rationale_ko": "시민은 헌법을 수호할 의무가 있지만, 충성 맹세의 직접적인 대상은 미국과 국기입니다.",
+        "rationale_en": "Citizens have a duty to uphold the Constitution, but the direct object of the Pledge of Allegiance is the United States and its flag."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question_ko": "미국 시민이 될 때 하는 약속 중 하나는 무엇인가?",
+    "question_en": "What is one promise you make when you become a United States citizen?",
+    "correctAnswers": [
+      {
+        "text_ko": "미국의 법을 준수하겠다",
+        "text_en": "obey the laws of the United States",
+        "rationale_ko": "정답입니다. 귀화 선서에는 미국 법 준수에 대한 약속이 포함됩니다.",
+        "rationale_en": "The Oath of Allegiance includes a promise to obey the laws of the United States."
+      },
+      {
+        "text_ko": "미국에 충성하겠다",
+        "text_en": "be loyal to the United States",
+        "rationale_ko": "정답입니다. 이것은 귀화 선서의 핵심적인 내용입니다.",
+        "rationale_en": "This is a core part of the Oath of Allegiance."
+      },
+      {
+        "text_ko": "(필요 시) 미군에 복무하겠다",
+        "text_en": "serve in the U.S. military (if needed)",
+        "rationale_ko": "정답입니다. 국가가 필요로 할 때 병역의 의무를 다하겠다는 약속입니다.",
+        "rationale_en": "This is a promise to bear arms on behalf of the nation when required."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "매년 투표하겠다",
+        "text_en": "to vote every year",
+        "rationale_ko": "투표는 시민의 중요한 권리이자 책임이지만, 법적인 의무나 선서 내용은 아닙니다.",
+        "rationale_en": "Voting is a crucial right and responsibility of a citizen, but it is not a legally required duty or part of the oath."
+      },
+      {
+        "text_ko": "항상 영어를 사용하겠다",
+        "text_en": "to always speak English",
+        "rationale_ko": "영어 능력은 시민권 취득 요건 중 하나이지만, 항상 영어를 사용하겠다는 약속은 하지 않습니다.",
+        "rationale_en": "While English proficiency is a requirement for citizenship, there is no promise to speak only English."
+      },
+      {
+        "text_ko": "결코 미국을 떠나지 않겠다",
+        "text_en": "to never leave the United States",
+        "rationale_ko": "미국 시민은 자유롭게 해외를 여행하고 거주할 권리가 있습니다.",
+        "rationale_en": "U.S. citizens have the right to travel and live abroad freely."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question_ko": "대통령 선거에 투표하려면 몇 살이어야 하는가?",
+    "question_en": "How old do citizens have to be to vote for President?",
+    "correctAnswers": [
+      {
+        "text_ko": "18세 이상",
+        "text_en": "eighteen (18) and older",
+        "rationale_ko": "정답입니다. 26차 수정헌법에 의해 투표 연령이 18세로 정해졌습니다.",
+        "rationale_en": "The 26th Amendment set the national voting age at 18."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "16세 이상",
+        "text_en": "sixteen (16) and older",
+        "rationale_ko": "일부 국가나 특정 지방 선거에서는 16세 투표가 가능하지만, 미국 연방 선거는 18세 이상입니다.",
+        "rationale_en": "While some countries or specific local elections allow voting at 16, the U.S. federal voting age is 18."
+      },
+      {
+        "text_ko": "21세 이상",
+        "text_en": "twenty-one (21) and older",
+        "rationale_ko": "26차 수정헌법이 통과되기 전에는 많은 주에서 투표 연령이 21세였습니다.",
+        "rationale_en": "Before the 26th Amendment was passed, the voting age was 21 in many states."
+      },
+      {
+        "text_ko": "나이 제한 없음",
+        "text_en": "there is no age limit",
+        "rationale_ko": "투표권 행사를 위해서는 법적으로 정해진 최소 연령을 충족해야 합니다.",
+        "rationale_en": "There is a legally established minimum age to be eligible to vote."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question_ko": "미국인들이 민주주의에 참여할 수 있는 방법 두 가지는 무엇인가?",
+    "question_en": "What are two ways that Americans can participate in their democracy?",
+    "correctAnswers": [
+      {
+        "text_ko": "투표",
+        "text_en": "vote",
+        "rationale_ko": "정답입니다. 투표는 민주주의 참여의 가장 기본적이고 중요한 방법입니다.",
+        "rationale_en": "Voting is the most fundamental and important way to participate in a democracy."
+      },
+      {
+        "text_ko": "정당 가입",
+        "text_en": "join a political party",
+        "rationale_ko": "정답입니다. 정당 활동을 통해 정치 과정에 직접 참여할 수 있습니다.",
+        "rationale_en": "Participating in a political party allows for direct involvement in the political process."
+      },
+      {
+        "text_ko": "선거 운동 지원",
+        "text_en": "help with a campaign",
+        "rationale_ko": "정답입니다. 지지하는 후보나 정당의 선거 운동을 돕는 것도 중요한 참여 방법입니다.",
+        "rationale_en": "Helping with the campaign of a candidate or party you support is an important way to participate."
+      },
+      {
+        "text_ko": "공직에 출마",
+        "text_en": "run for office",
+        "rationale_ko": "정답입니다. 직접 공직자가 되어 공동체를 위해 봉사할 수 있습니다.",
+        "rationale_en": "One can serve the community directly by becoming an elected official."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "TV 뉴스 시청",
+        "text_en": "watch the news on TV",
+        "rationale_ko": "정치에 대한 정보를 얻는 것은 중요하지만, 그 자체만으로는 능동적인 '참여'로 보기는 어렵습니다.",
+        "rationale_en": "While staying informed is important, watching the news by itself is not considered active 'participation'."
+      },
+      {
+        "text_ko": "미국 국기 게양",
+        "text_en": "fly an American flag",
+        "rationale_ko": "애국심을 표현하는 좋은 방법이지만, 민주주의 '과정'에 참여하는 것은 아닙니다.",
+        "rationale_en": "This is a good way to show patriotism, but it is not participation in the democratic 'process'."
+      },
+      {
+        "text_ko": "세금 납부",
+        "text_en": "pay taxes",
+        "rationale_ko": "세금 납부는 법적인 의무이며, 선택적인 참여 활동과는 성격이 다릅니다.",
+        "rationale_en": "Paying taxes is a legal obligation, which is different from a voluntary act of participation."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question_ko": "연방 소득세 신고서를 제출해야 하는 마지막 날은 언제인가?",
+    "question_en": "When is the last day you can send in federal income tax forms?",
+    "correctAnswers": [
+      {
+        "text_ko": "4월 15일",
+        "text_en": "April 15",
+        "rationale_ko": "정답입니다. 일반적으로 세금 신고 마감일은 4월 15일입니다. (주말이나 공휴일인 경우 연기될 수 있음)",
+        "rationale_en": "The typical deadline for filing taxes is April 15. (It can be extended if it falls on a weekend or holiday)."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "1월 1일",
+        "text_en": "January 1",
+        "rationale_ko": "1월 1일은 새해 첫날입니다.",
+        "rationale_en": "January 1st is New Year's Day."
+      },
+      {
+        "text_ko": "12월 31일",
+        "text_en": "December 31",
+        "rationale_ko": "12월 31일은 과세 연도가 끝나는 날입니다.",
+        "rationale_en": "December 31st is the end of the tax year."
+      },
+      {
+        "text_ko": "7월 4일",
+        "text_en": "July 4",
+        "rationale_ko": "7월 4일은 독립기념일입니다.",
+        "rationale_en": "July 4th is Independence Day."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question_ko": "모든 남성은 언제 병역 등록을 해야 하는가?",
+    "question_en": "When must all men register for the Selective Service?",
+    "correctAnswers": [
+      {
+        "text_ko": "18세에",
+        "text_en": "at age eighteen (18)",
+        "rationale_ko": "정답입니다. 18세 생일로부터 30일 이내에 등록해야 합니다.",
+        "rationale_en": "Registration must happen within 30 days of turning 18."
+      },
+      {
+        "text_ko": "18세에서 26세 사이에",
+        "text_en": "between eighteen (18) and twenty-six (26)",
+        "rationale_ko": "정답입니다. 18세에 등록해야 하지만, 26세가 되기 전까지 등록이 가능합니다.",
+        "rationale_en": "While registration should happen at 18, it is possible to register up until age 26."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "군대에 입대할 때",
+        "text_en": "when they join the military",
+        "rationale_ko": "병역 등록은 실제 입대와는 별개의 절차이며, 징병제 시행 시를 대비한 것입니다.",
+        "rationale_en": "Registering for the Selective Service is a separate process from actually enlisting and is for a potential draft."
+      },
+      {
+        "text_ko": "투표할 때",
+        "text_en": "when they vote",
+        "rationale_ko": "병역 등록과 투표자 등록은 별개의 절차입니다.",
+        "rationale_en": "Selective Service registration and voter registration are separate processes."
+      },
+      {
+        "text_ko": "시민권을 취득할 때",
+        "text_en": "when they become a citizen",
+        "rationale_ko": "시민권 신청 이전에 해당 연령대에 이미 등록을 마쳤어야 합니다.",
+        "rationale_en": "One must have already registered, if required by age, before applying for citizenship."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question_ko": "식민지 개척자들이 미국에 온 이유 중 하나는 무엇인가?",
+    "question_en": "What is one reason colonists came to America?",
+    "correctAnswers": [
+      {
+        "text_ko": "종교의 자유",
+        "text_en": "religious freedom",
+        "rationale_ko": "정답입니다. 많은 개척자들은 유럽의 종교적 박해를 피해 자신들의 신념을 자유롭게 실천하기 위해 왔습니다.",
+        "rationale_en": "Many colonists came to escape religious persecution in Europe and practice their faith freely."
+      },
+      {
+        "text_ko": "경제적 기회",
+        "text_en": "economic opportunity",
+        "rationale_ko": "정답입니다. 새로운 땅에서 부를 쌓고 더 나은 삶을 살기 위한 경제적 동기도 중요한 이유였습니다.",
+        "rationale_en": "Economic motives, such as the chance to acquire wealth and a better life in a new land, were also a major reason."
+      },
+      {
+        "text_ko": "정치적 자유",
+        "text_en": "political liberty",
+        "rationale_ko": "정답입니다. 왕이나 귀족의 억압에서 벗어나 자치에 참여하려는 열망도 있었습니다.",
+        "rationale_en": "There was a desire to escape the oppression of kings and nobles and to participate in self-government."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "영국 왕을 위해 봉사하기 위해",
+        "text_en": "to serve the British King",
+        "rationale_ko": "개척자들은 영국 왕의 권위에서 벗어나고자 했지, 봉사하기 위해 온 것은 아닙니다.",
+        "rationale_en": "The colonists sought to escape the authority of the British King, not to serve him."
+      },
+      {
+        "text_ko": "휴가를 즐기기 위해",
+        "text_en": "for a vacation",
+        "rationale_ko": "당시 대서양을 건너는 것은 목숨을 건 위험한 여정이었으며, 휴가와는 거리가 멉니다.",
+        "rationale_en": "Crossing the Atlantic at that time was a perilous, life-threatening journey, far from a vacation."
+      },
+      {
+        "text_ko": "원주민을 정복하기 위해",
+        "text_en": "to conquer Native Americans",
+        "rationale_ko": "원주민과의 갈등과 정복이 있었지만, 그것이 미국으로 온 주된 이유는 아니었습니다.",
+        "rationale_en": "While conflict and conquest did occur, it was not the primary stated reason for coming to America."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question_ko": "유럽인들이 도착하기 전에 미국에는 누가 살았는가?",
+    "question_en": "Who lived in America before the Europeans arrived?",
+    "correctAnswers": [
+      {
+        "text_ko": "아메리칸 인디언",
+        "text_en": "American Indians",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "미국 원주민",
+        "text_en": "Native Americans",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "아무도 살지 않았다",
+        "text_en": "No one",
+        "rationale_ko": "유럽인들이 도착하기 훨씬 전부터 수백만 명의 원주민이 살고 있었습니다.",
+        "rationale_en": "Millions of indigenous people were living in the Americas long before the Europeans arrived."
+      },
+      {
+        "text_ko": "아프리카인",
+        "text_en": "Africans",
+        "rationale_ko": "아프리카인들은 나중에 노예로 강제 이주되었습니다.",
+        "rationale_en": "Africans were later forcibly brought to America as slaves."
+      },
+      {
+        "text_ko": "캐나다인",
+        "text_en": "Canadians",
+        "rationale_ko": "캐나다라는 국가는 당시에 존재하지 않았으며, 해당 지역에도 원주민들이 살고 있었습니다.",
+        "rationale_en": "The nation of Canada did not exist at that time; indigenous peoples also inhabited that region."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question_ko": "아프리카에서 온 어떤 사람들의 집단이 미국으로 끌려와 노예가 되었는가?",
+    "question_en": "What group of people was taken to America and sold as slaves?",
+    "correctAnswers": [
+      {
+        "text_ko": "아프리카인",
+        "text_en": "Africans",
+        "rationale_ko": "정답입니다. 수백만 명의 아프리카인들이 강제로 끌려와 노예 제도의 희생양이 되었습니다.",
+        "rationale_en": "Millions of people from Africa were forcibly brought to America and victimized by the institution of slavery."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "유럽인",
+        "text_en": "Europeans",
+        "rationale_ko": "유럽인들은 이주민 또는 식민지 개척자들이었습니다.",
+        "rationale_en": "Europeans were the immigrants or colonists."
+      },
+      {
+        "text_ko": "아메리칸 인디언",
+        "text_en": "American Indians",
+        "rationale_ko": "원주민들은 땅을 빼앗기는 등 억압을 받았지만, 대서양 노예 무역의 대상은 아니었습니다.",
+        "rationale_en": "While Native Americans faced oppression and loss of land, they were not the subjects of the transatlantic slave trade."
+      },
+      {
+        "text_ko": "아시아인",
+        "text_en": "Asians",
+        "rationale_ko": "아시아인들의 이민은 주로 19세기 후반에 시작되었습니다.",
+        "rationale_en": "Immigration from Asia began primarily in the latter half of the 19th century."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question_ko": "식민지 개척자들은 왜 영국에 맞서 싸웠는가?",
+    "question_en": "Why did the colonists fight the British?",
+    "correctAnswers": [
+      {
+        "text_ko": "높은 세금 때문에 (대표 없는 과세)",
+        "text_en": "because of high taxes (taxation without representation)",
+        "rationale_ko": "정답입니다. 자신들의 대표를 영국 의회에 보내지 못한 상태에서 부과된 세금에 분노했습니다.",
+        "rationale_en": "They were angered by taxes imposed upon them without having their own representatives in the British Parliament."
+      },
+      {
+        "text_ko": "영국 군대가 그들의 집에 머물렀기 때문에",
+        "text_en": "because the British army stayed in their houses",
+        "rationale_ko": "정답입니다. '주둔법(Quartering Act)'에 따라 식민지 주민들은 영국군의 숙식을 제공해야 했습니다.",
+        "rationale_en": "The Quartering Act required colonists to house and feed British soldiers."
+      },
+      {
+        "text_ko": "그들에게는 자치 정부가 없었기 때문에",
+        "text_en": "because they didn’t have self-government",
+        "rationale_ko": "정답입니다. 식민지 주민들은 영국 정부의 일방적인 통치에서 벗어나 스스로를 다스리기를 원했습니다.",
+        "rationale_en": "The colonists wanted to govern themselves and be free from the unilateral rule of the British government."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "영국 왕을 바꾸고 싶어서",
+        "text_en": "because they wanted a new king",
+        "rationale_ko": "왕을 바꾸는 것이 아니라, 왕의 통치 자체에서 벗어나 공화국을 세우려 했습니다.",
+        "rationale_en": "They sought to establish a republic and break away from the rule of a king altogether, not just replace him."
+      },
+      {
+        "text_ko": "프랑스와 동맹을 맺고 싶어서",
+        "text_en": "because they wanted to ally with France",
+        "rationale_ko": "프랑스와의 동맹은 전쟁 중의 전략이었을 뿐, 전쟁의 근본적인 이유는 아니었습니다.",
+        "rationale_en": "The alliance with France was a strategy during the war, not the fundamental reason for starting it."
+      },
+      {
+        "text_ko": "모든 세금을 없애고 싶어서",
+        "text_en": "because they wanted to abolish all taxes",
+        "rationale_ko": "문제는 세금 자체가 아니라, 자신들의 동의 없이 부과된 '부당한' 세금이었습니다.",
+        "rationale_en": "The issue was not taxes in general, but 'unjust' taxes imposed without their consent."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question_ko": "독립선언서는 누가 썼는가?",
+    "question_en": "Who wrote the Declaration of Independence?",
+    "correctAnswers": [
+      {
+        "text_ko": "(토머스) 제퍼슨",
+        "text_en": "(Thomas) Jefferson",
+        "rationale_ko": "정답입니다. 토머스 제퍼슨이 독립선언서의 주된 작성자였습니다.",
+        "rationale_en": "Thomas Jefferson was the principal author of the Declaration of Independence."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "조지 워싱턴",
+        "text_en": "George Washington",
+        "rationale_ko": "조지 워싱턴은 독립 전쟁 당시 대륙군의 총사령관이었고, 초대 대통령이었습니다.",
+        "rationale_en": "George Washington was the Commander in Chief of the Continental Army and the first President."
+      },
+      {
+        "text_ko": "에이브러햄 링컨",
+        "text_en": "Abraham Lincoln",
+        "rationale_ko": "에이브러햄 링컨은 남북전쟁 당시의 16대 대통령입니다.",
+        "rationale_en": "Abraham Lincoln was the 16th President during the Civil War."
+      },
+      {
+        "text_ko": "벤자민 프랭클린",
+        "text_en": "Benjamin Franklin",
+        "rationale_ko": "벤자민 프랭클린은 독립선언서 위원회의 일원으로서 검토하고 서명했지만, 주된 작성자는 아니었습니다.",
+        "rationale_en": "Benjamin Franklin was on the committee, reviewed the document, and signed it, but was not the primary author."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question_ko": "독립선언서는 언제 채택되었는가?",
+    "question_en": "When was the Declaration of Independence adopted?",
+    "correctAnswers": [
+      {
+        "text_ko": "1776년 7월 4일",
+        "text_en": "July 4, 1776",
+        "rationale_ko": "정답입니다. 이 날은 미국의 독립기념일로 기념됩니다.",
+        "rationale_en": "This date is celebrated as Independence Day in the United States."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "1787년 9월 17일",
+        "text_en": "September 17, 1787",
+        "rationale_ko": "이 날은 미국 헌법이 서명된 날입니다.",
+        "rationale_en": "This is the date the U.S. Constitution was signed."
+      },
+      {
+        "text_ko": "1492년 10월 12일",
+        "text_en": "October 12, 1492",
+        "rationale_ko": "이 날은 콜럼버스가 아메리카 대륙에 도착한 날입니다.",
+        "rationale_en": "This is the date Christopher Columbus arrived in the Americas."
+      },
+      {
+        "text_ko": "1775년 4월 19일",
+        "text_en": "April 19, 1775",
+        "rationale_ko": "이 날은 렉싱턴-콩코드 전투가 벌어져 독립 전쟁이 시작된 날입니다.",
+        "rationale_en": "This is the date of the Battles of Lexington and Concord, which started the Revolutionary War."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question_ko": "원래 13개의 주가 있었다. 세 개를 말해보시오.",
+    "question_en": "There were 13 original states. Name three.",
+    "correctAnswers": [
+      {
+        "text_ko": "뉴욕",
+        "text_en": "New York",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "버지니아",
+        "text_en": "Virginia",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "매사추세츠",
+        "text_en": "Massachusetts",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "조지아",
+        "text_en": "Georgia",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "플로리다",
+        "text_en": "Florida",
+        "rationale_ko": "플로리다는 1845년에 27번째 주로 연방에 가입했습니다.",
+        "rationale_en": "Florida joined the Union as the 27th state in 1845."
+      },
+      {
+        "text_ko": "캘리포니아",
+        "text_en": "California",
+        "rationale_ko": "캘리포니아는 1850년에 31번째 주로 연방에 가입했습니다.",
+        "rationale_en": "California joined the Union as the 31st state in 1850."
+      },
+      {
+        "text_ko": "오하이오",
+        "text_en": "Ohio",
+        "rationale_ko": "오하이오는 1803년에 17번째 주로 연방에 가입했습니다.",
+        "rationale_en": "Ohio joined the Union as the 17th state in 1803."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question_ko": "제헌 회의에서 무슨 일이 일어났는가?",
+    "question_en": "What happened at the Constitutional Convention?",
+    "correctAnswers": [
+      {
+        "text_ko": "헌법이 작성되었다",
+        "text_en": "The Constitution was written",
+        "rationale_ko": "정답입니다. 제헌 회의의 주된 목적은 새로운 정부 구조를 담은 헌법을 만드는 것이었습니다.",
+        "rationale_en": "The main purpose of the Constitutional Convention was to create a new framework for government, the Constitution."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "독립선언서가 작성되었다",
+        "text_en": "The Declaration of Independence was written",
+        "rationale_ko": "독립선언서는 제헌 회의보다 11년 전인 1776년 대륙 회의에서 작성되었습니다.",
+        "rationale_en": "The Declaration of Independence was written 11 years earlier, at the Continental Congress in 1776."
+      },
+      {
+        "text_ko": "독립 전쟁이 시작되었다",
+        "text_en": "The Revolutionary War began",
+        "rationale_ko": "독립 전쟁은 1775년에 시작되어 제헌 회의(1787) 이전에 이미 끝났습니다.",
+        "rationale_en": "The Revolutionary War began in 1775 and had already ended before the Constitutional Convention (1787)."
+      },
+      {
+        "text_ko": "조지 워싱턴이 대통령으로 선출되었다",
+        "text_en": "George Washington was elected President",
+        "rationale_ko": "조지 워싱턴은 제헌 회의 이후, 헌법에 따라 1789년에 초대 대통령으로 선출되었습니다.",
+        "rationale_en": "George Washington was elected as the first President in 1789, under the Constitution, after the Convention."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question_ko": "헌법은 언제 작성되었는가?",
+    "question_en": "When was the Constitution written?",
+    "correctAnswers": [
+      {
+        "text_ko": "1787년",
+        "text_en": "1787",
+        "rationale_ko": "정답입니다. 헌법은 1787년 필라델피아에서 열린 제헌 회의에서 작성되었습니다.",
+        "rationale_en": "The Constitution was written at the Constitutional Convention in Philadelphia in 1787."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "1776년",
+        "text_en": "1776",
+        "rationale_ko": "1776년은 독립선언서가 채택된 해입니다.",
+        "rationale_en": "1776 is the year the Declaration of Independence was adopted."
+      },
+      {
+        "text_ko": "1865년",
+        "text_en": "1865",
+        "rationale_ko": "1865년은 남북 전쟁이 끝나고 노예제를 폐지한 13차 수정헌법이 비준된 해입니다.",
+        "rationale_en": "1865 is the year the Civil War ended and the 13th Amendment, abolishing slavery, was ratified."
+      },
+      {
+        "text_ko": "1789년",
+        "text_en": "1789",
+        "rationale_ko": "1789년은 헌법이 발효되고 미국 정부가 공식 출범한 해입니다.",
+        "rationale_en": "1789 is the year the Constitution went into effect and the U.S. government was officially formed."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question_ko": "연방주의자 논집은 헌법의 통과를 지지했다. 저자 중 한 명을 말해보시오.",
+    "question_en": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
+    "correctAnswers": [
+      {
+        "text_ko": "(제임스) 매디슨",
+        "text_en": "(James) Madison",
+        "rationale_ko": "정답입니다. 제임스 매디슨은 헌법의 아버지로도 불립니다.",
+        "rationale_en": "James Madison is also known as the Father of the Constitution."
+      },
+      {
+        "text_ko": "(알렉산더) 해밀턴",
+        "text_en": "(Alexander) Hamilton",
+        "rationale_ko": "정답입니다. 해밀턴은 대부분의 논문을 작성했습니다.",
+        "rationale_en": "Hamilton wrote the majority of the papers."
+      },
+      {
+        "text_ko": "(존) 제이",
+        "text_en": "(John) Jay",
+        "rationale_ko": "정답입니다. 존 제이는 초대 연방 대법원장이었습니다.",
+        "rationale_en": "John Jay became the first Chief Justice of the Supreme Court."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "토머스 제퍼슨",
+        "text_en": "Thomas Jefferson",
+        "rationale_ko": "제퍼슨은 연방주의자 논집에 반대하는 입장이었던 반연방주의자에 더 가까웠습니다.",
+        "rationale_en": "Jefferson was an Anti-Federalist, who opposed the arguments in the Federalist Papers."
+      },
+      {
+        "text_ko": "조지 워싱턴",
+        "text_en": "George Washington",
+        "rationale_ko": "워싱턴은 헌법을 강력히 지지했지만, 연방주의자 논집의 저자는 아니었습니다.",
+        "rationale_en": "While Washington was a strong supporter of the Constitution, he was not one of the authors of the Federalist Papers."
+      },
+      {
+        "text_ko": "존 핸콕",
+        "text_en": "John Hancock",
+        "rationale_ko": "존 핸콕은 독립선언서에 가장 먼저 서명한 것으로 유명합니다.",
+        "rationale_en": "John Hancock is famous for being the first to sign the Declaration of Independence."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question_ko": "벤자민 프랭클린이 유명한 이유 중 하나는 무엇인가?",
+    "question_en": "What is one thing Benjamin Franklin is famous for?",
+    "correctAnswers": [
+      {
+        "text_ko": "미국 외교관",
+        "text_en": "U.S. diplomat",
+        "rationale_ko": "정답입니다. 그는 독립 전쟁 당시 프랑스의 지원을 얻어내는 데 결정적인 역할을 했습니다.",
+        "rationale_en": "He was a crucial diplomat in securing French support during the Revolutionary War."
+      },
+      {
+        "text_ko": "제헌 회의 최고령 위원",
+        "text_en": "oldest member of the Constitutional Convention",
+        "rationale_ko": "정답입니다. 그는 지혜로운 조언으로 회의의 갈등을 중재했습니다.",
+        "rationale_en": "His wisdom helped mediate conflicts during the convention."
+      },
+      {
+        "text_ko": "최초의 무료 도서관을 시작",
+        "text_en": "started the first free libraries",
+        "rationale_ko": "정답입니다. 그는 지식 보급에 큰 관심을 가졌습니다.",
+        "rationale_en": "He was deeply invested in the dissemination of knowledge."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "미국 초대 대통령",
+        "text_en": "first President of the United States",
+        "rationale_ko": "초대 대통령은 조지 워싱턴입니다.",
+        "rationale_en": "The first President was George Washington."
+      },
+      {
+        "text_ko": "독립선언서 작성",
+        "text_en": "wrote the Declaration of Independence",
+        "rationale_ko": "독립선언서의 주된 작성자는 토머스 제퍼슨입니다.",
+        "rationale_en": "The primary author of the Declaration of Independence was Thomas Jefferson."
+      },
+      {
+        "text_ko": "대륙군 총사령관",
+        "text_en": "General of the Continental Army",
+        "rationale_ko": "대륙군 총사령관은 조지 워싱턴이었습니다.",
+        "rationale_en": "The General of the Continental Army was George Washington."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question_ko": "'미국의 아버지'는 누구인가?",
+    "question_en": "Who is the 'Father of Our Country'?",
+    "correctAnswers": [
+      {
+        "text_ko": "조지 워싱턴",
+        "text_en": "(George) Washington",
+        "rationale_ko": "정답입니다. 그는 독립 전쟁을 승리로 이끌고 국가의 기틀을 다졌기 때문에 '국부'로 불립니다.",
+        "rationale_en": "He is called the 'Father of His Country' for his leadership in the Revolutionary War and for establishing the new nation."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "에이브러햄 링컨",
+        "text_en": "Abraham Lincoln",
+        "rationale_ko": "링컨은 '위대한 해방자'로 불리며 국가를 보존한 대통령입니다.",
+        "rationale_en": "Lincoln is known as the 'Great Emancipator' and the president who preserved the Union."
+      },
+      {
+        "text_ko": "토머스 제퍼슨",
+        "text_en": "Thomas Jefferson",
+        "rationale_ko": "제퍼슨은 독립선언서의 작성자이자 3대 대통령입니다.",
+        "rationale_en": "Jefferson was the author of the Declaration of Independence and the third President."
+      },
+      {
+        "text_ko": "벤자민 프랭클린",
+        "text_en": "Benjamin Franklin",
+        "rationale_ko": "프랭클린은 뛰어난 외교관이자 발명가, 건국의 아버지 중 한 명이었습니다.",
+        "rationale_en": "Franklin was a brilliant diplomat, inventor, and one of the Founding Fathers."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question_ko": "초대 대통령은 누구였는가?",
+    "question_en": "Who was the first President?",
+    "correctAnswers": [
+      {
+        "text_ko": "조지 워싱턴",
+        "text_en": "(George) Washington",
+        "rationale_ko": "정답입니다. 조지 워싱턴은 1789년에 미국의 초대 대통령으로 만장일치로 선출되었습니다.",
+        "rationale_en": "George Washington was unanimously elected as the first President of the United States in 1789."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "존 애덤스",
+        "text_en": "John Adams",
+        "rationale_ko": "존 애덤스는 초대 부통령이자, 2대 대통령이었습니다.",
+        "rationale_en": "John Adams was the first Vice President and the second President."
+      },
+      {
+        "text_ko": "토머스 제퍼슨",
+        "text_en": "Thomas Jefferson",
+        "rationale_ko": "토머스 제퍼슨은 3대 대통령이었습니다.",
+        "rationale_en": "Thomas Jefferson was the third President."
+      },
+      {
+        "text_ko": "알렉산더 해밀턴",
+        "text_en": "Alexander Hamilton",
+        "rationale_ko": "알렉산더 해밀턴은 초대 재무부 장관이었지만, 대통령이 되지는 못했습니다.",
+        "rationale_en": "Alexander Hamilton was the first Secretary of the Treasury but never became President."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question_ko": "1803년 미국은 프랑스로부터 어떤 영토를 구입했는가?",
+    "question_en": "What territory did the United States buy from France in 1803?",
+    "correctAnswers": [
+      {
+        "text_ko": "루이지애나 영토",
+        "text_en": "the Louisiana Territory",
+        "rationale_ko": "정답입니다. 루이지애나 매입으로 미국 영토는 거의 두 배로 커졌습니다.",
+        "rationale_en": "The Louisiana Purchase nearly doubled the size of the United States."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "알래스카",
+        "text_en": "Alaska",
+        "rationale_ko": "알래스카는 1867년에 프랑스가 아닌 러시아로부터 구입했습니다.",
+        "rationale_en": "Alaska was purchased from Russia, not France, in 1867."
+      },
+      {
+        "text_ko": "플로리다",
+        "text_en": "Florida",
+        "rationale_ko": "플로리다는 1819년에 스페인으로부터 할양받았습니다.",
+        "rationale_en": "Florida was ceded by Spain in 1819."
+      },
+      {
+        "text_ko": "텍사스",
+        "text_en": "Texas",
+        "rationale_ko": "텍사스는 1845년에 독립 공화국에서 합병되었습니다.",
+        "rationale_en": "Texas was annexed in 1845 after being an independent republic."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question_ko": "1800년대에 미국이 치른 전쟁 중 하나를 말해보시오.",
+    "question_en": "Name one war fought by the United States in the 1800s.",
+    "correctAnswers": [
+      {
+        "text_ko": "남북 전쟁",
+        "text_en": "Civil War",
+        "rationale_ko": "정답입니다. 남북 전쟁(1861-1865)은 1800년대의 가장 중요한 전쟁이었습니다.",
+        "rationale_en": "The Civil War (1861-1865) was the most significant war of the 1800s."
+      },
+      {
+        "text_ko": "1812년 전쟁",
+        "text_en": "War of 1812",
+        "rationale_ko": "정답입니다. 이 전쟁은 미국과 영국 사이에 벌어졌습니다.",
+        "rationale_en": "This war was fought between the United States and Great Britain."
+      },
+      {
+        "text_ko": "멕시코-미국 전쟁",
+        "text_en": "Mexican-American War",
+        "rationale_ko": "정답입니다. 이 전쟁(1846-1848)으로 미국은 광대한 서부 영토를 획득했습니다.",
+        "rationale_en": "This war (1846-1848) resulted in the U.S. acquiring vast western territories."
+      },
+      {
+        "text_ko": "스페인-미국 전쟁",
+        "text_en": "Spanish-American War",
+        "rationale_ko": "정답입니다. 이 전쟁은 1898년에 일어났습니다.",
+        "rationale_en": "This war took place in 1898."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "독립 전쟁",
+        "text_en": "Revolutionary War",
+        "rationale_ko": "독립 전쟁은 1800년대가 아닌 1700년대(1775-1783)에 일어났습니다.",
+        "rationale_en": "The Revolutionary War was fought in the 1700s (1775-1783), not the 1800s."
+      },
+      {
+        "text_ko": "제1차 세계 대전",
+        "text_en": "World War I",
+        "rationale_ko": "제1차 세계 대전은 1800년대가 아닌 1900년대(1914-1918)에 일어났습니다.",
+        "rationale_en": "World War I was fought in the 1900s (1914-1918), not the 1800s."
+      },
+      {
+        "text_ko": "한국 전쟁",
+        "text_en": "Korean War",
+        "rationale_ko": "한국 전쟁은 1900년대(1950-1953)에 일어났습니다.",
+        "rationale_en": "The Korean War was fought in the 1900s (1950-1953)."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question_ko": "미국 남북 전쟁의 이름을 말해보시오.",
+    "question_en": "Name the U.S. war between the North and the South.",
+    "correctAnswers": [
+      {
+        "text_ko": "남북 전쟁",
+        "text_en": "the Civil War",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "주 사이의 전쟁",
+        "text_en": "the War between the States",
+        "rationale_ko": "정답입니다. 남부 주에서 주로 사용했던 표현입니다.",
+        "rationale_en": "This was a term commonly used in the Southern states."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "독립 전쟁",
+        "text_en": "the Revolutionary War",
+        "rationale_ko": "독립 전쟁은 미국 식민지와 영국 간의 전쟁이었습니다.",
+        "rationale_en": "The Revolutionary War was fought between the American colonies and Great Britain."
+      },
+      {
+        "text_ko": "1812년 전쟁",
+        "text_en": "the War of 1812",
+        "rationale_ko": "1812년 전쟁은 미국과 영국 간의 전쟁이었습니다.",
+        "rationale_en": "The War of 1812 was fought between the United States and Great Britain."
+      },
+      {
+        "text_ko": "제2차 세계 대전",
+        "text_en": "World War II",
+        "rationale_ko": "제2차 세계 대전은 미국을 포함한 연합국과 추축국 간의 세계적인 전쟁이었습니다.",
+        "rationale_en": "World War II was a global conflict between the Allies, including the U.S., and the Axis powers."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question_ko": "남북 전쟁으로 이어진 문제 중 하나를 말해보시오.",
+    "question_en": "Name one problem that led to the Civil War.",
+    "correctAnswers": [
+      {
+        "text_ko": "노예 제도",
+        "text_en": "slavery",
+        "rationale_ko": "정답입니다. 노예 제도의 존폐는 남북 갈등의 가장 근본적이고 중요한 원인이었습니다.",
+        "rationale_en": "The existence of slavery was the most fundamental and central cause of the conflict between the North and South."
+      },
+      {
+        "text_ko": "경제적 이유",
+        "text_en": "economic reasons",
+        "rationale_ko": "정답입니다. 산업화된 북부와 농업 중심의 남부 간의 경제적 차이와 갈등이 있었습니다.",
+        "rationale_en": "There were significant economic differences and conflicts between the industrial North and the agricultural South."
+      },
+      {
+        "text_ko": "주의 권리",
+        "text_en": "states' rights",
+        "rationale_ko": "정답입니다. 연방 정부의 권한에 맞서 각 주가 스스로의 문제를 결정할 권리가 있다는 주장이 있었습니다.",
+        "rationale_en": "There was a major debate over states' rights to decide their own issues versus the power of the federal government."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "영국과의 전쟁",
+        "text_en": "war with England",
+        "rationale_ko": "영국과의 갈등은 독립 전쟁과 1812년 전쟁의 원인이었습니다.",
+        "rationale_en": "Conflict with England was a cause of the Revolutionary War and the War of 1812."
+      },
+      {
+        "text_ko": "종교적 차이",
+        "text_en": "religious differences",
+        "rationale_ko": "종교가 갈등의 요인이 되기는 했지만, 남북 전쟁의 주된 원인은 아니었습니다.",
+        "rationale_en": "While religion was a factor in the conflict, it was not a primary cause of the Civil War."
+      },
+      {
+        "text_ko": "석유 분쟁",
+        "text_en": "disputes over oil",
+        "rationale_ko": "미국의 대규모 석유 산업은 남북 전쟁 이후에 발전했습니다.",
+        "rationale_en": "The large-scale oil industry in the U.S. developed after the Civil War."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question_ko": "에이브러햄 링컨이 한 중요한 일 중 하나는 무엇인가?",
+    "question_en": "What was one important thing that Abraham Lincoln did?",
+    "correctAnswers": [
+      {
+        "text_ko": "노예를 해방시켰다 (해방 선언)",
+        "text_en": "freed the slaves (Emancipation Proclamation)",
+        "rationale_ko": "정답입니다. 그는 전쟁 중에 남부 연합의 노예를 해방시키는 해방 선언을 발표했습니다.",
+        "rationale_en": "During the war, he issued the Emancipation Proclamation, which freed slaves in the Confederacy."
+      },
+      {
+        "text_ko": "연방을 구했다 (또는 보존했다)",
+        "text_en": "saved (or preserved) the Union",
+        "rationale_ko": "정답입니다. 그는 남부의 분리를 막고 미국을 하나의 국가로 지켜냈습니다.",
+        "rationale_en": "He prevented the secession of the South and kept the United States as one nation."
+      },
+      {
+        "text_ko": "남북 전쟁 동안 미국을 이끌었다",
+        "text_en": "led the United States during the Civil War",
+        "rationale_ko": "정답입니다. 그는 남북 전쟁이라는 국가 최대의 위기 상황에서 대통령으로서 북부를 이끌었습니다.",
+        "rationale_en": "He led the Union as President during the nation's greatest crisis, the Civil War."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "독립선언서를 작성했다",
+        "text_en": "wrote the Declaration of Independence",
+        "rationale_ko": "독립선언서는 토머스 제퍼슨이 작성했습니다.",
+        "rationale_en": "The Declaration of Independence was written by Thomas Jefferson."
+      },
+      {
+        "text_ko": "초대 대통령이었다",
+        "text_en": "was the first President",
+        "rationale_ko": "초대 대통령은 조지 워싱턴입니다.",
+        "rationale_en": "The first President was George Washington."
+      },
+      {
+        "text_ko": "여성에게 투표권을 주었다",
+        "text_en": "gave women the right to vote",
+        "rationale_ko": "여성 투표권은 링컨 사후인 1920년, 19차 수정헌법을 통해 보장되었습니다.",
+        "rationale_en": "Women's right to vote was secured by the 19th Amendment in 1920, long after Lincoln's death."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question_ko": "해방 선언은 무엇을 했는가?",
+    "question_en": "What did the Emancipation Proclamation do?",
+    "correctAnswers": [
+      {
+        "text_ko": "노예를 해방시켰다",
+        "text_en": "freed the slaves",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "남부 연합의 노예를 해방시켰다",
+        "text_en": "freed slaves in the Confederacy",
+        "rationale_ko": "정답입니다. 정확히는 당시 반란 상태에 있던 남부 연합 소속 주의 노예들을 해방시켰습니다.",
+        "rationale_en": "Specifically, it freed slaves in the states that were in rebellion (the Confederacy)."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "모든 노예를 해방시켰다",
+        "text_en": "freed all the slaves",
+        "rationale_ko": "엄밀히 말해, 해방 선언은 북부에 남아있던 경계주(border states)의 노예까지 해방시키지는 못했습니다. 모든 노예의 해방은 13차 수정헌법으로 완성되었습니다.",
+        "rationale_en": "Technically, the Emancipation Proclamation did not free slaves in the border states that remained in the Union. The 13th Amendment completed the process of freeing all slaves."
+      },
+      {
+        "text_ko": "영국으로부터 독립을 선언했다",
+        "text_en": "declared independence from Britain",
+        "rationale_ko": "이것은 독립선언서가 한 일입니다.",
+        "rationale_en": "This was done by the Declaration of Independence."
+      },
+      {
+        "text_ko": "여성에게 투표권을 주었다",
+        "text_en": "gave women the right to vote",
+        "rationale_ko": "이것은 19차 수정헌법에 의해 이루어졌습니다.",
+        "rationale_en": "This was achieved by the 19th Amendment."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question_ko": "수전 B. 앤서니는 무엇을 했는가?",
+    "question_en": "What did Susan B. Anthony do?",
+    "correctAnswers": [
+      {
+        "text_ko": "여성의 권리를 위해 싸웠다",
+        "text_en": "fought for women's rights",
+        "rationale_ko": "정답입니다. 그녀는 특히 여성 참정권(투표권) 운동의 핵심적인 인물이었습니다.",
+        "rationale_en": "She was a pivotal leader in the women's suffrage movement."
+      },
+      {
+        "text_ko": "시민권을 위해 싸웠다",
+        "text_en": "fought for civil rights",
+        "rationale_ko": "정답입니다. 여성의 권리는 더 넓은 범위의 시민권 운동에 포함됩니다.",
+        "rationale_en": "Women's rights are part of the broader civil rights movement."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "최초의 여성 상원의원이었다",
+        "text_en": "was the first woman elected to the Senate",
+        "rationale_ko": "그녀는 평생 여성의 투표권을 위해 싸웠지만, 생전에 여성이 투표하거나 공직에 출마하는 것을 보지 못했습니다.",
+        "rationale_en": "She fought her entire life for women's right to vote but did not live to see women vote or hold office."
+      },
+      {
+        "text_ko": "남북 전쟁에서 간호사로 일했다",
+        "text_en": "was a nurse in the Civil War",
+        "rationale_ko": "남북전쟁 당시 간호사로 유명한 인물은 클라라 바튼(미국 적십자사 창립자)입니다.",
+        "rationale_en": "The famous nurse from the Civil War era is Clara Barton, who founded the American Red Cross."
+      },
+      {
+        "text_ko": "해방 선언에 서명했다",
+        "text_en": "signed the Emancipation Proclamation",
+        "rationale_ko": "해방 선언은 대통령이었던 에이브러햄 링컨이 발표한 행정명령입니다.",
+        "rationale_en": "The Emancipation Proclamation was an executive order issued by President Abraham Lincoln."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question_ko": "1900년대에 미국이 치른 전쟁 중 하나를 말해보시오.",
+    "question_en": "Name one war fought by the United States in the 1900s.",
+    "correctAnswers": [
+      {
+        "text_ko": "제1차 세계 대전",
+        "text_en": "World War I",
+        "rationale_ko": "정답입니다. 미국은 1917년에 참전했습니다.",
+        "rationale_en": "The United States entered the war in 1917."
+      },
+      {
+        "text_ko": "제2차 세계 대전",
+        "text_en": "World War II",
+        "rationale_ko": "정답입니다. 미국은 1941년 진주만 공습 이후 참전했습니다.",
+        "rationale_en": "The United States entered the war after the attack on Pearl Harbor in 1941."
+      },
+      {
+        "text_ko": "한국 전쟁",
+        "text_en": "Korean War",
+        "rationale_ko": "정답입니다. 이 전쟁은 1950년에 시작되었습니다.",
+        "rationale_en": "This war began in 1950."
+      },
+      {
+        "text_ko": "베트남 전쟁",
+        "text_en": "Vietnam War",
+        "rationale_ko": "정답입니다. 이 전쟁은 1960년대와 70년대에 걸쳐 있었습니다.",
+        "rationale_en": "This war took place during the 1960s and 1970s."
+      },
+      {
+        "text_ko": "(페르시아) 걸프 전쟁",
+        "text_en": "(Persian) Gulf War",
+        "rationale_ko": "정답입니다. 이 전쟁은 1991년에 일어났습니다.",
+        "rationale_en": "This war took place in 1991."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "남북 전쟁",
+        "text_en": "Civil War",
+        "rationale_ko": "남북 전쟁은 1900년대가 아닌 1800년대(1861-1865)에 일어났습니다.",
+        "rationale_en": "The Civil War was fought in the 1800s (1861-1865), not the 1900s."
+      },
+      {
+        "text_ko": "독립 전쟁",
+        "text_en": "Revolutionary War",
+        "rationale_ko": "독립 전쟁은 1700년대(1775-1783)에 일어났습니다.",
+        "rationale_en": "The Revolutionary War was fought in the 1700s (1775-1783)."
+      },
+      {
+        "text_ko": "멕시코-미국 전쟁",
+        "text_en": "Mexican-American War",
+        "rationale_ko": "멕시코-미국 전쟁은 1800년대(1846-1848)에 일어났습니다.",
+        "rationale_en": "The Mexican-American War was fought in the 1800s (1846-1848)."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question_ko": "제1차 세계 대전 당시 대통령은 누구였는가?",
+    "question_en": "Who was President during World War I?",
+    "correctAnswers": [
+      {
+        "text_ko": "(우드로) 윌슨",
+        "text_en": "(Woodrow) Wilson",
+        "rationale_ko": "정답입니다. 우드로 윌슨은 제1차 세계 대전 기간 동안 미국을 이끈 대통령입니다.",
+        "rationale_en": "Woodrow Wilson was the President who led the United States during World War I."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "프랭클린 루스벨트",
+        "text_en": "Franklin Roosevelt",
+        "rationale_ko": "프랭클린 루스벨트는 제2차 세계 대전 당시 대통령이었습니다.",
+        "rationale_en": "Franklin Roosevelt was the President during World War II."
+      },
+      {
+        "text_ko": "에이브러햄 링컨",
+        "text_en": "Abraham Lincoln",
+        "rationale_ko": "에이브러햄 링컨은 남북 전쟁 당시 대통령이었습니다.",
+        "rationale_en": "Abraham Lincoln was the President during the Civil War."
+      },
+      {
+        "text_ko": "시어도어 루스벨트",
+        "text_en": "Theodore Roosevelt",
+        "rationale_ko": "시어도어 루스벨트는 제1차 세계 대전 이전에 재임했습니다.",
+        "rationale_en": "Theodore Roosevelt served as President before World War I."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question_ko": "대공황과 제2차 세계 대전 당시 대통령은 누구였는가?",
+    "question_en": "Who was President during the Great Depression and World War II?",
+    "correctAnswers": [
+      {
+        "text_ko": "(프랭클린) 루스벨트",
+        "text_en": "(Franklin) Roosevelt",
+        "rationale_ko": "정답입니다. 프랭클린 D. 루스벨트는 이 두 가지 국가적 위기를 극복하기 위해 미국을 이끌었습니다.",
+        "rationale_en": "Franklin D. Roosevelt led the country through these two national crises."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "우드로 윌슨",
+        "text_en": "Woodrow Wilson",
+        "rationale_ko": "우드로 윌슨은 제1차 세계 대전 당시 대통령이었습니다.",
+        "rationale_en": "Woodrow Wilson was the President during World War I."
+      },
+      {
+        "text_ko": "허버트 후버",
+        "text_en": "Herbert Hoover",
+        "rationale_ko": "허버트 후버는 대공황이 시작될 당시의 대통령이었습니다.",
+        "rationale_en": "Herbert Hoover was the President when the Great Depression began."
+      },
+      {
+        "text_ko": "해리 트루먼",
+        "text_en": "Harry Truman",
+        "rationale_ko": "해리 트루먼은 루스벨트가 사망한 후 제2차 세계 대전을 마무리 지은 대통령입니다.",
+        "rationale_en": "Harry Truman was the President who concluded World War II after Roosevelt's death."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question_ko": "미국은 제2차 세계 대전에서 누구와 싸웠는가?",
+    "question_en": "Who did the United States fight in World War II?",
+    "correctAnswers": [
+      {
+        "text_ko": "일본, 독일, 이탈리아",
+        "text_en": "Japan, Germany, and Italy",
+        "rationale_ko": "정답입니다. 이 세 나라가 '추축국(Axis powers)'을 형성했습니다.",
+        "rationale_en": "These three countries formed the Axis powers."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "소련, 중국, 영국",
+        "text_en": "the Soviet Union, China, and Great Britain",
+        "rationale_ko": "이 나라들은 미국과 함께 싸운 '연합국(Allied powers)'의 주요 구성원이었습니다.",
+        "rationale_en": "These countries were major members of the Allied powers, who fought alongside the United States."
+      },
+      {
+        "text_ko": "러시아, 프랑스, 영국",
+        "text_en": "Russia, France, and Great Britain",
+        "rationale_ko": "이 나라들은 제1차 세계 대전의 주요 연합국이었습니다.",
+        "rationale_en": "These countries were the main Allied powers in World War I."
+      },
+      {
+        "text_ko": "베트남, 한국, 일본",
+        "text_en": "Vietnam, Korea, and Japan",
+        "rationale_ko": "이것은 제2차 세계 대전의 교전국 구성이 아닙니다.",
+        "rationale_en": "This was not the composition of the opposing powers in World War II."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question_ko": "대통령이 되기 전에 아이젠하워는 장군이었다. 그는 어느 전쟁에 참전했는가?",
+    "question_en": "Before he was President, Eisenhower was a general. What war was he in?",
+    "correctAnswers": [
+      {
+        "text_ko": "제2차 세계 대전",
+        "text_en": "World War II",
+        "rationale_ko": "정답입니다. 드와이트 D. 아이젠하워는 제2차 세계 대전 당시 유럽 연합군 최고사령관이었습니다.",
+        "rationale_en": "Dwight D. Eisenhower was the Supreme Commander of the Allied Expeditionary Force in Europe during World War II."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "제1차 세계 대전",
+        "text_en": "World War I",
+        "rationale_ko": "아이젠하워는 제1차 세계 대전 당시 미국 본토에서 복무했습니다.",
+        "rationale_en": "Eisenhower served stateside during World War I."
+      },
+      {
+        "text_ko": "남북 전쟁",
+        "text_en": "Civil War",
+        "rationale_ko": "남북 전쟁은 아이젠하워가 태어나기 전에 일어났습니다.",
+        "rationale_en": "The Civil War occurred before Eisenhower was born."
+      },
+      {
+        "text_ko": "베트남 전쟁",
+        "text_en": "Vietnam War",
+        "rationale_ko": "베트남 전쟁은 아이젠하워가 대통령으로 재임한 후에 격화되었습니다.",
+        "rationale_en": "The Vietnam War escalated after Eisenhower's presidency."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question_ko": "냉전 기간 동안 미국의 주된 관심사는 무엇이었는가?",
+    "question_en": "During the Cold War, what was the main concern of the United States?",
+    "correctAnswers": [
+      {
+        "text_ko": "공산주의",
+        "text_en": "Communism",
+        "rationale_ko": "정답입니다. 미국은 제2차 세계 대전 이후 소련을 중심으로 한 공산주의의 확산을 막는 것을 외교 정책의 핵심으로 삼았습니다.",
+        "rationale_en": "After World War II, the main focus of U.S. foreign policy was containing the spread of Communism, led by the Soviet Union."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "기후 변화",
+        "text_en": "Climate change",
+        "rationale_ko": "기후 변화는 최근에 들어서야 주요 국제적 관심사가 되었습니다.",
+        "rationale_en": "Climate change has only recently become a major international concern."
+      },
+      {
+        "text_ko": "식민주의",
+        "text_en": "Colonialism",
+        "rationale_ko": "냉전은 탈식민지화 시대와 겹치지만, 미국의 주된 관심사는 공산주의였습니다.",
+        "rationale_en": "While the Cold War coincided with the era of decolonization, the primary concern for the U.S. was Communism."
+      },
+      {
+        "text_ko": "경제 대공황",
+        "text_en": "The Great Depression",
+        "rationale_ko": "대공황은 냉전 이전인 1930년대의 주요 문제였습니다.",
+        "rationale_en": "The Great Depression was the main issue of the 1930s, before the Cold War."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question_ko": "인종 차별을 종식시키려 한 운동은 무엇인가?",
+    "question_en": "What movement tried to end racial discrimination?",
+    "correctAnswers": [
+      {
+        "text_ko": "민권 운동",
+        "text_en": "civil rights (movement)",
+        "rationale_ko": "정답입니다. 1950년대와 60년대의 민권 운동은 아프리카계 미국인에 대한 법적, 사회적 차별을 종식시키기 위해 노력했습니다.",
+        "rationale_en": "The civil rights movement of the 1950s and 1960s worked to end legal and social discrimination against African Americans."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "금주 운동",
+        "text_en": "the temperance movement",
+        "rationale_ko": "금주 운동은 알코올 소비를 금지하려던 사회 운동이었습니다.",
+        "rationale_en": "The temperance movement was a social movement to prohibit the consumption of alcohol."
+      },
+      {
+        "text_ko": "여성 참정권 운동",
+        "text_en": "the women's suffrage movement",
+        "rationale_ko": "여성 참정권 운동은 여성의 투표권을 얻기 위한 운동이었습니다.",
+        "rationale_en": "The women's suffrage movement was focused on gaining the right to vote for women."
+      },
+      {
+        "text_ko": "반전 운동",
+        "text_en": "the anti-war movement",
+        "rationale_ko": "반전 운동은 특정 전쟁, 특히 베트남 전쟁에 반대하는 운동이었습니다.",
+        "rationale_en": "The anti-war movement was focused on opposition to a specific war, particularly the Vietnam War."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question_ko": "마틴 루터 킹 주니어는 무엇을 했는가?",
+    "question_en": "What did Martin Luther King, Jr. do?",
+    "correctAnswers": [
+      {
+        "text_ko": "민권을 위해 싸웠다",
+        "text_en": "fought for civil rights",
+        "rationale_ko": "정답입니다. 그는 비폭력 저항을 통해 인종 차별에 맞서 싸운 민권 운동의 상징적인 지도자입니다.",
+        "rationale_en": "He was an iconic leader of the civil rights movement who fought against racial discrimination through nonviolent resistance."
+      },
+      {
+        "text_ko": "모든 미국인을 위한 평등을 위해 일했다",
+        "text_en": "worked for equality for all Americans",
+        "rationale_ko": "정답입니다. 그의 목표는 모든 인종이 평등하게 대우받는 사회를 만드는 것이었습니다.",
+        "rationale_en": "His goal was to create a society where people of all races were treated equally."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "미국 최초의 흑인 대통령이었다",
+        "text_en": "was the first Black President",
+        "rationale_ko": "미국 최초의 흑인 대통령은 버락 오바마입니다.",
+        "rationale_en": "The first Black President of the United States was Barack Obama."
+      },
+      {
+        "text_ko": "상원의원이었다",
+        "text_en": "was a U.S. Senator",
+        "rationale_ko": "마틴 루터 킹 주니어는 선출직 공무원이 아닌 목사이자 사회 운동가였습니다.",
+        "rationale_en": "Martin Luther King, Jr. was a minister and activist, not an elected official."
+      },
+      {
+        "text_ko": "노예 해방을 위해 싸웠다",
+        "text_en": "fought to free the slaves",
+        "rationale_ko": "노예 해방 운동은 그가 활동하기 약 100년 전인 남북 전쟁 시기의 일이었습니다.",
+        "rationale_en": "The fight to free the slaves occurred about 100 years before his time, during the Civil War era."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question_ko": "2001년 9월 11일 미국에서 어떤 큰 사건이 일어났는가?",
+    "question_en": "What major event happened on September 11, 2001, in the United States?",
+    "correctAnswers": [
+      {
+        "text_ko": "테러리스트들이 미국을 공격했다",
+        "text_en": "Terrorists attacked the United States",
+        "rationale_ko": "정답입니다. 이날 알카에다 테러리스트들이 비행기를 납치하여 세계 무역 센터와 펜타곤 등을 공격했습니다.",
+        "rationale_en": "On this day, al-Qaeda terrorists hijacked airplanes and attacked the World Trade Center, the Pentagon, and other sites."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "진주만이 공격받았다",
+        "text_en": "Pearl Harbor was attacked",
+        "rationale_ko": "진주만 공습은 1941년 12월 7일에 일어났으며, 제2차 세계 대전 참전의 계기가 되었습니다.",
+        "rationale_en": "The attack on Pearl Harbor happened on December 7, 1941, leading to the U.S. entry into World War II."
+      },
+      {
+        "text_ko": "주식 시장이 붕괴했다",
+        "text_en": "The stock market crashed",
+        "rationale_ko": "대공황을 촉발한 주식 시장 대폭락은 1929년에 있었습니다.",
+        "rationale_en": "The great stock market crash that triggered the Great Depression was in 1929."
+      },
+      {
+        "text_ko": "이라크 전쟁이 시작되었다",
+        "text_en": "The Iraq War began",
+        "rationale_ko": "이라크 전쟁은 9/11 테러 이후인 2003년에 시작되었습니다.",
+        "rationale_en": "The Iraq War began in 2003, after the 9/11 attacks."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question_ko": "미국에 있는 아메리칸 인디언 부족 중 하나를 말해보시오.",
+    "question_en": "Name one American Indian tribe in the United States.",
+    "correctAnswers": [
+      {
+        "text_ko": "체로키",
+        "text_en": "Cherokee",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "나바호",
+        "text_en": "Navajo",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "수",
+        "text_en": "Sioux",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "아파치",
+        "text_en": "Apache",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "잉카",
+        "text_en": "Inca",
+        "rationale_ko": "잉카는 주로 페루 등 남아메리카에 존재했던 문명입니다.",
+        "rationale_en": "The Inca were a civilization primarily located in South America, such as Peru."
+      },
+      {
+        "text_ko": "아즈텍",
+        "text_en": "Aztec",
+        "rationale_ko": "아즈텍은 현재의 멕시코 지역에 존재했던 문명입니다.",
+        "rationale_en": "The Aztec were a civilization located in the region of modern-day Mexico."
+      },
+      {
+        "text_ko": "마야",
+        "text_en": "Maya",
+        "rationale_ko": "마야는 중앙아메리카에 존재했던 문명입니다.",
+        "rationale_en": "The Maya were a civilization located in Central America."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question_ko": "미국에서 가장 긴 두 개의 강 중 하나를 말해보시오.",
+    "question_en": "Name one of the two longest rivers in the United States.",
+    "correctAnswers": [
+      {
+        "text_ko": "미주리 강",
+        "text_en": "Missouri (River)",
+        "rationale_ko": "정답입니다. 미주리 강은 미국에서 가장 긴 강입니다.",
+        "rationale_en": "The Missouri River is the longest river in the United States."
+      },
+      {
+        "text_ko": "미시시피 강",
+        "text_en": "Mississippi (River)",
+        "rationale_ko": "정답입니다. 미시시피 강은 미국에서 두 번째로 긴 강입니다.",
+        "rationale_en": "The Mississippi River is the second-longest river in the United States."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "나일 강",
+        "text_en": "Nile (River)",
+        "rationale_ko": "나일 강은 아프리카에 있는 세계에서 가장 긴 강입니다.",
+        "rationale_en": "The Nile River is the longest river in the world, located in Africa."
+      },
+      {
+        "text_ko": "아마존 강",
+        "text_en": "Amazon (River)",
+        "rationale_ko": "아마존 강은 남아메리카에 있는 강입니다.",
+        "rationale_en": "The Amazon River is located in South America."
+      },
+      {
+        "text_ko": "콜로라도 강",
+        "text_en": "Colorado (River)",
+        "rationale_ko": "콜로라도 강은 미국 남서부의 중요한 강이지만, 가장 긴 두 강에는 속하지 않습니다.",
+        "rationale_en": "The Colorado River is a major river in the American Southwest, but it is not one of the two longest."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question_ko": "미국 서해안에 있는 바다는 무엇인가?",
+    "question_en": "What ocean is on the West Coast of the United States?",
+    "correctAnswers": [
+      {
+        "text_ko": "태평양",
+        "text_en": "Pacific (Ocean)",
+        "rationale_ko": "정답입니다. 캘리포니아, 오리건, 워싱턴 주는 태평양과 접해 있습니다.",
+        "rationale_en": "California, Oregon, and Washington are on the Pacific Ocean."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "대서양",
+        "text_en": "Atlantic (Ocean)",
+        "rationale_ko": "대서양은 미국 동해안에 있습니다.",
+        "rationale_en": "The Atlantic Ocean is on the East Coast of the United States."
+      },
+      {
+        "text_ko": "인도양",
+        "text_en": "Indian (Ocean)",
+        "rationale_ko": "인도양은 미국과 접해 있지 않습니다.",
+        "rationale_en": "The Indian Ocean does not border the United States."
+      },
+      {
+        "text_ko": "북극해",
+        "text_en": "Arctic (Ocean)",
+        "rationale_ko": "북극해는 알래스카의 북쪽 해안과 접해 있습니다.",
+        "rationale_en": "The Arctic Ocean borders the northern coast of Alaska."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question_ko": "미국 동해안에 있는 바다는 무엇인가?",
+    "question_en": "What ocean is on the East Coast of the United States?",
+    "correctAnswers": [
+      {
+        "text_ko": "대서양",
+        "text_en": "Atlantic (Ocean)",
+        "rationale_ko": "정답입니다. 뉴욕, 플로리다, 메인 주는 대서양과 접해 있습니다.",
+        "rationale_en": "New York, Florida, and Maine are on the Atlantic Ocean."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "태평양",
+        "text_en": "Pacific (Ocean)",
+        "rationale_ko": "태평양은 미국 서해안에 있습니다.",
+        "rationale_en": "The Pacific Ocean is on the West Coast of the United States."
+      },
+      {
+        "text_ko": "멕시코 만",
+        "text_en": "Gulf of Mexico",
+        "rationale_ko": "멕시코 만은 미국 남동부 해안에 있습니다.",
+        "rationale_en": "The Gulf of Mexico is on the southeastern coast of the United States."
+      },
+      {
+        "text_ko": "지중해",
+        "text_en": "Mediterranean (Sea)",
+        "rationale_ko": "지중해는 유럽과 아프리카 사이에 있습니다.",
+        "rationale_en": "The Mediterranean Sea is located between Europe and Africa."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question_ko": "미국 영토 중 하나를 말해보시오.",
+    "question_en": "Name one U.S. territory.",
+    "correctAnswers": [
+      {
+        "text_ko": "푸에르토리코",
+        "text_en": "Puerto Rico",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "괌",
+        "text_en": "Guam",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "미국령 버진아일랜드",
+        "text_en": "U.S. Virgin Islands",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "미국령 사모아",
+        "text_en": "American Samoa",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "북마리아나 제도",
+        "text_en": "Northern Mariana Islands",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "하와이",
+        "text_en": "Hawaii",
+        "rationale_ko": "하와이는 영토가 아니라 미국의 50번째 주입니다.",
+        "rationale_en": "Hawaii is the 50th state of the U.S., not a territory."
+      },
+      {
+        "text_ko": "필리핀",
+        "text_en": "Philippines",
+        "rationale_ko": "필리핀은 과거에 미국 영토였지만, 현재는 독립 국가입니다.",
+        "rationale_en": "The Philippines was a U.S. territory in the past but is now an independent country."
+      },
+      {
+        "text_ko": "쿠바",
+        "text_en": "Cuba",
+        "rationale_ko": "쿠바는 독립 국가입니다.",
+        "rationale_en": "Cuba is an independent country."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question_ko": "캐나다와 국경을 접하고 있는 주 중 하나를 말해보시오.",
+    "question_en": "Name one state that borders Canada.",
+    "correctAnswers": [
+      {
+        "text_ko": "워싱턴",
+        "text_en": "Washington",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "알래스카",
+        "text_en": "Alaska",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "뉴욕",
+        "text_en": "New York",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "몬태나",
+        "text_en": "Montana",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "오리건",
+        "text_en": "Oregon",
+        "rationale_ko": "오리건은 워싱턴 주 남쪽에 있으며, 캐나다와 국경을 접하지 않습니다.",
+        "rationale_en": "Oregon is south of Washington state and does not border Canada."
+      },
+      {
+        "text_ko": "캘리포니아",
+        "text_en": "California",
+        "rationale_ko": "캘리포니아는 캐나다가 아닌 멕시코와 국경을 접할 뻔했지만, 실제로는 접하지 않습니다.",
+        "rationale_en": "California borders Mexico, not Canada."
+      },
+      {
+        "text_ko": "콜로라도",
+        "text_en": "Colorado",
+        "rationale_ko": "콜로라도는 미국 내륙에 위치한 주입니다.",
+        "rationale_en": "Colorado is a landlocked state in the interior of the U.S."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question_ko": "멕시코와 국경을 접하고 있는 주 중 하나를 말해보시오.",
+    "question_en": "Name one state that borders Mexico.",
+    "correctAnswers": [
+      {
+        "text_ko": "캘리포니아",
+        "text_en": "California",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "애리조나",
+        "text_en": "Arizona",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "뉴멕시코",
+        "text_en": "New Mexico",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "텍사스",
+        "text_en": "Texas",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "네바다",
+        "text_en": "Nevada",
+        "rationale_ko": "네바다는 캘리포니아와 애리조나 동쪽에 있으며, 멕시코와 국경을 접하지 않습니다.",
+        "rationale_en": "Nevada is east of California and Arizona and does not border Mexico."
+      },
+      {
+        "text_ko": "플로리다",
+        "text_en": "Florida",
+        "rationale_ko": "플로리다는 멕시코 만을 사이에 두고 멕시코와 마주보고 있지만, 육지 국경을 접하지는 않습니다.",
+        "rationale_en": "Florida is across the Gulf of Mexico from Mexico but does not share a land border."
+      },
+      {
+        "text_ko": "콜로라도",
+        "text_en": "Colorado",
+        "rationale_ko": "콜로라도는 미국 내륙에 위치한 주입니다.",
+        "rationale_en": "Colorado is a landlocked state in the interior of the U.S."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question_ko": "미국의 수도는 어디인가?",
+    "question_en": "What is the capital of the United States?",
+    "correctAnswers": [
+      {
+        "text_ko": "워싱턴 D.C.",
+        "text_en": "Washington, D.C.",
+        "rationale_ko": "정답입니다. D.C.는 컬럼비아 특별구(District of Columbia)를 의미합니다.",
+        "rationale_en": "D.C. stands for District of Columbia."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "뉴욕 시",
+        "text_en": "New York City",
+        "rationale_ko": "뉴욕은 미국의 가장 큰 도시이자 초대 수도였지만, 현재 수도는 아닙니다.",
+        "rationale_en": "New York is the largest city in the U.S. and was its first capital, but it is not the current capital."
+      },
+      {
+        "text_ko": "필라델피아",
+        "text_en": "Philadelphia",
+        "rationale_ko": "필라델피아는 독립선언서와 헌법이 서명된 역사적인 도시이며, 과거에 수도였습니다.",
+        "rationale_en": "Philadelphia is a historic city where the Declaration and Constitution were signed, and it was a former capital."
+      },
+      {
+        "text_ko": "워싱턴 주",
+        "text_en": "Washington State",
+        "rationale_ko": "워싱턴 주는 미국 서북부에 위치한 주이며, 수도인 워싱턴 D.C.와는 다른 곳입니다.",
+        "rationale_en": "Washington State is a state in the Pacific Northwest, and is a different place from the capital, Washington, D.C."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question_ko": "자유의 여신상은 어디에 있는가?",
+    "question_en": "Where is the Statue of Liberty?",
+    "correctAnswers": [
+      {
+        "text_ko": "뉴욕 (항구)",
+        "text_en": "New York (Harbor)",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "리버티 섬",
+        "text_en": "Liberty Island",
+        "rationale_ko": "정답입니다. 정확히는 뉴욕 항구의 리버티 섬에 위치해 있습니다.",
+        "rationale_en": "Specifically, it is located on Liberty Island in New York Harbor."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "워싱턴 D.C.",
+        "text_en": "Washington, D.C.",
+        "rationale_ko": "워싱턴 D.C.에는 백악관, 국회의사당, 링컨 기념관 등이 있습니다.",
+        "rationale_en": "Washington, D.C. is home to the White House, the Capitol Building, and the Lincoln Memorial."
+      },
+      {
+        "text_ko": "파리",
+        "text_en": "Paris",
+        "rationale_ko": "자유의 여신상은 프랑스가 미국에 선물한 것이며, 파리에는 작은 복제품이 있습니다.",
+        "rationale_en": "The Statue of Liberty was a gift from France, and there are smaller replicas in Paris."
+      },
+      {
+        "text_ko": "보스턴",
+        "text_en": "Boston",
+        "rationale_ko": "보스턴은 독립 전쟁과 관련된 유적지가 많은 역사적인 도시입니다.",
+        "rationale_en": "Boston is a historic city with many sites related to the Revolutionary War."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question_ko": "국기에 왜 13개의 줄무늬가 있는가?",
+    "question_en": "Why does the flag have 13 stripes?",
+    "correctAnswers": [
+      {
+        "text_ko": "최초의 13개 식민지를 나타낸다",
+        "text_en": "because there were 13 original colonies",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "독립선언서 서명자 13명을 나타낸다",
+        "text_en": "for the 13 signers of the Declaration",
+        "rationale_ko": "독립선언서에는 56명이 서명했습니다.",
+        "rationale_en": "There were 56 signers of the Declaration of Independence."
+      },
+      {
+        "text_ko": "헌법의 첫 13개 조항을 나타낸다",
+        "text_en": "for the first 13 articles of the Constitution",
+        "rationale_ko": "헌법은 7개의 조항으로 시작되었습니다.",
+        "rationale_en": "The Constitution originally had seven articles."
+      },
+      {
+        "text_ko": "13은 행운의 숫자이기 때문이다",
+        "text_en": "because 13 is a lucky number",
+        "rationale_ko": "줄무늬의 수는 행운과는 관련이 없으며, 역사적인 사실에 기반합니다.",
+        "rationale_en": "The number of stripes is based on historical fact, not luck."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question_ko": "국기에 왜 50개의 별이 있는가?",
+    "question_en": "Why does the flag have 50 stars?",
+    "correctAnswers": [
+      {
+        "text_ko": "50개의 주가 있기 때문이다",
+        "text_en": "because there are 50 states",
+        "rationale_ko": "정답입니다. 각 별은 미국의 한 주를 상징합니다.",
+        "rationale_en": "Each star represents one of the states of the Union."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "최초의 50개 식민지를 나타낸다",
+        "text_en": "because there were 50 original colonies",
+        "rationale_ko": "최초의 식민지는 13개였습니다.",
+        "rationale_en": "There were 13 original colonies."
+      },
+      {
+        "text_ko": "미국의 대통령이 50명이기 때문이다",
+        "text_en": "because there have been 50 presidents",
+        "rationale_ko": "별의 수는 대통령의 수와 관련이 없습니다.",
+        "rationale_en": "The number of stars is not related to the number of presidents."
+      },
+      {
+        "text_ko": "50개 주에서 전쟁이 있었기 때문이다",
+        "text_en": "because there were wars in 50 states",
+        "rationale_ko": "별은 전쟁이 아닌, 주(state)를 상징합니다.",
+        "rationale_en": "The stars represent the states, not wars."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question_ko": "국가의 이름은 무엇인가?",
+    "question_en": "What is the name of the national anthem?",
+    "correctAnswers": [
+      {
+        "text_ko": "성조기 (The Star-Spangled Banner)",
+        "text_en": "The Star-Spangled Banner",
+        "rationale_ko": "정답입니다. 1812년 전쟁 당시 프랜시스 스콧 키가 쓴 시를 가사로 합니다.",
+        "rationale_en": "The lyrics come from a poem written by Francis Scott Key during the War of 1812."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "아름다운 미국 (America the Beautiful)",
+        "text_en": "America the Beautiful",
+        "rationale_ko": "이것은 매우 유명하고 사랑받는 애국적인 노래이지만, 공식 국가는 아닙니다.",
+        "rationale_en": "This is a very famous and beloved patriotic song, but it is not the official national anthem."
+      },
+      {
+        "text_ko": "나의 조국, 그대를 노래하노라 (My Country, 'Tis of Thee)",
+        "text_en": "My Country, 'Tis of Thee",
+        "rationale_ko": "이것은 과거에 비공식 국가처럼 불렸던 노래입니다.",
+        "rationale_en": "This song served as a de facto national anthem in the past."
+      },
+      {
+        "text_ko": "신이여 미국을 축복하소서 (God Bless America)",
+        "text_en": "God Bless America",
+        "rationale_ko": "이것 역시 매우 유명한 애국적인 노래입니다.",
+        "rationale_en": "This is also a very famous patriotic song."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question_ko": "우리는 언제 독립기념일을 기념하는가?",
+    "question_en": "When do we celebrate Independence Day?",
+    "correctAnswers": [
+      {
+        "text_ko": "7월 4일",
+        "text_en": "July 4",
+        "rationale_ko": "정답입니다. 1776년 7월 4일, 독립선언서가 채택된 날을 기념합니다.",
+        "rationale_en": "This commemorates the adoption of the Declaration of Independence on July 4, 1776."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "1월 1일",
+        "text_en": "January 1",
+        "rationale_ko": "1월 1일은 새해 첫날(New Year's Day)입니다.",
+        "rationale_en": "January 1st is New Year's Day."
+      },
+      {
+        "text_ko": "5월 마지막 월요일",
+        "text_en": "the last Monday in May",
+        "rationale_ko": "이 날은 전사자들을 기리는 현충일(Memorial Day)입니다.",
+        "rationale_en": "This is Memorial Day, which honors soldiers who died in military service."
+      },
+      {
+        "text_ko": "11월 넷째 목요일",
+        "text_en": "the fourth Thursday in November",
+        "rationale_ko": "이 날은 추수감사절(Thanksgiving)입니다.",
+        "rationale_en": "This is Thanksgiving Day."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question_ko": "미국의 국경일 두 가지를 말해보시오.",
+    "question_en": "Name two national U.S. holidays.",
+    "correctAnswers": [
+      {
+        "text_ko": "크리스마스",
+        "text_en": "Christmas",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "추수감사절",
+        "text_en": "Thanksgiving",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "독립기념일",
+        "text_en": "Independence Day",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      },
+      {
+        "text_ko": "새해 첫날",
+        "text_en": "New Year's Day",
+        "rationale_ko": "정답입니다.",
+        "rationale_en": ""
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text_ko": "밸런타인 데이",
+        "text_en": "Valentine's Day",
+        "rationale_ko": "밸런타인 데이는 널리 기념되지만, 연방 공휴일은 아닙니다.",
+        "rationale_en": "Valentine's Day is widely celebrated but is not a federal holiday."
+      },
+      {
+        "text_ko": "핼러윈",
+        "text_en": "Halloween",
+        "rationale_ko": "핼러윈은 널리 기념되지만, 연방 공휴일은 아닙니다.",
+        "rationale_en": "Halloween is widely celebrated but is not a federal holiday."
+      },
+      {
+        "text_ko": "만우절",
+        "text_en": "April Fool's Day",
+        "rationale_ko": "만우절은 공휴일이 아닙니다.",
+        "rationale_en": "April Fool's Day is not a public holiday."
+      }
+    ]
+  }
+]

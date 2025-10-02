@@ -1,0 +1,4838 @@
+{
+  "translated": 0,
+  "errors": [
+    {
+      "src": "What is the supreme law of the land?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Constitution",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Constitution is the foundational, supreme law of the U.S. government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Declaration of Independence",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Declaration of Independence is a crucial document that declared independence, but it is not a law.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Bill of Rights",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Bill of Rights is a part of the Constitution (the first 10 amendments), not the entire supreme law itself.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Federalist Papers",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Federalist Papers were a series of essays written to persuade people to ratify the Constitution.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What does the Constitution do?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "sets up the government",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "One of the main functions of the Constitution is to establish and define the government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "defines the government",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Constitution specifies the powers and responsibilities of each branch of government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "protects basic rights of Americans",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Several amendments, including the Bill of Rights, protect the basic rights of citizens.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "elects the President, makes laws, collects taxes",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Constitution outlines the process for electing a President, but it does not elect the President itself. Laws are made by Congress, not directly by the Constitution. Collecting taxes is a power granted to Congress by the Constitution, not an action of the Constitution itself.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "enforces laws, commands the military, negotiates treaties",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These are powers of the executive branch that are granted by the Constitution, but they are not what the Constitution itself does.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "interprets laws, resolves disputes, reviews court cases",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These are functions of the judicial branch that are established by the Constitution, but they are not direct actions of the Constitution itself.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "We the People",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These words symbolize that the power of the government comes from the people.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Four score and",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This is the beginning of Lincoln's Gettysburg Address.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Congress shall make",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This is a phrase from Article I of the Constitution.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "I pledge allegiance",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This is the beginning of the Pledge of Allegiance.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is an amendment?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "a change",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "An amendment is a change to the Constitution.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "an addition",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "An amendment is an addition to the Constitution.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "a new law, a Supreme Court decision",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A new law is created by Congress and is different from an amendment, which changes the Constitution itself. A Supreme Court decision interprets the law, but it does not directly change the text of the Constitution.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "a treaty, an executive agreement",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A treaty is an international agreement that requires Senate approval but doesn't change the Constitution. An executive agreement is made by the President with foreign nations without Senate approval.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "a state law, a federal regulation",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A state law applies only within that state and cannot change the federal Constitution. A federal regulation is a rule made by federal agencies to implement laws, but it cannot amend the Constitution.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What do we call the first ten amendments to the Constitution?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Bill of Rights",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These ten amendments guarantee core individual rights and freedoms.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Declaration of Independence",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Declaration of Independence, from 1776, declared independence and is not a set of constitutional amendments.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Federalist Papers",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Federalist Papers were a series of essays written to persuade people to ratify the Constitution.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Emancipation Proclamation",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Emancipation Proclamation was an executive order by Lincoln that freed slaves in the Confederacy.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is one right or freedom from the First Amendment?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freedom of religion",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The First Amendment prohibits the government from interfering with an individual's choice of religion.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freedom of speech",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The First Amendment prohibits the government from unduly suppressing individual expression.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freedom of assembly",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "People have the right to gather peacefully and share their opinions.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freedom of the press",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This is the right to print and distribute information without prior government censorship.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freedom to petition the government",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Citizens have the right to request changes in government policy.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the right to vote, the right to bear arms, the right to due process, the right to equal protection, the right to privacy",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The right to vote is protected by other amendments (15th, 19th, 26th), not the First. The right to bear arms is protected by the Second Amendment. Due process is guaranteed by the 5th and 14th Amendments. Equal protection is provided by the 14th Amendment. Privacy rights are derived from various amendments but not explicitly stated in the First.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the right to trial by jury, the right against self-incrimination, the right to counsel, the right to speedy trial, the right to confront witnesses",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These are all rights guaranteed by the 6th, 7th, and 8th Amendments related to criminal justice and legal proceedings, not the First Amendment which focuses on fundamental freedoms of expression and belief.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the right to interstate travel, the right to marry, the right to work, the right to education, the right to healthcare",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Interstate travel is implied in the Constitution but not in the First Amendment. Marriage rights are derived from various court interpretations. Work, education, and healthcare rights are not explicitly guaranteed by the Constitution and certainly not by the First Amendment.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "How many amendments does the Constitution have?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Twenty-seven (27)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "After the Bill of Rights in 1791, 17 more have been added, for a total of 27.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Ten (10)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Ten is the number of amendments in the Bill of Rights.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Fifty (50)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Fifty is the number of states in the U.S.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Thirteen (13)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Thirteen is the number of the original colonies (states) when the U.S. was founded.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What did the Declaration of Independence do?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "announced our independence (from Great Britain)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "It announced to the world that the colonies were no longer under British rule.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "declared our independence (from Great Britain)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Declaration formally declared the colonies' independence from British rule.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "said that the United States is free (from Great Britain)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Declaration stated that the United States was a free and independent nation.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "gave women the right to vote",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Women's right to vote was granted by the 19th Amendment, ratified in 1920.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freed the slaves",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The slaves were freed by Lincoln's Emancipation Proclamation in 1863 and later the 13th Amendment.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "created the Constitution",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Constitution was created later, at the Constitutional Convention in 1787.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What are two rights in the Declaration of Independence?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "life",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Life is one of the three unalienable rights listed in the Declaration of Independence.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "liberty",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Liberty is one of the three unalienable rights listed in the Declaration of Independence.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "pursuit of happiness",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The pursuit of happiness is one of the three unalienable rights listed in the Declaration of Independence.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freedom of speech and religion",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Freedom of speech and religion are rights listed in the Bill of Rights (the First Amendment).",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the right to vote and run for office",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These are important rights for U.S. citizens, but they are defined by the Constitution, not the Declaration of Independence.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the right to own property and education",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These are important rights, but they are not the three core unalienable rights mentioned in the Declaration.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is freedom of religion?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "You can practice any religion, or not practice a religion",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The U.S. does not have a state religion, and the government cannot interfere with an individual's choice.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "You can only practice Christianity",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The U.S. does not have an official state religion and guarantees freedom for all religions, or no religion.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "You must practice a religion approved by the government",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This is incorrect; government approval is not needed and would violate the principle of religious freedom.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "You must pay a tax on your religious activities",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Religious activities are generally tax-exempt, as taxing them could suppress religious freedom.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is the economic system in the United States?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "capitalist economy",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The U.S. operates under a capitalist economy, based on private property and free markets.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "market economy",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A market economy, where prices are determined by supply and demand, also describes the U.S. economic system.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "socialist economy, communist economy",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A socialist economy involves state or community ownership of the means of production, which differs from the U.S. private ownership model. A communist economy features shared property and complete state control over production and distribution, which is opposite to the U.S. free market system.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "mercantilist economy, feudal economy",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Mercantilism was a 16th-18th century European policy where the state controlled trade to accumulate wealth, unlike the U.S. free trade approach. A feudal economy was based on land ownership and agricultural labor obligations, which is fundamentally different from modern capitalist systems.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "command economy, planned economy",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A command economy is controlled entirely by the government, which decides what to produce and distribute, unlike the U.S. market-driven system. A planned economy involves central government planning of all economic activity, which contrasts with the U.S. system where market forces determine economic decisions.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is the 'rule of law'?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Everyone must follow the law",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The rule of law is the principle that all people are subject to and accountable under the law, regardless of status.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Leaders must obey the law",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Government leaders, including the President, are also subject to the rule of law.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "No one is above the law",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This phrase best summarizes the core principle of the rule of law.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Government must obey the law",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The government itself is also bound by the law and cannot act outside its legal authority.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Laws are always changing, The President makes the law, All laws are fair",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While laws can change, this is not the definition of the rule of law. Congress makes the law, and the President executes it. This is the principle of separation of powers. The rule of law aims for fairness, but it doesn't guarantee that every single law is perfectly fair.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Only citizens follow laws, Laws apply differently to rich people, Government officials are exempt from laws",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These statements contradict the rule of law, which requires that all people, regardless of status or wealth, are subject to the same laws.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Laws are suggestions, People can choose which laws to follow, Laws only apply during emergencies",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These statements misunderstand the binding nature of laws under the rule of law principle, where laws are mandatory and apply to everyone at all times.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name one branch or part of the government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Congress (legislative)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Congress is the legislative branch, which makes laws.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "President (executive)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The President is the head of the executive branch, which carries out laws.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the courts (judicial)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The courts are the judicial branch, which interprets and applies laws.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the states, the military, the police",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The states are a crucial part of the federal system, but not one of the three branches of the federal government. The military is a vital institution controlled by the executive branch, but not a separate branch of government itself. The police are law enforcement agencies, typically under state or local government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Cabinet, the Senate, the House",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Cabinet is part of the executive branch, while the Senate and House are both parts of the legislative branch, not separate branches themselves.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the FBI, the CIA, the Supreme Court",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The FBI and CIA are agencies within the executive branch, while the Supreme Court is part of the judicial branch, not separate branches of government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What stops one branch of government from becoming too powerful?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "checks and balances",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This is the system where each branch can review and limit the powers of the others.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "separation of powers",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This is the principle of dividing governmental power among the legislative, executive, and judicial branches.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the rule of law, federalism",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The rule of law helps prevent abuse of power but is not the specific system that prevents one branch from becoming too powerful. Federalism is the principle of power-sharing between federal and state governments, not between the three branches of government. Neither directly addresses the constitutional mechanism for preventing any single branch from dominating the others.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "term limits, elections",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Term limits and elections are democratic mechanisms that can limit government power and provide accountability, but they are not the constitutional system specifically designed to prevent any one branch of government from becoming too powerful through mutual oversight and restraint.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Bill of Rights, impeachment",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Bill of Rights protects individual freedoms from government overreach but doesn't directly address the balance of power between branches. Impeachment is a specific mechanism for removing officials for misconduct, but it's not the broader system that prevents branch dominance through ongoing mutual checks.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who is in charge of the executive branch?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The President is the chief of the executive branch.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Speaker of the House",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Speaker of the House is the leader of the House of Representatives, which is in the legislative branch.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Chief Justice",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Chief Justice is the head of the Supreme Court, which is in the judicial branch.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Secretary of State",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of State is a high-ranking cabinet member in the executive branch, but not the head of the entire branch.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who makes federal laws?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Congress",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Federal laws are made by Congress (the Senate and House).",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Senate and House (of Representatives)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Congress consists of the Senate and House of Representatives, which together make federal laws.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(U.S. or national) legislature",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The U.S. legislature, which is Congress, has the constitutional authority to make federal laws.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The President signs bills passed by Congress into law, but does not create the laws.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Supreme Court",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Supreme Court interprets laws and decides if they are constitutional, but it does not make them.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the state legislature",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "State legislatures make state laws, not federal laws.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What are the two parts of the U.S. Congress?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Senate and House (of Representatives)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The U.S. Congress is a bicameral legislature, consisting of the Senate and the House.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the President and the Cabinet",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This describes the executive branch.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the federal and state courts",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This describes the structure of the judicial branch.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Democratic and Republican parties",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These are the major political parties in the U.S.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "How many U.S. Senators are there?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "One hundred (100)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "There are two senators from each of the 50 states, totaling 100.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Four hundred thirty-five (435)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "435 is the number of members in the House of Representatives.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Fifty (50)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "50 is the number of states in the U.S.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Nine (9)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Nine is the number of justices on the Supreme Court.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "We elect a U.S. Senator for how many years?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Six (6)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The term for a U.S. Senator is six years.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Two (2)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Two years is the term for a member of the House of Representatives.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Four (4)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Four years is the term for the President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Eight (8)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A President can serve a maximum of two terms, or eight years, but this is different from a Senator's term.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who is one of your state’s U.S. Senators now?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Answers will vary",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The answer to this question depends on the state where you live. You should check senate.gov.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The name of the Governor",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Governor is the head of the state's executive branch, not a federal Senator.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The name of the Representative",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A Representative is a member of the House of Representatives, which is different from a Senator.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The name of the President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The President is the head of the federal executive branch.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The House of Representatives has how many voting members?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Four hundred thirty-five (435)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The number of representatives is based on each state's population.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "One hundred (100)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "100 is the number of Senators.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Fifty (50)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "50 is the number of states.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Five hundred thirty-eight (538)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "538 is the total number of electors in the Electoral College.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "We elect a U.S. Representative for how many years?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Two (2)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The term for a U.S. Representative is two years.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Four (4)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Four years is the term for the President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Six (6)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Six years is the term for a Senator.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "For life",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Supreme Court justices serve for life, but Representatives are elected officials.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name your U.S. Representative.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Answers will vary",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The answer to this question depends on your congressional district. You should check house.gov.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The name of the Senator",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A Senator represents the entire state and is different from a Representative for a specific district.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The name of the Governor",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Governor is the head of the state's executive branch.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The name of the Mayor",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Mayor is the head of a city's government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who does a U.S. Senator represent?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "all people of the state",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Senators represent the interests of their entire state, not just a specific district.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "only their political party",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While they belong to a political party, Senators are legally bound to represent all the people of their state.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "only the city they live in",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Senators represent the entire state, not just one city.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "As part of the legislative branch, Senators provide a check on the President, who heads the executive branch.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Why do some states have more Representatives than other states?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(because of) the state's population",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The number of representatives is apportioned based on each state's population, as determined by the census every 10 years.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(because) they have more people",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "States with larger populations get more representatives in the House.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(because) some states have more people",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The number of representatives is directly related to how many people live in each state.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(because of) the state’s land area",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The number of representatives is based on population, not the physical size of the state.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(because of) the state’s wealth",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Population, not the state's economic power, is the standard.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because of when the state was founded",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The order in which a state joined the Union does not affect its number of representatives.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "We elect a President for how many years?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Four (4)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The term for the President is four years.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Two (2)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Two years is the term for a member of the House of Representatives.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Six (6)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Six years is the term for a Senator.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Five (5)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "There are no federal offices in the U.S. with a five-year term.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "In what month do we vote for President?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "November",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The U.S. presidential election is held every four years on the Tuesday after the first Monday in November.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "January",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The new President is inaugurated in January.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "July",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "July 4th is Independence Day.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "October",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "October is typically a time of intense, final-stage campaigning before the election.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is the name of the President of the United States now?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Donald J. Trump",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(As of July 2025)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "JD Vance",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "JD Vance is the current Vice President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Mike Johnson",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Mike Johnson is the current Speaker of the House.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Joe Biden",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Joe Biden is the previous President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is the name of the Vice President of the United States now?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "JD Vance",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(As of July 2025)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Donald J. Trump",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Donald J. Trump is the current President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Kamala Harris",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Kamala Harris is the previous Vice President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "John Roberts",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "John Roberts is the current Chief Justice.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "If the President can no longer serve, who becomes President?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Vice President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Vice President succeeds to the presidency if the President can no longer serve.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Speaker of the House",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Speaker of the House succeeds to the presidency only if both the President and Vice President can no longer serve.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Chief Justice",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Chief Justice is not in the line of presidential succession.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Secretary of State",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of State is fourth in the line of presidential succession.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "If both the President and the Vice President can no longer serve, who becomes President?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Speaker of the House",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Speaker of the House is third in the line of presidential succession.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Secretary of State",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of State is fourth in the line of succession, after the Speaker of the House.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Chief Justice",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Chief Justice is not in the line of presidential succession.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the President pro tempore of the Senate",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The President pro tempore of the Senate is fourth in line, after the Speaker of the House.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who is the Commander in Chief of the military?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The President holds the ultimate authority over the U.S. armed forces as Commander in Chief.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Secretary of Defense",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of Defense is the civilian head of the Department of Defense, acting under the President's command.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Chairman of the Joint Chiefs of Staff",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Chairman of the Joint Chiefs of Staff is the highest-ranking military officer and the principal military advisor to the President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Vice President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Vice President does not have direct command authority over the military.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who signs bills to become laws?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A bill passed by Congress must be signed by the President to become law.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Speaker of the House",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Speaker of the House leads the process for a bill to pass the House, but does not have the final authority to sign it into law.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Vice President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Vice President can cast a tie-breaking vote in the Senate but does not sign bills into law.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Chief Justice",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Chief Justice interprets laws and is not involved in the legislative process.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who vetoes bills?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The President has the power to veto bills passed by Congress.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Congress",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Congress passes bills; it can also override a presidential veto.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Supreme Court",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Supreme Court can rule a law unconstitutional after it is enacted, but it cannot veto a bill.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Governor",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A Governor has veto power over state laws, not federal laws.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What does the President’s Cabinet do?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "advises the President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Cabinet, composed of the heads of executive departments, provides expert advice to the President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "makes laws",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Laws are made by Congress.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "elects the President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The President is elected by the people and the Electoral College.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "declares war",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Declaring war is an exclusive power of Congress.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What are two Cabinet-level positions?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of State",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of State is a key cabinet member responsible for foreign policy.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of the Treasury",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of the Treasury is responsible for the nation's financial and economic policy.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of Defense",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of Defense oversees military and defense policy.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Attorney General",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Attorney General is the head of the Department of Justice and the chief law enforcement officer.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of Agriculture",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of Agriculture oversees farming, food safety, and rural development policies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of Commerce",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of Commerce promotes economic growth and trade.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of Education",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of Education oversees federal education policy and programs.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of Energy",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of Energy manages energy policy and nuclear security.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of Health and Human Services",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of Health and Human Services oversees health and welfare programs.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of Homeland Security",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of Homeland Security protects the nation from security threats.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of Housing and Urban Development",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of Housing and Urban Development oversees housing and urban development policies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of the Interior",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of the Interior manages public lands and natural resources.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of Labor",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of Labor oversees workplace safety and labor relations.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of Transportation",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of Transportation oversees transportation infrastructure and safety.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Secretary of Veterans Affairs",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Secretary of Veterans Affairs provides services to military veterans.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Vice President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Vice President is also considered a Cabinet-level position.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Chief Justice, Speaker of the House, Senate Majority Leader, House Minority Leader",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Chief Justice is the head of the judicial branch and not a member of the executive Cabinet. The Speaker of the House is a leader in the legislative branch, not a member of the Cabinet. The Senate Majority Leader is a legislative position. The House Minority Leader is also a legislative position.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Federal Reserve Chairman, Supreme Court Justice, U.S. Senator, U.S. Representative",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Federal Reserve Chairman is an independent position, not a Cabinet member. Supreme Court Justices are part of the judicial branch. U.S. Senators and Representatives are part of the legislative branch, not the executive Cabinet.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "State Governor, Mayor, County Commissioner, City Council Member",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "State Governors are state-level executives, not federal Cabinet members. Mayors are local government officials. County Commissioners serve at the county level. City Council Members are local government officials. None of these are federal Cabinet positions.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What does the judicial branch do?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "reviews laws",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The judicial branch reviews laws to ensure they are constitutional.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "explains laws",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The judicial branch interprets the meaning of laws and applies them to specific cases.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "resolves disputes",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "It resolves legal disputes by making rulings.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "decides if a law goes against the Constitution",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The judicial branch has the power of judicial review to determine if laws are constitutional.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "makes laws, enforces laws, advises the President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The legislative branch (Congress) makes laws. The executive branch enforces laws. The Cabinet's role is to advise the President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "collects taxes, prints money, regulates commerce",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These are powers of Congress, not the judicial branch.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "commands the military, negotiates treaties, appoints ambassadors",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These are powers of the President, not the judicial branch.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is the highest court in the United States?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Supreme Court",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Supreme Court is the highest court in the U.S. judicial system.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "a state Supreme Court",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A state Supreme Court is the highest in that state's judicial system, but the U.S. Supreme Court is higher for the entire nation.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "a court of appeals",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A court of appeals is a lower court than the Supreme Court.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the International Court of Justice",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The International Court of Justice is a UN judicial body that handles disputes between countries.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "How many justices are on the Supreme Court?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Nine (9)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Supreme Court is composed of one Chief Justice and eight Associate Justices.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Seven (7)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The number of justices is set by law and has been nine since 1869.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Twelve (12)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Twelve relates to the number of regional circuit courts of appeals, not the number of Supreme Court justices.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Fifty (50)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Fifty is the number of states.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who is the Chief Justice of the United States now?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "John Roberts",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "John G. Roberts, Jr. is the 17th and current Chief Justice.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Clarence Thomas",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Clarence Thomas is the current longest-serving Associate Justice.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Merrick Garland",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Merrick Garland is the current Attorney General.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Ruth Bader Ginsburg",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Ruth Bader Ginsburg was a revered Associate Justice who passed away in 2020.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to print money",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Printing money is an exclusive power of the federal government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to declare war",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Declaring war is a power of the federal Congress.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to create an army",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Creating and maintaining an army for national defense is a role of the federal government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to make treaties",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Making official treaties with other countries is a power of the federal government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to give a driver's license, to provide schooling and education, to provide protection (police), to regulate marriage laws",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Issuing driver's licenses is a power of the individual state governments. Operating education systems is primarily a responsibility of state and local governments. Providing police forces is primarily a power of state and local governments. Regulating marriage laws is a state power, not federal.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to conduct elections, to establish local courts, to issue professional licenses, to regulate intrastate commerce",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Conducting elections is managed by state and local governments. Establishing local courts is a state power. Issuing professional licenses is handled by state governments. Regulating commerce within a state (intrastate) is a state power.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to manage natural resources, to establish municipalities, to regulate local businesses, to provide fire departments",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Managing natural resources within state boundaries is primarily a state responsibility. Establishing municipalities is a state and local government function. Regulating local businesses is typically done by state and local authorities. Providing fire departments is a local government responsibility.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Under our Constitution, some powers belong to the states. What is one power of the states?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "provide schooling and education",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Education policy and school operation are primarily the responsibility of the states.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "provide protection (police)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Maintaining public order by operating state and local police is a state power.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "give a driver's license",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Each state sets its own standards and procedures for issuing driver's licenses.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "provide safety (fire departments)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Fire protection and safety services are typically provided by state and local governments.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "approve zoning and land use",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "States have the authority to regulate land use and zoning within their boundaries.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to print money, to declare war, to make treaties",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Printing money is an exclusive power of the federal government, not the states. Declaring war is a power of the federal Congress, not the states. Making treaties with other countries is a power of the federal government, not the states.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to regulate interstate commerce, to establish post offices, to coin money",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These are all exclusive powers of the federal government that states cannot exercise.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to create an army, to establish immigration laws, to regulate foreign trade",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These are additional federal powers that are not granted to individual states under the Constitution.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who is the Governor of your state now?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Answers will vary",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The answer to this question depends on the state where you live. You should check usa.gov.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The name of the Senator",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A Senator is part of the federal legislative branch and is different from the Governor, who is the head of the state's executive branch.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The name of the Mayor",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Mayor is the head of a city government, different from the Governor who is the head of the entire state.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The name of the President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The President is the head of the federal government, different from the Governor who is the head of a state government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is the capital of your state?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Answers will vary",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The answer to this question depends on the state where you live.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Washington D.C.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Washington, D.C. is the capital of the United States, not a state capital. Each state has its own capital city.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New York City",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New York City is the largest city in New York state, but Albany is the capital of New York.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Los Angeles",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Los Angeles is the largest city in California, but Sacramento is the capital of California.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What are the two major political parties in the United States?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Democratic and Republican",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Democratic and Republican parties are the two major parties that dominate U.S. politics today.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Labour and Conservative",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Labour and Conservative parties are the major political parties in the United Kingdom.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Liberal and Green",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Parties like the Libertarian and Green parties are third parties in the U.S., but not one of the two major parties.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Senate and House",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Senate and House are the two parts of Congress, not political parties.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is the political party of the President now?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Republican (Party)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "President Donald Trump is a member of the Republican Party. (As of July 2025)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Democratic (Party)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Democratic Party is currently the main opposition party.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Independent",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The current President is a member of a major party, the Republican Party.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Libertarian (Party)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Libertarian Party is one of the third parties in the U.S.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is the name of the Speaker of the House of Representatives now?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Mike Johnson",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(As of July 2025)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Nancy Pelosi",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Nancy Pelosi was a previous Speaker of the House.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Kevin McCarthy",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Kevin McCarthy was the Speaker of the House immediately before Mike Johnson.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Chuck Schumer",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Chuck Schumer is the current Senate Majority Leader.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "There are four amendments to the Constitution about who can vote. Describe one of them.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Citizens eighteen (18) and older (can vote)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The 26th Amendment lowered the voting age to 18.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "You don't have to pay (a poll tax) to vote",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The 24th Amendment eliminated poll taxes in federal elections.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Any citizen can vote. (Women and men can vote.)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The 19th Amendment gave women the right to vote.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "A male citizen of any race (can vote)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The 15th Amendment prohibited voting discrimination based on race.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Permanent residents can vote, Only people who own property can vote, Only people over 30 can vote, Only people with college degrees can vote",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The right to vote in federal elections is generally reserved for U.S. citizens, not permanent residents. Property ownership was a requirement in the early days, but is no longer required to vote. The voting age is 18 and older, not 30, according to the 26th Amendment. Education level is not a voting requirement in the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Only married people can vote, Only employed people can vote, Only military veterans can vote, Only homeowners can vote",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Marital status has never been a constitutional requirement for voting. Employment status is not a requirement to vote; unemployed citizens retain their voting rights. Military service is not required to vote; civilian citizens have equal voting rights. Homeownership is not a voting requirement under current law.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Only taxpayers can vote, Only people born in the U.S. can vote, Only people who speak English can vote, Only people with no criminal record can vote",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While most voters pay some taxes, tax payment is not a constitutional requirement to vote. Naturalized citizens have the same voting rights as those born in the U.S. Language requirements for voting have been largely eliminated by federal law. While some states restrict voting for certain felons, having no criminal record is not a universal constitutional requirement.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is one responsibility that is only for United States citizens?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "serve on a jury",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Jury duty is a key responsibility reserved for U.S. citizens.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "vote in a federal election",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Voting in a federal election is both a right and a key responsibility of a citizen.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "pay taxes, obey the law",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Paying taxes is a responsibility for all residents with income (like permanent residents), not just citizens. Obeying the law is a responsibility for everyone in the United States, regardless of citizenship status.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "get a driver's license, attend school",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Getting a driver's license is available to permanent residents and other legal residents, not just citizens. School attendance is required for all children regardless of citizenship status.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "work legally, participate in community",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Working legally is permitted for permanent residents and other authorized non-citizens, not exclusive to citizens. Community participation is encouraged for all residents, not just citizens.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name one right only for United States citizens.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "vote in a federal election",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Voting in federal elections is a right exclusive to citizens.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "run for federal office",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The right to run for federal office, such as President, Senator, or Representative, is reserved for citizens.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freedom of religion, freedom of speech",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Freedom of religion is a right guaranteed to everyone in the United States, not just citizens. Freedom of speech is a right guaranteed to everyone in the United States, not just citizens.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "due process rights, equal protection",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Due process rights are guaranteed to all persons within U.S. jurisdiction, not just citizens. Equal protection under the law applies to everyone in the United States, regardless of citizenship status.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "right to legal counsel, protection from unreasonable search",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The right to legal counsel is guaranteed to all persons accused of crimes, regardless of citizenship. Protection from unreasonable search and seizure applies to everyone in the U.S., not just citizens.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What are two rights of everyone living in the United States?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freedom of expression",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Everyone in the U.S. has the right to express their opinions.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freedom of speech",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Everyone in the U.S. has the right to speak freely.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freedom of assembly",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Everyone in the U.S. has the right to gather peacefully.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freedom to petition the government",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Everyone in the U.S. has the right to petition the government for redress of grievances.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freedom of religion",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Everyone in the U.S. has the right to practice any religion or no religion.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the right to bear arms",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Second Amendment protects the right to keep and bear arms.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the right to vote in a federal election, the right to run for federal office, the right to a U.S. passport, the right to serve on a jury",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The right to vote in a federal election is reserved for U.S. citizens only, not everyone living in the U.S. The right to run for federal office is reserved for U.S. citizens only. U.S. passports are issued only to U.S. citizens, not all residents. Jury service is typically limited to citizens in most jurisdictions.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the right to social security benefits, the right to Medicare, the right to unemployment benefits, the right to federal employment",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Social Security benefits are primarily for citizens and authorized workers who have contributed. Medicare is primarily for citizens and permanent residents who meet requirements. Unemployment benefits have citizenship or work authorization requirements in most states. Many federal jobs require U.S. citizenship.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the right to sponsor family immigration, the right to diplomatic protection abroad, the right to return to the U.S., the right to hold federal office",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The right to sponsor certain family members for immigration is primarily for citizens and permanent residents. Diplomatic protection abroad is primarily for U.S. citizens. The right to return to the U.S. without restriction is for citizens. Holding federal office typically requires citizenship.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What do we show loyalty to when we say the Pledge of Allegiance?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the United States",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Pledge of Allegiance is an expression of loyalty to the nation of the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the flag",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The flag symbolizes the United States, so pledging allegiance to it means showing loyalty to the country.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the President, the Constitution",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Loyalty is pledged to the nation itself, not to a specific person or government like the President. Citizens have a duty to uphold the Constitution, but the direct object of the Pledge of Allegiance is the United States and its flag.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Congress, the Supreme Court",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Pledge is to the nation as a whole, not to specific branches of government like Congress. The Supreme Court is a branch of government, but loyalty is pledged to the country itself.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "your state, your community",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While loyalty to one's state is important, the Pledge of Allegiance is to the entire federal nation. Community loyalty is important but the Pledge is specifically to the nation.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is one promise you make when you become a United States citizen?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "obey the laws of the United States",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Oath of Allegiance includes a promise to obey the laws of the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "be loyal to the United States",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This is a core part of the Oath of Allegiance.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "serve in the U.S. military (if needed)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This is a promise to bear arms on behalf of the nation when required.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "give up loyalty to other countries",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Oath of Allegiance includes renouncing allegiance to foreign states.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "defend the Constitution and laws of the United States",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New citizens promise to support and defend the Constitution and laws.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "serve (do important work for) the nation (if needed)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Citizens promise to perform work of national importance when required.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to vote every year, to always speak English, to never leave the United States",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Voting is a crucial right and responsibility of a citizen, but it is not a legally required duty or part of the oath. While English proficiency is a requirement for citizenship, there is no promise to speak only English. U.S. citizens have the right to travel and live abroad freely.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to pay higher taxes, to serve in government, to donate to charity",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Citizens pay the same tax rates as before citizenship based on income, not higher rates due to citizenship. Serving in government is an opportunity, not a required promise. Charitable donations are encouraged but not a legal requirement or oath promise.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to change your name, to give up previous citizenship, to live in America forever",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name changes are optional and not required for citizenship. While some countries require giving up previous citizenship, the U.S. oath doesn't explicitly require this. Citizens can live abroad and maintain their citizenship.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "How old do citizens have to be to vote for President?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "eighteen (18) and older",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The 26th Amendment set the national voting age at 18.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "sixteen (16) and older",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While some countries or specific local elections allow voting at 16, the U.S. federal voting age is 18.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "twenty-one (21) and older",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Before the 26th Amendment was passed, the voting age was 21 in many states.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "there is no age limit",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "There is a legally established minimum age to be eligible to vote.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What are two ways that Americans can participate in their democracy?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "vote",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Voting is the most fundamental way to participate in democracy.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "join a political party",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Joining a political party allows citizens to support candidates and causes they believe in.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "help with a campaign",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Volunteering for political campaigns is an active way to participate in the democratic process.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "join a civic group",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Civic groups allow citizens to work together on community issues.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "join a community group",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Community groups help citizens address local concerns and issues.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "give an elected official your opinion on an issue",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Contacting elected officials is an important way to make your voice heard.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "call Senators and Representatives",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Calling your representatives is a direct way to participate in democracy.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "publicly support or oppose an issue or policy",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Public advocacy is a key democratic participation method.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "run for office",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Running for office is one of the most direct ways to participate in democracy.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "write to a newspaper",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Writing letters to newspapers helps share your views with the community.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "watch the news on TV, fly an American flag, pay taxes, read newspapers",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While staying informed is important, watching the news by itself is not considered active 'participation'. Flying an American flag is a good way to show patriotism, but it is not participation in the democratic 'process'. Paying taxes is a legal obligation, which is different from a voluntary act of participation. Reading newspapers helps you stay informed but is passive rather than active participation.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "attend parades, display patriotic symbols, follow laws, respect the flag",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Attending parades shows civic spirit but doesn't directly participate in democratic processes. Displaying patriotic symbols shows support but doesn't constitute democratic participation. Following laws is a civic duty and legal requirement, not voluntary democratic participation. Respecting the flag shows patriotism but doesn't participate in democratic processes.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "sing the national anthem, celebrate holidays, wear patriotic clothing, post on social media",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Singing the national anthem demonstrates patriotism but isn't a form of democratic participation. Celebrating holidays shows civic spirit but doesn't directly engage in democratic processes. Wearing patriotic clothing expresses support but doesn't constitute active participation. Posting on social media can raise awareness but by itself doesn't constitute formal democratic participation.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "When is the last day you can send in federal income tax forms?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "April 15",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The typical deadline for filing taxes is April 15. (It can be extended if it falls on a weekend or holiday).",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "January 1",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "January 1st is New Year's Day.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "December 31",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "December 31st is the end of the tax year.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "July 4",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "July 4th is Independence Day.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "When must all men register for the Selective Service?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "at age eighteen (18)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Registration must happen within 30 days of turning 18.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "between eighteen (18) and twenty-six (26)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While registration should happen at 18, it is possible to register up until age 26.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "when they join the military, when they vote",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Registering for the Selective Service is a separate process from actually enlisting and is for a potential draft. Selective Service registration and voter registration are separate processes with different requirements and timing.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "when they get married, when they graduate high school",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Marriage status does not trigger Selective Service registration requirements. High school graduation is not connected to Selective Service registration timing, which is based solely on age.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "when they turn 21, when they turn 30",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The registration age is 18, not 21. By age 30, men are beyond the registration requirement age range (18-26), so this would be too late to register.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is one reason colonists came to America?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freedom",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Many colonists came to America seeking various forms of freedom.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "political liberty",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Some colonists came to America seeking greater political freedom.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "religious freedom",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Many colonists came to America to practice their religion freely.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "economic opportunity",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Many colonists came to America seeking better economic opportunities.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "practice their religion",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Religious practice was a major motivation for many colonists.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "escape persecution",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Many colonists fled persecution in their home countries.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to serve the British King, for a vacation, to conquer Native Americans",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The colonists sought to escape the authority of the British King, not to serve him. Crossing the Atlantic at that time was a perilous, life-threatening journey, far from a vacation. While conflict and conquest did occur, it was not the primary stated reason for coming to America.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to escape poverty, to find gold, to establish trade routes",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While economic opportunity was a valid reason, these specific motivations oversimplify the complex religious, political, and economic factors that drove colonization.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "to spread Christianity, to claim land for Spain, to find the Northwest Passage",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These were motivations for some explorers and missionaries, but not the primary reasons why ordinary colonists came to establish permanent settlements in America.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who lived in America before the Europeans arrived?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "American Indians",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Native Americans",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "No one, Africans",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Millions of indigenous people were living in the Americas long before the Europeans arrived. Africans were later forcibly brought to America as slaves, not the original inhabitants who were already there.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Vikings, Chinese explorers",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While Vikings may have visited North America briefly around 1000 AD, they did not establish permanent settlements and were not the original inhabitants. Chinese explorers did not reach the Americas before Europeans arrived.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Spanish conquistadors, English colonists",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Spanish conquistadors were among the first Europeans to arrive, not pre-European inhabitants. English colonists arrived in the 1600s, well after indigenous peoples had been living there for thousands of years.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What group of people was taken to America and sold as slaves?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Africans",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Africans were forcibly brought to America and sold as slaves.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "people from Africa",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "People from the African continent were enslaved and brought to America.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Europeans",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Europeans were the immigrants or colonists.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "American Indians",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While Native Americans faced oppression and loss of land, they were not the subjects of the transatlantic slave trade.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Asians",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Immigration from Asia began primarily in the latter half of the 19th century.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Why did the colonists fight the British?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because of high taxes (taxation without representation)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "They were angered by taxes imposed upon them without having their own representatives in the British Parliament.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because the British army stayed in their houses",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Quartering Act required colonists to house and feed British soldiers.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because they didn’t have self-government",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The colonists wanted to govern themselves and be free from the unilateral rule of the British government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because they wanted a new king, because they wanted to ally with France, because they wanted to abolish all taxes",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "They sought to establish a republic and break away from the rule of a king altogether, not just replace him. The alliance with France was a strategy during the war, not the fundamental reason for starting it. The issue was not taxes in general, but 'unjust' taxes imposed without their consent.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because of religious persecution, because of economic hardship, because of territorial disputes",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While these were contributing factors to colonial grievances, the primary reasons for fighting were political: taxation without representation, forced quartering of soldiers, and lack of self-government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because they wanted independence immediately, because they hated all British people, because they wanted to expand westward",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The colonists initially sought reconciliation and only gradually moved toward independence. Their grievances were with British policies, not the British people personally. Westward expansion was not a primary cause of the conflict.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who wrote the Declaration of Independence?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(Thomas) Jefferson",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Thomas Jefferson was the principal author of the Declaration of Independence.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "George Washington",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "George Washington was the Commander in Chief of the Continental Army and the first President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Abraham Lincoln",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Abraham Lincoln was the 16th President during the Civil War.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Benjamin Franklin",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Benjamin Franklin was on the committee, reviewed the document, and signed it, but was not the primary author.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "When was the Declaration of Independence adopted?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "July 4, 1776",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This date is celebrated as Independence Day in the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "September 17, 1787",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "September 17, 1787 was when the Constitution was signed, not when the Declaration of Independence was adopted.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "October 12, 1492",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "October 12, 1492 was when Christopher Columbus reached the Americas, not when the Declaration was adopted.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "April 19, 1775",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "April 19, 1775 was the start of the Revolutionary War at Lexington and Concord, not when the Declaration was adopted.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "There were 13 original states. Name three.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New Hampshire",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New Hampshire was one of the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Massachusetts",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Massachusetts was one of the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Rhode Island",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Rhode Island was one of the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Connecticut",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Connecticut was one of the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New York",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New York was one of the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New Jersey",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New Jersey was one of the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Pennsylvania",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Pennsylvania was one of the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Delaware",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Delaware was one of the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Maryland",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Maryland was one of the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Virginia",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Virginia was one of the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "North Carolina",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "North Carolina was one of the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "South Carolina",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "South Carolina was one of the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Georgia",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Georgia was one of the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Florida, California, Texas, Alaska",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Florida joined the Union as the 27th state in 1845, not an original colony. California joined as the 31st state in 1850. Texas joined as the 28th state in 1845. Alaska joined as the 49th state in 1959, much later than the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Ohio, Kentucky, Vermont, Tennessee",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Ohio joined the Union as the 17th state in 1803, after the original 13. Kentucky was the 15th state in 1792. Vermont was the 14th state in 1791. Tennessee was the 16th state in 1796. All joined after the original 13 colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Hawaii, Nevada, Colorado, Utah",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Hawaii joined as the 50th state in 1959. Nevada joined as the 36th state in 1864. Colorado joined as the 38th state in 1876. Utah joined as the 45th state in 1896. None were among the original 13 colonies established before independence.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What happened at the Constitutional Convention?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Constitution was written.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Constitutional Convention was held to create a new framework of government, resulting in the U.S. Constitution.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Founding Fathers wrote the Constitution.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Founding Fathers gathered at the Constitutional Convention to write the Constitution.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Declaration of Independence was written",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Declaration of Independence was written 11 years earlier, at the Continental Congress in 1776.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Revolutionary War began",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Revolutionary War began in 1775 and had already ended before the Constitutional Convention (1787).",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "George Washington was elected President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "George Washington was elected as the first President in 1789, under the Constitution, after the Convention.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "When was the Constitution written?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "1787",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Constitution was written at the Constitutional Convention in Philadelphia in 1787.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "1776",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "1776 is the year the Declaration of Independence was adopted.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "1865",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "1865 is the year the Civil War ended and the 13th Amendment, abolishing slavery, was ratified.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "1789",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "1789 is the year the Constitution went into effect and the U.S. government was officially formed.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(James) Madison",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "James Madison was one of the three authors of the Federalist Papers.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(Alexander) Hamilton",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Alexander Hamilton was one of the three authors of the Federalist Papers.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(John) Jay",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "John Jay was one of the three authors of the Federalist Papers.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Publius",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Publius was the pen name used by Madison, Hamilton, and Jay when writing the Federalist Papers.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Thomas Jefferson, George Washington, John Hancock",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Jefferson was an Anti-Federalist, who opposed the arguments in the Federalist Papers. While Washington was a strong supporter of the Constitution, he was not one of the authors of the Federalist Papers. John Hancock is famous for being the first to sign the Declaration of Independence.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Benjamin Franklin, Samuel Adams, Patrick Henry",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Franklin was a supporter of the Constitution but did not write the Federalist Papers. Adams and Henry were Anti-Federalists who opposed the Constitution and would not have written papers supporting it.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Thomas Paine, John Adams, Benedict Arnold",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Paine wrote 'Common Sense' and other revolutionary pamphlets but not the Federalist Papers. John Adams was abroad during this period and not involved in writing these papers. Benedict Arnold was a traitor during the Revolutionary War.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is one thing Benjamin Franklin is famous for?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "U.S. diplomat",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Benjamin Franklin served as a diplomat to France during the Revolutionary War.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "oldest member of the Constitutional Convention",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "At age 81, Franklin was the oldest delegate at the Constitutional Convention.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "first Postmaster General of the United States",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Franklin was appointed as the first Postmaster General under the Continental Congress.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "writer of \"Poor Richard's Almanac\"",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Franklin published Poor Richard's Almanac, which contained weather forecasts, household hints, and proverbs.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "started the first free libraries",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Franklin founded the first subscription library in America, which became the model for free public libraries.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "first President of the United States, wrote the Declaration of Independence, General of the Continental Army",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The first President was George Washington, not Benjamin Franklin. The primary author of the Declaration of Independence was Thomas Jefferson, not Franklin. The General of the Continental Army was George Washington, not Franklin.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "invented the telephone, founded Harvard University, wrote the Constitution",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The telephone was invented by Alexander Graham Bell, not Benjamin Franklin. Harvard University was founded in 1636, long before Franklin's time. While Franklin participated in the Constitutional Convention, James Madison is considered the primary author of the Constitution.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "discovered America, was the first Supreme Court Chief Justice, led the Boston Tea Party",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "America was discovered by Christopher Columbus and indigenous peoples lived there long before. The first Chief Justice was John Jay, not Franklin. The Boston Tea Party was organized by Samuel Adams and the Sons of Liberty, not Franklin.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who is the 'Father of Our Country'?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(George) Washington",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "He is called the 'Father of His Country' for his leadership in the Revolutionary War and for establishing the new nation.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Abraham Lincoln",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Lincoln is known as the 'Great Emancipator' and the president who preserved the Union.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Thomas Jefferson",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Jefferson was the author of the Declaration of Independence and the third President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Benjamin Franklin",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Franklin was a brilliant diplomat, inventor, and one of the Founding Fathers.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who was the first President?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(George) Washington",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "George Washington was the first President of the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "John Adams",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "John Adams was the first Vice President and the second President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Thomas Jefferson",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Thomas Jefferson was the third President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Alexander Hamilton",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Alexander Hamilton was the first Secretary of the Treasury but never became President.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What territory did the United States buy from France in 1803?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Louisiana Territory",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Louisiana Purchase doubled the size of the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Louisiana",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Louisiana Territory was purchased from France in 1803.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Alaska",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Alaska was purchased from Russia, not France, in 1867.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Florida",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Florida was ceded by Spain in 1819.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Texas",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Texas was annexed in 1845 after being an independent republic.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name one war fought by the United States in the 1800s.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "War of 1812",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The War of 1812 was fought between the United States and Britain.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Mexican-American War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Mexican-American War was fought from 1846 to 1848.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Civil War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The American Civil War was fought from 1861 to 1865.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Spanish-American War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Spanish-American War was fought in 1898.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Revolutionary War, World War I, World War II, Korean War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Revolutionary War was fought in the 1700s (1775-1783), not the 1800s. World War I was fought in the 1900s (1914-1918). World War II was fought in the 1900s (1939-1945). The Korean War was fought in the 1900s (1950-1953). None of these wars occurred in the 1800s.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Vietnam War, Gulf War, Iraq War, Afghanistan War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Vietnam War was fought in the 1900s (1955-1975). The Gulf War was fought in the 1900s (1991). The Iraq War began in 2003. The Afghanistan War began in 2001. All of these conflicts occurred well after the 1800s.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "French and Indian War, King Philip's War, Bacon's Rebellion, Pontiac's War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The French and Indian War was fought in the 1700s (1754-1763). King Philip's War occurred in the 1600s (1675-1676). Bacon's Rebellion took place in 1676. Pontiac's War was fought in the 1760s. All of these conflicts occurred before the 1800s.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name the U.S. war between the North and the South.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Civil War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the War between the States",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This was a term commonly used in the Southern states.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Revolutionary War, the War of 1812",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Revolutionary War was fought between the American colonies and Great Britain, not between North and South. The War of 1812 was fought between the United States and Great Britain, not an internal conflict.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "World War I, World War II",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "World War I was a global conflict involving many nations, not a war between the North and South. World War II was a global conflict between the Allies, including the U.S., and the Axis powers, not an internal American war.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Mexican-American War, the Spanish-American War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Mexican-American War was fought between the United States and Mexico, not between North and South. The Spanish-American War was fought between the United States and Spain, not an internal conflict between regions.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name one problem that led to the Civil War.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "slavery",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The existence of slavery was the most fundamental and central cause of the conflict between the North and South.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "economic reasons",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "There were significant economic differences and conflicts between the industrial North and the agricultural South.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "states' rights",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "There was a major debate over states' rights to decide their own issues versus the power of the federal government.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "war with England, religious differences, disputes over oil",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Conflict with England was a cause of the Revolutionary War and the War of 1812, not the Civil War. While religion was a factor in the conflict, it was not a primary cause of the Civil War. The large-scale oil industry in the U.S. developed after the Civil War, so oil disputes were not a cause.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "territorial expansion, immigration issues, foreign trade disputes",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While territorial expansion was debated, the core issue was whether new territories would allow slavery. Immigration was not a primary cause of the Civil War. Foreign trade disputes were not a major factor leading to the Civil War.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "disputes over gold, conflicts with Native Americans, disagreements about the Constitution",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Gold discoveries occurred mainly in the West and were not a primary cause of North-South conflict. Conflicts with Native Americans were ongoing but not a cause of the Civil War. Constitutional disagreements were present but centered on slavery and states' rights.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What was one important thing that Abraham Lincoln did?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freed the slaves (Emancipation Proclamation)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "During the war, he issued the Emancipation Proclamation, which freed slaves in the Confederacy.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "saved (or preserved) the Union",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "He prevented the secession of the South and kept the United States as one nation.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "led the United States during the Civil War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "He led the Union as President during the nation's greatest crisis, the Civil War.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "wrote the Declaration of Independence, was the first President, gave women the right to vote",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Declaration of Independence was written by Thomas Jefferson, not Abraham Lincoln. The first President was George Washington, not Lincoln. Women's right to vote was secured by the 19th Amendment in 1920, long after Lincoln's death in 1865.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "founded the Republican Party, built the transcontinental railroad, discovered electricity",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While Lincoln was a Republican, the party was founded in 1854 before his presidency. The transcontinental railroad was built by private companies with government support, not directly by Lincoln. Electricity was discovered and studied by scientists like Benjamin Franklin, not Lincoln.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "wrote the Constitution, was a Supreme Court Justice, invented the telephone",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Constitution was primarily written by James Madison and other founding fathers, not Lincoln. Lincoln was never a Supreme Court Justice; he was President. The telephone was invented by Alexander Graham Bell in 1876, after Lincoln's death.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What did the Emancipation Proclamation do?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freed the slaves",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Emancipation Proclamation declared freedom for enslaved people.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freed slaves in the Confederacy",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Specifically, it freed slaves in the states that were in rebellion (the Confederacy).",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freed slaves in the Confederate states",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The proclamation applied to slaves in states that had seceded from the Union.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freed slaves in most Southern states",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "It freed slaves in the rebellious Southern states during the Civil War.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "freed all the slaves, declared independence from Britain",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Technically, the Emancipation Proclamation did not free slaves in the border states that remained in the Union; the 13th Amendment completed that process. Declaring independence from Britain was done by the Declaration of Independence in 1776, not the Emancipation Proclamation.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "gave women the right to vote, ended the Civil War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Women's suffrage was achieved by the 19th Amendment in 1920, not the Emancipation Proclamation. While the Emancipation Proclamation was issued during the Civil War, it did not end the war; the war continued until 1865.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "established the Constitution, created the Bill of Rights",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Constitution was established in 1787, long before the Emancipation Proclamation of 1863. The Bill of Rights was created as the first ten amendments to the Constitution in 1791, also predating the Emancipation Proclamation.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What did Susan B. Anthony do?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "fought for women's rights",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "She was a pivotal leader in the women's suffrage movement.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "fought for civil rights",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Women's rights are part of the broader civil rights movement.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "fought for women's suffrage",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "She was a leader in the movement to secure voting rights for women.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "was the first woman elected to the Senate, was a nurse in the Civil War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "She fought her entire life for women's right to vote but did not live to see women vote or hold office. The famous nurse from the Civil War era is Clara Barton, who founded the American Red Cross, not Susan B. Anthony.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "signed the Emancipation Proclamation, was the first female President",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Emancipation Proclamation was an executive order issued by President Abraham Lincoln, not Susan B. Anthony. There has never been a female President in U.S. history, and Anthony lived in the 19th century when women couldn't even vote.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "founded the American Red Cross, wrote the Declaration of Independence",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The American Red Cross was founded by Clara Barton, not Susan B. Anthony. The Declaration of Independence was written by Thomas Jefferson and other founding fathers in 1776, long before Anthony was born in 1820.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name one war fought by the United States in the 1900s.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "World War I",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The United States entered the war in 1917.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "World War II",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The United States entered the war after the attack on Pearl Harbor in 1941.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Korean War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This war began in 1950.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Vietnam War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This war took place during the 1960s and 1970s.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(Persian) Gulf War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This war took place in 1991.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Civil War, Revolutionary War, Mexican-American War, War of 1812, Spanish-American War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Civil War was fought in the 1800s (1861-1865), not the 1900s. The Revolutionary War was fought in the 1700s (1775-1783). The Mexican-American War was fought in the 1800s (1846-1848). The War of 1812 occurred in the early 1800s. The Spanish-American War was fought in 1898, technically the 1800s.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "French and Indian War, King Philip's War, Bacon's Rebellion, Shays' Rebellion, Whiskey Rebellion",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The French and Indian War was fought in the 1750s-1760s. King Philip's War occurred in the 1670s. Bacon's Rebellion happened in 1676. Shays' Rebellion took place in the 1780s. The Whiskey Rebellion occurred in the 1790s. All of these conflicts predate the 1900s.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Napoleonic Wars, Crimean War, Franco-Prussian War, Boer Wars, Russo-Japanese War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Napoleonic Wars were European conflicts (1803-1815) that the U.S. was not directly involved in. The Crimean War (1853-1856) involved European powers, not the U.S. The Franco-Prussian War (1870-1871) was a European conflict. The Boer Wars (1880s-1900s) were fought by Britain in South Africa. The Russo-Japanese War (1904-1905) was between Russia and Japan, not involving the U.S.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who was President during World War I?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(Woodrow) Wilson",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Woodrow Wilson was the President who led the United States during World War I.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Franklin Roosevelt",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Franklin Roosevelt was the President during World War II.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Abraham Lincoln",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Abraham Lincoln was the President during the Civil War.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Theodore Roosevelt",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Theodore Roosevelt served as President before World War I.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who was President during the Great Depression and World War II?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "(Franklin) Roosevelt",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Franklin D. Roosevelt led the country through these two national crises.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Woodrow Wilson",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Woodrow Wilson was the President during World War I.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Herbert Hoover",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Herbert Hoover was the President when the Great Depression began.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Harry Truman",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Harry Truman was the President who concluded World War II after Roosevelt's death.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Who did the United States fight in World War II?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Japan, Germany, and Italy",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "These three countries formed the Axis powers.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Japan",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Japan was a major Axis power that the U.S. fought against.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Germany",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Germany was a major Axis power that the U.S. fought against.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Italy",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Italy was an Axis power that the U.S. fought against.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the Soviet Union",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Soviet Union was an ally of the United States during World War II, not an enemy.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Great Britain",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Great Britain was a major ally of the United States during World War II, not an enemy.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "France",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "France was liberated by the United States and its allies during World War II, not an enemy.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Before he was President, Eisenhower was a general. What war was he in?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "World War II",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Dwight D. Eisenhower was the Supreme Commander of the Allied Expeditionary Force in Europe during World War II.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "World War I",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Eisenhower served stateside during World War I.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Civil War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Civil War occurred before Eisenhower was born.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Vietnam War",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Vietnam War escalated after Eisenhower's presidency.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "During the Cold War, what was the main concern of the United States?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Communism",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "After World War II, the main focus of U.S. foreign policy was containing the spread of Communism, led by the Soviet Union.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Climate change",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Climate change has only recently become a major international concern.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Colonialism",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "While the Cold War coincided with the era of decolonization, the primary concern for the U.S. was Communism.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Great Depression",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Great Depression was the main issue of the 1930s, before the Cold War.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What movement tried to end racial discrimination?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "civil rights (movement)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The civil rights movement of the 1950s and 1960s worked to end legal and social discrimination against African Americans.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the temperance movement",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The temperance movement was a social movement to prohibit the consumption of alcohol.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the women's suffrage movement",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The women's suffrage movement was focused on gaining the right to vote for women.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the anti-war movement",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The anti-war movement was focused on opposition to a specific war, particularly the Vietnam War.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What did Martin Luther King, Jr. do?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "fought for civil rights",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "He was an iconic leader of the civil rights movement who fought against racial discrimination through nonviolent resistance.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "worked for equality for all Americans",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "His goal was to create a society where people of all races were treated equally.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "was the first Black President, was a U.S. Senator",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The first Black President of the United States was Barack Obama, not Martin Luther King, Jr. Martin Luther King, Jr. was a minister and activist, not an elected official like a U.S. Senator.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "fought to free the slaves, founded the NAACP",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The fight to free the slaves occurred about 100 years before his time, during the Civil War era. The NAACP was founded in 1909 by W.E.B. Du Bois and others, before King was born in 1929.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "was a Supreme Court Justice, invented the telephone",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Martin Luther King, Jr. was never a Supreme Court Justice; he was a civil rights leader and minister. The telephone was invented by Alexander Graham Bell in 1876, long before King was born.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What major event happened on September 11, 2001, in the United States?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Terrorists attacked the United States",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "On this day, al-Qaeda terrorists hijacked airplanes and attacked the World Trade Center, the Pentagon, and other sites.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Pearl Harbor was attacked",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The attack on Pearl Harbor happened on December 7, 1941, leading to the U.S. entry into World War II.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The stock market crashed",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The great stock market crash that triggered the Great Depression was in 1929.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Iraq War began",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Iraq War began in 2003, after the 9/11 attacks.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name one American Indian tribe in the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Cherokee",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Cherokee are a Native American tribe originally from the Southeastern United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Navajo",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Navajo are a Native American tribe from the Southwestern United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Sioux",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Sioux are a Native American tribe from the Great Plains region.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Chippewa",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Chippewa (Ojibwe) are a Native American tribe from the Great Lakes region.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Choctaw",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Choctaw are a Native American tribe originally from the Southeastern United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Pueblo",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Pueblo peoples are Native American tribes from the Southwestern United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Apache",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Apache are a Native American tribe from the Southwestern United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Iroquois",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Iroquois are a confederacy of Native American tribes from the Northeastern United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Creek",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Creek (Muscogee) are a Native American tribe from the Southeastern United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Blackfeet",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Blackfeet are a Native American tribe from the Northern Great Plains.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Seminole",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Seminole are a Native American tribe from Florida.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Cheyenne",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Cheyenne are a Native American tribe from the Great Plains.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Arawak",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Arawak were indigenous peoples of the Caribbean and South America.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Shawnee",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Shawnee are a Native American tribe originally from the Ohio Valley.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Mohegan",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Mohegan are a Native American tribe from Connecticut.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Huron",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Huron (Wyandot) are a Native American tribe from the Great Lakes region.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Oneida",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Oneida are a Native American tribe and part of the Iroquois Confederacy.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Lakota",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Lakota are a Native American tribe and part of the Sioux nation.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Crow",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Crow are a Native American tribe from the Northern Great Plains.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Teton",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Teton are a division of the Lakota Sioux tribe.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Hopi",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Hopi are a Native American tribe from Arizona.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Inuit",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Inuit are indigenous peoples from Alaska and the Arctic regions.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Inca, Aztec, Maya, Olmec",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Inca were a civilization primarily located in South America, such as Peru. The Aztec were a civilization located in the region of modern-day Mexico. The Maya were a civilization located in Central America. The Olmec were an ancient civilization in Mexico. None of these were American Indian tribes within the current United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Zulu, Maasai, Yoruba, Bantu",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Zulu are a people from South Africa. The Maasai are from East Africa (Kenya and Tanzania). The Yoruba are from West Africa (Nigeria). The Bantu are a large group of peoples from sub-Saharan Africa. None of these are American Indian tribes from the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Celtic, Viking, Saxon, Norman",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Celts were ancient peoples from Europe. Vikings were from Scandinavia. Saxons were Germanic peoples who settled in England. Normans were from northern France. None of these were American Indian tribes native to the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name one of the two longest rivers in the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Missouri (River)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Missouri River is the longest river in the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Mississippi (River)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Mississippi River is the second-longest river in the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Nile (River), Amazon (River)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Nile River is the longest river in the world, located in Africa, not the United States. The Amazon River is located in South America, not the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Colorado (River), Rio Grande (River)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Colorado River is a major river in the American Southwest, but it is not one of the two longest rivers in the U.S. The Rio Grande forms part of the border with Mexico but is not one of the two longest rivers.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Ohio (River), Columbia (River)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Ohio River is a major tributary of the Mississippi but is not one of the two longest rivers in the U.S. The Columbia River flows through the Pacific Northwest but is not one of the two longest rivers.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What ocean is on the West Coast of the United States?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Pacific (Ocean)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "California, Oregon, and Washington are on the Pacific Ocean.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Atlantic (Ocean)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Atlantic Ocean is on the East Coast of the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Indian (Ocean)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Indian Ocean does not border the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Arctic (Ocean)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Arctic Ocean borders the northern coast of Alaska.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What ocean is on the East Coast of the United States?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Atlantic (Ocean)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New York, Florida, and Maine are on the Atlantic Ocean.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Pacific (Ocean)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Pacific Ocean is on the West Coast of the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Gulf of Mexico",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Gulf of Mexico is on the southeastern coast of the United States.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Mediterranean (Sea)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Mediterranean Sea is located between Europe and Africa.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name one U.S. territory.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Puerto Rico",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Guam",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "U.S. Virgin Islands",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "American Samoa",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Northern Mariana Islands",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Hawaii, Alaska, California, Texas, Florida",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Hawaii is the 50th state of the U.S., not a territory. Alaska is the 49th state, not a territory. California is a state that joined the Union in 1850. Texas is a state that joined the Union in 1845. Florida is a state that joined the Union in 1845. All of these are states, not territories.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Philippines, Cuba, Panama, Mexico, Canada",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Philippines was a U.S. territory in the past but is now an independent country since 1946. Cuba is an independent country and was never a U.S. territory. Panama is an independent country, though the U.S. controlled the Panama Canal Zone. Mexico is an independent country. Canada is an independent country.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Japan, South Korea, Germany, United Kingdom, Australia",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Japan is an independent country that was occupied by the U.S. after WWII but was never a territory. South Korea is an independent country with U.S. military presence but not a territory. Germany was occupied after WWII but never a U.S. territory. The United Kingdom is an independent country and former colonial power. Australia is an independent country and was never a U.S. territory.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name one state that borders Canada.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Washington",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Alaska",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New York",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Montana",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Oregon, California, Nevada, Utah",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Oregon is south of Washington state and does not border Canada. California borders Mexico, not Canada. Nevada is an interior western state that doesn't border Canada. Utah is a landlocked state in the interior of the U.S. and doesn't border Canada.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Colorado, Arizona, New Mexico, Texas",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Colorado is a landlocked state in the interior of the U.S. Arizona borders Mexico, not Canada. New Mexico borders Mexico, not Canada. Texas borders Mexico, not Canada. None of these southwestern states border Canada.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Florida, Georgia, South Carolina, North Carolina",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Florida is in the southeastern U.S. and borders the Atlantic Ocean and Gulf of Mexico. Georgia is in the southeastern U.S. South Carolina is on the Atlantic coast. North Carolina is on the Atlantic coast. All of these southeastern states are far from the Canadian border.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name one state that borders Mexico.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "California",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Arizona",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New Mexico",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Texas",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Nevada, Utah, Colorado, Oklahoma",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Nevada is east of California and Arizona and does not border Mexico. Utah is a landlocked state north of Arizona. Colorado is a landlocked state in the interior of the U.S. Oklahoma is in the south-central U.S. but doesn't border Mexico. None of these states share a border with Mexico.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Florida, Louisiana, Mississippi, Alabama",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Florida is across the Gulf of Mexico from Mexico but does not share a land border. Louisiana borders the Gulf of Mexico but not Mexico directly. Mississippi is on the Gulf Coast but doesn't border Mexico. Alabama is on the Gulf Coast but doesn't border Mexico. These Gulf states are separated from Mexico by water.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Washington, Oregon, Idaho, Montana",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Washington borders Canada, not Mexico. Oregon is on the Pacific coast but north of California. Idaho is a landlocked northwestern state. Montana borders Canada, not Mexico. All of these states are in the northern or northwestern U.S., far from the Mexican border.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is the capital of the United States?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Washington, D.C.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "D.C. stands for District of Columbia.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New York City",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New York is the largest city in the U.S. and was its first capital, but it is not the current capital.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Philadelphia",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Philadelphia is a historic city where the Declaration and Constitution were signed, and it was a former capital.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Washington State",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Washington State is a state in the Pacific Northwest, and is a different place from the capital, Washington, D.C.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Where is the Statue of Liberty?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New York (Harbor)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Statue of Liberty is located in New York Harbor.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Liberty Island",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Specifically, it is located on Liberty Island in New York Harbor.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New Jersey",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Liberty Island is technically in New Jersey waters, though administered by New York.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "near New York City",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Statue of Liberty is located near New York City in the harbor.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "on the Hudson (River)",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The statue is located where the Hudson River meets New York Harbor.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Washington D.C., Philadelphia",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Statue of Liberty is not in Washington, D.C., which is the nation's capital. It is also not in Philadelphia, the birthplace of American independence.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Boston Harbor, San Francisco Bay",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Statue of Liberty is not in Boston Harbor or San Francisco Bay. It stands in New York Harbor.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Los Angeles, Chicago",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Statue of Liberty is not in Los Angeles or Chicago. It is located in New York Harbor.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Why does the flag have 13 stripes?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because there were 13 original colonies",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The 13 stripes represent the 13 original colonies that declared independence.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because of the 13 original states",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The 13 stripes represent the 13 original states that formed the Union.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "for the 13 signers of the Declaration",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "There were 56 signers of the Declaration of Independence.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "for the first 13 articles of the Constitution",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Constitution originally had seven articles.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because 13 is a lucky number",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The number of stripes is based on historical fact, not luck.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Why does the flag have 50 stars?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because there are 50 states",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Each star represents one of the states of the Union.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because there were 50 original colonies",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "There were 13 original colonies.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because there have been 50 presidents",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The number of stars is not related to the number of presidents.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "because there were wars in 50 states",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The stars represent the states, not wars.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "What is the name of the national anthem?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The Star-Spangled Banner",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "The lyrics come from a poem written by Francis Scott Key during the War of 1812.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "America the Beautiful",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "America the Beautiful is a popular patriotic song, but it is not the national anthem.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "My Country 'Tis of Thee",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "My Country, 'Tis of Thee is a patriotic song, but it is not the national anthem.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "God Bless America",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "God Bless America is a popular patriotic song, but it is not the national anthem.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "When do we celebrate Independence Day?",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "July 4",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This commemorates the adoption of the Declaration of Independence on July 4, 1776.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "January 1",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "January 1st is New Year's Day.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the last Monday in May",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This is Memorial Day, which honors soldiers who died in military service.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "the fourth Thursday in November",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "This is Thanksgiving Day.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Name two national U.S. holidays.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Christmas",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Thanksgiving",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Independence Day",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "New Year's Day",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Valentine's Day, Halloween, April Fool's Day, St. Patrick's Day",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Valentine's Day is widely celebrated but is not a federal holiday. Halloween is widely celebrated but is not a federal holiday. April Fool's Day is not a public holiday. St. Patrick's Day is celebrated but is not a federal holiday. None of these are official national U.S. holidays.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Mother's Day, Father's Day, Easter, Groundhog Day",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Mother's Day is celebrated but is not a federal holiday. Father's Day is celebrated but is not a federal holiday. Easter is a religious holiday but not a federal holiday. Groundhog Day is observed but is not a federal holiday. These are cultural or religious observances, not national holidays.",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Black Friday, Super Bowl Sunday, Tax Day, Election Day",
+      "error": "No module named 'deep_translator'"
+    },
+    {
+      "src": "Black Friday is a shopping day but not a federal holiday. Super Bowl Sunday is a popular event but not a federal holiday. Tax Day (April 15) is a deadline but not a holiday. Election Day is important but is not a federal holiday in most states. None of these are official national U.S. holidays.",
+      "error": "No module named 'deep_translator'"
+    }
+  ],
+  "issues": []
+}

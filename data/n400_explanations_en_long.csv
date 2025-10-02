@@ -1,0 +1,241 @@
+KEY,DataName,Value
+idx_0,title_en,Explanation
+idx_0,intent_en,Asks for your full legal name as it appears on official documents.
+idx_0,answer_guidance_en,"State your full legal name (first, middle, last). If different on documents, clarify as asked."
+idx_1,title_en,Explanation
+idx_1,intent_en,"Asks if you have used any other names (aliases, maiden name, previous legal names)."
+idx_1,answer_guidance_en,Answer Yes if you have used any other names and list them; otherwise No.
+idx_2,title_en,Explanation
+idx_2,intent_en,Requests your date of birth to confirm identity and eligibility.
+idx_2,answer_guidance_en,State your full date of birth (MM/DD/YYYY) as on your official documents.
+idx_3,title_en,Explanation
+idx_3,intent_en,Asks for your current residential address for correspondence and jurisdiction.
+idx_3,answer_guidance_en,"Provide your current physical address. If recently moved, be consistent with your application."
+idx_4,title_en,Explanation
+idx_4,intent_en,Verifies 5-year residence history continuity at your current address.
+idx_4,answer_guidance_en,Answer Yes only if you lived there continuously for the last 5 years; otherwise No and be ready to list prior addresses.
+idx_5,title_en,Explanation
+idx_5,intent_en,Checks trips outside the U.S. in the last 5 years for continuous residence and physical presence analysis.
+idx_5,answer_guidance_en,"Answer Yes if you took any trips abroad; be ready to provide dates, length, and destinations."
+idx_6,title_en,Explanation
+idx_6,intent_en,"Determines if any single trip lasted more than 6 months, which may disrupt continuous residence."
+idx_6,answer_guidance_en,Answer Yes if any single trip exceeded 6 months; otherwise No. Provide documentation if applicable.
+idx_7,title_en,Explanation
+idx_7,intent_en,Asks your current marital status for eligibility and documentation requirements.
+idx_7,answer_guidance_en,State your status (single/married/divorced/widowed/separated) consistent with legal records.
+idx_8,title_en,Explanation
+idx_8,intent_en,If your spouse is a U.S. citizen may affect eligibility pathways and documentation.
+idx_8,answer_guidance_en,"Answer Yes only if spouse is a U.S. citizen; be prepared to show proof (e.g., passport, naturalization certificate)."
+idx_9,title_en,Explanation
+idx_9,intent_en,Asks whether you have children to confirm dependents and disclosure completeness.
+idx_9,answer_guidance_en,"Answer Yes if you have any children (biological, adopted, step). Provide number and details if asked."
+idx_10,title_en,Explanation
+idx_10,intent_en,Ensures all children are listed on your application as required.
+idx_10,answer_guidance_en,"Answer Yes if every child is listed. If any are missing, update your application and answer accordingly."
+idx_11,title_en,Explanation
+idx_11,intent_en,Requests your current employment to verify work history and good moral character.
+idx_11,answer_guidance_en,"State your current job title and employer. If unemployed, state ‘unemployed’ and, if asked, since when."
+idx_12,title_en,Explanation
+idx_12,intent_en,Asks about extended unemployment which may prompt questions about support and tax filings.
+idx_12,answer_guidance_en,Answer truthfully. Provide dates and context if you had a long unemployment period.
+idx_13,title_en,Explanation
+idx_13,intent_en,Assesses criminal history not resulting in arrest; honesty is required.
+idx_13,answer_guidance_en,Answer Yes if you committed any crimes/offenses even without arrest; consult records and provide explanations.
+idx_14,title_en,Explanation
+idx_14,intent_en,Checks any arrest/citation/detention by law enforcement for background review.
+idx_14,answer_guidance_en,"Answer Yes if any arrest, citation (including some traffic), or detention occurred; provide dates and outcomes."
+idx_15,title_en,Explanation
+idx_15,intent_en,Confirms criminal convictions which are critical to eligibility and GMC (good moral character).
+idx_15,answer_guidance_en,Answer Yes if convicted by a court. Bring certified court dispositions.
+idx_16,title_en,Explanation
+idx_16,intent_en,"Asks about suspended sentences, probation, or parole indicating post-conviction supervision."
+idx_16,answer_guidance_en,"Answer Yes if you received any suspended sentence, probation, or parole; provide documentation."
+idx_17,title_en,Explanation
+idx_17,intent_en,Determines if you were incarcerated which affects GMC analysis.
+idx_17,answer_guidance_en,Answer Yes if you have been in jail or prison at any time; provide dates and locations.
+idx_18,title_en,Explanation
+idx_18,intent_en,Asks about fraud or misrepresentation to obtain immigration benefits; this is serious.
+idx_18,answer_guidance_en,Answer Yes if it ever happened and be prepared to provide full details; consider seeking legal advice.
+idx_19,title_en,Explanation
+idx_19,intent_en,Checks if you owe overdue taxes at any level of government.
+idx_19,answer_guidance_en,Answer Yes if any taxes are overdue; bring evidence of payment plans or resolutions.
+idx_20,title_en,Explanation
+idx_20,intent_en,Verifies any prior U.S. military service for background and selective service issues.
+idx_20,answer_guidance_en,"Answer Yes if you served in the U.S. military; provide service dates, branch, and documents (DD-214)."
+idx_21,title_en,Explanation
+idx_21,intent_en,"Asks if you refused to support the military or to bear arms, relevant to oath and exemptions."
+idx_21,answer_guidance_en,"Answer truthfully and explain context (e.g., religious objection) if applicable."
+idx_22,title_en,Explanation
+idx_22,intent_en,Asks about Selective Service registration for eligible males (generally ages 18–26).
+idx_22,answer_guidance_en,"Answer Yes if registered. If required but not registered, prepare an explanation and evidence."
+idx_23,title_en,Explanation
+idx_23,intent_en,"Checks affiliations with organizations, associations, or groups for security and GMC review."
+idx_23,answer_guidance_en,Answer Yes if you were a member/associated with any; list significant affiliations if asked.
+idx_24,title_en,Explanation
+idx_24,intent_en,Asks about involvement with the Communist Party or totalitarian parties for inadmissibility concerns.
+idx_24,answer_guidance_en,Answer Yes if applicable and be ready to provide timelines and context.
+idx_25,title_en,Explanation
+idx_25,intent_en,Screens for any association with terrorist organizations (national security).
+idx_25,answer_guidance_en,Answer Yes if applicable and provide details; false answers can have severe consequences.
+idx_26,title_en,Explanation
+idx_26,intent_en,"Asks if you were ordered removed/excluded/deported from the U.S., affecting eligibility."
+idx_26,answer_guidance_en,Answer Yes if any such order exists; bring all immigration court documents.
+idx_27,title_en,Explanation
+idx_27,intent_en,Checks if you helped anyone enter the U.S. illegally (alien smuggling).
+idx_27,answer_guidance_en,Answer Yes if it occurred; provide full context and seek legal advice if needed.
+idx_28,title_en,Explanation
+idx_28,intent_en,Confirms your support for the U.S. Constitution and government as part of the Oath of Allegiance.
+idx_28,answer_guidance_en,Answer Yes if you support them. Be prepared to affirm this during the oath.
+idx_29,title_en,Explanation
+idx_29,intent_en,"Asks if you are willing to take the full Oath of Allegiance, a requirement for naturalization."
+idx_29,answer_guidance_en,Answer Yes if you intend to naturalize and accept all obligations of the oath.
+idx_30,title_en,Explanation
+idx_30,intent_en,Asks if you are willing to bear arms if required by law (with possible religious exceptions).
+idx_30,answer_guidance_en,Answer according to your beliefs and legal requirements; conscientious objectors may explain.
+idx_31,title_en,Explanation
+idx_31,intent_en,Asks if you will perform noncombatant service if required by law.
+idx_31,answer_guidance_en,Answer Yes if you are willing to serve in a noncombatant role if required.
+idx_32,title_en,Explanation
+idx_32,intent_en,Asks if you will perform work of national importance under civilian direction if required by law.
+idx_32,answer_guidance_en,Answer Yes if you are willing to perform such work when required.
+idx_33,title_en,Explanation
+idx_33,intent_en,"Asks if you have persecuted anyone due to protected grounds (race, religion, etc.)."
+idx_33,answer_guidance_en,Answer Yes if it occurred and be prepared to provide details; this is a serious bar to eligibility.
+idx_34,title_en,Explanation
+idx_34,intent_en,"Screens for participation in genocide, a ground of ineligibility."
+idx_34,answer_guidance_en,Answer Yes if applicable; expect detailed questioning and legal implications.
+idx_35,title_en,Explanation
+idx_35,intent_en,"Asks about acts of torture, a ground of ineligibility and serious human rights violation."
+idx_35,answer_guidance_en,Answer Yes if applicable; provide details and seek legal counsel.
+idx_36,title_en,Explanation
+idx_36,intent_en,Asks whether you received military or weapons training (security screening).
+idx_36,answer_guidance_en,"Answer Yes if you received such training; provide context (e.g., compulsory service)."
+idx_37,title_en,Explanation
+idx_37,intent_en,"Asks if you failed to file required tax returns, which may affect GMC."
+idx_37,answer_guidance_en,Answer Yes if you failed to file; bring proof of subsequent filings and resolutions.
+idx_38,title_en,Explanation
+idx_38,intent_en,Asks if you claimed to be a non-U.S. resident on tax returns after becoming a lawful permanent resident.
+idx_38,answer_guidance_en,Answer Yes if you did; bring explanations and amended returns if applicable.
+idx_39,title_en,Explanation
+idx_39,intent_en,"Asks if you misrepresented facts to obtain U.S. public benefits, a serious issue for eligibility."
+idx_39,answer_guidance_en,Answer Yes if applicable and be prepared to provide full details; consider legal advice.
+all_children_listed,title_en,Explanation
+all_children_listed,intent_en,Ensures all children are listed on your application as required.
+all_children_listed,answer_guidance_en,"Answer Yes if every child is listed. If any are missing, update your application and answer accordingly."
+arrested_cited_detained,title_en,Explanation
+arrested_cited_detained,intent_en,Checks any arrest/citation/detention by law enforcement for background review.
+arrested_cited_detained,answer_guidance_en,"Answer Yes if any arrest, citation (including some traffic), or detention occurred; provide dates and outcomes."
+claimed_non_us_resident_after_lpr,title_en,Explanation
+claimed_non_us_resident_after_lpr,intent_en,Asks if you claimed to be a non-U.S. resident on tax returns after becoming a lawful permanent resident.
+claimed_non_us_resident_after_lpr,answer_guidance_en,Answer Yes if you did; bring explanations and amended returns if applicable.
+communist_totalitarian_party,title_en,Explanation
+communist_totalitarian_party,intent_en,Asks about involvement with the Communist Party or totalitarian parties for inadmissibility concerns.
+communist_totalitarian_party,answer_guidance_en,Answer Yes if applicable and be ready to provide timelines and context.
+convicted_crime,title_en,Explanation
+convicted_crime,intent_en,Confirms criminal convictions which are critical to eligibility and GMC (good moral character).
+convicted_crime,answer_guidance_en,Answer Yes if convicted by a court. Bring certified court dispositions.
+crime_not_arrested,title_en,Explanation
+crime_not_arrested,intent_en,Assesses criminal history not resulting in arrest; honesty is required.
+crime_not_arrested,answer_guidance_en,Answer Yes if you committed any crimes/offenses even without arrest; consult records and provide explanations.
+current_address,title_en,Explanation
+current_address,intent_en,Asks for your current residential address for correspondence and jurisdiction.
+current_address,answer_guidance_en,"Provide your current physical address. If recently moved, be consistent with your application."
+current_job,title_en,Explanation
+current_job,intent_en,Requests your current employment to verify work history and good moral character.
+current_job,answer_guidance_en,"State your current job title and employer. If unemployed, state ‘unemployed’ and, if asked, since when."
+date_of_birth,title_en,Explanation
+date_of_birth,intent_en,Requests your date of birth to confirm identity and eligibility.
+date_of_birth,answer_guidance_en,State your full date of birth (MM/DD/YYYY) as on your official documents.
+failed_to_file_required_tax_returns,title_en,Explanation
+failed_to_file_required_tax_returns,intent_en,"Asks if you failed to file required tax returns, which may affect GMC."
+failed_to_file_required_tax_returns,answer_guidance_en,Answer Yes if you failed to file; bring proof of subsequent filings and resolutions.
+have_children,title_en,Explanation
+have_children,intent_en,Asks whether you have children to confirm dependents and disclosure completeness.
+have_children,answer_guidance_en,"Answer Yes if you have any children (biological, adopted, step). Provide number and details if asked."
+helped_illegal_entry,title_en,Explanation
+helped_illegal_entry,intent_en,Checks if you helped anyone enter the U.S. illegally (alien smuggling).
+helped_illegal_entry,answer_guidance_en,Answer Yes if it occurred; provide full context and seek legal advice if needed.
+in_jail_or_prison,title_en,Explanation
+in_jail_or_prison,intent_en,Determines if you were incarcerated which affects GMC analysis.
+in_jail_or_prison,answer_guidance_en,Answer Yes if you have been in jail or prison at any time; provide dates and locations.
+lied_to_us_govt_for_benefit,title_en,Explanation
+lied_to_us_govt_for_benefit,intent_en,Asks about fraud or misrepresentation to obtain immigration benefits; this is serious.
+lied_to_us_govt_for_benefit,answer_guidance_en,Answer Yes if it ever happened and be prepared to provide full details; consider seeking legal advice.
+long_unemployment,title_en,Explanation
+long_unemployment,intent_en,Asks about extended unemployment which may prompt questions about support and tax filings.
+long_unemployment,answer_guidance_en,Answer truthfully. Provide dates and context if you had a long unemployment period.
+marital_status_current,title_en,Explanation
+marital_status_current,intent_en,Asks your current marital status for eligibility and documentation requirements.
+marital_status_current,answer_guidance_en,State your status (single/married/divorced/widowed/separated) consistent with legal records.
+military_weapons_training,title_en,Explanation
+military_weapons_training,intent_en,Asks whether you received military or weapons training (security screening).
+military_weapons_training,answer_guidance_en,"Answer Yes if you received such training; provide context (e.g., compulsory service)."
+misrepresentation_public_benefits,title_en,Explanation
+misrepresentation_public_benefits,intent_en,"Asks if you misrepresented facts to obtain U.S. public benefits, a serious issue for eligibility."
+misrepresentation_public_benefits,answer_guidance_en,Answer Yes if applicable and be prepared to provide full details; consider legal advice.
+name_full,title_en,Explanation
+name_full,intent_en,Asks for your full legal name as it appears on official documents.
+name_full,answer_guidance_en,"State your full legal name (first, middle, last). If different on documents, clarify as asked."
+ordered_removed_excluded_deported,title_en,Explanation
+ordered_removed_excluded_deported,intent_en,"Asks if you were ordered removed/excluded/deported from the U.S., affecting eligibility."
+ordered_removed_excluded_deported,answer_guidance_en,Answer Yes if any such order exists; bring all immigration court documents.
+org_affiliations,title_en,Explanation
+org_affiliations,intent_en,"Checks affiliations with organizations, associations, or groups for security and GMC review."
+org_affiliations,answer_guidance_en,Answer Yes if you were a member/associated with any; list significant affiliations if asked.
+other_names_used,title_en,Explanation
+other_names_used,intent_en,"Asks if you have used any other names (aliases, maiden name, previous legal names)."
+other_names_used,answer_guidance_en,Answer Yes if you have used any other names and list them; otherwise No.
+overdue_taxes,title_en,Explanation
+overdue_taxes,intent_en,Checks if you owe overdue taxes at any level of government.
+overdue_taxes,answer_guidance_en,Answer Yes if any taxes are overdue; bring evidence of payment plans or resolutions.
+participated_genocide,title_en,Explanation
+participated_genocide,intent_en,"Screens for participation in genocide, a ground of ineligibility."
+participated_genocide,answer_guidance_en,Answer Yes if applicable; expect detailed questioning and legal implications.
+persecuted_others,title_en,Explanation
+persecuted_others,intent_en,"Asks if you have persecuted anyone due to protected grounds (race, religion, etc.)."
+persecuted_others,answer_guidance_en,Answer Yes if it occurred and be prepared to provide details; this is a serious bar to eligibility.
+refused_support_bear_arms,title_en,Explanation
+refused_support_bear_arms,intent_en,"Asks if you refused to support the military or to bear arms, relevant to oath and exemptions."
+refused_support_bear_arms,answer_guidance_en,"Answer truthfully and explain context (e.g., religious objection) if applicable."
+residence_5_years,title_en,Explanation
+residence_5_years,intent_en,Verifies 5-year residence history continuity at your current address.
+residence_5_years,answer_guidance_en,Answer Yes only if you lived there continuously for the last 5 years; otherwise No and be ready to list prior addresses.
+selective_service_registered,title_en,Explanation
+selective_service_registered,intent_en,Asks about Selective Service registration for eligible males (generally ages 18–26).
+selective_service_registered,answer_guidance_en,"Answer Yes if registered. If required but not registered, prepare an explanation and evidence."
+served_us_military,title_en,Explanation
+served_us_military,intent_en,Verifies any prior U.S. military service for background and selective service issues.
+served_us_military,answer_guidance_en,"Answer Yes if you served in the U.S. military; provide service dates, branch, and documents (DD-214)."
+spouse_us_citizen,title_en,Explanation
+spouse_us_citizen,intent_en,If your spouse is a U.S. citizen may affect eligibility pathways and documentation.
+spouse_us_citizen,answer_guidance_en,"Answer Yes only if spouse is a U.S. citizen; be prepared to show proof (e.g., passport, naturalization certificate)."
+support_constitution_government,title_en,Explanation
+support_constitution_government,intent_en,Confirms your support for the U.S. Constitution and government as part of the Oath of Allegiance.
+support_constitution_government,answer_guidance_en,Answer Yes if you support them. Be prepared to affirm this during the oath.
+suspended_sentence_probation_parole,title_en,Explanation
+suspended_sentence_probation_parole,intent_en,"Asks about suspended sentences, probation, or parole indicating post-conviction supervision."
+suspended_sentence_probation_parole,answer_guidance_en,"Answer Yes if you received any suspended sentence, probation, or parole; provide documentation."
+terrorist_association,title_en,Explanation
+terrorist_association,intent_en,Screens for any association with terrorist organizations (national security).
+terrorist_association,answer_guidance_en,Answer Yes if applicable and provide details; false answers can have severe consequences.
+tortured_anyone,title_en,Explanation
+tortured_anyone,intent_en,"Asks about acts of torture, a ground of ineligibility and serious human rights violation."
+tortured_anyone,answer_guidance_en,Answer Yes if applicable; provide details and seek legal counsel.
+trip_over_6_months,title_en,Explanation
+trip_over_6_months,intent_en,"Determines if any single trip lasted more than 6 months, which may disrupt continuous residence."
+trip_over_6_months,answer_guidance_en,Answer Yes if any single trip exceeded 6 months; otherwise No. Provide documentation if applicable.
+trips_last_5_years,title_en,Explanation
+trips_last_5_years,intent_en,Checks trips outside the U.S. in the last 5 years for continuous residence and physical presence analysis.
+trips_last_5_years,answer_guidance_en,"Answer Yes if you took any trips abroad; be ready to provide dates, length, and destinations."
+willing_bear_arms_if_required,title_en,Explanation
+willing_bear_arms_if_required,intent_en,Asks if you are willing to bear arms if required by law (with possible religious exceptions).
+willing_bear_arms_if_required,answer_guidance_en,Answer according to your beliefs and legal requirements; conscientious objectors may explain.
+willing_full_oath,title_en,Explanation
+willing_full_oath,intent_en,"Asks if you are willing to take the full Oath of Allegiance, a requirement for naturalization."
+willing_full_oath,answer_guidance_en,Answer Yes if you intend to naturalize and accept all obligations of the oath.
+willing_national_importance_work,title_en,Explanation
+willing_national_importance_work,intent_en,Asks if you will perform work of national importance under civilian direction if required by law.
+willing_national_importance_work,answer_guidance_en,Answer Yes if you are willing to perform such work when required.
+willing_noncombatant_service,title_en,Explanation
+willing_noncombatant_service,intent_en,Asks if you will perform noncombatant service if required by law.
+willing_noncombatant_service,answer_guidance_en,Answer Yes if you are willing to serve in a noncombatant role if required.

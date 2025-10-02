@@ -1,0 +1,358 @@
+{
+  "states": {
+    "AL": {
+      "name": "Alabama",
+      "capital": "Montgomery",
+      "governor": "Kay Ivey",
+      "senators": ["Katie Britt", "Tommy Tuberville"]
+    },
+    "AK": {
+      "name": "Alaska",
+      "capital": "Juneau",
+      "governor": "Mike Dunleavy",
+      "senators": ["Lisa Murkowski", "Dan Sullivan"]
+    },
+    "AZ": {
+      "name": "Arizona",
+      "capital": "Phoenix",
+      "governor": "Katie Hobbs",
+      "senators": ["Kyrsten Sinema", "Mark Kelly"]
+    },
+    "AR": {
+      "name": "Arkansas",
+      "capital": "Little Rock",
+      "governor": "Sarah Huckabee Sanders",
+      "senators": ["John Boozman", "Tom Cotton"]
+    },
+    "CA": {
+      "name": "California",
+      "capital": "Sacramento",
+      "governor": "Gavin Newsom",
+      "senators": ["Alex Padilla", "Laphonza Butler"]
+    },
+    "CO": {
+      "name": "Colorado",
+      "capital": "Denver",
+      "governor": "Jared Polis",
+      "senators": ["Michael Bennet", "John Hickenlooper"]
+    },
+    "CT": {
+      "name": "Connecticut",
+      "capital": "Hartford",
+      "governor": "Ned Lamont",
+      "senators": ["Richard Blumenthal", "Chris Murphy"]
+    },
+    "DE": {
+      "name": "Delaware",
+      "capital": "Dover",
+      "governor": "John Carney",
+      "senators": ["Tom Carper", "Chris Coons"]
+    },
+    "FL": {
+      "name": "Florida",
+      "capital": "Tallahassee",
+      "governor": "Ron DeSantis",
+      "senators": ["Marco Rubio", "Rick Scott"]
+    },
+    "GA": {
+      "name": "Georgia",
+      "capital": "Atlanta",
+      "governor": "Brian Kemp",
+      "senators": ["Jon Ossoff", "Raphael Warnock"]
+    },
+    "HI": {
+      "name": "Hawaii",
+      "capital": "Honolulu",
+      "governor": "Josh Green",
+      "senators": ["Brian Schatz", "Mazie Hirono"]
+    },
+    "ID": {
+      "name": "Idaho",
+      "capital": "Boise",
+      "governor": "Brad Little",
+      "senators": ["Mike Crapo", "James Risch"]
+    },
+    "IL": {
+      "name": "Illinois",
+      "capital": "Springfield",
+      "governor": "J.B. Pritzker",
+      "senators": ["Dick Durbin", "Tammy Duckworth"]
+    },
+    "IN": {
+      "name": "Indiana",
+      "capital": "Indianapolis",
+      "governor": "Eric Holcomb",
+      "senators": ["Todd Young", "Mike Braun"]
+    },
+    "IA": {
+      "name": "Iowa",
+      "capital": "Des Moines",
+      "governor": "Kim Reynolds",
+      "senators": ["Chuck Grassley", "Joni Ernst"]
+    },
+    "KS": {
+      "name": "Kansas",
+      "capital": "Topeka",
+      "governor": "Laura Kelly",
+      "senators": ["Jerry Moran", "Roger Marshall"]
+    },
+    "KY": {
+      "name": "Kentucky",
+      "capital": "Frankfort",
+      "governor": "Andy Beshear",
+      "senators": ["Mitch McConnell", "Rand Paul"]
+    },
+    "LA": {
+      "name": "Louisiana",
+      "capital": "Baton Rouge",
+      "governor": "Jeff Landry",
+      "senators": ["Bill Cassidy", "John Kennedy"]
+    },
+    "ME": {
+      "name": "Maine",
+      "capital": "Augusta",
+      "governor": "Janet Mills",
+      "senators": ["Susan Collins", "Angus King"]
+    },
+    "MD": {
+      "name": "Maryland",
+      "capital": "Annapolis",
+      "governor": "Wes Moore",
+      "senators": ["Ben Cardin", "Chris Van Hollen"]
+    },
+    "MA": {
+      "name": "Massachusetts",
+      "capital": "Boston",
+      "governor": "Maura Healey",
+      "senators": ["Elizabeth Warren", "Ed Markey"]
+    },
+    "MI": {
+      "name": "Michigan",
+      "capital": "Lansing",
+      "governor": "Gretchen Whitmer",
+      "senators": ["Debbie Stabenow", "Gary Peters"]
+    },
+    "MN": {
+      "name": "Minnesota",
+      "capital": "Saint Paul",
+      "governor": "Tim Walz",
+      "senators": ["Amy Klobuchar", "Tina Smith"]
+    },
+    "MS": {
+      "name": "Mississippi",
+      "capital": "Jackson",
+      "governor": "Tate Reeves",
+      "senators": ["Roger Wicker", "Cindy Hyde-Smith"]
+    },
+    "MO": {
+      "name": "Missouri",
+      "capital": "Jefferson City",
+      "governor": "Mike Parson",
+      "senators": ["Josh Hawley", "Eric Schmitt"]
+    },
+    "MT": {
+      "name": "Montana",
+      "capital": "Helena",
+      "governor": "Greg Gianforte",
+      "senators": ["Jon Tester", "Steve Daines"]
+    },
+    "NE": {
+      "name": "Nebraska",
+      "capital": "Lincoln",
+      "governor": "Pete Ricketts",
+      "senators": ["Deb Fischer", "Pete Ricketts"]
+    },
+    "NV": {
+      "name": "Nevada",
+      "capital": "Carson City",
+      "governor": "Joe Lombardo",
+      "senators": ["Catherine Cortez Masto", "Jacky Rosen"]
+    },
+    "NH": {
+      "name": "New Hampshire",
+      "capital": "Concord",
+      "governor": "Chris Sununu",
+      "senators": ["Jeanne Shaheen", "Maggie Hassan"]
+    },
+    "NJ": {
+      "name": "New Jersey",
+      "capital": "Trenton",
+      "governor": "Phil Murphy",
+      "senators": ["Bob Menendez", "Cory Booker"]
+    },
+    "NM": {
+      "name": "New Mexico",
+      "capital": "Santa Fe",
+      "governor": "Michelle Lujan Grisham",
+      "senators": ["Martin Heinrich", "Ben Ray Luján"]
+    },
+    "NY": {
+      "name": "New York",
+      "capital": "Albany",
+      "governor": "Kathy Hochul",
+      "senators": ["Chuck Schumer", "Kirsten Gillibrand"]
+    },
+    "NC": {
+      "name": "North Carolina",
+      "capital": "Raleigh",
+      "governor": "Roy Cooper",
+      "senators": ["Thom Tillis", "Ted Budd"]
+    },
+    "ND": {
+      "name": "North Dakota",
+      "capital": "Bismarck",
+      "governor": "Doug Burgum",
+      "senators": ["John Hoeven", "Kevin Cramer"]
+    },
+    "OH": {
+      "name": "Ohio",
+      "capital": "Columbus",
+      "governor": "Mike DeWine",
+      "senators": ["Sherrod Brown", "J.D. Vance"]
+    },
+    "OK": {
+      "name": "Oklahoma",
+      "capital": "Oklahoma City",
+      "governor": "Kevin Stitt",
+      "senators": ["James Lankford", "Markwayne Mullin"]
+    },
+    "OR": {
+      "name": "Oregon",
+      "capital": "Salem",
+      "governor": "Tina Kotek",
+      "senators": ["Ron Wyden", "Jeff Merkley"]
+    },
+    "PA": {
+      "name": "Pennsylvania",
+      "capital": "Harrisburg",
+      "governor": "Josh Shapiro",
+      "senators": ["Bob Casey Jr.", "John Fetterman"]
+    },
+    "RI": {
+      "name": "Rhode Island",
+      "capital": "Providence",
+      "governor": "Dan McKee",
+      "senators": ["Jack Reed", "Sheldon Whitehouse"]
+    },
+    "SC": {
+      "name": "South Carolina",
+      "capital": "Columbia",
+      "governor": "Henry McMaster",
+      "senators": ["Lindsey Graham", "Tim Scott"]
+    },
+    "SD": {
+      "name": "South Dakota",
+      "capital": "Pierre",
+      "governor": "Kristi Noem",
+      "senators": ["John Thune", "Mike Rounds"]
+    },
+    "TN": {
+      "name": "Tennessee",
+      "capital": "Nashville",
+      "governor": "Bill Lee",
+      "senators": ["Marsha Blackburn", "Bill Hagerty"]
+    },
+    "TX": {
+      "name": "Texas",
+      "capital": "Austin",
+      "governor": "Greg Abbott",
+      "senators": ["John Cornyn", "Ted Cruz"]
+    },
+    "UT": {
+      "name": "Utah",
+      "capital": "Salt Lake City",
+      "governor": "Spencer Cox",
+      "senators": ["Mike Lee", "Mitt Romney"]
+    },
+    "VT": {
+      "name": "Vermont",
+      "capital": "Montpelier",
+      "governor": "Phil Scott",
+      "senators": ["Bernie Sanders", "Peter Welch"]
+    },
+    "VA": {
+      "name": "Virginia",
+      "capital": "Richmond",
+      "governor": "Glenn Youngkin",
+      "senators": ["Mark Warner", "Tim Kaine"]
+    },
+    "WA": {
+      "name": "Washington",
+      "capital": "Olympia",
+      "governor": "Jay Inslee",
+      "senators": ["Patty Murray", "Maria Cantwell"]
+    },
+    "WV": {
+      "name": "West Virginia",
+      "capital": "Charleston",
+      "governor": "Jim Justice",
+      "senators": ["Joe Manchin", "Shelley Moore Capito"]
+    },
+    "WI": {
+      "name": "Wisconsin",
+      "capital": "Madison",
+      "governor": "Tony Evers",
+      "senators": ["Ron Johnson", "Tammy Baldwin"]
+    },
+    "WY": {
+      "name": "Wyoming",
+      "capital": "Cheyenne",
+      "governor": "Mark Gordon",
+      "senators": ["John Barrasso", "Cynthia Lummis"]
+    }
+  },
+  "zipToState": {
+    "comment": "주요 ZIP 코드의 정확한 주 매핑",
+    "exactMappings": {
+      "10001": "NY", "10002": "NY", "10003": "NY", "10004": "NY", "10005": "NY",
+      "10006": "NY", "10007": "NY", "10008": "NY", "10009": "NY", "10010": "NY",
+      "10011": "NY", "10012": "NY", "10013": "NY", "10014": "NY", "10015": "NY",
+      "10016": "NY", "10017": "NY", "10018": "NY", "10019": "NY", "10020": "NY",
+      "10021": "NY", "10022": "NY", "10023": "NY", "10024": "NY", "10025": "NY",
+      "10026": "NY", "10027": "NY", "10028": "NY", "10029": "NY", "10030": "NY",
+      "10031": "NY", "10032": "NY", "10033": "NY", "10034": "NY", "10035": "NY",
+      "10036": "NY", "10037": "NY", "10038": "NY", "10039": "NY", "10040": "NY",
+      "11201": "NY", "11202": "NY", "11203": "NY", "11204": "NY", "11205": "NY",
+      "11206": "NY", "11207": "NY", "11208": "NY", "11209": "NY", "11210": "NY",
+      "11211": "NY", "11212": "NY", "11213": "NY", "11214": "NY", "11215": "NY",
+      "11216": "NY", "11217": "NY", "11218": "NY", "11219": "NY", "11220": "NY",
+      "11221": "NY", "11222": "NY", "11223": "NY", "11224": "NY", "11225": "NY",
+      "11226": "NY", "11228": "NY", "11229": "NY", "11230": "NY", "11231": "NY",
+      "11232": "NY", "11233": "NY", "11234": "NY", "11235": "NY", "11236": "NY",
+      "11237": "NY", "11238": "NY", "11239": "NY", "11354": "NY", "11355": "NY",
+      "11356": "NY", "11357": "NY", "11358": "NY", "11359": "NY", "11360": "NY",
+      "11361": "NY", "11362": "NY", "11363": "NY", "11364": "NY", "11365": "NY",
+      "11366": "NY", "11367": "NY", "11368": "NY", "11369": "NY", "11370": "NY",
+      "11371": "NY", "11372": "NY", "11373": "NY", "11374": "NY", "11375": "NY",
+      "11377": "NY", "11378": "NY", "11379": "NY", "11380": "NY", "11381": "NY",
+      "11385": "NY", "11411": "NY", "11412": "NY", "11413": "NY", "11414": "NY",
+      "11415": "NY", "11416": "NY", "11417": "NY", "11418": "NY", "11419": "NY",
+      "11420": "NY", "11421": "NY", "11422": "NY", "11423": "NY", "11426": "NY",
+      "11427": "NY", "11428": "NY", "11429": "NY",
+      "90210": "CA", "90211": "CA", "90212": "CA", "90213": "CA", "90214": "CA",
+      "90215": "CA", "90216": "CA", "90217": "CA", "90218": "CA", "90219": "CA",
+      "90220": "CA", "90221": "CA", "90222": "CA", "90223": "CA", "90224": "CA",
+      "90001": "CA", "90002": "CA", "90003": "CA", "90004": "CA", "90005": "CA",
+      "90006": "CA", "90007": "CA", "90008": "CA", "90009": "CA", "90010": "CA",
+      "19101": "PA", "19102": "PA", "19103": "PA", "19104": "PA", "19105": "PA",
+      "19106": "PA", "19107": "PA", "19108": "PA", "19109": "PA", "19110": "PA",
+      "19111": "PA", "19112": "PA", "19113": "PA", "19114": "PA", "19115": "PA",
+      "19801": "DE", "19802": "DE", "19803": "DE", "19804": "DE", "19805": "DE",
+      "19806": "DE", "19807": "DE", "19808": "DE", "19809": "DE", "19810": "DE"
+    },
+    "ranges": {
+      "00000-09999": ["CT", "MA", "ME", "NH", "NJ", "RI", "VT"],
+      "10000-19999": ["DE", "NY", "PA"],
+      "20000-29999": ["DC", "MD", "NC", "SC", "VA", "WV"],
+      "30000-39999": ["AL", "FL", "GA", "MS", "TN"],
+      "40000-49999": ["IN", "KY", "MI", "OH"],
+      "50000-59999": ["IA", "MN", "MT", "ND", "SD", "WI"],
+      "60000-69999": ["IL", "KS", "MO", "NE"],
+      "70000-79999": ["AR", "LA", "OK", "TX"],
+      "80000-89999": ["AZ", "CO", "ID", "NM", "NV", "UT", "WY"],
+      "90000-99999": ["AK", "CA", "HI", "OR", "WA"]
+    }
+  },
+  "lastUpdated": "2025-01-02",
+  "dataSize": "약 15KB"
+}

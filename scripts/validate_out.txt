@@ -1,0 +1,4 @@
+
+[Story Structure Check] FAIL
+chapter 1 section 0: content_es length 9 != content_en length 11
+[Story Structure Check] Wrote report to /Users/seshin/Desktop/Personal/Private_Projects/CitizenTestAi/scripts/story_structure_report.txt

@@ -1,0 +1,5792 @@
+{
+  "civicsStory": [
+    {
+      "chapterId": 1,
+      "translations": {
+        "en": {
+          "title": "The Blueprint for Freedom",
+          "introduction": "Before the adventure of America could begin, the great adventurers (the Founding Fathers) first drew the most important 'blueprint.' Without this design, the United States as we know it would not exist."
+        },
+        "ko": {
+          "title": "자유를 위한 청사진",
+          "introduction": "미국이라는 모험이 시작되기 전, 위대한 모험가들(건국의 아버지들)은 가장 중요한 '설계도'부터 그렸습니다. 이 설계도가 없었다면 지금의 미국은 존재하지 않았을 겁니다."
+        },
+        "es": {
+          "title": "El plano de la libertad",
+          "introduction": "Antes de que pudiera comenzar la aventura de Estados Unidos, los grandes aventureros (los Padres Fundadores) dibujaron primero el 'plano' más importante. Sin ese diseño, Estados Unidos como lo conocemos no existiría."
+        },
+        "fr": {
+          "title": "Le plan pour la liberté",
+          "introduction": "Avant que l'aventure de l'Amérique ne puisse commencer, les grands aventuriers (les Pères fondateurs) ont d'abord tracé le 'plan' le plus important. Sans ce plan, les États‑Unis tels que nous les connaissons n'existeraient pas."
+        },
+        "ar": {
+          "title": "المخطط من أجل الحرية",
+          "introduction": "قبل أن تبدأ مغامرة الولايات المتحدة، رسم المغامرون العظماء (الآباء المؤسسون) أولاً أهم \"مخطط\". ومن دون هذا التصميم، لما وُجدت الولايات المتحدة كما نعرفها اليوم."
+        },
+        "zh": {
+          "title": "通往自由的蓝图",
+          "introduction": "在美国这场伟大冒险开始之前，伟大的冒险家（开国元勋）首先绘制了最重要的“蓝图”。没有这份设计，就不会有我们今天所认识的美利坚合众国。"
+        }
+      },
+      "sections": [
+        {
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "The most important rule and the supreme law of the land is the "
+            },
+            {
+              "type": "answer",
+              "text": "Constitution"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 1). This great blueprint serves three core functions: it "
+            },
+            {
+              "type": "answer",
+              "text": "sets up the government"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "defines the government"
+            },
+            {
+              "type": "normal",
+              "text": ", and most importantly, "
+            },
+            {
+              "type": "answer",
+              "text": "protects the basic rights of Americans"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 2). The first three words of this blueprint are \""
+            },
+            {
+              "type": "answer",
+              "text": "We the People"
+            },
+            {
+              "type": "normal",
+              "text": ",\" making it clear that all power comes from the people (Q. 3)."
+            }
+          ],
+          "content_ar": [
+            {
+              "type": "normal",
+              "text": "أهم قاعدة وأعلى قانون في البلاد هو "
+            },
+            {
+              "type": "answer",
+              "text": "الدستور"
+            },
+            {
+              "type": "normal",
+              "text": " (س. 1). يقوم هذا المخطط العظيم بثلاث وظائف أساسية: فهو "
+            },
+            {
+              "type": "answer",
+              "text": "ينشئ الحكومة"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "ويحدد الحكومة"
+            },
+            {
+              "type": "normal",
+              "text": ", والأهم من ذلك أنه "
+            },
+            {
+              "type": "answer",
+              "text": "يحمي الحقوق الأساسية للأمريكيين"
+            },
+            {
+              "type": "normal",
+              "text": " (س. 2). والكلمات الثلاث الأولى في هذا المخطط هي \""
+            },
+            {
+              "type": "answer",
+              "text": "نحن الشعب"
+            },
+            {
+              "type": "normal",
+              "text": "\"، مما يوضح أن كل السلطة تأتي من الشعب (س. 3)."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "이 모험의 가장 중요한 규칙이자 땅의 최고법은 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "헌법(the Constitution)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 1). 이 헌법이라는 위대한 설계도는 세 가지 핵심적인 역할을 합니다. 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "정부를 세우고(sets up the government)"
+            },
+            {
+              "type": "normal",
+              "text": "정부의 역할을 규정하며(defines the government)"
+            },
+            {
+              "type": "answer",
+              "text": ", 가장 중요하게는 "
+            },
+            {
+              "type": "normal",
+              "text": "미국인의 기본권을 보호(protects basic rights of Americans)"
+            },
+            {
+              "type": "answer",
+              "text": "하는 것이죠 (Q. 2). 이 설계도의 첫 세 단어는 \""
+            },
+            {
+              "type": "normal",
+              "text": "우리 국민은(We the People)"
+            },
+            {
+              "type": "answer",
+              "text": "\"으로, 모든 힘이 국민으로부터 나온다는 것을 분명히 합니다 (Q. 3)."
+            },
+            {
+              "type": "normal",
+              "text": "\"으로, 모든 힘이 국민으로부터 나온다는 것을 분명히 합니다 (Q. 3)."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "La regla más importante y la ley suprema del país es la "
+            },
+            {
+              "type": "answer",
+              "text": "Constitución"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 1). Este gran plano cumple tres funciones esenciales: "
+            },
+            {
+              "type": "answer",
+              "text": "establece el gobierno"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "define el gobierno"
+            },
+            {
+              "type": "normal",
+              "text": ", y lo más importante, "
+            },
+            {
+              "type": "answer",
+              "text": "protege los derechos básicos de los estadounidenses"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 2). Las tres primeras palabras de este plano son \""
+            },
+            {
+              "type": "answer",
+              "text": "Nosotros el Pueblo"
+            },
+            {
+              "type": "normal",
+              "text": "\" (We the People), lo que deja claro que todo el poder proviene del pueblo (P. 3)."
+            }
+          ],
+          "linkedQuestions": [
+            1,
+            2,
+            3
+          ],
+          "content_zh": [
+            { "type": "normal", "text": "这片土地上最重要的规则、也是最高的法律是" },
+            { "type": "answer", "text": "宪法" },
+            { "type": "normal", "text": "（Q. 1）。这份伟大的蓝图承担三项核心职能：它" },
+            { "type": "answer", "text": "建立政府" },
+            { "type": "normal", "text": ", " },
+            { "type": "answer", "text": "界定政府" },
+            { "type": "normal", "text": ", 而且最重要的是" },
+            { "type": "answer", "text": "保障美国人的基本权利" },
+            { "type": "normal", "text": "（Q. 2）。这份蓝图的前三个词是“" },
+            { "type": "answer", "text": "我们人民（We the People）" },
+            { "type": "normal", "text": "”，明确表明一切权力来自人民（Q. 3）。" }
+          ],
+          "content_fr": [
+            {
+              "type": "normal",
+              "text": "La règle la plus importante et la loi suprême du pays est la "
+            },
+            {
+              "type": "answer",
+              "text": "Constitution"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 1). Ce grand plan remplit trois fonctions essentielles : il "
+            },
+            {
+              "type": "answer",
+              "text": "met en place le gouvernement"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "définit le gouvernement"
+            },
+            {
+              "type": "normal",
+              "text": ", et surtout, "
+            },
+            {
+              "type": "answer",
+              "text": "protège les droits fondamentaux des Américains"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 2). Les trois premiers mots de ce plan sont «"
+            },
+            {
+              "type": "answer",
+              "text": "Nous, le Peuple"
+            },
+            {
+              "type": "normal",
+              "text": "», ce qui montre clairement que tout pouvoir vient du peuple (Q. 3)."
+            }
+          ]
+        },
+        {
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "A blueprint cannot be perfect forever, so it needs updates as times change. A change or addition to the Constitution is called an "
+            },
+            {
+              "type": "answer",
+              "text": "amendment"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 4). To date, the U.S. Constitution has been updated "
+            },
+            {
+              "type": "answer",
+              "text": "27"
+            },
+            {
+              "type": "normal",
+              "text": " times (Q. 7). Among these, the very first list of 10 updates, promised as \"this we must absolutely protect,\" is called the "
+            },
+            {
+              "type": "answer",
+              "text": "Bill of Rights"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 5). Within the first promise (the First Amendment) of this Bill of Rights are very important freedoms: "
+            },
+            {
+              "type": "answer",
+              "text": "speech"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "religion"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "assembly"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "press"
+            },
+            {
+              "type": "normal",
+              "text": ", and the right to "
+            },
+            {
+              "type": "answer",
+              "text": "petition the government"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 6)."
+            }
+          ],
+          "content_ar": [
+            {
+              "type": "normal",
+              "text": "لا يمكن أن يكون أي مخطط مثالياً إلى الأبد، لذا يحتاج إلى تحديثات مع تغيّر الأزمنة. إن التغيير أو الإضافة إلى الدستور يُسمّى "
+            },
+            {
+              "type": "answer",
+              "text": "تعديلاً"
+            },
+            {
+              "type": "normal",
+              "text": " (س. 4). حتى الآن، تم تحديث دستور الولايات المتحدة "
+            },
+            {
+              "type": "answer",
+              "text": "27"
+            },
+            {
+              "type": "normal",
+              "text": " مرة (س. 7). ومن بينها، تُسمّى أول قائمة من 10 تحديثات، والتي وُعد بها على أنها \"ما يجب أن نحميه تماماً\"، "
+            },
+            {
+              "type": "answer",
+              "text": "وثيقة الحقوق"
+            },
+            {
+              "type": "normal",
+              "text": " (س. 5). وتشمل أولى الوعود (التعديل الأول) في وثيقة الحقوق هذه حريات مهمة جداً: "
+            },
+            {
+              "type": "answer",
+              "text": "حرية الكلام"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "وحرية الدين"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "وحرية التجمع"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "وحرية الصحافة"
+            },
+            {
+              "type": "normal",
+              "text": ", والحق في "
+            },
+            {
+              "type": "answer",
+              "text": "رفع العرائض إلى الحكومة"
+            },
+            {
+              "type": "normal",
+              "text": " (س. 6)."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "설계도는 완벽할 수 없기에, 시대가 변함에 따라 업데이트가 필요합니다. 이렇게 헌법을 변경하거나 내용을 추가하는 것을 "
+            },
+            {
+              "type": "answer",
+              "text": "수정헌법(an amendment)"
+            },
+            {
+              "type": "normal",
+              "text": "이라고 부릅니다 (Q. 4). 지금까지 미국 헌법은 총 "
+            },
+            {
+              "type": "answer",
+              "text": "27번"
+            },
+            {
+              "type": "normal",
+              "text": " 업데이트되었습니다 (Q. 7). 그중에서도 가장 먼저, \"이것만은 절대 지키자!\"고 약속한 첫 10개의 업데이트 목록이 있는데, 우리는 이것을 "
+            },
+            {
+              "type": "answer",
+              "text": "권리장전(the Bill of Rights)"
+            },
+            {
+              "type": "normal",
+              "text": "이라고 부릅니다 (Q. 5). 이 권리장전의 첫 번째 약속(1차 수정안) 안에는 아주 중요한 자유들이 담겨 있습니다. 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "언론(speech)"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "종교(religion)"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "집회(assembly)"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "출판(press)"
+            },
+            {
+              "type": "normal",
+              "text": ", 그리고 "
+            },
+            {
+              "type": "answer",
+              "text": "정부에 대한 청원(petition the government)"
+            },
+            {
+              "type": "normal",
+              "text": "의 자유가 있습니다 (Q. 6)."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "Un plano no puede ser perfecto para siempre; necesita actualizaciones cuando cambian los tiempos. Un cambio o adición a la Constitución se llama "
+            },
+            {
+              "type": "answer",
+              "text": "enmienda"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 4). Hasta la fecha, la Constitución de EE. UU. se ha actualizado "
+            },
+            {
+              "type": "answer",
+              "text": "27"
+            },
+            {
+              "type": "normal",
+              "text": " veces (P. 7). Entre ellas, la primera lista de 10 actualizaciones, prometidas como \"esto debemos protegerlo absolutamente\", se llama la "
+            },
+            {
+              "type": "answer",
+              "text": "Carta de Derechos"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 5). Dentro de la primera promesa (la Primera Enmienda) de esta Carta de Derechos hay libertades muy importantes: "
+            },
+            {
+              "type": "answer",
+              "text": "expresión"
+            },
+            {
+              "type": "normal",
+              "text": "religión"
+            },
+            {
+              "type": "answer",
+              "text": ", "
+            },
+            {
+              "type": "normal",
+              "text": "reunión"
+            },
+            {
+              "type": "answer",
+              "text": "prensa"
+            },
+            {
+              "type": "normal",
+              "text": ", y el derecho a "
+            },
+            {
+              "type": "answer",
+              "text": "peticionar al gobierno"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 6)."
+            },
+            {
+              "type": "answer",
+              "text": " (P. 6)."
+            },
+            {
+              "type": "normal",
+              "text": " (P. 6)."
+            }
+          ],
+          "linkedQuestions": [
+            4,
+            7,
+            5,
+            6
+          ],
+          "content_zh": [
+            { "type": "normal", "text": "蓝图不可能永远完美，因此随着时代变迁需要更新。对宪法所作的更改或增补称为" },
+            { "type": "answer", "text": "修正案" },
+            { "type": "normal", "text": "（Q. 4）。截至目前，美国宪法已经被更新" },
+            { "type": "answer", "text": "27" },
+            { "type": "normal", "text": "次（Q. 7）。其中，最先的一份包含10条更新、被承诺为“必须绝对保护”的清单，被称为" },
+            { "type": "answer", "text": "权利法案（Bill of Rights）" },
+            { "type": "normal", "text": "（Q. 5）。在这份权利法案的第一项承诺（第一修正案）中，包含非常重要的自由：" },
+            { "type": "answer", "text": "言论自由" },
+            { "type": "normal", "text": ", " },
+            { "type": "answer", "text": "宗教自由" },
+            { "type": "normal", "text": ", " },
+            { "type": "answer", "text": "集会自由" },
+            { "type": "normal", "text": ", " },
+            { "type": "answer", "text": "出版自由" },
+            { "type": "normal", "text": ", 以及" },
+            { "type": "answer", "text": "向政府请愿的权利" },
+            { "type": "normal", "text": "（Q. 6）。" }
+          ],
+          "content_fr": [
+            {
+              "type": "normal",
+              "text": "Un plan ne peut pas être parfait pour toujours ; il doit être mis à jour lorsque les temps changent. Une modification ou un ajout à la Constitution s'appelle un "
+            },
+            {
+              "type": "answer",
+              "text": "amendement"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 4). À ce jour, la Constitution des États‑Unis a été mise à jour "
+            },
+            {
+              "type": "answer",
+              "text": "27"
+            },
+            {
+              "type": "normal",
+              "text": " fois (Q. 7). Parmi celles‑ci, la toute première liste de 10 mises à jour, promise comme « ceci, nous devons absolument le protéger », s'appelle la "
+            },
+            {
+              "type": "answer",
+              "text": "Déclaration des droits (Bill of Rights)"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 5). Dans la première promesse (le Premier amendement) de cette Déclaration des droits figurent des libertés très importantes : "
+            },
+            {
+              "type": "answer",
+              "text": "expression"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "religion"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "réunion"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "presse"
+            },
+            {
+              "type": "normal",
+              "text": ", et le droit de "
+            },
+            {
+              "type": "answer",
+              "text": "présenter des pétitions au gouvernement"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 6)."
+            }
+          ]
+        },
+        {
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "Before the Constitution was created, the American people sent a letter to the King of Great Britain saying, \"We will no longer follow your rules!\" This is the "
+            },
+            {
+              "type": "answer",
+              "text": "Declaration of Independence"
+            },
+            {
+              "type": "normal",
+              "text": ". This declaration officially "
+            },
+            {
+              "type": "answer",
+              "text": "announced our independence (from Great Britain)"
+            },
+            {
+              "type": "normal",
+              "text": " and proclaimed the United States a free nation (Q. 8). It states three core rights that all human beings are born with: "
+            },
+            {
+              "type": "answer",
+              "text": "life"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "liberty"
+            },
+            {
+              "type": "normal",
+              "text": ", and the "
+            },
+            {
+              "type": "answer",
+              "text": "pursuit of happiness"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 9)."
+            }
+          ],
+          "content_ar": [
+            {
+              "type": "normal",
+              "text": "قبل إنشاء الدستور، أرسل الشعب الأمريكي رسالة إلى ملك بريطانيا العظمى تقول: \"لن نتبع قواعدك بعد الآن!\" وهذا هو "
+            },
+            {
+              "type": "answer",
+              "text": "إعلان الاستقلال"
+            },
+            {
+              "type": "normal",
+              "text": ". هذا الإعلان "
+            },
+            {
+              "type": "answer",
+              "text": "أعلن رسمياً استقلالنا (عن بريطانيا العظمى)"
+            },
+            {
+              "type": "normal",
+              "text": " وصرّح بأن الولايات المتحدة أمة حرة (س. 8). وينص على ثلاثة حقوق أساسية يولد بها كل إنسان: "
+            },
+            {
+              "type": "answer",
+              "text": "الحق في الحياة"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "والحرية"
+            },
+            {
+              "type": "normal",
+              "text": ", و"
+            },
+            {
+              "type": "answer",
+              "text": "السعي وراء السعادة"
+            },
+            {
+              "type": "normal",
+              "text": " (س. 9)."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "헌법이 만들어지기 전, 미국인들은 영국 왕에게 \"우리는 더 이상 당신의 규칙을 따르지 않겠습니다!\"라는 편지를 보냈습니다. 이것이 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "독립선언서(the Declaration of Independence)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다. 이 선언서는 "
+            },
+            {
+              "type": "answer",
+              "text": "영국으로부터의 독립을 공식적으로 알렸고(announced our independence)"
+            },
+            {
+              "type": "normal",
+              "text": ", 미국이 자유로운 국가임을 선포했습니다 (Q. 8). 이 선언서에는 모든 인간이 태어날 때부터 갖는 세 가지 핵심 권리가 명시되어 있는데, 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "생명(life)"
+            },
+            {
+              "type": "normal",
+              "text": "자유(liberty)"
+            },
+            {
+              "type": "answer",
+              "text": ", "
+            },
+            {
+              "type": "normal",
+              "text": "그리고 행복 추구(pursuit of happiness)"
+            },
+            {
+              "type": "answer",
+              "text": "입니다 (Q. 9)."
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 9)."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "Antes de que existiera la Constitución, el pueblo estadounidense envió una carta al rey de Gran Bretaña diciendo: \"¡Ya no seguiremos tus reglas!\" Esto es la "
+            },
+            {
+              "type": "answer",
+              "text": "Declaración de Independencia"
+            },
+            {
+              "type": "normal",
+              "text": ". Esta declaración "
+            },
+            {
+              "type": "answer",
+              "text": "anunció oficialmente nuestra independencia (del Reino Unido)"
+            },
+            {
+              "type": "normal",
+              "text": " y proclamó a Estados Unidos como una nación libre (P. 8). Establece tres derechos fundamentales con los que nacen todos los seres humanos: "
+            },
+            {
+              "type": "answer",
+              "text": "vida"
+            },
+            {
+              "type": "normal",
+              "text": "libertad"
+            },
+            {
+              "type": "answer",
+              "text": ", y la "
+            },
+            {
+              "type": "normal",
+              "text": "búsqueda de la felicidad"
+            },
+            {
+              "type": "answer",
+              "text": " (P. 9)."
+            },
+            {
+              "type": "normal",
+              "text": " (P. 9)."
+            }
+          ],
+          "linkedQuestions": [
+            8,
+            9
+          ],
+          "content_zh": [
+            { "type": "normal", "text": "在制定宪法之前，美国人民给大不列颠国王写了一封信：“我们不再遵守你的规则！”这就是" },
+            { "type": "answer", "text": "《独立宣言》" },
+            { "type": "normal", "text": "。这份宣言正式" },
+            { "type": "answer", "text": "宣告了我们的独立（脱离大不列颠）" },
+            { "type": "normal", "text": "，并宣布美利坚合众国为自由国家（Q. 8）。它阐明了所有人生而具备的三项核心权利：" },
+            { "type": "answer", "text": "生命" },
+            { "type": "normal", "text": ", " },
+            { "type": "answer", "text": "自由" },
+            { "type": "normal", "text": ", 以及" },
+            { "type": "answer", "text": "追求幸福" },
+            { "type": "normal", "text": "（Q. 9）。" }
+          ],
+          "content_fr": [
+            {
+              "type": "normal",
+              "text": "Avant la création de la Constitution, le peuple américain a envoyé une lettre au roi de Grande‑Bretagne disant « Nous ne suivrons plus vos règles ! » Ceci est la "
+            },
+            {
+              "type": "answer",
+              "text": "Déclaration d'indépendance"
+            },
+            {
+              "type": "normal",
+              "text": ". Cette déclaration a officiellement "
+            },
+            {
+              "type": "answer",
+              "text": "annoncé notre indépendance (vis‑à‑vis de la Grande‑Bretagne)"
+            },
+            {
+              "type": "normal",
+              "text": " et a proclamé les États‑Unis une nation libre (Q. 8). Elle énonce trois droits fondamentaux dont tout être humain naît pourvu : "
+            },
+            {
+              "type": "answer",
+              "text": "la vie"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "la liberté"
+            },
+            {
+              "type": "normal",
+              "text": ", et la "
+            },
+            {
+              "type": "answer",
+              "text": "poursuite du bonheur"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 9)."
+            }
+          ]
+        },
+        {
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "For all these principles to work properly, the rules must apply fairly to everyone. This is called the "
+            },
+            {
+              "type": "answer",
+              "text": "rule of law"
+            },
+            {
+              "type": "normal",
+              "text": ", and it means that whether you are the president or an ordinary citizen, "
+            },
+            {
+              "type": "answer",
+              "text": "no one is above the law"
+            },
+            {
+              "type": "normal",
+              "text": ", and "
+            },
+            {
+              "type": "answer",
+              "text": "everyone must follow the law"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 12). Within this free environment, the United States adopted a "
+            },
+            {
+              "type": "answer",
+              "text": "capitalist or market economy"
+            },
+            {
+              "type": "normal",
+              "text": " system that respects private property and effort (Q. 11). Lastly, one of the most cherished rights for Americans, the "
+            },
+            {
+              "type": "answer",
+              "text": "freedom of religion"
+            },
+            {
+              "type": "normal",
+              "text": ", means that "
+            },
+            {
+              "type": "answer",
+              "text": "you can practice any religion, or not practice a religion"
+            },
+            {
+              "type": "normal",
+              "text": ", without government interference (Q. 10)."
+            }
+          ],
+          "content_ar": [
+            {
+              "type": "normal",
+              "text": "لكي تعمل كل هذه المبادئ بشكل صحيح، يجب أن تُطبَّق القواعد بعدالة على الجميع. وهذا ما يُسمّى "
+            },
+            {
+              "type": "answer",
+              "text": "سيادة القانون"
+            },
+            {
+              "type": "normal",
+              "text": ", ويعني أنه سواء كنت رئيساً أم مواطناً عادياً، "
+            },
+            {
+              "type": "answer",
+              "text": "فلا أحد فوق القانون"
+            },
+            {
+              "type": "normal",
+              "text": ", و"
+            },
+            {
+              "type": "answer",
+              "text": "على الجميع اتباع القانون"
+            },
+            {
+              "type": "normal",
+              "text": " (س. 12). وفي ظل هذه الأجواء الحرة، تبنّت الولايات المتحدة "
+            },
+            {
+              "type": "answer",
+              "text": "اقتصاداً رأسمالياً أو سوقياً"
+            },
+            {
+              "type": "normal",
+              "text": " يحترم الملكية الخاصة والجهد (س. 11). وأخيراً، من أعزّ الحقوق لدى الأمريكيين، "
+            },
+            {
+              "type": "answer",
+              "text": "حرية الدين"
+            },
+            {
+              "type": "normal",
+              "text": ", تعني أنك "
+            },
+            {
+              "type": "answer",
+              "text": "يمكنك ممارسة أي دين، أو عدم ممارسة أي دين"
+            },
+            {
+              "type": "normal",
+              "text": ", من دون تدخّل الحكومة (س. 10)."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "이 모든 원칙이 제대로 작동하려면, 누구에게나 공평한 규칙이 적용되어야 합니다. 이것을 법치주의(rule of law)라고 부르며, 그 의미는 대통령이든, 평범한 시민이든 "
+            },
+            {
+              "type": "answer",
+              "text": "누구도 법 위에 있지 않고(no one is above the law)"
+            },
+            {
+              "type": "normal",
+              "text": "모든 사람이 법을 따라야 한다(everyone must follow the law)"
+            },
+            {
+              "type": "answer",
+              "text": "는 것입니다 (Q. 12). 이러한 자유로운 환경 속에서 미국은 개인의 재산과 노력을 존중하는 "
+            },
+            {
+              "type": "normal",
+              "text": "자본주의 또는 시장 경제(capitalist or market economy)"
+            },
+            {
+              "type": "answer",
+              "text": " 체제를 채택하게 되었습니다 (Q. 11). 마지막으로, 미국인들이 가장 소중하게 생각하는 권리 중 하나인 "
+            },
+            {
+              "type": "normal",
+              "text": "종교의 자유(freedom of religion)"
+            },
+            {
+              "type": "answer",
+              "text": "는, 당신이 "
+            },
+            {
+              "type": "normal",
+              "text": "어떤 종교를 믿든"
+            },
+            {
+              "type": "answer",
+              "text": "혹은 믿지 않든"
+            },
+            {
+              "type": "normal",
+              "text": " 국가가 간섭하지 않는다는 것을 의미합니다 (Q. 10)."
+            },
+            {
+              "type": "answer",
+              "text": " 국가가 간섭하지 않는다는 것을 의미합니다 (Q. 10)."
+            },
+            {
+              "type": "normal",
+              "text": " 국가가 간섭하지 않는다는 것을 의미합니다 (Q. 10)."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "Para que todos estos principios funcionen correctamente, las reglas deben aplicarse de manera justa a todos. A esto se le llama el "
+            },
+            {
+              "type": "answer",
+              "text": "estado de derecho"
+            },
+            {
+              "type": "normal",
+              "text": ", y significa que, seas presidente o un ciudadano común, "
+            },
+            {
+              "type": "answer",
+              "text": "nadie está por encima de la ley"
+            },
+            {
+              "type": "normal",
+              "text": ", y que "
+            },
+            {
+              "type": "answer",
+              "text": "todos deben obedecer la ley"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 12). En este entorno de libertad, Estados Unidos adoptó una "
+            },
+            {
+              "type": "answer",
+              "text": "economía capitalista o de mercado"
+            },
+            {
+              "type": "normal",
+              "text": " que respeta la propiedad privada y el esfuerzo (P. 11). Por último, uno de los derechos más apreciados para los estadounidenses, la "
+            },
+            {
+              "type": "answer",
+              "text": "libertad de religión"
+            },
+            {
+              "type": "normal",
+              "text": ", significa que "
+            },
+            {
+              "type": "answer",
+              "text": "puedes practicar cualquier religión o no practicar ninguna"
+            },
+            {
+              "type": "normal",
+              "text": ", sin interferencia del gobierno (P. 10)."
+            }
+          ],
+          "linkedQuestions": [
+            12,
+            11,
+            10
+          ],
+          "content_zh": [
+            { "type": "normal", "text": "要让这些原则真正发挥作用，规则必须对所有人一视同仁。这被称为" },
+            { "type": "answer", "text": "法治" },
+            { "type": "normal", "text": "，意思是无论你是总统还是普通公民，" },
+            { "type": "answer", "text": "没有人凌驾于法律之上" },
+            { "type": "normal", "text": "，并且" },
+            { "type": "answer", "text": "每个人都必须遵守法律" },
+            { "type": "normal", "text": "（Q. 12）。在这样的自由环境中，美国采用了" },
+            { "type": "answer", "text": "资本主义或市场经济" },
+            { "type": "normal", "text": "，尊重私人财产与个人努力（Q. 11）。最后，美国人最珍视的权利之一——" },
+            { "type": "answer", "text": "宗教自由" },
+            { "type": "normal", "text": "——意味着" },
+            { "type": "answer", "text": "你可以信仰任何宗教，也可以不信仰宗教" },
+            { "type": "normal", "text": "，且不受政府干预（Q. 10）。" }
+          ],
+          "content_fr": [
+            {
+              "type": "normal",
+              "text": "Pour que tous ces principes fonctionnent correctement, les règles doivent s'appliquer équitablement à tous. Cela s'appelle la "
+            },
+            {
+              "type": "answer",
+              "text": "primauté du droit (rule of law)"
+            },
+            {
+              "type": "normal",
+              "text": ", et cela signifie que, que vous soyez président ou simple citoyen, "
+            },
+            {
+              "type": "answer",
+              "text": "personne n'est au‑dessus de la loi"
+            },
+            {
+              "type": "normal",
+              "text": ", et que "
+            },
+            {
+              "type": "answer",
+              "text": "tout le monde doit respecter la loi"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 12). Dans cet environnement de liberté, les États‑Unis ont adopté une "
+            },
+            {
+              "type": "answer",
+              "text": "économie capitaliste ou de marché"
+            },
+            {
+              "type": "normal",
+              "text": " qui respecte la propriété privée et l'effort (Q. 11). Enfin, l'un des droits les plus chers aux Américains, la "
+            },
+            {
+              "type": "answer",
+              "text": "liberté de religion"
+            },
+            {
+              "type": "normal",
+              "text": ", signifie que "
+            },
+            {
+              "type": "answer",
+              "text": "vous pouvez pratiquer n'importe quelle religion, ou n'en pratiquer aucune"
+            },
+            {
+              "type": "normal",
+              "text": ", sans ingérence du gouvernement (Q. 10)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 2,
+      "translations": {
+        "en": {
+          "title": "The U.S. Government, Inc.",
+          "introduction": "Let's imagine the country as a large company. To prevent it from being run autocratically, the founders divided power among three 'managers.'"
+        },
+        "ko": {
+          "title": "미국 주식회사 운영법",
+          "introduction": "나라를 하나의 큰 회사라고 상상해 봅시다. 이 회사가 독단적으로 운영되지 않도록, 창업자들은 권력을 세 명의 '매니저'에게 나누어 주었습니다."
+        },
+        "es": {
+          "title": "El Gobierno de EE. UU., S.A.",
+          "introduction": "Imaginemos el país como una gran empresa. Para evitar un mando autocrático, los fundadores dividieron el poder entre tres 'gerentes'."
+        },
+        "fr": {
+          "title": "Le gouvernement des États‑Unis, Inc.",
+          "introduction": "Imaginons le pays comme une grande entreprise. Pour éviter qu'il ne soit dirigé de manière autocratique, les fondateurs ont réparti le pouvoir entre trois 'gestionnaires'."
+        },
+        "ar": {
+          "title": "حكومة الولايات المتحدة كشركة",
+          "introduction": "لنتخيّل البلد شركةً كبيرة. ولمنع إدارته بطريقة استبدادية، قسّم المؤسسون السلطة بين ثلاثة \"مديرين\"."
+        },
+        "zh": {
+          "title": "美国政府股份有限公司",
+          "introduction": "让我们把国家想象成一家大公司。为了防止它被专断式管理，开国元勋把权力分给了三位“经理”。"
+        }
+      },
+      "sections": [
+        {
+          "sectionTitle_en": "The Three Managers",
+          "sectionTitle_ko": "세 명의 매니저",
+          "sectionTitle_es": "Los tres gerentes",
+          "sectionTitle_ar": "المديرون الثلاثة",
+          "sectionTitle_zh": "三位经理",
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "The U.S. government is broadly divided into three "
+            },
+            {
+              "type": "answer",
+              "text": "branches"
+            },
+            {
+              "type": "normal",
+              "text": ": the "
+            },
+            {
+              "type": "answer",
+              "text": "legislative"
+            },
+            {
+              "type": "normal",
+              "text": " branch, which makes laws; the "
+            },
+            {
+              "type": "answer",
+              "text": "executive"
+            },
+            {
+              "type": "normal",
+              "text": " branch, which carries out laws; and the "
+            },
+            {
+              "type": "answer",
+              "text": "judicial"
+            },
+            {
+              "type": "normal",
+              "text": " branch, which interprets laws (Q. 13). To prevent any one manager from becoming too powerful, they created a system of monitoring each other and balancing power, which is known as "
+            },
+            {
+              "type": "answer",
+              "text": "checks and balances"
+            },
+            {
+              "type": "normal",
+              "text": " and the "
+            },
+            {
+              "type": "answer",
+              "text": "separation of powers"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 14)."
+            }
+          ],
+          "content_zh": [
+            {
+              "type": "normal",
+              "text": "美国政府大体被划分为三个"
+            },
+            {
+              "type": "answer",
+              "text": "分支（branches）"
+            },
+            {
+              "type": "normal",
+              "text": ": 即制定法律的"
+            },
+            {
+              "type": "answer",
+              "text": "立法部门（legislative）"
+            },
+            {
+              "type": "normal",
+              "text": "，执行法律的"
+            },
+            {
+              "type": "answer",
+              "text": "行政部门（executive）"
+            },
+            {
+              "type": "normal",
+              "text": "，以及解释法律的"
+            },
+            {
+              "type": "answer",
+              "text": "司法部门（judicial）"
+            },
+            {
+              "type": "normal",
+              "text": "（Q. 13）。为防止任何一位“经理”权力过大，宪制设计了彼此监督、相互"
+            },
+            {
+              "type": "answer",
+              "text": "制衡（checks and balances）"
+            },
+            {
+              "type": "normal",
+              "text": "并实行"
+            },
+            {
+              "type": "answer",
+              "text": "权力分立（separation of powers）"
+            },
+            {
+              "type": "normal",
+              "text": "（Q. 14）。"
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "미국 정부라는 회사는 크게 세 "
+            },
+            {
+              "type": "answer",
+              "text": "부서(branches)"
+            },
+            {
+              "type": "normal",
+              "text": "로 나뉩니다. 바로 법을 만드는 "
+            },
+            {
+              "type": "answer",
+              "text": "입법부(legislative)"
+            },
+            {
+              "type": "normal",
+              "text": ", 법을 집행하는 "
+            },
+            {
+              "type": "answer",
+              "text": "행정부(executive)"
+            },
+            {
+              "type": "normal",
+              "text": ", 그리고 법을 해석하는 "
+            },
+            {
+              "type": "answer",
+              "text": "사법부(judicial)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 13). 어느 한 매니저가 너무 강력해지는 것을 막기 위해, 서로를 감시하고 힘의 균형을 맞추는 시스템을 만들었는데, 이것이 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "견제와 균형(checks and balances)"
+            },
+            {
+              "type": "normal",
+              "text": "과 "
+            },
+            {
+              "type": "answer",
+              "text": "권력 분립(separation of powers)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 14)."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "El gobierno de EE. UU. se divide ampliamente en tres "
+            },
+            {
+              "type": "answer",
+              "text": "ramas"
+            },
+            {
+              "type": "normal",
+              "text": ": la rama "
+            },
+            {
+              "type": "answer",
+              "text": "legislativa"
+            },
+            {
+              "type": "normal",
+              "text": ", que hace las leyes; la rama "
+            },
+            {
+              "type": "answer",
+              "text": "ejecutiva"
+            },
+            {
+              "type": "normal",
+              "text": ", que las aplica; y la rama "
+            },
+            {
+              "type": "answer",
+              "text": "judicial"
+            },
+            {
+              "type": "normal",
+              "text": ", que las interpreta (P. 13). Para evitar que un gerente se vuelva demasiado poderoso, crearon un sistema de vigilancia mutua y equilibrio de poderes, conocido como "
+            },
+            {
+              "type": "answer",
+              "text": "pesos y contrapesos"
+            },
+            {
+              "type": "normal",
+              "text": " y la "
+            },
+            {
+              "type": "answer",
+              "text": "separación de poderes"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 14)."
+            }
+          ],
+          "linkedQuestions": [
+            13,
+            14
+          ],
+          "content_fr": [
+            {
+              "type": "normal",
+              "text": "Le gouvernement des États‑Unis est largement divisé en trois "
+            },
+            {
+              "type": "answer",
+              "text": "branches"
+            },
+            {
+              "type": "normal",
+              "text": ": la "
+            },
+            {
+              "type": "answer",
+              "text": "législative"
+            },
+            {
+              "type": "normal",
+              "text": " (qui fait les lois) ; la "
+            },
+            {
+              "type": "answer",
+              "text": "exécutive"
+            },
+            {
+              "type": "normal",
+              "text": " (qui applique les lois) ; et la "
+            },
+            {
+              "type": "answer",
+              "text": "judiciaire"
+            },
+            {
+              "type": "normal",
+              "text": " (qui interprète les lois) (Q. 13). Pour empêcher qu'un seul gestionnaire ne devienne trop puissant, ils ont créé un système de surveillance mutuelle et d'équilibre des pouvoirs, appelé "
+            },
+            {
+              "type": "answer",
+              "text": "freins et contrepoids"
+            },
+            {
+              "type": "normal",
+              "text": " et la "
+            },
+            {
+              "type": "answer",
+              "text": "séparation des pouvoirs"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 14)."
+            }
+          ],
+          "sectionTitle_fr": "Les trois gestionnaires",
+          "content_ar": [
+            {
+              "type": "normal",
+              "text": "تنقسم حكومة الولايات المتحدة على نطاق واسع إلى ثلاث "
+            },
+            {
+              "type": "answer",
+              "text": "سلطات"
+            },
+            {
+              "type": "normal",
+              "text": ": هي السلطة "
+            },
+            {
+              "type": "answer",
+              "text": "التشريعية"
+            },
+            {
+              "type": "normal",
+              "text": " التي تسن القوانين، والسلطة "
+            },
+            {
+              "type": "answer",
+              "text": "التنفيذية"
+            },
+            {
+              "type": "normal",
+              "text": " التي تنفذ القوانين، والسلطة "
+            },
+            {
+              "type": "answer",
+              "text": "القضائية"
+            },
+            {
+              "type": "normal",
+              "text": " التي تفسر القوانين (س 13). ولمنع أي مدير واحد من أن يصبح قويًا أكثر من اللازم، أنشأ المؤسسون نظامًا يراقب فيه كل طرف الآخر ويوازن سلطاته، ويُعرف باسم "
+            },
+            {
+              "type": "answer",
+              "text": "الضوابط والتوازنات"
+            },
+            {
+              "type": "normal",
+              "text": " و"
+            },
+            {
+              "type": "answer",
+              "text": "فصل السلطات"
+            },
+            {
+              "type": "normal",
+              "text": " (س 14)."
+            }
+          ]
+        },
+        {
+          "sectionTitle_en": "Manager 1: The Lawmakers (Congress)",
+          "sectionTitle_ko": "매니저 1: 입법부 (의회)",
+          "sectionTitle_es": "Gerente 1: Los legisladores (el Congreso)",
+          "sectionTitle_ar": "المدير 1: صانعو القوانين (الكونغرس)",
+          "sectionTitle_zh": "经理 1：立法者（国会）",
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "The responsibility for making "
+            },
+            {
+              "type": "answer",
+              "text": "federal laws"
+            },
+            {
+              "type": "normal",
+              "text": " lies with "
+            },
+            {
+              "type": "answer",
+              "text": "Congress"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 16). Congress is composed of two smaller teams: the "
+            },
+            {
+              "type": "answer",
+              "text": "Senate"
+            },
+            {
+              "type": "normal",
+              "text": " and the "
+            },
+            {
+              "type": "answer",
+              "text": "House of Representatives"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 17). The Senate has a total of "
+            },
+            {
+              "type": "answer",
+              "text": "one hundred (100)"
+            },
+            {
+              "type": "normal",
+              "text": " senators, two from each state (Q. 18), and their term is "
+            },
+            {
+              "type": "answer",
+              "text": "six (6) years"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 19). A senator represents "
+            },
+            {
+              "type": "answer",
+              "text": "all people of the state"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 24). (*You must know the name of one of your state's senators* (Q. 20)). The House of Representatives has "
+            },
+            {
+              "type": "answer",
+              "text": "four hundred thirty-five (435)"
+            },
+            {
+              "type": "normal",
+              "text": " voting members (Q. 21), and their term is "
+            },
+            {
+              "type": "answer",
+              "text": "two (2) years"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 22). The reason some states have more Representatives than others is because of the "
+            },
+            {
+              "type": "answer",
+              "text": "state's population"
+            },
+            {
+              "type": "normal",
+              "text": ". States with more people get more representatives (Q. 25). (*You must know the name of your local Representative* (Q. 23))."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": ""
+            },
+            {
+              "type": "answer",
+              "text": "연방법(federal laws)"
+            },
+            {
+              "type": "normal",
+              "text": "을 만드는 책임은 "
+            },
+            {
+              "type": "answer",
+              "text": "의회(Congress)"
+            },
+            {
+              "type": "normal",
+              "text": "에 있습니다 (Q. 16). 의회는 두 개의 작은 팀, 즉 "
+            },
+            {
+              "type": "answer",
+              "text": "상원(Senate)"
+            },
+            {
+              "type": "normal",
+              "text": "과 "
+            },
+            {
+              "type": "answer",
+              "text": "하원(House of Representatives)"
+            },
+            {
+              "type": "normal",
+              "text": "으로 구성됩니다 (Q. 17). 상원에는 각 주마다 2명씩, 총 "
+            },
+            {
+              "type": "answer",
+              "text": "100명(one hundred)"
+            },
+            {
+              "type": "normal",
+              "text": "의 상원의원이 있으며 (Q. 18), 임기는 "
+            },
+            {
+              "type": "answer",
+              "text": "6년(six years)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 19). 상원의원은 주 전체의 "
+            },
+            {
+              "type": "answer",
+              "text": "모든 사람들을 대표합니다(all people of the state)"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 24). (*당신이 사는 주의 상원의원 이름*을 알아두어야 합니다 (Q. 20)). 하원에는 총 "
+            },
+            {
+              "type": "answer",
+              "text": "435명(four hundred thirty-five)"
+            },
+            {
+              "type": "normal",
+              "text": "의 의원이 있으며 (Q. 21), 임기는 "
+            },
+            {
+              "type": "answer",
+              "text": "2년(two years)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 22). 하원의원 수가 주마다 다른 이유는 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "주의 인구(state's population)"
+            },
+            {
+              "type": "normal",
+              "text": " 때문입니다. 인구가 많은 주가 더 많은 대표를 갖게 되죠 (Q. 25). (*당신이 사는 지역의 하원의원 이름*을 알아두어야 합니다 (Q. 23))."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "La responsabilidad de hacer las "
+            },
+            {
+              "type": "answer",
+              "text": "leyes federales"
+            },
+            {
+              "type": "normal",
+              "text": " recae en el "
+            },
+            {
+              "type": "answer",
+              "text": "Congreso"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 16). El Congreso está compuesto por dos equipos: el "
+            },
+            {
+              "type": "answer",
+              "text": "Senado"
+            },
+            {
+              "type": "normal",
+              "text": " y la "
+            },
+            {
+              "type": "answer",
+              "text": "Cámara de Representantes"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 17). El Senado tiene un total de "
+            },
+            {
+              "type": "answer",
+              "text": "cien (100)"
+            },
+            {
+              "type": "normal",
+              "text": " senadores, dos por cada estado (P. 18), y su mandato es de "
+            },
+            {
+              "type": "answer",
+              "text": "seis (6) años"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 19). Un senador representa a "
+            },
+            {
+              "type": "answer",
+              "text": "todas las personas del estado"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 24). (*Debes saber el nombre de uno de los senadores de tu estado* (P. 20)). La Cámara tiene "
+            },
+            {
+              "type": "answer",
+              "text": "cuatrocientos treinta y cinco (435)"
+            },
+            {
+              "type": "normal",
+              "text": " miembros con derecho a voto (P. 21), y su mandato es de "
+            },
+            {
+              "type": "answer",
+              "text": "dos (2) años"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 22). La razón por la que algunos estados tienen más Representantes que otros es la "
+            },
+            {
+              "type": "answer",
+              "text": "población del estado"
+            },
+            {
+              "type": "normal",
+              "text": ". Los estados con más gente obtienen más representantes (P. 25). (*Debes saber el nombre de tu Representante local* (P. 23))."
+            }
+          ],
+          "linkedQuestions": [
+            16,
+            17,
+            18,
+            19,
+            24,
+            20,
+            21,
+            22,
+            25,
+            23
+          ],
+          "content_fr": [
+            {
+              "type": "normal",
+              "text": "La responsabilité d'élaborer les "
+            },
+            {
+              "type": "answer",
+              "text": "lois fédérales"
+            },
+            {
+              "type": "normal",
+              "text": " incombe au "
+            },
+            {
+              "type": "answer",
+              "text": "Congrès"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 16). Le Congrès est composé de deux équipes plus petites : le "
+            },
+            {
+              "type": "answer",
+              "text": "Sénat"
+            },
+            {
+              "type": "normal",
+              "text": " et la "
+            },
+            {
+              "type": "answer",
+              "text": "Chambre des représentants"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 17). Le Sénat compte au total "
+            },
+            {
+              "type": "answer",
+              "text": "cent (100)"
+            },
+            {
+              "type": "normal",
+              "text": " sénateurs, deux par État (Q. 18), et leur mandat est de "
+            },
+            {
+              "type": "answer",
+              "text": "six (6) ans"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 19). Un sénateur représente "
+            },
+            {
+              "type": "answer",
+              "text": "toutes les personnes de l'État"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 24). (*Vous devez connaître le nom d'un des sénateurs de votre État* (Q. 20)). La Chambre des représentants compte "
+            },
+            {
+              "type": "answer",
+              "text": "quatre cent trente‑cinq (435)"
+            },
+            {
+              "type": "normal",
+              "text": " membres votants (Q. 21), et leur mandat est de "
+            },
+            {
+              "type": "answer",
+              "text": "deux (2) ans"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 22). La raison pour laquelle certains États ont plus de représentants que d'autres est la "
+            },
+            {
+              "type": "answer",
+              "text": "population de l'État"
+            },
+            {
+              "type": "normal",
+              "text": ". Les États les plus peuplés obtiennent davantage de représentants (Q. 25). (*Vous devez connaître le nom de votre représentant local* (Q. 23))."
+            }
+          ],
+          "sectionTitle_fr": "Gestionnaire 1 : Les législateurs (le Congrès)"
+        ,
+          "content_ar": [
+            {
+              "type": "normal",
+              "text": "تقع مسؤولية سن "
+            },
+            {
+              "type": "answer",
+              "text": "القوانين الاتحادية"
+            },
+            {
+              "type": "normal",
+              "text": " على عاتق "
+            },
+            {
+              "type": "answer",
+              "text": "الكونغرس"
+            },
+            {
+              "type": "normal",
+              "text": " (س 16). يتألف الكونغرس من فريقين أصغر هما "
+            },
+            {
+              "type": "answer",
+              "text": "مجلس الشيوخ"
+            },
+            {
+              "type": "normal",
+              "text": " و"
+            },
+            {
+              "type": "answer",
+              "text": "مجلس النواب"
+            },
+            {
+              "type": "normal",
+              "text": " (س 17). يضم مجلس الشيوخ ما مجموعه "
+            },
+            {
+              "type": "answer",
+              "text": "مئة (100)"
+            },
+            {
+              "type": "normal",
+              "text": " عضوًا، اثنين من كل ولاية (س 18)، ومدة خدمتهم "
+            },
+            {
+              "type": "answer",
+              "text": "ست (6) سنوات"
+            },
+            {
+              "type": "normal",
+              "text": " (س 19). يمثل عضو مجلس الشيوخ "
+            },
+            {
+              "type": "answer",
+              "text": "جميع سكان الولاية"
+            },
+            {
+              "type": "normal",
+              "text": " (س 24). (*يجب أن تعرف اسم أحد أعضاء مجلس الشيوخ في ولايتك* (س 20)). يضم مجلس النواب "
+            },
+            {
+              "type": "answer",
+              "text": "أربعمئة وخمسة وثلاثين (435)"
+            },
+            {
+              "type": "normal",
+              "text": " عضوًا لهم حق التصويت (س 21)، ومدة خدمتهم "
+            },
+            {
+              "type": "answer",
+              "text": "سنتان (2)"
+            },
+            {
+              "type": "normal",
+              "text": " (س 22). والسبب في أن بعض الولايات لديها ممثلون أكثر من غيرها هو "
+            },
+            {
+              "type": "answer",
+              "text": "عدد سكان الولاية"
+            },
+            {
+              "type": "normal",
+              "text": ". فالولايات ذات السكان الأكثر تحصل على ممثلين أكثر (س 25). (*يجب أن تعرف اسم ممثلك المحلي* (س 23))."
+            }
+          ]
+        },
+        {
+          "sectionTitle_en": "Manager 2: The CEO (The President)",
+          "sectionTitle_ko": "매니저 2: 행정부 (대통령)",
+          "sectionTitle_es": "Gerente 2: El director ejecutivo (el Presidente)",
+          "sectionTitle_ar": "المدير 2: المدير التنفيذي (الرئيس)",
+          "sectionTitle_zh": "经理 2：首席执行官（总统）",
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "The chief executive responsible for the entire executive branch is the "
+            },
+            {
+              "type": "answer",
+              "text": "President"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 15). The President's term is "
+            },
+            {
+              "type": "answer",
+              "text": "four (4) years"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 26), and we vote for the President in "
+            },
+            {
+              "type": "answer",
+              "text": "November"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 27). (*You must know the current President ("
+            },
+            {
+              "type": "answer",
+              "text": "Donald J. Trump"
+            },
+            {
+              "type": "normal",
+              "text": ") and Vice President ("
+            },
+            {
+              "type": "answer",
+              "text": "JD Vance"
+            },
+            {
+              "type": "normal",
+              "text": ")* (Q. 28, 29)). The President is the "
+            },
+            {
+              "type": "answer",
+              "text": "Commander in Chief"
+            },
+            {
+              "type": "normal",
+              "text": " of the military (Q. 32), and can "
+            },
+            {
+              "type": "answer",
+              "text": "sign bills"
+            },
+            {
+              "type": "normal",
+              "text": " passed by Congress to make them law or "
+            },
+            {
+              "type": "answer",
+              "text": "veto bills"
+            },
+            {
+              "type": "normal",
+              "text": " if they disapprove (Q. 33, 34). To assist the President, there is a "
+            },
+            {
+              "type": "answer",
+              "text": "Cabinet"
+            },
+            {
+              "type": "normal",
+              "text": " of experts, whose main role is to "
+            },
+            {
+              "type": "answer",
+              "text": "advise the President"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 35). Key Cabinet positions include the "
+            },
+            {
+              "type": "answer",
+              "text": "Secretary of State"
+            },
+            {
+              "type": "normal",
+              "text": " and the "
+            },
+            {
+              "type": "answer",
+              "text": "Secretary of Defense"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 36). If the President can no longer serve, the "
+            },
+            {
+              "type": "answer",
+              "text": "Vice President"
+            },
+            {
+              "type": "normal",
+              "text": " succeeds them (Q. 30). If both the President and Vice President are unable to serve, the "
+            },
+            {
+              "type": "answer",
+              "text": "Speaker of the House"
+            },
+            {
+              "type": "normal",
+              "text": " becomes President (Q. 31). (*You must know the current Speaker of the House ("
+            },
+            {
+              "type": "answer",
+              "text": "Mike Johnson"
+            },
+            {
+              "type": "normal",
+              "text": ") and the President's political party ("
+            },
+            {
+              "type": "answer",
+              "text": "Republican Party"
+            },
+            {
+              "type": "normal",
+              "text": ")* (Q. 47, 46))."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "행정부 전체를 책임지는 최고 경영자는 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "대통령(the President)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 15). 대통령의 임기는 "
+            },
+            {
+              "type": "answer",
+              "text": "4년(four years)"
+            },
+            {
+              "type": "normal",
+              "text": "이며 (Q. 26), 우리는 "
+            },
+            {
+              "type": "answer",
+              "text": "11월(November)"
+            },
+            {
+              "type": "normal",
+              "text": "에 대통령을 선출합니다 (Q. 27). (*현재 대통령("
+            },
+            {
+              "type": "answer",
+              "text": "Donald J. Trump"
+            },
+            {
+              "type": "normal",
+              "text": ")과 부통령("
+            },
+            {
+              "type": "answer",
+              "text": "JD Vance"
+            },
+            {
+              "type": "normal",
+              "text": ")의 이름을 알아두어야 합니다* (Q. 28, 29)). 대통령은 군대의 "
+            },
+            {
+              "type": "answer",
+              "text": "총사령관(Commander in Chief)"
+            },
+            {
+              "type": "normal",
+              "text": "이며 (Q. 32), 의회에서 만든 법안에 "
+            },
+            {
+              "type": "answer",
+              "text": "서명하여 법으로 만들거나(signs bills)"
+            },
+            {
+              "type": "normal",
+              "text": ", 마음에 들지 않으면 "
+            },
+            {
+              "type": "answer",
+              "text": "거부권(vetoes bills)"
+            },
+            {
+              "type": "normal",
+              "text": "을 행사할 수 있습니다 (Q. 33, 34). 대통령을 돕기 위해 각 분야의 전문가들로 구성된 "
+            },
+            {
+              "type": "answer",
+              "text": "내각(Cabinet)"
+            },
+            {
+              "type": "normal",
+              "text": "이 있으며, 이들의 주된 역할은 "
+            },
+            {
+              "type": "answer",
+              "text": "대통령에게 조언(advises the President)"
+            },
+            {
+              "type": "normal",
+              "text": "하는 것입니다 (Q. 35). 내각의 주요 직책으로는 "
+            },
+            {
+              "type": "answer",
+              "text": "국무부 장관(Secretary of State)"
+            },
+            {
+              "type": "normal",
+              "text": "국방부 장관(Secretary of Defense)"
+            },
+            {
+              "type": "answer",
+              "text": " 등이 있습니다 (Q. 36). 만약 대통령이 직무를 수행할 수 없게 되면 "
+            },
+            {
+              "type": "normal",
+              "text": "부통령(the Vice President)"
+            },
+            {
+              "type": "answer",
+              "text": "이 그 자리를 계승하며 (Q. 30), 대통령과 부통령이 모두 공석이 될 경우에는 "
+            },
+            {
+              "type": "normal",
+              "text": "하원의장(the Speaker of the House)"
+            },
+            {
+              "type": "answer",
+              "text": "이 대통령이 됩니다 (Q. 31). (*현재 하원의장("
+            },
+            {
+              "type": "normal",
+              "text": "Mike Johnson"
+            },
+            {
+              "type": "answer",
+              "text": ")과 대통령의 정당("
+            },
+            {
+              "type": "normal",
+              "text": "Republican Party"
+            },
+            {
+              "type": "answer",
+              "text": ")*을 알아두어야 합니다 (Q. 47, 46))."
+            },
+            {
+              "type": "normal",
+              "text": ")*을 알아두어야 합니다 (Q. 47, 46))."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "El director ejecutivo responsable de toda la rama ejecutiva es el "
+            },
+            {
+              "type": "answer",
+              "text": "Presidente"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 15). El mandato del Presidente es de "
+            },
+            {
+              "type": "answer",
+              "text": "cuatro (4) años"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 26), y votamos por el Presidente en "
+            },
+            {
+              "type": "answer",
+              "text": "noviembre"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 27). El Presidente es el "
+            },
+            {
+              "type": "answer",
+              "text": "Comandante en Jefe"
+            },
+            {
+              "type": "normal",
+              "text": " de las Fuerzas Armadas (P. 32), y puede "
+            },
+            {
+              "type": "answer",
+              "text": "firmar proyectos de ley"
+            },
+            {
+              "type": "normal",
+              "text": " aprobados por el Congreso para convertirlos en ley o "
+            },
+            {
+              "type": "answer",
+              "text": "vetarlos"
+            },
+            {
+              "type": "normal",
+              "text": " si no está de acuerdo (P. 33, 34). Para ayudar al Presidente existe un "
+            },
+            {
+              "type": "answer",
+              "text": "Gabinete"
+            },
+            {
+              "type": "normal",
+              "text": " de expertos, cuya función principal es "
+            },
+            {
+              "type": "answer",
+              "text": "asesorar al Presidente"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 35). Puestos clave incluyen el/la "
+            },
+            {
+              "type": "answer",
+              "text": "Secretario(a) de Estado"
+            },
+            {
+              "type": "normal",
+              "text": " y el/la "
+            },
+            {
+              "type": "answer",
+              "text": "Secretario(a) de Defensa"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 36). Si el Presidente no puede continuar en el cargo, lo sucede el/la "
+            },
+            {
+              "type": "answer",
+              "text": "Vicepresidente"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 30). Si el Presidente y el Vicepresidente no pueden servir, el/la "
+            },
+            {
+              "type": "answer",
+              "text": "Presidente de la Cámara"
+            },
+            {
+              "type": "normal",
+              "text": " se convierte en Presidente (P. 31)."
+            },
+            {
+              "type": "answer",
+              "text": " se convierte en Presidente (P. 31)."
+            },
+            {
+              "type": "normal",
+              "text": " se convierte en Presidente (P. 31)."
+            },
+            {
+              "type": "answer",
+              "text": " se convierte en Presidente (P. 31)."
+            },
+            {
+              "type": "normal",
+              "text": " se convierte en Presidente (P. 31)."
+            },
+            {
+              "type": "answer",
+              "text": " se convierte en Presidente (P. 31)."
+            },
+            {
+              "type": "normal",
+              "text": " se convierte en Presidente (P. 31)."
+            },
+            {
+              "type": "answer",
+              "text": " se convierte en Presidente (P. 31)."
+            },
+            {
+              "type": "normal",
+              "text": " se convierte en Presidente (P. 31)."
+            }
+          ],
+          "linkedQuestions": [
+            15,
+            26,
+            27,
+            28,
+            29,
+            32,
+            33,
+            34,
+            35,
+            36,
+            30,
+            31,
+            47,
+            46
+          ],
+          "content_fr": [
+            {
+              "type": "normal",
+              "text": "Le directeur exécutif responsable de toute la branche exécutive est le "
+            },
+            {
+              "type": "answer",
+              "text": "Président"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 15). Le mandat du Président est de "
+            },
+            {
+              "type": "answer",
+              "text": "quatre (4) ans"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 26), et nous votons pour le Président en "
+            },
+            {
+              "type": "answer",
+              "text": "novembre"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 27). (*Vous devez connaître le nom du Président actuel ("
+            },
+            {
+              "type": "answer",
+              "text": "Donald J. Trump"
+            },
+            {
+              "type": "normal",
+              "text": ") et du Vice‑président ("
+            },
+            {
+              "type": "answer",
+              "text": "JD Vance"
+            },
+            {
+              "type": "normal",
+              "text": ")* (Q. 28, 29)). Le Président est le "
+            },
+            {
+              "type": "answer",
+              "text": "commandant en chef"
+            },
+            {
+              "type": "normal",
+              "text": " des forces armées (Q. 32), et peut "
+            },
+            {
+              "type": "answer",
+              "text": "signer des projets de loi"
+            },
+            {
+              "type": "normal",
+              "text": " adoptés par le Congrès pour qu'ils deviennent loi, ou "
+            },
+            {
+              "type": "answer",
+              "text": "mettre son veto à des projets de loi"
+            },
+            {
+              "type": "normal",
+              "text": " s'il n'est pas d'accord (Q. 33, 34). Pour aider le Président, il existe un "
+            },
+            {
+              "type": "answer",
+              "text": "Cabinet"
+            },
+            {
+              "type": "normal",
+              "text": " d'experts, dont le rôle principal est de "
+            },
+            {
+              "type": "answer",
+              "text": "conseiller le Président"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 35). Les postes clés du Cabinet incluent le/la "
+            },
+            {
+              "type": "answer",
+              "text": "secrétaire d'État"
+            },
+            {
+              "type": "normal",
+              "text": " et le/la "
+            },
+            {
+              "type": "answer",
+              "text": "secrétaire à la Défense"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 36). Si le Président ne peut plus exercer ses fonctions, le/la "
+            },
+            {
+              "type": "answer",
+              "text": "Vice‑président(e)"
+            },
+            {
+              "type": "normal",
+              "text": " lui succède (Q. 30). Si le Président et le Vice‑président ne peuvent pas servir, le/la "
+            },
+            {
+              "type": "answer",
+              "text": "président(e) de la Chambre"
+            },
+            {
+              "type": "normal",
+              "text": " devient Président (Q. 31). (*Vous devez connaître le nom de l'actuel président de la Chambre ("
+            },
+            {
+              "type": "answer",
+              "text": "Mike Johnson"
+            },
+            {
+              "type": "normal",
+              "text": ") et le parti politique du Président ("
+            },
+            {
+              "type": "answer",
+              "text": "Parti républicain"
+            },
+            {
+              "type": "normal",
+              "text": ")* (Q. 47, 46))."
+            }
+          ],
+          "sectionTitle_fr": "Gestionnaire 2 : Le PDG (le Président)",
+          "content_ar": [
+            {
+              "type": "normal",
+              "text": "المسؤول التنفيذي الأعلى عن كامل السلطة التنفيذية هو "
+            },
+            {
+              "type": "answer",
+              "text": "الرئيس"
+            },
+            {
+              "type": "normal",
+              "text": " (س 15). مدة ولاية الرئيس هي "
+            },
+            {
+              "type": "answer",
+              "text": "أربع (4) سنوات"
+            },
+            {
+              "type": "normal",
+              "text": " (س 26)، ونصوت للرئيس في شهر "
+            },
+            {
+              "type": "answer",
+              "text": "نوفمبر"
+            },
+            {
+              "type": "normal",
+              "text": " (س 27). (*يجب أن تعرف اسم الرئيس الحالي ("
+            },
+            {
+              "type": "answer",
+              "text": "Donald J. Trump"
+            },
+            {
+              "type": "normal",
+              "text": ") ونائب الرئيس ("
+            },
+            {
+              "type": "answer",
+              "text": "JD Vance"
+            },
+            {
+              "type": "normal",
+              "text": ")*) (س 28، 29)). الرئيس هو "
+            },
+            {
+              "type": "answer",
+              "text": "القائد الأعلى"
+            },
+            {
+              "type": "normal",
+              "text": " للقوات المسلحة (س 32)، ويمكنه "
+            },
+            {
+              "type": "answer",
+              "text": "توقيع مشروعات القوانين"
+            },
+            {
+              "type": "normal",
+              "text": " التي يقرها الكونغرس لتصبح قانونًا أو "
+            },
+            {
+              "type": "answer",
+              "text": "استخدام حق النقض (الفيتو)"
+            },
+            {
+              "type": "normal",
+              "text": " إذا لم يوافق (س 33، 34). ولمساعدة الرئيس يوجد "
+            },
+            {
+              "type": "answer",
+              "text": "مجلس الوزراء"
+            },
+            {
+              "type": "normal",
+              "text": " من الخبراء، وتتمثل مهمتهم الرئيسية في "
+            },
+            {
+              "type": "answer",
+              "text": "تقديم المشورة للرئيس"
+            },
+            {
+              "type": "normal",
+              "text": " (س 35). ومن المناصب الرئيسية في مجلس الوزراء "
+            },
+            {
+              "type": "answer",
+              "text": "وزير الخارجية"
+            },
+            {
+              "type": "normal",
+              "text": " و"
+            },
+            {
+              "type": "answer",
+              "text": "وزير الدفاع"
+            },
+            {
+              "type": "normal",
+              "text": " (س 36). إذا لم يعد الرئيس قادرًا على أداء مهامه، فإن "
+            },
+            {
+              "type": "answer",
+              "text": "نائب الرئيس"
+            },
+            {
+              "type": "normal",
+              "text": " يخلفه (س 30). وإذا لم يتمكن كل من الرئيس ونائب الرئيس من الخدمة، فإن "
+            },
+            {
+              "type": "answer",
+              "text": "رئيس مجلس النواب"
+            },
+            {
+              "type": "normal",
+              "text": " يصبح رئيسًا (س 31). (*يجب أن تعرف اسم رئيس مجلس النواب الحالي ("
+            },
+            {
+              "type": "answer",
+              "text": "Mike Johnson"
+            },
+            {
+              "type": "normal",
+              "text": ") وحزب الرئيس السياسي ("
+            },
+            {
+              "type": "answer",
+              "text": "الحزب الجمهوري"
+            },
+            {
+              "type": "normal",
+              "text": ")*) (س 47، 46))."
+            }
+          ]
+        },
+        {
+          "sectionTitle_en": "Manager 3: The Referees (The Judiciary)",
+          "sectionTitle_ko": "매니저 3: 사법부 (심판)",
+          "sectionTitle_es": "Gerente 3: Los árbitros (el Poder Judicial)",
+          "sectionTitle_ar": "المدير 3: الحكّام (السلطة القضائية)",
+          "sectionTitle_zh": "经理 3：裁判（司法部门）",
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "The main role of the judicial branch is to "
+            },
+            {
+              "type": "answer",
+              "text": "review laws"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "explain laws"
+            },
+            {
+              "type": "normal",
+              "text": ", and "
+            },
+            {
+              "type": "answer",
+              "text": "decide if a law goes against the Constitution"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 37). The highest court in the United States is the "
+            },
+            {
+              "type": "answer",
+              "text": "Supreme Court"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 38), which has a total of "
+            },
+            {
+              "type": "answer",
+              "text": "nine (9)"
+            },
+            {
+              "type": "normal",
+              "text": " justices (Q. 39). (*You must know the name of the current Chief Justice ("
+            },
+            {
+              "type": "answer",
+              "text": "John Roberts"
+            },
+            {
+              "type": "normal",
+              "text": ")* (Q. 40))."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "사법부의 주된 역할은 "
+            },
+            {
+              "type": "answer",
+              "text": "법을 검토하고(reviews laws)"
+            },
+            {
+              "type": "normal",
+              "text": "법을 설명하며(explains laws)"
+            },
+            {
+              "type": "answer",
+              "text": ", 법이 "
+            },
+            {
+              "type": "normal",
+              "text": "헌법에 위배되는지 결정(decides if a law goes against the Constitution)"
+            },
+            {
+              "type": "answer",
+              "text": "하는 것입니다 (Q. 37). 미국에서 가장 높은 법원은 "
+            },
+            {
+              "type": "normal",
+              "text": "연방 대법원(the Supreme Court)"
+            },
+            {
+              "type": "answer",
+              "text": "이며 (Q. 38), 이곳에는 총 "
+            },
+            {
+              "type": "normal",
+              "text": "9명(nine)"
+            },
+            {
+              "type": "answer",
+              "text": "의 대법관이 있습니다 (Q. 39). (*현재 연방 대법원장("
+            },
+            {
+              "type": "normal",
+              "text": "John Roberts"
+            },
+            {
+              "type": "answer",
+              "text": ")의 이름*을 알아두어야 합니다 (Q. 40))."
+            },
+            {
+              "type": "normal",
+              "text": ")의 이름*을 알아두어야 합니다 (Q. 40))."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "La función principal del poder judicial es "
+            },
+            {
+              "type": "answer",
+              "text": "revisar las leyes"
+            },
+            {
+              "type": "normal",
+              "text": "explicarlas"
+            },
+            {
+              "type": "answer",
+              "text": ", y "
+            },
+            {
+              "type": "normal",
+              "text": "decidir si una ley va en contra de la Constitución"
+            },
+            {
+              "type": "answer",
+              "text": " (P. 37). El tribunal más alto de Estados Unidos es la "
+            },
+            {
+              "type": "normal",
+              "text": "Corte Suprema"
+            },
+            {
+              "type": "answer",
+              "text": " (P. 38), que tiene un total de "
+            },
+            {
+              "type": "normal",
+              "text": "nueve (9)"
+            },
+            {
+              "type": "answer",
+              "text": " jueces (P. 39). (*Debes saber el nombre del Presidente de la Corte actual*) (P. 40)."
+            },
+            {
+              "type": "normal",
+              "text": " jueces (P. 39). (*Debes saber el nombre del Presidente de la Corte actual*) (P. 40)."
+            },
+            {
+              "type": "answer",
+              "text": " jueces (P. 39). (*Debes saber el nombre del Presidente de la Corte actual*) (P. 40)."
+            },
+            {
+              "type": "normal",
+              "text": " jueces (P. 39). (*Debes saber el nombre del Presidente de la Corte actual*) (P. 40)."
+            }
+          ],
+          "linkedQuestions": [
+            37,
+            38,
+            39,
+            40
+          ],
+          "content_fr": [
+            {
+              "type": "normal",
+              "text": "Le rôle principal du pouvoir judiciaire est de "
+            },
+            {
+              "type": "answer",
+              "text": "réviser les lois"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "expliquer les lois"
+            },
+            {
+              "type": "normal",
+              "text": ", et de "
+            },
+            {
+              "type": "answer",
+              "text": "décider si une loi contrevient à la Constitution"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 37). La plus haute cour des États‑Unis est la "
+            },
+            {
+              "type": "answer",
+              "text": "Cour suprême"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 38), qui compte au total "
+            },
+            {
+              "type": "answer",
+              "text": "neuf (9)"
+            },
+            {
+              "type": "normal",
+              "text": " juges (Q. 39). (*Vous devez connaître le nom de l'actuel juge en chef ("
+            },
+            {
+              "type": "answer",
+              "text": "John Roberts"
+            },
+            {
+              "type": "normal",
+              "text": ")*) (Q. 40))."
+            }
+          ],
+          "sectionTitle_fr": "Gestionnaire 3 : Les arbitres (le pouvoir judiciaire)",
+          "content_ar": [
+            {
+              "type": "normal",
+              "text": "الدور الرئيسي للسلطة القضائية هو "
+            },
+            {
+              "type": "answer",
+              "text": "مراجعة القوانين"
+            },
+            {
+              "type": "normal",
+              "text": ", و"
+            },
+            {
+              "type": "answer",
+              "text": "شرح القوانين"
+            },
+            {
+              "type": "normal",
+              "text": ", و"
+            },
+            {
+              "type": "answer",
+              "text": "تقرير ما إذا كان القانون يخالف الدستور"
+            },
+            {
+              "type": "normal",
+              "text": " (س 37). أعلى محكمة في الولايات المتحدة هي "
+            },
+            {
+              "type": "answer",
+              "text": "المحكمة العليا"
+            },
+            {
+              "type": "normal",
+              "text": " (س 38)، والتي تضم إجمالي "
+            },
+            {
+              "type": "answer",
+              "text": "تسعة (9)"
+            },
+            {
+              "type": "normal",
+              "text": " قضاة (س 39). (*يجب أن تعرف اسم رئيس المحكمة العليا الحالي ("
+            },
+            {
+              "type": "answer",
+              "text": "John Roberts"
+            },
+            {
+              "type": "normal",
+              "text": ")*) (س 40))."
+            }
+          ]
+        },
+        {
+          "sectionTitle_en": "Distribution of Power (Federal vs. State)",
+          "sectionTitle_ko": "권한의 분배 (연방과 주)",
+          "sectionTitle_es": "Distribución del poder (federal vs. estatal)",
+          "sectionTitle_ar": "توزيع السلطة (اتحادية مقابل ولاية)",
+          "sectionTitle_zh": "权力分配（联邦与州）",
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "The Constitution divides powers, giving some to the federal government and some to the state governments. Only the federal government has the power to "
+            },
+            {
+              "type": "answer",
+              "text": "print money"
+            },
+            {
+              "type": "normal",
+              "text": " or "
+            },
+            {
+              "type": "answer",
+              "text": "declare war"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 41). On the other hand, powers such as "
+            },
+            {
+              "type": "answer",
+              "text": "providing schooling and education"
+            },
+            {
+              "type": "normal",
+              "text": " and "
+            },
+            {
+              "type": "answer",
+              "text": "giving a driver's license"
+            },
+            {
+              "type": "normal",
+              "text": " belong to the individual state governments (Q. 42). The two major political parties, the "
+            },
+            {
+              "type": "answer",
+              "text": "Democratic and Republican"
+            },
+            {
+              "type": "normal",
+              "text": " parties, often have different views on how these powers should be used (Q. 45). (*You must know the name of your state's "
+            },
+            {
+              "type": "answer",
+              "text": "Governor"
+            },
+            {
+              "type": "normal",
+              "text": " and the name of your state's "
+            },
+            {
+              "type": "answer",
+              "text": "capital"
+            },
+            {
+              "type": "normal",
+              "text": ")* (Q. 43, 44))."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "헌법은 어떤 일은 연방 정부가, 어떤 일은 주 정부가 하도록 권한을 나누었습니다. "
+            },
+            {
+              "type": "answer",
+              "text": "화폐 발행(print money)"
+            },
+            {
+              "type": "normal",
+              "text": "이나 "
+            },
+            {
+              "type": "answer",
+              "text": "전쟁 선포(declare war)"
+            },
+            {
+              "type": "normal",
+              "text": "는 오직 연방 정부만이 할 수 있는 권한입니다 (Q. 41). 반면, "
+            },
+            {
+              "type": "answer",
+              "text": "학교와 교육 제공(provide schooling and education)"
+            },
+            {
+              "type": "normal",
+              "text": "운전면허 발급(give a driver's license)"
+            },
+            {
+              "type": "answer",
+              "text": " 등은 각 주 정부의 권한에 속합니다 (Q. 42). 미국의 주요 정당인 "
+            },
+            {
+              "type": "normal",
+              "text": "민주당과 공화당(Democratic and Republican)"
+            },
+            {
+              "type": "answer",
+              "text": "은 이러한 권한을 어떻게 사용해야 하는지에 대해 종종 다른 견해를 보입니다 (Q. 45). (*당신이 사는 주의 "
+            },
+            {
+              "type": "normal",
+              "text": "주지사"
+            },
+            {
+              "type": "answer",
+              "text": " 이름과 "
+            },
+            {
+              "type": "normal",
+              "text": "주도"
+            },
+            {
+              "type": "answer",
+              "text": "를 알아두어야 합니다* (Q. 43, 44))."
+            },
+            {
+              "type": "normal",
+              "text": "를 알아두어야 합니다* (Q. 43, 44))."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "La Constitución divide los poderes, otorgando algunos al gobierno federal y otros a los gobiernos estatales. Solo el gobierno federal tiene la facultad de "
+            },
+            {
+              "type": "answer",
+              "text": "imprimir dinero"
+            },
+            {
+              "type": "normal",
+              "text": " o "
+            },
+            {
+              "type": "answer",
+              "text": "declarar la guerra"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 41). En cambio, competencias como "
+            },
+            {
+              "type": "answer",
+              "text": "proveer educación"
+            },
+            {
+              "type": "normal",
+              "text": " y "
+            },
+            {
+              "type": "answer",
+              "text": "otorgar licencias de conducir"
+            },
+            {
+              "type": "normal",
+              "text": " pertenecen a los gobiernos estatales (P. 42). Los dos principales partidos políticos, el "
+            },
+            {
+              "type": "answer",
+              "text": "Demócrata y el Republicano"
+            },
+            {
+              "type": "normal",
+              "text": ", suelen tener visiones diferentes sobre cómo deben usarse estos poderes (P. 45). (*Debes saber el nombre del "
+            },
+            {
+              "type": "answer",
+              "text": "gobernador"
+            },
+            {
+              "type": "normal",
+              "text": " de tu estado y el nombre de su "
+            },
+            {
+              "type": "answer",
+              "text": "capital"
+            },
+            {
+              "type": "normal",
+              "text": ") (P. 43, 44)."
+            }
+          ],
+          "linkedQuestions": [
+            41,
+            42,
+            45,
+            43,
+            44
+          ],
+          "content_fr": [
+            {
+              "type": "normal",
+              "text": "La Constitution répartit les pouvoirs, en en donnant certains au gouvernement fédéral et d'autres aux gouvernements des États. Seul le gouvernement fédéral a le pouvoir d' "
+            },
+            {
+              "type": "answer",
+              "text": "imprimer la monnaie"
+            },
+            {
+              "type": "normal",
+              "text": " ou de "
+            },
+            {
+              "type": "answer",
+              "text": "déclarer la guerre"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 41). En revanche, des compétences comme "
+            },
+            {
+              "type": "answer",
+              "text": "fournir la scolarisation et l'éducation"
+            },
+            {
+              "type": "normal",
+              "text": " et "
+            },
+            {
+              "type": "answer",
+              "text": "délivrer un permis de conduire"
+            },
+            {
+              "type": "normal",
+              "text": " relèvent des gouvernements des États (Q. 42). Les deux grands partis politiques, le "
+            },
+            {
+              "type": "answer",
+              "text": "Parti démocrate et le Parti républicain"
+            },
+            {
+              "type": "normal",
+              "text": " ont souvent des points de vue différents sur la manière dont ces pouvoirs devraient être utilisés (Q. 45). (*Vous devez connaître le nom du "
+            },
+            {
+              "type": "answer",
+              "text": "gouverneur"
+            },
+            {
+              "type": "normal",
+              "text": " de votre État et le nom de sa "
+            },
+            {
+              "type": "answer",
+              "text": "capitale"
+            },
+            {
+              "type": "normal",
+              "text": ")* (Q. 43, 44))."
+            }
+          ],
+          "sectionTitle_fr": "Répartition des pouvoirs (fédéral vs État)",
+          "content_ar": [
+            {
+              "type": "normal",
+              "text": "يقسم الدستور الصلاحيات، فيعطي بعضها للحكومة الاتحادية وبعضها لحكومات الولايات. وحدها الحكومة الاتحادية تملك سلطة "
+            },
+            {
+              "type": "answer",
+              "text": "طباعة النقود"
+            },
+            {
+              "type": "normal",
+              "text": " أو "
+            },
+            {
+              "type": "answer",
+              "text": "إعلان الحرب"
+            },
+            {
+              "type": "normal",
+              "text": " (س 41). ومن جهة أخرى، فإن صلاحيات مثل "
+            },
+            {
+              "type": "answer",
+              "text": "توفير التعليم والمدارس"
+            },
+            {
+              "type": "normal",
+              "text": " و"
+            },
+            {
+              "type": "answer",
+              "text": "منح رخصة القيادة"
+            },
+            {
+              "type": "normal",
+              "text": " تؤول إلى حكومات الولايات (س 42). الحزبان السياسيان الرئيسيان، "
+            },
+            {
+              "type": "answer",
+              "text": "الديمقراطي والجمهوري"
+            },
+            {
+              "type": "normal",
+              "text": "، غالبًا ما يملكان رؤى مختلفة حول كيفية استخدام هذه الصلاحيات (س 45). (*يجب أن تعرف اسم "
+            },
+            {
+              "type": "answer",
+              "text": "حاكم"
+            },
+            {
+              "type": "normal",
+              "text": " ولايتك واسم "
+            },
+            {
+              "type": "answer",
+              "text": "عاصمة"
+            },
+            {
+              "type": "normal",
+              "text": " ولايتك*) (س 43، 44))."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 3,
+      "translations": {
+        "en": {
+          "title": "The Citizen's Handbook",
+          "introduction": "Becoming a U.S. citizen means having special rights and, with them, responsibilities."
+        },
+        "ko": {
+          "title": "시민 핸드북",
+          "introduction": "미국 시민이 된다는 것은 특별한 권리와 그에 따르는 책임을 의미합니다."
+        },
+        "es": {
+          "title": "Manual del ciudadano",
+          "introduction": "Convertirse en ciudadano estadounidense implica derechos especiales y, con ellos, responsabilidades."
+        },
+        "fr": {
+          "title": "Le Manuel du citoyen",
+          "introduction": "Devenir citoyen américain signifie bénéficier de droits particuliers et, avec eux, assumer des responsabilités."
+        },
+        "ar": {
+          "title": "دليل المواطن",
+          "introduction": "أن تصبح مواطناً أمريكياً يعني الحصول على حقوق خاصة ومعها مسؤوليات."
+        }
+      },
+      "sections": [
+        {
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "The U.S. Constitution has been updated several times regarding who can vote. Now, any "
+            },
+            {
+              "type": "answer",
+              "text": "citizen 18 and older"
+            },
+            {
+              "type": "normal",
+              "text": " can vote, and they cannot be denied the right to vote because of their sex or race, or because they haven't paid a "
+            },
+            {
+              "type": "answer",
+              "text": "poll tax"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 48). Certain rights and responsibilities are exclusive to U.S. citizens. The right to "
+            },
+            {
+              "type": "answer",
+              "text": "vote in a federal election"
+            },
+            {
+              "type": "normal",
+              "text": " or "
+            },
+            {
+              "type": "answer",
+              "text": "run for federal office"
+            },
+            {
+              "type": "normal",
+              "text": " is only for citizens (Q. 50). Also, "
+            },
+            {
+              "type": "answer",
+              "text": "serving on a jury"
+            },
+            {
+              "type": "normal",
+              "text": " is a key responsibility of a citizen (Q. 49)."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "미국 헌법은 누가 투표할 수 있는지에 대해 여러 번의 업데이트를 거쳤습니다. 이제 18세 이상의 모든 시민(Citizens 18 and older)은 투표할 수 있으며, 성별이나 인종 때문에, 혹은 세금을 내지 않았다는 이유("
+            },
+            {
+              "type": "answer",
+              "text": "you don't have to pay a poll tax"
+            },
+            {
+              "type": "normal",
+              "text": ")로 투표권을 박탈당하지 않습니다 (Q. 48). "
+            },
+            {
+              "type": "answer",
+              "text": "미국 시민에게만"
+            },
+            {
+              "type": "normal",
+              "text": " 주어지는 특별한 권리와 책임이 있습니다. "
+            },
+            {
+              "type": "answer",
+              "text": "연방 선거에서 투표(vote in a federal election)"
+            },
+            {
+              "type": "normal",
+              "text": "하거나 "
+            },
+            {
+              "type": "answer",
+              "text": "연방 공직에 출마(run for federal office)"
+            },
+            {
+              "type": "normal",
+              "text": "할 권리는 오직 시민에게만 있습니다 (Q. 50). 또한 "
+            },
+            {
+              "type": "answer",
+              "text": "배심원으로 봉사(serve on a jury)"
+            },
+            {
+              "type": "normal",
+              "text": "하는 것은 시민의 중요한 책임 중 하나입니다 (Q. 49)."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "La Constitución de EE. UU. se ha actualizado varias veces respecto a quién puede votar. Ahora, cualquier "
+            },
+            {
+              "type": "answer",
+              "text": "ciudadano de 18 años o más"
+            },
+            {
+              "type": "normal",
+              "text": " puede votar, y no se le puede negar ese derecho por su sexo o raza, ni por no haber pagado un "
+            },
+            {
+              "type": "answer",
+              "text": "impuesto de votación (poll tax)"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 48). Ciertos derechos y responsabilidades son exclusivos de los ciudadanos estadounidenses. El derecho a "
+            },
+            {
+              "type": "answer",
+              "text": "votar en elecciones federales"
+            },
+            {
+              "type": "normal",
+              "text": " o a "
+            },
+            {
+              "type": "answer",
+              "text": "postularse a un cargo federal"
+            },
+            {
+              "type": "normal",
+              "text": " es solo para ciudadanos (P. 50). Además, "
+            },
+            {
+              "type": "answer",
+              "text": "servir como jurado"
+            },
+            {
+              "type": "normal",
+              "text": " es una responsabilidad clave del ciudadano (P. 49)."
+            }
+          ],
+          "linkedQuestions": [
+            48,
+            50,
+            49
+          ],
+          "content_fr": [
+            {
+              "type": "normal",
+              "text": "La Constitution des États-Unis a été mise à jour plusieurs fois concernant qui peut voter. Désormais, tout "
+            },
+            {
+              "type": "answer",
+              "text": "citoyen âgé de 18 ans ou plus"
+            },
+            {
+              "type": "normal",
+              "text": " peut voter, et on ne peut pas lui refuser le droit de vote en raison de son sexe ou de sa race, ni parce qu’il n’a pas payé un "
+            },
+            {
+              "type": "answer",
+              "text": "impôt de vote (poll tax)"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 48). Certains droits et responsabilités sont réservés aux citoyens américains. Le droit de "
+            },
+            {
+              "type": "answer",
+              "text": "voter à une élection fédérale"
+            },
+            {
+              "type": "normal",
+              "text": " ou de "
+            },
+            {
+              "type": "answer",
+              "text": "se présenter à une fonction fédérale"
+            },
+            {
+              "type": "normal",
+              "text": " est réservé aux citoyens (Q. 50). De plus, "
+            },
+            {
+              "type": "answer",
+              "text": "siéger comme juré"
+            },
+            {
+              "type": "normal",
+              "text": " est une responsabilité clé du citoyen (Q. 49)."
+            }
+          ],
+          "content_ar": [
+            {
+              "type": "normal",
+              "text": "تم تحديث الدستور الأمريكي عدة مرات بشأن من يحق له التصويت. الآن يمكن لأي "
+            },
+            {
+              "type": "answer",
+              "text": "مواطن يبلغ 18 عاماً فأكثر"
+            },
+            {
+              "type": "normal",
+              "text": " أن يصوت، ولا يمكن حرمانه من حق التصويت بسبب الجنس أو العِرق، أو لأنه لم يدفع "
+            },
+            {
+              "type": "answer",
+              "text": "ضريبة التصويت"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 48). بعض الحقوق والمسؤوليات حصرية لمواطني الولايات المتحدة. إن حق "
+            },
+            {
+              "type": "answer",
+              "text": "التصويت في انتخابات اتحادية"
+            },
+            {
+              "type": "normal",
+              "text": " أو "
+            },
+            {
+              "type": "answer",
+              "text": "الترشح لمنصب اتحادي"
+            },
+            {
+              "type": "normal",
+              "text": " هو للمواطنين فقط (Q. 50). كما أن "
+            },
+            {
+              "type": "answer",
+              "text": "الخدمة في هيئة محلفين"
+            },
+            {
+              "type": "normal",
+              "text": " تعد مسؤولية أساسية للمواطن (Q. 49)."
+            }
+          ]
+        },
+        {
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "Of course, there are also rights for everyone living in the United States, such as "
+            },
+            {
+              "type": "answer",
+              "text": "freedom of speech"
+            },
+            {
+              "type": "normal",
+              "text": " and "
+            },
+            {
+              "type": "answer",
+              "text": "freedom of religion"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 51). When we say the Pledge of Allegiance, we show loyalty to "
+            },
+            {
+              "type": "answer",
+              "text": "the United States"
+            },
+            {
+              "type": "normal",
+              "text": " and "
+            },
+            {
+              "type": "answer",
+              "text": "the flag"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 52). When becoming a citizen, one makes several important promises, one of which is to "
+            },
+            {
+              "type": "answer",
+              "text": "obey the laws of the United States"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 53). There are many ways to participate in our democracy. The most prominent are to "
+            },
+            {
+              "type": "answer",
+              "text": "vote"
+            },
+            {
+              "type": "normal",
+              "text": " or to "
+            },
+            {
+              "type": "answer",
+              "text": "help with a campaign"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 55)."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "물론 언론의 자유(freedom of speech)나 "
+            },
+            {
+              "type": "answer",
+              "text": "종교의 자유(freedom of religion)"
+            },
+            {
+              "type": "normal",
+              "text": "처럼, 미국 땅에 사는 "
+            },
+            {
+              "type": "answer",
+              "text": "모든 사람(everyone living in the United States)"
+            },
+            {
+              "type": "normal",
+              "text": "에게 주어지는 권리도 있습니다 (Q. 51). 우리가 "
+            },
+            {
+              "type": "answer",
+              "text": "국기에 대한 맹세(Pledge of Allegiance)"
+            },
+            {
+              "type": "normal",
+              "text": "를 할 때, 우리는 "
+            },
+            {
+              "type": "answer",
+              "text": "미국(the United States)과 그 국기(the flag)"
+            },
+            {
+              "type": "normal",
+              "text": "에 충성을 보입니다 (Q. 52). 시민이 될 때, 우리는 몇 가지 중요한 약속을 합니다. 그중 하나는 "
+            },
+            {
+              "type": "answer",
+              "text": "미국의 법을 준수(obey the laws of the United States)"
+            },
+            {
+              "type": "normal",
+              "text": "하겠다는 것입니다 (Q. 53). 민주주의에 참여하는 방법은 다양합니다. 가장 대표적인 것은 "
+            },
+            {
+              "type": "answer",
+              "text": "투표(vote)"
+            },
+            {
+              "type": "normal",
+              "text": "를 하거나, 지지하는 후보의 "
+            },
+            {
+              "type": "answer",
+              "text": "선거 운동을 돕는(help with a campaign)"
+            },
+            {
+              "type": "normal",
+              "text": " 것입니다 (Q. 55)."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "Por supuesto, también hay derechos para todas las personas que viven en Estados Unidos, como la "
+            },
+            {
+              "type": "answer",
+              "text": "libertad de expresión"
+            },
+            {
+              "type": "normal",
+              "text": " y la "
+            },
+            {
+              "type": "answer",
+              "text": "libertad de religión"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 51). Al recitar el Juramento de Lealtad mostramos lealtad a "
+            },
+            {
+              "type": "answer",
+              "text": "los Estados Unidos"
+            },
+            {
+              "type": "normal",
+              "text": " y a "
+            },
+            {
+              "type": "answer",
+              "text": "la bandera"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 52). Al convertirnos en ciudadanos, hacemos varias promesas importantes; una de ellas es "
+            },
+            {
+              "type": "answer",
+              "text": "obedecer las leyes de los Estados Unidos"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 53). Hay muchas maneras de participar en nuestra democracia. Las más destacadas son "
+            },
+            {
+              "type": "answer",
+              "text": "votar"
+            },
+            {
+              "type": "normal",
+              "text": " o "
+            },
+            {
+              "type": "answer",
+              "text": "ayudar en una campaña"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 55)."
+            }
+          ],
+          "linkedQuestions": [
+            51,
+            52,
+            53,
+            55
+          ],
+          "content_fr": [
+            {
+              "type": "normal",
+              "text": "Bien sûr, il existe aussi des droits pour toute personne vivant aux États-Unis, comme la "
+            },
+            {
+              "type": "answer",
+              "text": "liberté d’expression"
+            },
+            {
+              "type": "normal",
+              "text": " et la "
+            },
+            {
+              "type": "answer",
+              "text": "liberté de religion"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 51). Lorsque nous récitons le Serment d’allégeance, nous montrons notre loyauté envers "
+            },
+            {
+              "type": "answer",
+              "text": "les États-Unis"
+            },
+            {
+              "type": "normal",
+              "text": " et envers "
+            },
+            {
+              "type": "answer",
+              "text": "le drapeau"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 52). En devenant citoyen, on fait plusieurs promesses importantes, dont celle "
+            },
+            {
+              "type": "answer",
+              "text": "d’obéir aux lois des États-Unis"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 53). Il existe de nombreuses façons de participer à notre démocratie. Les plus marquantes sont de "
+            },
+            {
+              "type": "answer",
+              "text": "voter"
+            },
+            {
+              "type": "normal",
+              "text": " ou de "
+            },
+            {
+              "type": "answer",
+              "text": "aider une campagne"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 55)."
+            }
+          ],
+          "content_ar": [
+            {
+              "type": "normal",
+              "text": "بالطبع، هناك أيضاً حقوق لكل من يعيش في الولايات المتحدة، مثل "
+            },
+            {
+              "type": "answer",
+              "text": "حرية التعبير"
+            },
+            {
+              "type": "normal",
+              "text": " و"
+            },
+            {
+              "type": "answer",
+              "text": "حرية الدين"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 51). عندما نقول قسم الولاء، نظهر الولاء لـ "
+            },
+            {
+              "type": "answer",
+              "text": "الولايات المتحدة"
+            },
+            {
+              "type": "normal",
+              "text": " و"
+            },
+            {
+              "type": "answer",
+              "text": "العلم"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 52). وعند أن تصبح مواطناً، فإنك تقدم عدة وعود مهمة، من بينها "
+            },
+            {
+              "type": "answer",
+              "text": "الامتثال لقوانين الولايات المتحدة"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 53). وهناك العديد من الطرق للمشاركة في ديمقراطيتنا. ومن أبرزها "
+            },
+            {
+              "type": "answer",
+              "text": "التصويت"
+            },
+            {
+              "type": "normal",
+              "text": " أو "
+            },
+            {
+              "type": "answer",
+              "text": "المساعدة في حملة انتخابية"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 55)."
+            }
+          ]
+        },
+        {
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "There are also duties. The deadline for filing "
+            },
+            {
+              "type": "answer",
+              "text": "federal income tax forms"
+            },
+            {
+              "type": "normal",
+              "text": " is "
+            },
+            {
+              "type": "answer",
+              "text": "April 15"
+            },
+            {
+              "type": "normal",
+              "text": " of each year (Q. 56), and all men must register for the "
+            },
+            {
+              "type": "answer",
+              "text": "Selective Service"
+            },
+            {
+              "type": "normal",
+              "text": " "
+            },
+            {
+              "type": "answer",
+              "text": "between the ages of 18 and 26"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 57)."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "시민의 의무도 있습니다. "
+            },
+            {
+              "type": "answer",
+              "text": "연방 소득세 신고(federal income tax forms)"
+            },
+            {
+              "type": "normal",
+              "text": "는 매년 "
+            },
+            {
+              "type": "answer",
+              "text": "4월 15일(April 15)"
+            },
+            {
+              "type": "normal",
+              "text": "까지 해야 하며 (Q. 56), 모든 남성은 "
+            },
+            {
+              "type": "answer",
+              "text": "18세에서 26세 사이(between 18 and 26)"
+            },
+            {
+              "type": "normal",
+              "text": "에 "
+            },
+            {
+              "type": "answer",
+              "text": "병역 등록(Selective Service)"
+            },
+            {
+              "type": "normal",
+              "text": "을 해야 합니다 (Q. 57)."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "También hay deberes. La fecha límite para presentar "
+            },
+            {
+              "type": "answer",
+              "text": "las declaraciones de impuestos federales"
+            },
+            {
+              "type": "normal",
+              "text": " es el "
+            },
+            {
+              "type": "answer",
+              "text": "15 de abril"
+            },
+            {
+              "type": "normal",
+              "text": " de cada año (P. 56), y todos los hombres deben registrarse en el "
+            },
+            {
+              "type": "answer",
+              "text": "Servicio Selectivo"
+            },
+            {
+              "type": "normal",
+              "text": " "
+            },
+            {
+              "type": "answer",
+              "text": "entre los 18 y 26 años"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 57)."
+            }
+          ],
+          "linkedQuestions": [
+            56,
+            57
+          ],
+          "content_fr": [
+            {
+              "type": "normal",
+              "text": "Il y a aussi des devoirs. La date limite pour déposer "
+            },
+            {
+              "type": "answer",
+              "text": "les déclarations d’impôt fédéral sur le revenu"
+            },
+            {
+              "type": "normal",
+              "text": " est le "
+            },
+            {
+              "type": "answer",
+              "text": "15 avril"
+            },
+            {
+              "type": "normal",
+              "text": " de chaque année (Q. 56), et tous les hommes doivent s’inscrire au "
+            },
+            {
+              "type": "answer",
+              "text": "Service sélectif"
+            },
+            {
+              "type": "normal",
+              "text": " "
+            },
+            {
+              "type": "answer",
+              "text": "entre 18 et 26 ans"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 57)."
+            }
+          ]
+          ,
+          "content_ar": [
+            { "type": "normal", "text": "هناك أيضًا واجبات. الموعد النهائي لتقديم " },
+            { "type": "answer", "text": "نماذج ضريبة الدخل الفيدرالية" },
+            { "type": "normal", "text": " هو " },
+            { "type": "answer", "text": "15 أبريل" },
+            { "type": "normal", "text": " من كل عام (س. 56)، ويجب على جميع الذكور التسجيل في " },
+            { "type": "answer", "text": "الخدمة الانتقائية" },
+            { "type": "normal", "text": " " },
+            { "type": "answer", "text": "بين سن 18 و26 عامًا" },
+            { "type": "normal", "text": " (س. 57)." }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 4,
+      "translations": {
+        "en": {
+          "title": "A Journey Through Time",
+          "introduction": "American history is a continuous story of struggle for freedom and constant change."
+        },
+        "ko": {
+          "title": "시간 여행",
+          "introduction": "미국의 역사는 자유를 향한 투쟁과 끊임없는 변화의 연속이었습니다."
+        },
+        "es": {
+          "title": "Un viaje a través del tiempo",
+          "introduction": "La historia de Estados Unidos es un relato continuo de lucha por la libertad y de cambios constantes."
+        },
+        "fr": {
+          "title": "Un voyage à travers le temps",
+          "introduction": "L’histoire des États-Unis est un récit continu de lutte pour la liberté et de changements constants."
+        },
+        "ar": {
+          "title": "رحلة عبر الزمن",
+          "introduction": "تاريخ الولايات المتحدة هو قصة متواصلة من الكفاح من أجل الحرية والتغيير المستمر."
+        }
+      },
+      "sections": [
+        {
+          "sectionTitle_en": "Part 1: The Founding (1700s)",
+          "sectionTitle_ko": "파트 1: 건국 (1700년대)",
+          "sectionTitle_es": "Parte 1: La fundación (1700s)",
+          "sectionTitle_ar": "الجزء 1: التأسيس (القرن الثامن عشر)",
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "Before the Europeans arrived, "
+            },
+            {
+              "type": "answer",
+              "text": "American Indians"
+            },
+            {
+              "type": "normal",
+              "text": " lived on this land (Q. 59). Later, many colonists came to America seeking "
+            },
+            {
+              "type": "answer",
+              "text": "religious freedom"
+            },
+            {
+              "type": "normal",
+              "text": " and "
+            },
+            {
+              "type": "answer",
+              "text": "economic opportunity"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 58). Sadly, numerous "
+            },
+            {
+              "type": "answer",
+              "text": "Africans"
+            },
+            {
+              "type": "normal",
+              "text": " were forcibly brought over and became slaves (Q. 60). The "
+            },
+            {
+              "type": "answer",
+              "text": "13 original states"
+            },
+            {
+              "type": "normal",
+              "text": ", including "
+            },
+            {
+              "type": "answer",
+              "text": "New York"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "Virginia"
+            },
+            {
+              "type": "normal",
+              "text": ", and "
+            },
+            {
+              "type": "answer",
+              "text": "Georgia"
+            },
+            {
+              "type": "normal",
+              "text": ", decided to fight against Britain due to "
+            },
+            {
+              "type": "answer",
+              "text": "high taxes"
+            },
+            {
+              "type": "normal",
+              "text": " and a lack of "
+            },
+            {
+              "type": "answer",
+              "text": "self-government"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 64, 61). In "
+            },
+            {
+              "type": "answer",
+              "text": "1776"
+            },
+            {
+              "type": "normal",
+              "text": ", the Declaration of Independence, written by "
+            },
+            {
+              "type": "answer",
+              "text": "Thomas Jefferson"
+            },
+            {
+              "type": "normal",
+              "text": ", was adopted (Q. 62, 63). After the war, in "
+            },
+            {
+              "type": "answer",
+              "text": "1787"
+            },
+            {
+              "type": "normal",
+              "text": ", the "
+            },
+            {
+              "type": "answer",
+              "text": "Constitution was written"
+            },
+            {
+              "type": "normal",
+              "text": " at the Constitutional Convention (Q. 65, 66). During this process, figures like "
+            },
+            {
+              "type": "answer",
+              "text": "James Madison"
+            },
+            {
+              "type": "normal",
+              "text": " and "
+            },
+            {
+              "type": "answer",
+              "text": "Alexander Hamilton"
+            },
+            {
+              "type": "normal",
+              "text": " argued for the necessity of the Constitution in The Federalist Papers (Q. 67). Great figures of this era include "
+            },
+            {
+              "type": "answer",
+              "text": "Benjamin Franklin"
+            },
+            {
+              "type": "normal",
+              "text": ", a brilliant "
+            },
+            {
+              "type": "answer",
+              "text": "U.S. diplomat"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 68), and "
+            },
+            {
+              "type": "answer",
+              "text": "George Washington"
+            },
+            {
+              "type": "normal",
+              "text": ", who led the army, became the "
+            },
+            {
+              "type": "answer",
+              "text": "first President"
+            },
+            {
+              "type": "normal",
+              "text": ", and is known as the 'Father of Our Country' (Q. 69, 70)."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "유럽인들이 도착하기 전, 이 땅에는 미국 원주민(American Indians)들이 살고 있었습니다 (Q. 59). 이후 많은 식민지 개척자들(colonists)이 "
+            },
+            {
+              "type": "answer",
+              "text": "종교의 자유(religious freedom)"
+            },
+            {
+              "type": "normal",
+              "text": "와 "
+            },
+            {
+              "type": "answer",
+              "text": "경제적 기회(economic opportunity)"
+            },
+            {
+              "type": "normal",
+              "text": "를 찾아 미국으로 왔습니다 (Q. 58). 슬프게도, 수많은 "
+            },
+            {
+              "type": "answer",
+              "text": "아프리카인(Africans)"
+            },
+            {
+              "type": "normal",
+              "text": "들이 강제로 끌려와 "
+            },
+            {
+              "type": "answer",
+              "text": "노예(slaves)"
+            },
+            {
+              "type": "normal",
+              "text": "가 되었습니다 (Q. 60). "
+            },
+            {
+              "type": "answer",
+              "text": "13개의 최초 식민지(13 original states)"
+            },
+            {
+              "type": "normal",
+              "text": " 중에는 "
+            },
+            {
+              "type": "answer",
+              "text": "뉴욕(New York)"
+            },
+            {
+              "type": "normal",
+              "text": "버지니아(Virginia)"
+            },
+            {
+              "type": "answer",
+              "text": ", "
+            },
+            {
+              "type": "normal",
+              "text": "조지아(Georgia)"
+            },
+            {
+              "type": "answer",
+              "text": " 등이 있었습니다 (Q. 64). 이들은 "
+            },
+            {
+              "type": "normal",
+              "text": "부당한 세금(high taxes)"
+            },
+            {
+              "type": "answer",
+              "text": "과 "
+            },
+            {
+              "type": "normal",
+              "text": "자치권 부재(didn't have self-government)"
+            },
+            {
+              "type": "answer",
+              "text": " 때문에 영국에 맞서 싸우기로 결심했습니다 (Q. 61). "
+            },
+            {
+              "type": "normal",
+              "text": "1776년"
+            },
+            {
+              "type": "answer",
+              "text": "토머스 제퍼슨(Thomas Jefferson)"
+            },
+            {
+              "type": "normal",
+              "text": "이 작성한 독립선언서가 채택되었고 (Q. 62, 63), 전쟁 후 "
+            },
+            {
+              "type": "answer",
+              "text": "1787년"
+            },
+            {
+              "type": "normal",
+              "text": ", 제헌 회의(Constitutional Convention)에서 마침내 "
+            },
+            {
+              "type": "answer",
+              "text": "헌법이 작성되었습니다"
+            },
+            {
+              "type": "normal",
+              "text": "(The Constitution was written) (Q. 65, 66). 이 과정에서 "
+            },
+            {
+              "type": "answer",
+              "text": "제임스 매디슨(James Madison)"
+            },
+            {
+              "type": "normal",
+              "text": "알렉산더 해밀턴(Alexander Hamilton)"
+            },
+            {
+              "type": "answer",
+              "text": " 등은 연방주의자 논집(The Federalist Papers)을 통해 헌법의 필요성을 역설했습니다 (Q. 67). 이 시대의 위대한 인물로는 뛰어난 "
+            },
+            {
+              "type": "normal",
+              "text": "미국 외교관(U.S. diplomat)"
+            },
+            {
+              "type": "answer",
+              "text": "이었던 "
+            },
+            {
+              "type": "normal",
+              "text": "벤자민 프랭클린(Benjamin Franklin)"
+            },
+            {
+              "type": "answer",
+              "text": " (Q. 68)과, 군대를 이끌고 "
+            },
+            {
+              "type": "normal",
+              "text": "초대 대통령(the first President)"
+            },
+            {
+              "type": "answer",
+              "text": "이 되어 '미국의 아버지(Father of Our Country)'로 불리는 "
+            },
+            {
+              "type": "normal",
+              "text": "조지 워싱턴(George Washington)"
+            },
+            {
+              "type": "answer",
+              "text": "이 있습니다 (Q. 69, 70)."
+            },
+            {
+              "type": "normal",
+              "text": "이 있습니다 (Q. 69, 70)."
+            },
+            {
+              "type": "answer",
+              "text": "이 있습니다 (Q. 69, 70)."
+            },
+            {
+              "type": "normal",
+              "text": "이 있습니다 (Q. 69, 70)."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "Antes de la llegada de los europeos, los "
+            },
+            {
+              "type": "answer",
+              "text": "pueblos indígenas americanos"
+            },
+            {
+              "type": "normal",
+              "text": " vivían en estas tierras (P. 59). Más tarde, muchos colonos llegaron a América en busca de "
+            },
+            {
+              "type": "answer",
+              "text": "libertad religiosa"
+            },
+            {
+              "type": "normal",
+              "text": " y de "
+            },
+            {
+              "type": "answer",
+              "text": "oportunidades económicas"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 58). Lamentablemente, numerosos "
+            },
+            {
+              "type": "answer",
+              "text": "africanos"
+            },
+            {
+              "type": "normal",
+              "text": " fueron traídos por la fuerza y se convirtieron en esclavos (P. 60). Los "
+            },
+            {
+              "type": "answer",
+              "text": "13 estados originales"
+            },
+            {
+              "type": "normal",
+              "text": ", incluidos "
+            },
+            {
+              "type": "answer",
+              "text": "Nueva York"
+            },
+            {
+              "type": "normal",
+              "text": "Virginia"
+            },
+            {
+              "type": "answer",
+              "text": ", y "
+            },
+            {
+              "type": "normal",
+              "text": "Georgia"
+            },
+            {
+              "type": "answer",
+              "text": ", decidieron luchar contra Gran Bretaña debido a los "
+            },
+            {
+              "type": "normal",
+              "text": "altos impuestos"
+            },
+            {
+              "type": "answer",
+              "text": " y a la falta de "
+            },
+            {
+              "type": "normal",
+              "text": "autogobierno"
+            },
+            {
+              "type": "answer",
+              "text": " (P. 64, 61). En "
+            },
+            {
+              "type": "normal",
+              "text": "1776"
+            },
+            {
+              "type": "answer",
+              "text": ", se adoptó la Declaración de Independencia, redactada por "
+            },
+            {
+              "type": "normal",
+              "text": "Thomas Jefferson"
+            },
+            {
+              "type": "answer",
+              "text": " (P. 62, 63). Después de la guerra, en "
+            },
+            {
+              "type": "normal",
+              "text": "1787"
+            },
+            {
+              "type": "answer",
+              "text": ", se "
+            },
+            {
+              "type": "normal",
+              "text": "escribió la Constitución"
+            },
+            {
+              "type": "answer",
+              "text": " en la Convención Constitucional (P. 65, 66). Durante este proceso, figuras como "
+            },
+            {
+              "type": "normal",
+              "text": "James Madison"
+            },
+            {
+              "type": "answer",
+              "text": " y "
+            },
+            {
+              "type": "normal",
+              "text": "Alexander Hamilton"
+            },
+            {
+              "type": "answer",
+              "text": " defendieron la necesidad de la Constitución en los Documentos Federalistas (P. 67). Grandes figuras de esta era incluyen a "
+            },
+            {
+              "type": "normal",
+              "text": "Benjamin Franklin"
+            },
+            {
+              "type": "answer",
+              "text": ", un destacado "
+            },
+            {
+              "type": "normal",
+              "text": "diplomático estadounidense"
+            },
+            {
+              "type": "answer",
+              "text": " (P. 68), y a "
+            },
+            {
+              "type": "normal",
+              "text": "George Washington"
+            },
+            {
+              "type": "answer",
+              "text": ", quien dirigió el ejército, se convirtió en el "
+            },
+            {
+              "type": "normal",
+              "text": "primer presidente"
+            },
+            {
+              "type": "answer",
+              "text": " y es conocido como el 'Padre de la Patria' (P. 69, 70)."
+            },
+            {
+              "type": "normal",
+              "text": " y es conocido como el 'Padre de la Patria' (P. 69, 70)."
+            }
+          ],
+          "linkedQuestions": [
+            59,
+            58,
+            60,
+            64,
+            61,
+            62,
+            63,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "content_ar": [
+            { "type": "normal", "text": "قبل وصول الأوروبيين، كان " },
+            { "type": "answer", "text": "السكان الأمريكيون الأصليون" },
+            { "type": "normal", "text": " يعيشون على هذه الأرض (س. 59). لاحقًا، جاء العديد من المستوطنين إلى أمريكا بحثًا عن " },
+            { "type": "answer", "text": "حرية دينية" },
+            { "type": "normal", "text": " و" },
+            { "type": "answer", "text": "فرص اقتصادية" },
+            { "type": "normal", "text": " (س. 58). للأسف، تم جلب العديد من " },
+            { "type": "answer", "text": "الأفارقة" },
+            { "type": "normal", "text": " قسرًا وأصبحوا عبيدًا (س. 60). كانت " },
+            { "type": "answer", "text": "الولايات الأصلية الثلاث عشرة" },
+            { "type": "normal", "text": ", بما فيها " },
+            { "type": "answer", "text": "نيويورك" },
+            { "type": "normal", "text": ", " },
+            { "type": "answer", "text": "فيرجينيا" },
+            { "type": "normal", "text": ", و" },
+            { "type": "answer", "text": "جورجيا" },
+            { "type": "normal", "text": ", قد قررت القتال ضد بريطانيا بسبب " },
+            { "type": "answer", "text": "الضرائب المرتفعة" },
+            { "type": "normal", "text": " ونقص " },
+            { "type": "answer", "text": "الحكم الذاتي" },
+            { "type": "normal", "text": " (س. 64، 61). في عام " },
+            { "type": "answer", "text": "1776" },
+            { "type": "normal", "text": ", تم اعتماد إعلان الاستقلال الذي كتبه " },
+            { "type": "answer", "text": "توماس جيفرسون" },
+            { "type": "normal", "text": " (س. 62، 63). بعد الحرب، في عام " },
+            { "type": "answer", "text": "1787" },
+            { "type": "normal", "text": ", تم " },
+            { "type": "answer", "text": "كتابة الدستور" },
+            { "type": "normal", "text": " في المؤتمر الدستوري (س. 65، 66). خلال هذه العملية، دافع أشخاص مثل " },
+            { "type": "answer", "text": "جيمس ماديسون" },
+            { "type": "normal", "text": " و" },
+            { "type": "answer", "text": "ألكسندر هاملتون" },
+            { "type": "normal", "text": " عن ضرورة الدستور في «الأوراق الفدرالية» (س. 67). ومن الشخصيات البارزة في هذه الحقبة " },
+            { "type": "answer", "text": "بنجامين فرانكلين" },
+            { "type": "normal", "text": ", وهو " },
+            { "type": "answer", "text": "دبلوماسي أمريكي" },
+            { "type": "normal", "text": " بارز (س. 68)، و" },
+            { "type": "answer", "text": "جورج واشنطن" },
+            { "type": "normal", "text": ", الذي قاد الجيش وأصبح " },
+            { "type": "answer", "text": "أول رئيس" },
+            { "type": "normal", "text": " ويُعرف بـ«أبو وطننا» (س. 69، 70)." }
+          ],
+          "content_fr": [
+            { "type": "normal", "text": "Avant l’arrivée des Européens, " },
+            { "type": "answer", "text": "Amérindiens" },
+            { "type": "normal", "text": " vivaient sur cette terre (Q. 59). Plus tard, de nombreux colons sont venus en Amérique à la recherche de " },
+            { "type": "answer", "text": "liberté religieuse" },
+            { "type": "normal", "text": " et d’" },
+            { "type": "answer", "text": "opportunités économiques" },
+            { "type": "normal", "text": " (Q. 58). Hélas, de nombreux " },
+            { "type": "answer", "text": "Africains" },
+            { "type": "normal", "text": " ont été amenés de force et réduits en esclavage (Q. 60). Les " },
+            { "type": "answer", "text": "13 États originaux" },
+            { "type": "normal", "text": ", dont " },
+            { "type": "answer", "text": "New York" },
+            { "type": "normal", "text": ", " },
+            { "type": "answer", "text": "la Virginie" },
+            { "type": "normal", "text": " et " },
+            { "type": "answer", "text": "la Géorgie" },
+            { "type": "normal", "text": ", décidèrent de se battre contre la Grande-Bretagne en raison des " },
+            { "type": "answer", "text": "impôts élevés" },
+            { "type": "normal", "text": " et du manque d’" },
+            { "type": "answer", "text": "autonomie gouvernementale" },
+            { "type": "normal", "text": " (Q. 64, 61). En " },
+            { "type": "answer", "text": "1776" },
+            { "type": "normal", "text": ", la Déclaration d’indépendance, rédigée par " },
+            { "type": "answer", "text": "Thomas Jefferson" },
+            { "type": "normal", "text": ", fut adoptée (Q. 62, 63). Après la guerre, en " },
+            { "type": "answer", "text": "1787" },
+            { "type": "normal", "text": ", la " },
+            { "type": "answer", "text": "Constitution fut rédigée" },
+            { "type": "normal", "text": " lors de la Convention constitutionnelle (Q. 65, 66). Au cours de ce processus, des figures comme " },
+            { "type": "answer", "text": "James Madison" },
+            { "type": "normal", "text": " et " },
+            { "type": "answer", "text": "Alexander Hamilton" },
+            { "type": "normal", "text": " ont défendu la nécessité de la Constitution dans les Federalist Papers (Q. 67). Parmi les grandes figures de cette époque figurent " },
+            { "type": "answer", "text": "Benjamin Franklin" },
+            { "type": "normal", "text": ", un remarquable " },
+            { "type": "answer", "text": "diplomate américain" },
+            { "type": "normal", "text": " (Q. 68), ainsi que " },
+            { "type": "answer", "text": "George Washington" },
+            { "type": "normal", "text": ", qui dirigea l’armée, devint le " },
+            { "type": "answer", "text": "premier président" },
+            { "type": "normal", "text": " et est connu comme le « Père de la patrie » (Q. 69, 70)." }
+          ],
+          "sectionTitle_fr": "Partie 1 : La fondation (1700s)"
+        },
+        {
+          "sectionTitle_en": "Part 2: Growth and Division (1800s)",
+          "sectionTitle_ko": "파트 2: 성장과 분열 (1800년대)",
+          "sectionTitle_es": "Parte 2: Crecimiento y división (1800s)",
+          "sectionTitle_fr": "Partie 2 : Croissance et division (1800s)",
+          "sectionTitle_ar": "الجزء 2: النمو والانقسام (القرن التاسع عشر)",
+          "content_en": [
+            { "type": "normal", "text": "In the 1800s, the United States expanded greatly. In 1803, it purchased the vast " },
+            { "type": "answer", "text": "Louisiana Territory" },
+            { "type": "normal", "text": " from France (Q. 71) and fought several wars, including the " },
+            { "type": "answer", "text": "Mexican-American War" },
+            { "type": "normal", "text": " (Q. 72). However, this period also saw the great tragedy of the " },
+            { "type": "answer", "text": "Civil War" },
+            { "type": "normal", "text": " (Q. 73). The main cause of the war was " },
+            { "type": "answer", "text": "slavery" },
+            { "type": "normal", "text": " (Q. 74). President " },
+            { "type": "answer", "text": "Abraham Lincoln" },
+            { "type": "normal", "text": " " },
+            { "type": "answer", "text": "freed the slaves" },
+            { "type": "normal", "text": " and " },
+            { "type": "answer", "text": "saved the Union" },
+            { "type": "normal", "text": " (Q. 75). His " },
+            { "type": "answer", "text": "Emancipation Proclamation" },
+            { "type": "normal", "text": " freed slaves in the Confederate states (Q. 76). Meanwhile, " },
+            { "type": "answer", "text": "Susan B. Anthony" },
+            { "type": "normal", "text": " dedicated her life to fighting for " },
+            { "type": "answer", "text": "women’s rights" },
+            { "type": "normal", "text": " (Q. 77)." }
+          ],
+          "content_ko": [
+            { "type": "normal", "text": "1800년대에 미국은 영토를 크게 확장했습니다. 1803년, 프랑스로부터 거대한 " },
+            { "type": "answer", "text": "루이지애나 영토" },
+            { "type": "normal", "text": "를 구입했고 (Q. 71), 여러 전쟁을 치렀는데, 그중에는 " },
+            { "type": "answer", "text": "미국-멕시코 전쟁" },
+            { "type": "normal", "text": "도 있었습니다 (Q. 72). 그러나 이 시기는 또한 " },
+            { "type": "answer", "text": "남북전쟁" },
+            { "type": "normal", "text": "이라는 큰 비극을 겪었습니다 (Q. 73). 전쟁의 주된 원인은 " },
+            { "type": "answer", "text": "노예제" },
+            { "type": "normal", "text": "였습니다 (Q. 74). 대통령 " },
+            { "type": "answer", "text": "아브라함 링컨" },
+            { "type": "normal", "text": "은 " },
+            { "type": "answer", "text": "노예를 해방시키고" },
+            { "type": "normal", "text": " " },
+            { "type": "answer", "text": "연방을 구했습니다" },
+            { "type": "normal", "text": " (Q. 75). 그의 " },
+            { "type": "answer", "text": "노예해방선언" },
+            { "type": "normal", "text": "은 남부 연합 주의 노예들을 해방했습니다 (Q. 76). 한편 " },
+            { "type": "answer", "text": "수전 B. 앤터니" },
+            { "type": "normal", "text": "는 " },
+            { "type": "answer", "text": "여성의 권리" },
+            { "type": "normal", "text": "를 위해 평생을 바쳤습니다 (Q. 77)." }
+          ],
+          "content_es": [
+            { "type": "normal", "text": "En el siglo XIX, Estados Unidos amplió considerablemente su territorio. En 1803 compró el vasto " },
+            { "type": "answer", "text": "Territorio de Luisiana" },
+            { "type": "normal", "text": " a Francia (P. 71) y libró varias guerras, incluida la " },
+            { "type": "answer", "text": "Guerra Mexicano-Estadounidense" },
+            { "type": "normal", "text": " (P. 72). Sin embargo, este periodo también vio la gran tragedia de la " },
+            { "type": "answer", "text": "Guerra Civil" },
+            { "type": "normal", "text": " (P. 73). La causa principal de la guerra fue la " },
+            { "type": "answer", "text": "esclavitud" },
+            { "type": "normal", "text": " (P. 74). El presidente " },
+            { "type": "answer", "text": "Abraham Lincoln" },
+            { "type": "normal", "text": " " },
+            { "type": "answer", "text": "liberó a los esclavos" },
+            { "type": "normal", "text": " y " },
+            { "type": "answer", "text": "salvó la Unión" },
+            { "type": "normal", "text": " (P. 75). Su " },
+            { "type": "answer", "text": "Proclamación de Emancipación" },
+            { "type": "normal", "text": " liberó a los esclavos en los estados confederados (P. 76). Mientras tanto, " },
+            { "type": "answer", "text": "Susan B. Anthony" },
+            { "type": "normal", "text": " dedicó su vida a la lucha por los " },
+            { "type": "answer", "text": "derechos de las mujeres" },
+            { "type": "normal", "text": " (P. 77)." }
+          ],
+          "linkedQuestions": [71, 72, 73, 74, 75, 76, 77],
+          "content_ar": [
+            { "type": "normal", "text": "في القرن التاسع عشر، توسعت الولايات المتحدة بشكل كبير. في عام 1803، اشترت " },
+            { "type": "answer", "text": "إقليم لويزيانا" },
+            { "type": "normal", "text": " الواسع من فرنسا (س. 71) وخاضت عدة حروب، منها " },
+            { "type": "answer", "text": "الحرب المكسيكية الأمريكية" },
+            { "type": "normal", "text": " (س. 72). ومع ذلك، شهدت هذه الفترة أيضًا مأساة عظيمة هي " },
+            { "type": "answer", "text": "الحرب الأهلية" },
+            { "type": "normal", "text": " (س. 73). كان السبب الرئيسي للحرب هو " },
+            { "type": "answer", "text": "العبودية" },
+            { "type": "normal", "text": " (س. 74). " },
+            { "type": "answer", "text": "أبراهام لنكولن" },
+            { "type": "normal", "text": " " },
+            { "type": "answer", "text": "حرر العبيد" },
+            { "type": "normal", "text": " و" },
+            { "type": "answer", "text": "أنقذ الاتحاد" },
+            { "type": "normal", "text": " (س. 75). أما " },
+            { "type": "answer", "text": "إعلان تحرير العبيد" },
+            { "type": "normal", "text": " فقد حرر العبيد في الولايات الكونفدرالية (س. 76). وفي الوقت نفسه، كرّست " },
+            { "type": "answer", "text": "سوزان ب. أنطوني" },
+            { "type": "normal", "text": " حياتها للنضال من أجل " },
+            { "type": "answer", "text": "حقوق المرأة" },
+            { "type": "normal", "text": " (س. 77)." }
+          ],
+          "content_fr": [
+            { "type": "normal", "text": "Au XIXe siècle, les États-Unis ont considérablement étendu leur territoire. En 1803, ils ont acheté le vaste " },
+            { "type": "answer", "text": "territoire de la Louisiane" },
+            { "type": "normal", "text": " à la France (Q. 71) et mené plusieurs guerres, notamment la " },
+            { "type": "answer", "text": "guerre américano-mexicaine" },
+            { "type": "normal", "text": " (Q. 72). Cependant, cette période a aussi connu la grande tragédie de la " },
+            { "type": "answer", "text": "Guerre de Sécession" },
+            { "type": "normal", "text": " (Q. 73). La cause principale de la guerre était " },
+            { "type": "answer", "text": "l’esclavage" },
+            { "type": "normal", "text": " (Q. 74). Le président " },
+            { "type": "answer", "text": "Abraham Lincoln" },
+            { "type": "normal", "text": " " },
+            { "type": "answer", "text": "a libéré les esclaves" },
+            { "type": "normal", "text": " et " },
+            { "type": "answer", "text": "a sauvé l’Union" },
+            { "type": "normal", "text": " (Q. 75). Sa " },
+            { "type": "answer", "text": "Proclamation d’émancipation" },
+            { "type": "normal", "text": " a libéré les esclaves dans les États confédérés (Q. 76). Pendant ce temps, " },
+            { "type": "answer", "text": "Susan B. Anthony" },
+            { "type": "normal", "text": " a consacré sa vie à la lutte pour les " },
+            { "type": "answer", "text": "droits des femmes" },
+            { "type": "normal", "text": " (Q. 77)." }
+          ]
+        },
+        {
+          "sectionTitle_en": "Part 3: Becoming a World Leader (1900s & Beyond)",
+          "sectionTitle_ko": "파트 3: 세계의 리더로 (1900년대 이후)",
+          "sectionTitle_es": "Parte 3: Convertirse en líder mundial (1900s y más allá)",
+          "sectionTitle_fr": "Partie 3 : Devenir une puissance mondiale (1900s et au-delà)",
+          "sectionTitle_ar": "الجزء 3: نحو زعامة العالم (القرن العشرون وما بعده)",
+          "content_en": [
+            { "type": "normal", "text": "In the 1900s, the United States took part in many international conflicts, including " },
+            { "type": "answer", "text": "World War I" },
+            { "type": "normal", "text": ", " },
+            { "type": "answer", "text": "World War II" },
+            { "type": "normal", "text": ", the " },
+            { "type": "answer", "text": "Korean War" },
+            { "type": "normal", "text": " and the " },
+            { "type": "answer", "text": "Vietnam War" },
+            { "type": "normal", "text": " (Q. 78). The president during World War I was " },
+            { "type": "answer", "text": "Woodrow Wilson" },
+            { "type": "normal", "text": " (Q. 79), and the president who led the country during the Great Depression and World War II was " },
+            { "type": "answer", "text": "Franklin Roosevelt" },
+            { "type": "normal", "text": " (Q. 80). During World War II, the United States fought " },
+            { "type": "answer", "text": "Japan, Germany, and Italy" },
+            { "type": "normal", "text": " (Q. 81). General " },
+            { "type": "answer", "text": "Eisenhower" },
+            { "type": "normal", "text": ", a World War II hero, later became president (Q. 82). After World War II, the United States entered the Cold War, whose main concern was " },
+            { "type": "answer", "text": "communism" },
+            { "type": "normal", "text": " (Q. 83). At home, the " },
+            { "type": "answer", "text": "civil rights movement" },
+            { "type": "normal", "text": ", led by " },
+            { "type": "answer", "text": "Martin Luther King Jr." },
+            { "type": "normal", "text": ", fought to end racial discrimination (Q. 84, 85). On September 11, 2001, a tragic event occurred when " },
+            { "type": "answer", "text": "terrorists attacked the United States" },
+            { "type": "normal", "text": " (Q. 86). The indigenous peoples of this land, the American Indian tribes, include the " },
+            { "type": "answer", "text": "Cherokee" },
+            { "type": "normal", "text": " and the " },
+            { "type": "answer", "text": "Navajo" },
+            { "type": "normal", "text": " (Q. 87)." }
+          ],
+          "content_ko": [
+            { "type": "normal", "text": "1900년대에 미국은 많은 국제 분쟁에 참여했는데, 여기에는 " },
+            { "type": "answer", "text": "제1차 세계 대전" },
+            { "type": "normal", "text": ", " },
+            { "type": "answer", "text": "제2차 세계 대전" },
+            { "type": "normal", "text": ", " },
+            { "type": "answer", "text": "한국전쟁" },
+            { "type": "normal", "text": "과 " },
+            { "type": "answer", "text": "베트남전쟁" },
+            { "type": "normal", "text": "이 포함됩니다 (Q. 78). 제1차 세계 대전 당시 대통령은 " },
+            { "type": "answer", "text": "우드로 윌슨" },
+            { "type": "normal", "text": "이었고 (Q. 79), 대공황과 제2차 세계 대전 기간에 나라를 이끈 대통령은 " },
+            { "type": "answer", "text": "프랭클린 루스벨트" },
+            { "type": "normal", "text": "였습니다 (Q. 80). 제2차 세계 대전에서 미국은 " },
+            { "type": "answer", "text": "일본, 독일, 이탈리아" },
+            { "type": "normal", "text": "와 싸웠습니다 (Q. 81). " },
+            { "type": "answer", "text": "아이젠하워" },
+            { "type": "normal", "text": " 장군은 제2차 세계 대전의 영웅으로, 이후 대통령이 되었습니다 (Q. 82). 전쟁 후 미국은 냉전에 들어갔고, 그 주요 관심사는 " },
+            { "type": "answer", "text": "공산주의" },
+            { "type": "normal", "text": "였습니다 (Q. 83). 국내에서는 " },
+            { "type": "answer", "text": "민권운동" },
+            { "type": "normal", "text": "이 " },
+            { "type": "answer", "text": "마틴 루터 킹 주니어" },
+            { "type": "normal", "text": "의 지도 아래 인종 차별을 끝내기 위해 싸웠습니다 (Q. 84, 85). 2001년 9월 11일에는 " },
+            { "type": "answer", "text": "테러리스트들이 미국을 공격하는" },
+            { "type": "normal", "text": " 비극적인 사건이 발생했습니다 (Q. 86). 이 땅의 원주민 부족에는 " },
+            { "type": "answer", "text": "체로키" },
+            { "type": "normal", "text": "와 " },
+            { "type": "answer", "text": "나바호" },
+            { "type": "normal", "text": "가 포함됩니다 (Q. 87)." }
+          ],
+          "content_es": [
+            { "type": "normal", "text": "En el siglo XX, Estados Unidos participó en muchos conflictos internacionales, entre ellos " },
+            { "type": "answer", "text": "la Primera Guerra Mundial" },
+            { "type": "normal", "text": ", " },
+            { "type": "answer", "text": "la Segunda Guerra Mundial" },
+            { "type": "normal", "text": ", la " },
+            { "type": "answer", "text": "Guerra de Corea" },
+            { "type": "normal", "text": " y la " },
+            { "type": "answer", "text": "Guerra de Vietnam" },
+            { "type": "normal", "text": " (P. 78). El presidente durante la Primera Guerra Mundial fue " },
+            { "type": "answer", "text": "Woodrow Wilson" },
+            { "type": "normal", "text": " (P. 79), y el presidente que dirigió el país durante la Gran Depresión y la Segunda Guerra Mundial fue " },
+            { "type": "answer", "text": "Franklin Roosevelt" },
+            { "type": "normal", "text": " (P. 80). Durante la Segunda Guerra Mundial, Estados Unidos luchó contra " },
+            { "type": "answer", "text": "Japón, Alemania e Italia" },
+            { "type": "normal", "text": " (P. 81). El general " },
+            { "type": "answer", "text": "Eisenhower" },
+            { "type": "normal", "text": ", héroe de la Segunda Guerra Mundial, luego se convirtió en presidente (P. 82). Tras la Segunda Guerra Mundial, Estados Unidos entró en la Guerra Fría, cuya principal preocupación era el " },
+            { "type": "answer", "text": "comunismo" },
+            { "type": "normal", "text": " (P. 83). En el ámbito interno, el " },
+            { "type": "answer", "text": "movimiento por los derechos civiles" },
+            { "type": "normal", "text": ", liderado por " },
+            { "type": "answer", "text": "Martin Luther King Jr." },
+            { "type": "normal", "text": ", luchó para acabar con la discriminación racial (P. 84, 85). El 11 de septiembre de 2001 ocurrió un hecho trágico cuando " },
+            { "type": "answer", "text": "terroristas atacaron a Estados Unidos" },
+            { "type": "normal", "text": " (P. 86). Los pueblos indígenas de esta tierra, las tribus nativas americanas, incluyen a los " },
+            { "type": "answer", "text": "Cherokee" },
+            { "type": "normal", "text": " y los " },
+            { "type": "answer", "text": "Navajo" },
+            { "type": "normal", "text": " (P. 87)." }
+          ],
+          "linkedQuestions": [78, 79, 80, 81, 82, 83, 84, 85, 86, 87],
+          "content_fr": [
+            { "type": "normal", "text": "Au XXe siècle, les États-Unis ont participé à de nombreux conflits internationaux, notamment la " },
+            { "type": "answer", "text": "Première Guerre mondiale" },
+            { "type": "normal", "text": ", la " },
+            { "type": "answer", "text": "Seconde Guerre mondiale" },
+            { "type": "normal", "text": ", la " },
+            { "type": "answer", "text": "guerre de Corée" },
+            { "type": "normal", "text": " et la " },
+            { "type": "answer", "text": "guerre du Vietnam" },
+            { "type": "normal", "text": " (Q. 78). Le président pendant la Première Guerre mondiale était " },
+            { "type": "answer", "text": "Woodrow Wilson" },
+            { "type": "normal", "text": " (Q. 79), et le président qui a mené le pays pendant la Grande Dépression et la Seconde Guerre mondiale était " },
+            { "type": "answer", "text": "Franklin Roosevelt" },
+            { "type": "normal", "text": " (Q. 80). Pendant la Seconde Guerre mondiale, les États-Unis ont combattu contre " },
+            { "type": "answer", "text": "le Japon, l’Allemagne et l’Italie" },
+            { "type": "normal", "text": " (Q. 81). Le général " },
+            { "type": "answer", "text": "Eisenhower" },
+            { "type": "normal", "text": ", un héros de la Seconde Guerre mondiale, est devenu président plus tard (Q. 82). Après la Seconde Guerre mondiale, les États-Unis sont entrés dans la Guerre froide, dont la principale préoccupation était le " },
+            { "type": "answer", "text": "communisme" },
+            { "type": "normal", "text": " (Q. 83). Sur le plan intérieur, le " },
+            { "type": "answer", "text": "mouvement des droits civiques" },
+            { "type": "normal", "text": ", mené par " },
+            { "type": "answer", "text": "Martin Luther King" },
+            { "type": "normal", "text": ", a lutté pour mettre fin à la discrimination raciale (Q. 84, 85). Le 11 septembre 2001, un événement tragique s’est produit lorsque " },
+            { "type": "answer", "text": "des terroristes ont attaqué les États-Unis" },
+            { "type": "normal", "text": " (Q. 86). Les peuples autochtones de cette terre, les tribus amérindiennes, comprennent les " },
+            { "type": "answer", "text": "Cherokees" },
+            { "type": "normal", "text": " et les " },
+            { "type": "answer", "text": "Navajos" },
+            { "type": "normal", "text": " (Q. 87)." }
+          ],
+          "content_ar": [
+            { "type": "normal", "text": "في القرن العشرين، شاركت الولايات المتحدة في العديد من الصراعات الدولية، بما في ذلك " },
+            { "type": "answer", "text": "الحرب العالمية الأولى" },
+            { "type": "normal", "text": "، " },
+            { "type": "answer", "text": "الحرب العالمية الثانية" },
+            { "type": "normal", "text": "، " },
+            { "type": "answer", "text": "الحرب الكورية" },
+            { "type": "normal", "text": " و" },
+            { "type": "answer", "text": "حرب فيتنام" },
+            { "type": "normal", "text": " (س. 78). كان الرئيس خلال الحرب العالمية الأولى هو " },
+            { "type": "answer", "text": "وودرو ويلسون" },
+            { "type": "normal", "text": " (س. 79)، والرئيس الذي قاد البلاد خلال الكساد الكبير والحرب العالمية الثانية هو " },
+            { "type": "answer", "text": "فرانكلين روزفلت" },
+            { "type": "normal", "text": " (س. 80). خلال الحرب العالمية الثانية، قاتلت الولايات المتحدة " },
+            { "type": "answer", "text": "اليابان وألمانيا وإيطاليا" },
+            { "type": "normal", "text": " (س. 81). الجنرال " },
+            { "type": "answer", "text": "أيزنهاور" },
+            { "type": "normal", "text": "، وهو بطل في الحرب العالمية الثانية، أصبح لاحقًا رئيسًا (س. 82). بعد الحرب العالمية الثانية، دخلت الولايات المتحدة الحرب الباردة، وكان الهم الرئيسي فيها هو " },
+            { "type": "answer", "text": "الشيوعية" },
+            { "type": "normal", "text": " (س. 83). في الداخل، " },
+            { "type": "answer", "text": "حركة الحقوق المدنية" },
+            { "type": "normal", "text": " بقيادة " },
+            { "type": "answer", "text": "مارتن لوثر كينغ الابن" },
+            { "type": "normal", "text": "، ناضلت لإنهاء التمييز العنصري (س. 84، 85). في 11 سبتمبر 2001، وقع حدث مأساوي حين " },
+            { "type": "answer", "text": "هاجم إرهابيون الولايات المتحدة" },
+            { "type": "normal", "text": " (س. 86). وتشمل شعوب هذه الأرض الأصلية، قبائل الهنود الأمريكيين، " },
+            { "type": "answer", "text": "الشيروكي" },
+            { "type": "normal", "text": " و" },
+            { "type": "answer", "text": "النافاهو" },
+            { "type": "normal", "text": " (س. 87)." }
+          ]
+        }
+      ]
+    }
+,
+    {
+      "chapterId": 5,
+      "translations": {
+        "en": {
+          "title": "Symbols, Spaces, & Celebrations",
+          "introduction": "It is not only laws and history that unite America. The land, symbols, and holidays we share are also important."
+        },
+        "ko": {
+          "title": "땅, 상징, 그리고 약속",
+          "introduction": "미국을 하나로 묶는 것은 법과 역사뿐만이 아닙니다. 함께 공유하는 땅과 상징, 그리고 기념일도 중요합니다."
+        },
+        "es": {
+          "title": "Símbolos, espacios y celebraciones",
+          "introduction": "No solo las leyes y la historia unen a Estados Unidos. La tierra, los símbolos y los días festivos que compartimos también son importantes."
+        },
+        "fr": {
+          "title": "Symboles, espaces et célébrations",
+          "introduction": "Ce ne sont pas seulement les lois et l’histoire qui unissent l’Amérique. La terre, les symboles et les jours fériés que nous partageons sont également importants."
+        },
+        "ar": {
+          "title": "الرموز والأماكن والاحتفالات",
+          "introduction": "ليست القوانين والتاريخ وحدهما ما يوحِّد أمريكا. فالأرض والرموز والعطل التي نتشاركها مهمة أيضًا."
+        }
+      },
+      "sections": [
+        {
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "The two longest rivers that cross the U.S. continent are the "
+            },
+            {
+              "type": "answer",
+              "text": "Missouri River"
+            },
+            {
+              "type": "normal",
+              "text": " and the "
+            },
+            {
+              "type": "answer",
+              "text": "Mississippi River"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 88). On the west coast lies the "
+            },
+            {
+              "type": "answer",
+              "text": "Pacific Ocean"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 89), and on the east coast is the "
+            },
+            {
+              "type": "answer",
+              "text": "Atlantic Ocean"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 90). The American flag tells a story in itself. The "
+            },
+            {
+              "type": "answer",
+              "text": "13 stripes"
+            },
+            {
+              "type": "normal",
+              "text": " represent the "
+            },
+            {
+              "type": "answer",
+              "text": "13 original colonies"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 96), and the "
+            },
+            {
+              "type": "answer",
+              "text": "50 stars"
+            },
+            {
+              "type": "normal",
+              "text": " signify the current "
+            },
+            {
+              "type": "answer",
+              "text": "50 states"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 97). The title of the national anthem is "
+            },
+            {
+              "type": "answer",
+              "text": "\"The Star-Spangled Banner\""
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 98)."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "미국 대륙을 가로지르는 가장 긴 두 강은 "
+            },
+            {
+              "type": "answer",
+              "text": "미주리 강(Missouri River)"
+            },
+            {
+              "type": "normal",
+              "text": "과 "
+            },
+            {
+              "type": "answer",
+              "text": "미시시피 강(Mississippi River)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 88). 미국 서쪽에는 "
+            },
+            {
+              "type": "answer",
+              "text": "태평양(Pacific Ocean)"
+            },
+            {
+              "type": "normal",
+              "text": "이 (Q. 89), 동쪽에는 "
+            },
+            {
+              "type": "answer",
+              "text": "대서양(Atlantic Ocean)"
+            },
+            {
+              "type": "normal",
+              "text": "이 펼쳐져 있습니다 (Q. 90). 미국의 국기는 그 자체로 역사를 말해줍니다. "
+            },
+            {
+              "type": "answer",
+              "text": "13개의 줄무늬(13 stripes)"
+            },
+            {
+              "type": "normal",
+              "text": "는 "
+            },
+            {
+              "type": "answer",
+              "text": "최초의 13개 식민지(13 original colonies)"
+            },
+            {
+              "type": "normal",
+              "text": "를 상징하고 (Q. 96), "
+            },
+            {
+              "type": "answer",
+              "text": "50개의 별(50 stars)"
+            },
+            {
+              "type": "normal",
+              "text": "은 현재의 "
+            },
+            {
+              "type": "answer",
+              "text": "50개 주(50 states)"
+            },
+            {
+              "type": "normal",
+              "text": "를 의미합니다 (Q. 97). 미국의 국가(national anthem) 제목은 "
+            },
+            {
+              "type": "answer",
+              "text": "성조기(The Star-Spangled Banner)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 98)."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "Los dos ríos más largos que cruzan el continente estadounidense son el "
+            },
+            {
+              "type": "answer",
+              "text": "río Misuri"
+            },
+            {
+              "type": "normal",
+              "text": " y el "
+            },
+            {
+              "type": "answer",
+              "text": "río Misisipi"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 88). En la costa oeste se encuentra el "
+            },
+            {
+              "type": "answer",
+              "text": "océano Pacífico"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 89), y en la costa este el "
+            },
+            {
+              "type": "answer",
+              "text": "océano Atlántico"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 90). La bandera de Estados Unidos cuenta su propia historia. Las "
+            },
+            {
+              "type": "answer",
+              "text": "13 franjas"
+            },
+            {
+              "type": "normal",
+              "text": " representan las "
+            },
+            {
+              "type": "answer",
+              "text": "13 colonias originales"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 96), y las "
+            },
+            {
+              "type": "answer",
+              "text": "50 estrellas"
+            },
+            {
+              "type": "normal",
+              "text": " simbolizan los actuales "
+            },
+            {
+              "type": "answer",
+              "text": "50 estados"
+            },
+            {
+              "type": "normal",
+              "text": " (P. 97). El título del himno nacional es "
+            },
+            {
+              "type": "answer",
+              "text": "\"The Star-Spangled Banner\""
+            },
+            {
+              "type": "normal",
+              "text": " (P. 98)."
+            }
+          ],
+          "linkedQuestions": [
+            88,
+            89,
+            90,
+            96,
+            97,
+            98
+          ],
+          "content_ar": [
+            { "type": "normal", "text": "أطول نهرين يعبران قارة الولايات المتحدة هما " },
+            { "type": "answer", "text": "نهر ميزوري" },
+            { "type": "normal", "text": " و" },
+            { "type": "answer", "text": "نهر المسيسيبي" },
+            { "type": "normal", "text": " (س. 88). وعلى الساحل الغربي يقع " },
+            { "type": "answer", "text": "المحيط الهادئ" },
+            { "type": "normal", "text": " (س. 89)، وعلى الساحل الشرقي يقع " },
+            { "type": "answer", "text": "المحيط الأطلسي" },
+            { "type": "normal", "text": " (س. 90). يروي العلم الأمريكي قصة بحد ذاته. إذ إن " },
+            { "type": "answer", "text": "13 شريطًا" },
+            { "type": "normal", "text": " تمثل " },
+            { "type": "answer", "text": "المستعمرات الثلاث عشرة الأصلية" },
+            { "type": "normal", "text": " (س. 96)، و" },
+            { "type": "answer", "text": "50 نجمة" },
+            { "type": "normal", "text": " ترمز إلى " },
+            { "type": "answer", "text": "الولايات الخمسين" },
+            { "type": "normal", "text": " الحالية (س. 97). عنوان النشيد الوطني هو " },
+            { "type": "answer", "text": "«The Star-Spangled Banner»" },
+            { "type": "normal", "text": " (س. 98)." }
+          ],
+          "content_fr": [
+            { "type": "normal", "text": "Les deux plus longs fleuves qui traversent le continent américain sont le " },
+            { "type": "answer", "text": "Missouri" },
+            { "type": "normal", "text": " et le " },
+            { "type": "answer", "text": "Mississippi" },
+            { "type": "normal", "text": " (Q. 88). Sur la côte ouest se trouve l’" },
+            { "type": "answer", "text": "océan Pacifique" },
+            { "type": "normal", "text": " (Q. 89), et sur la côte est se trouve l’" },
+            { "type": "answer", "text": "océan Atlantique" },
+            { "type": "normal", "text": " (Q. 90). Le drapeau américain raconte une histoire à lui seul. Les " },
+            { "type": "answer", "text": "13 bandes" },
+            { "type": "normal", "text": " représentent les " },
+            { "type": "answer", "text": "13 colonies d’origine" },
+            { "type": "normal", "text": " (Q. 96), et les " },
+            { "type": "answer", "text": "50 étoiles" },
+            { "type": "normal", "text": " symbolisent les " },
+            { "type": "answer", "text": "50 États" },
+            { "type": "normal", "text": " actuels (Q. 97). Le titre de l’hymne national est " },
+            { "type": "answer", "text": "« The Star-Spangled Banner »" },
+            { "type": "normal", "text": " (Q. 98)." }
+          ]
+        },
+        {
+          "content_en": [
+            {
+              "type": "normal",
+              "text": "The "
+            },
+            {
+              "type": "answer",
+              "text": "Statue of Liberty"
+            },
+            {
+              "type": "normal",
+              "text": ", standing in "
+            },
+            {
+              "type": "answer",
+              "text": "New York Harbor"
+            },
+            {
+              "type": "normal",
+              "text": ", is a symbol of welcome to immigrants from all over the world (Q. 95). The nation's capital is "
+            },
+            {
+              "type": "answer",
+              "text": "Washington, D.C."
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 94). In addition to the 50 states, the U.S. has several overseas "
+            },
+            {
+              "type": "answer",
+              "text": "territories"
+            },
+            {
+              "type": "normal",
+              "text": ", such as "
+            },
+            {
+              "type": "answer",
+              "text": "Puerto Rico"
+            },
+            {
+              "type": "normal",
+              "text": " and "
+            },
+            {
+              "type": "answer",
+              "text": "Guam"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 91). Geographically, the U.S. borders "
+            },
+            {
+              "type": "answer",
+              "text": "Canada"
+            },
+            {
+              "type": "normal",
+              "text": " to the north (states like "
+            },
+            {
+              "type": "answer",
+              "text": "New York"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "Washington"
+            },
+            {
+              "type": "normal",
+              "text": ") (Q. 92) and "
+            },
+            {
+              "type": "answer",
+              "text": "Mexico"
+            },
+            {
+              "type": "normal",
+              "text": " to the south (states like "
+            },
+            {
+              "type": "answer",
+              "text": "California"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "Texas"
+            },
+            {
+              "type": "normal",
+              "text": ") (Q. 93). Americans celebrate "
+            },
+            {
+              "type": "answer",
+              "text": "Independence Day"
+            },
+            {
+              "type": "normal",
+              "text": " on "
+            },
+            {
+              "type": "answer",
+              "text": "July 4"
+            },
+            {
+              "type": "normal",
+              "text": " each year (Q. 99), and share other national holidays like "
+            },
+            {
+              "type": "answer",
+              "text": "Thanksgiving"
+            },
+            {
+              "type": "normal",
+              "text": " and "
+            },
+            {
+              "type": "answer",
+              "text": "Christmas"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 100)."
+            }
+          ],
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "자유의 여신상(Statue of Liberty), "
+            },
+            {
+              "type": "answer",
+              "text": "뉴욕 항구(New York Harbor)"
+            },
+            {
+              "type": "normal",
+              "text": "에 서 있는 은 전 세계 이민자들을 환영하는 상징입니다 (Q. 95). 미국의 수도는 "
+            },
+            {
+              "type": "answer",
+              "text": "워싱턴 D.C.(Washington, D.C.)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 94). 미국은 50개의 주 외에도 "
+            },
+            {
+              "type": "answer",
+              "text": "푸에르토리코(Puerto Rico)"
+            },
+            {
+              "type": "normal",
+              "text": "괌(Guam)"
+            },
+            {
+              "type": "answer",
+              "text": "과 같은 해외 "
+            },
+            {
+              "type": "normal",
+              "text": "영토(U.S. territory)"
+            },
+            {
+              "type": "answer",
+              "text": "를 가지고 있습니다 (Q. 91). 지리적으로 북쪽으로는 "
+            },
+            {
+              "type": "normal",
+              "text": "캐나다(Canada)"
+            },
+            {
+              "type": "answer",
+              "text": "와 국경을 맞대고 있으며 (관련 주: "
+            },
+            {
+              "type": "normal",
+              "text": "뉴욕"
+            },
+            {
+              "type": "answer",
+              "text": "워싱턴"
+            },
+            {
+              "type": "normal",
+              "text": " 등) (Q. 92), 남쪽으로는 "
+            },
+            {
+              "type": "answer",
+              "text": "멕시코(Mexico)"
+            },
+            {
+              "type": "normal",
+              "text": "와 국경을 접하고 있습니다 (관련 주: "
+            },
+            {
+              "type": "answer",
+              "text": "캘리포니아"
+            },
+            {
+              "type": "normal",
+              "text": "텍사스"
+            },
+            {
+              "type": "answer",
+              "text": " 등) (Q. 93). 미국인들은 매년 "
+            },
+            {
+              "type": "normal",
+              "text": "7월 4일(July 4)"
+            },
+            {
+              "type": "answer",
+              "text": "에 "
+            },
+            {
+              "type": "normal",
+              "text": "독립기념일(Independence Day)"
+            },
+            {
+              "type": "answer",
+              "text": "을 기념하며 (Q. 99), "
+            },
+            {
+              "type": "normal",
+              "text": "추수감사절(Thanksgiving)"
+            },
+            {
+              "type": "answer",
+              "text": "과 "
+            },
+            {
+              "type": "normal",
+              "text": "크리스마스(Christmas)"
+            },
+            {
+              "type": "answer",
+              "text": " 등 여러 국경일을 함께 축하합니다 (Q. 100)."
+            },
+            {
+              "type": "normal",
+              "text": " 등 여러 국경일을 함께 축하합니다 (Q. 100)."
+            },
+            {
+              "type": "answer",
+              "text": " 등 여러 국경일을 함께 축하합니다 (Q. 100)."
+            },
+            {
+              "type": "normal",
+              "text": " 등 여러 국경일을 함께 축하합니다 (Q. 100)."
+            },
+            {
+              "type": "answer",
+              "text": " 등 여러 국경일을 함께 축하합니다 (Q. 100)."
+            },
+            {
+              "type": "normal",
+              "text": " 등 여러 국경일을 함께 축하합니다 (Q. 100)."
+            }
+          ],
+          "content_es": [
+            {
+              "type": "normal",
+              "text": "La Estatua de la Libertad, situada en el "
+            },
+            {
+              "type": "answer",
+              "text": "Puerto de Nueva York"
+            },
+            {
+              "type": "normal",
+              "text": ", es un símbolo de bienvenida para los inmigrantes de todo el mundo (P. 95). La capital de la nación es "
+            },
+            {
+              "type": "answer",
+              "text": "Washington"
+            },
+            {
+              "type": "normal",
+              "text": "D. C."
+            },
+            {
+              "type": "answer",
+              "text": " (P. 94). Además de los 50 estados, EE. UU. tiene varios "
+            },
+            {
+              "type": "normal",
+              "text": "territorios"
+            },
+            {
+              "type": "answer",
+              "text": " en el extranjero, como "
+            },
+            {
+              "type": "normal",
+              "text": "Puerto Rico"
+            },
+            {
+              "type": "answer",
+              "text": " y "
+            },
+            {
+              "type": "normal",
+              "text": "Guam"
+            },
+            {
+              "type": "answer",
+              "text": " (P. 91). Geográficamente, Estados Unidos limita con "
+            },
+            {
+              "type": "normal",
+              "text": "Canadá"
+            },
+            {
+              "type": "answer",
+              "text": " al norte (estados como "
+            },
+            {
+              "type": "normal",
+              "text": "Nueva York"
+            },
+            {
+              "type": "answer",
+              "text": "Washington"
+            },
+            {
+              "type": "normal",
+              "text": ") (P. 92) y con "
+            },
+            {
+              "type": "answer",
+              "text": "México"
+            },
+            {
+              "type": "normal",
+              "text": " al sur (estados como "
+            },
+            {
+              "type": "answer",
+              "text": "California"
+            },
+            {
+              "type": "normal",
+              "text": "Texas"
+            },
+            {
+              "type": "answer",
+              "text": ") (P. 93). Los estadounidenses celebran el "
+            },
+            {
+              "type": "normal",
+              "text": "Día de la Independencia"
+            },
+            {
+              "type": "answer",
+              "text": " el "
+            },
+            {
+              "type": "normal",
+              "text": "4 de julio"
+            },
+            {
+              "type": "answer",
+              "text": " de cada año (P. 99), y comparten otras fiestas nacionales como "
+            },
+            {
+              "type": "normal",
+              "text": "Acción de Gracias"
+            },
+            {
+              "type": "answer",
+              "text": " y "
+            },
+            {
+              "type": "normal",
+              "text": "Navidad"
+            },
+            {
+              "type": "answer",
+              "text": " (P. 100)."
+            },
+            {
+              "type": "normal",
+              "text": " (P. 100)."
+            },
+            {
+              "type": "answer",
+              "text": " (P. 100)."
+            },
+            {
+              "type": "normal",
+              "text": " (P. 100)."
+            }
+          ],
+          "linkedQuestions": [
+            95,
+            94,
+            91,
+            92,
+            93,
+            99,
+            100
+          ],
+          "content_ar": [
+            { "type": "normal", "text": "ال" },
+            { "type": "answer", "text": "تمثال الحرية" },
+            { "type": "normal", "text": ", القائم في " },
+            { "type": "answer", "text": "ميناء نيويورك" },
+            { "type": "normal", "text": ", هو رمز ترحيب للمهاجرين من أنحاء العالم كافة (س. 95). عاصمة البلاد هي " },
+            { "type": "answer", "text": "واشنطن العاصمة" },
+            { "type": "normal", "text": " (س. 94). بالإضافة إلى 50 ولاية، تمتلك الولايات المتحدة عدة " },
+            { "type": "answer", "text": "أقاليم" },
+            { "type": "normal", "text": " خارجية مثل " },
+            { "type": "answer", "text": "بورتو ريكو" },
+            { "type": "normal", "text": " و" },
+            { "type": "answer", "text": "غوام" },
+            { "type": "normal", "text": " (س. 91). جغرافيًا، تحد الولايات المتحدة " },
+            { "type": "answer", "text": "كندا" },
+            { "type": "normal", "text": " من الشمال (ولايات مثل " },
+            { "type": "answer", "text": "نيويورك" },
+            { "type": "normal", "text": "، " },
+            { "type": "answer", "text": "واشنطن" },
+            { "type": "normal", "text": ") (س. 92) و" },
+            { "type": "answer", "text": "المكسيك" },
+            { "type": "normal", "text": " من الجنوب (ولايات مثل " },
+            { "type": "answer", "text": "كاليفورنيا" },
+            { "type": "normal", "text": "، " },
+            { "type": "answer", "text": "تكساس" },
+            { "type": "normal", "text": ") (س. 93). يحتفل الأمريكيون بـ" },
+            { "type": "answer", "text": "يوم الاستقلال" },
+            { "type": "normal", "text": " في " },
+            { "type": "answer", "text": "الرابع من يوليو" },
+            { "type": "normal", "text": " من كل عام (س. 99)، ويتشاركون عطلات وطنية أخرى مثل " },
+            { "type": "answer", "text": "عيد الشكر" },
+            { "type": "normal", "text": " و" },
+            { "type": "answer", "text": "عيد الميلاد" },
+            { "type": "normal", "text": " (س. 100)." }
+          ],
+          "content_fr": [
+            { "type": "normal", "text": "La " },
+            { "type": "answer", "text": "Statue de la Liberté" },
+            { "type": "normal", "text": ", située dans le " },
+            { "type": "answer", "text": "port de New York" },
+            { "type": "normal", "text": ", est un symbole d’accueil pour les immigrants du monde entier (Q. 95). La capitale du pays est " },
+            { "type": "answer", "text": "Washington, D.C." },
+            { "type": "normal", "text": " (Q. 94). En plus des 50 États, les États-Unis possèdent plusieurs " },
+            { "type": "answer", "text": "territoires" },
+            { "type": "normal", "text": " d’outre-mer, comme " },
+            { "type": "answer", "text": "Porto Rico" },
+            { "type": "normal", "text": " et " },
+            { "type": "answer", "text": "Guam" },
+            { "type": "normal", "text": " (Q. 91). Géographiquement, les États-Unis ont une frontière avec le " },
+            { "type": "answer", "text": "Canada" },
+            { "type": "normal", "text": " au nord (des États comme " },
+            { "type": "answer", "text": "New York" },
+            { "type": "normal", "text": ", " },
+            { "type": "answer", "text": "Washington" },
+            { "type": "normal", "text": ") (Q. 92) et avec le " },
+            { "type": "answer", "text": "Mexique" },
+            { "type": "normal", "text": " au sud (des États comme " },
+            { "type": "answer", "text": "Californie" },
+            { "type": "normal", "text": ", " },
+            { "type": "answer", "text": "Texas" },
+            { "type": "normal", "text": ") (Q. 93). Les Américains célèbrent la " },
+            { "type": "answer", "text": "Fête de l’Indépendance" },
+            { "type": "normal", "text": " le " },
+            { "type": "answer", "text": "4 juillet" },
+            { "type": "normal", "text": " chaque année (Q. 99), et partagent d’autres jours fériés nationaux comme " },
+            { "type": "answer", "text": "Thanksgiving" },
+            { "type": "normal", "text": " et " },
+            { "type": "answer", "text": "Noël" },
+            { "type": "normal", "text": " (Q. 100)." }
+          ]
+        }
+      ]
+    }
+  ]
+}
