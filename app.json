@@ -2,7 +2,7 @@
   "expo": {
     "name": "Pass US Citizen Interview with AI Premium",
     "slug": "CitizenTestAi",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -28,7 +28,8 @@
       },
       "edgeToEdgeEnabled": true,
       "permissions": [
-        "android.permission.RECORD_AUDIO"
+        "android.permission.RECORD_AUDIO",
+        "com.google.android.gms.permission.AD_ID"
       ],
       "package": "com.sinzjang.CitizenTestAi"
     },
@@ -53,7 +54,7 @@
       },
       "enableAds": true
     },
-    "runtimeVersion": "1.0.2",
+    "runtimeVersion": "1.0.3",
     "owner": "sinzjang"
   }
 }
