@@ -1,13 +1,24 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { View, StyleSheet, Platform, Text } from 'react-native';
 import { BannerAd, BannerAdSize } from 'react-native-google-mobile-ads';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { AD_UNIT_IDS, AD_REQUEST_OPTIONS, shouldShowAds } from '../constants/AdConfig';
+import { SubscriptionManager } from '../utils/subscriptionManager';
 
 const AdBanner = ({ size = 'banner', unitId }) => {
   const [adError, setAdError] = useState(false);
   const [errorMessage, setErrorMessage] = useState('');
+  const [isPremium, setIsPremium] = useState(false);
   const insets = useSafeAreaInsets();
+  
+  // 프리미엄 상태 확인
+  useEffect(() => {
+    const checkPremiumStatus = async () => {
+      const premiumStatus = await SubscriptionManager.checkSubscriptionStatus();
+      setIsPremium(premiumStatus);
+    };
+    checkPremiumStatus();
+  }, []);
   
   // 광고 표시 여부 확인
   const enableAds = shouldShowAds();
@@ -22,9 +33,9 @@ const AdBanner = ({ size = 'banner', unitId }) => {
   console.log('[AdBanner] ENABLE_ADS:', process.env.ENABLE_ADS);
   console.log('[AdBanner] insets.bottom:', insets.bottom);
   
-  // 광고가 비활성화된 경우 빈 컨테이너 반환
-  if (!enableAds) {
-    console.log('[AdBanner] 광고가 비활성화되어 있습니다');
+  // 프리미엄 사용자이거나 광고가 비활성화된 경우 빈 컨테이너 반환
+  if (isPremium || !enableAds) {
+    console.log('[AdBanner] 광고 표시 안함 - isPremium:', isPremium, 'enableAds:', enableAds);
     return <View style={styles.container} />;
   }
   

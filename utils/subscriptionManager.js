@@ -1,24 +1,25 @@
 // 구독 관리 시스템 (RevenueCat 사용 예시)
 import Purchases from 'react-native-purchases';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { Platform, Linking } from 'react-native';
+import { AdminManager } from './adminManager';
 
-const REVENUECAT_API_KEY = 'your_revenuecat_api_key_here';
+const REVENUECAT_API_KEY = 'goog_hfSoeGcsESxDKUXMDmWUEOFwUKc'; // RevenueCat Google Play Store API Key
 
 export class SubscriptionManager {
   static async initialize() {
     try {
-      // RevenueCat 초기화
-      await Purchases.setLogLevel(Purchases.LOG_LEVEL.INFO);
+      // RevenueCat 초기화 - 안전한 방법
+      const configuration = {
+        apiKey: REVENUECAT_API_KEY,
+      };
       
-      if (Platform.OS === 'ios') {
-        await Purchases.configure({ apiKey: REVENUECAT_API_KEY });
-      } else if (Platform.OS === 'android') {
-        await Purchases.configure({ apiKey: REVENUECAT_API_KEY });
-      }
+      await Purchases.configure(configuration);
       
-      console.log('RevenueCat initialized successfully');
+      console.log('[SubscriptionManager] RevenueCat initialized successfully');
     } catch (error) {
-      console.error('RevenueCat initialization failed:', error);
+      console.error('[SubscriptionManager] RevenueCat initialization failed:', error);
+      // 초기화 실패해도 앱이 크래시되지 않도록 처리
     }
   }
 
@@ -38,7 +39,7 @@ export class SubscriptionManager {
     try {
       const purchaseResult = await Purchases.purchasePackage(packageIdentifier);
       
-      if (purchaseResult.customerInfo.entitlements.active['premium']) {
+      if (purchaseResult.customerInfo.entitlements.active['Premium']) { // RevenueCat Entitlement ID와 일치
         // 구독 성공
         await this.updatePremiumStatus(true);
         return { success: true, customerInfo: purchaseResult.customerInfo };
@@ -55,7 +56,7 @@ export class SubscriptionManager {
   static async restorePurchases() {
     try {
       const customerInfo = await Purchases.restorePurchases();
-      const isPremium = customerInfo.entitlements.active['premium'] !== undefined;
+      const isPremium = customerInfo.entitlements.active['Premium'] !== undefined; // RevenueCat Entitlement ID와 일치
       
       await this.updatePremiumStatus(isPremium);
       return { success: true, isPremium };
@@ -65,21 +66,64 @@ export class SubscriptionManager {
     }
   }
 
-  // 구독 상태 확인
+  // 구독 상태 확인 (RevenueCat + 친구 권한 포함)
   static async checkSubscriptionStatus() {
     try {
-      const customerInfo = await Purchases.getCustomerInfo();
-      const isPremium = customerInfo.entitlements.active['premium'] !== undefined;
+      // 임시: 개발/테스트용 프리미엄 활성화
+      console.log('[SubscriptionManager] 임시 프리미엄 활성화됨 (개발용)');
+      return true;
       
-      await this.updatePremiumStatus(isPremium);
-      return isPremium;
+      // 원래 코드 (배포 시 위 2줄 제거하고 아래 코드 사용)
+      /*
+      // 1. RevenueCat 구독 상태 확인
+      const customerInfo = await Purchases.getCustomerInfo();
+      const isPremiumSubscriber = customerInfo.entitlements.active['Premium'] !== undefined;
+      
+      if (isPremiumSubscriber) {
+        console.log('[SubscriptionManager] RevenueCat 구독 활성화됨');
+        return true;
+      }
+      
+      // 2. 친구 권한 확인 (이메일 기반)
+      const userEmail = await this.getUserEmail();
+      if (userEmail) {
+        const isFriendPremium = await AdminManager.checkFriendPremiumStatus(userEmail);
+        if (isFriendPremium) {
+          console.log('[SubscriptionManager] 친구 권한으로 프리미엄 활성화됨');
+          return true;
+        }
+      }
+      
+      console.log('[SubscriptionManager] 프리미엄 비활성화됨');
+      return false;
+      */
     } catch (error) {
-      console.error('Error checking subscription:', error);
+      console.error('[SubscriptionManager] 구독 상태 확인 실패:', error);
+      return true; // 오류 시에도 프리미엄 활성화 (개발용)
+    }
+  }
+
+  // 사용자 이메일 가져오기 (설정에서 입력받거나 기기 정보 사용)
+  static async getUserEmail() {
+    try {
+      const savedEmail = await AsyncStorage.getItem('user_email');
+      return savedEmail;
+    } catch (error) {
+      return null;
+    }
+  }
+
+  // 사용자 이메일 설정
+  static async setUserEmail(email) {
+    try {
+      await AsyncStorage.setItem('user_email', email);
+      return true;
+    } catch (error) {
       return false;
     }
   }
 
-  // 로컬 프리미엄 상태 업데이트
+  // 로컬 프리미엄 상태 업데이스트
   static async updatePremiumStatus(isPremium) {
     try {
       await AsyncStorage.setItem('user_premium_status', isPremium.toString());
@@ -98,10 +142,10 @@ export class SubscriptionManager {
   }
 }
 
-// 구독 상품 정의
+// 구독 상품 정의 (RevenueCat Package ID와 일치)
 export const SUBSCRIPTION_PRODUCTS = {
-  MONTHLY: 'premium_monthly',
-  YEARLY: 'premium_yearly',
+  MONTHLY: '$rc_monthly', // RevenueCat Package ID
+  QUARTERLY: '$rc_three_month', // RevenueCat Package ID
 };
 
 // 구독 혜택 정의

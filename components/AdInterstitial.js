@@ -3,6 +3,7 @@ import { InterstitialAd, AdEventType, TestIds } from 'react-native-google-mobile
 import Constants from 'expo-constants';
 import AdFrequencyManager from '../utils/AdFrequencyManager';
 import { AD_UNIT_IDS, shouldShowAds } from '../constants/AdConfig';
+import { SubscriptionManager } from '../utils/subscriptionManager';
 
 // 전면 광고 인스턴스 생성
 const createInterstitialAd = () => {
@@ -78,6 +79,13 @@ export const useInterstitialAd = () => {
 
   const showAd = async (adType = 'interstitial') => {
     try {
+      // 프리미엄 사용자 확인
+      const isPremium = await SubscriptionManager.checkSubscriptionStatus();
+      if (isPremium) {
+        console.log('[AdInterstitial] 프리미엄 사용자 - 광고 표시 안함');
+        return false;
+      }
+
       // 빈도 제한 확인
       const canShow = await AdFrequencyManager.canShowAd(adType);
       if (!canShow) {

@@ -6,8 +6,8 @@ class InterstitialAdManager {
     this.isLoaded = false;
     this.isLoading = false;
     
-    // 테스트 광고 ID 사용 (실제 배포시에는 실제 광고 ID로 변경)
-    this.adUnitId = __DEV__ ? TestIds.INTERSTITIAL : 'YOUR_REAL_INTERSTITIAL_AD_UNIT_ID';
+    // 전면 광고 ID 설정 (AdConfig에서 가져옴)
+    this.adUnitId = __DEV__ ? TestIds.INTERSTITIAL : 'ca-app-pub-8924313553021933/4148752049';
     
     this.createInterstitialAd();
   }

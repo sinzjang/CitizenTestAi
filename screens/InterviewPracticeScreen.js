@@ -12,12 +12,14 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { theme } from '../styles/theme';
 import { PremiumManager, PREMIUM_FEATURES } from '../utils/premiumManager';
+import { SubscriptionManager } from '../utils/subscriptionManager';
+import { PremiumGate } from '../components/PremiumGate';
 import LocationManager from '../utils/locationManager';
 import LocationSettingsModal from '../components/LocationSettingsModal';
 import { t, addLanguageChangeListener, removeLanguageChangeListener } from '../utils/i18n';
 
 const InterviewPracticeScreen = ({ navigation }) => {
-  const [isPremium, setIsPremium] = useState(true); // 개발용: 기본적으로 프리미엄 활성화
+  const [isPremium, setIsPremium] = useState(true); // 임시: 개발/테스트용 프리미엄 활성화
   const [showLocationModal, setShowLocationModal] = useState(false);
   const [locationInfo, setLocationInfo] = useState(null);
   const [currentLanguage, setCurrentLanguage] = useState('en');
@@ -86,7 +88,8 @@ const InterviewPracticeScreen = ({ navigation }) => {
   };
 
   const checkPremiumStatus = async () => {
-    const premiumStatus = await PremiumManager.isPremium();
+    // RevenueCat을 통한 실제 구독 상태 확인
+    const premiumStatus = await SubscriptionManager.checkSubscriptionStatus();
     setIsPremium(premiumStatus);
   };
 
@@ -175,7 +178,8 @@ const InterviewPracticeScreen = ({ navigation }) => {
           } else {
             console.log(`Navigate to ${subItem.screen} (Not implemented yet)`);
           }
-        }
+        },
+        navigation
       );
       return;
     }
@@ -268,22 +272,33 @@ const InterviewPracticeScreen = ({ navigation }) => {
         </TouchableOpacity>
         <Text style={styles.headerTitle}>Interview Practice</Text>
         
-        {/* 개발용 프리미엄 토글 버튼 */}
+        {/* 프리미엄 구독 버튼 */}
         <TouchableOpacity
           style={[
             styles.premiumToggle,
             isPremium && styles.premiumToggleActive
           ]}
-          onPress={async () => {
-            await PremiumManager.togglePremiumForTesting();
-            checkPremiumStatus();
+          onPress={() => {
+            if (isPremium) {
+              // 이미 프리미엄 사용자인 경우 구독 관리 화면으로
+              navigation.navigate('Subscription');
+            } else {
+              // 무료 사용자인 경우 구독 화면으로
+              navigation.navigate('Subscription');
+            }
           }}
         >
+          <Ionicons 
+            name={isPremium ? "star" : "star-outline"} 
+            size={14} 
+            color={isPremium ? "#FFFFFF" : "#FF9800"} 
+            style={{ marginRight: 4 }}
+          />
           <Text style={[
             styles.premiumToggleText,
             isPremium && styles.premiumToggleTextActive
           ]}>
-            {isPremium ? 'Premium' : 'FREE'}
+            {isPremium ? 'Premium' : 'Upgrade'}
           </Text>
         </TouchableOpacity>
       </View>
@@ -428,21 +443,29 @@ const styles = StyleSheet.create({
   },
   // Premium Styles
   premiumToggle: {
+    flexDirection: 'row',
+    alignItems: 'center',
     paddingHorizontal: 12,
-    paddingVertical: 6,
-    borderRadius: 16,
-    backgroundColor: '#E0E0E0',
+    paddingVertical: 8,
+    borderRadius: 20,
+    backgroundColor: '#FFF3E0',
     borderWidth: 1,
-    borderColor: '#BDBDBD',
+    borderColor: '#FF9800',
+    shadowColor: '#FF9800',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.1,
+    shadowRadius: 4,
+    elevation: 2,
   },
   premiumToggleActive: {
     backgroundColor: '#FF9800',
     borderColor: '#FF9800',
+    shadowOpacity: 0.3,
   },
   premiumToggleText: {
     fontSize: 12,
     fontWeight: 'bold',
-    color: '#757575',
+    color: '#FF9800',
   },
   premiumToggleTextActive: {
     color: '#FFFFFF',

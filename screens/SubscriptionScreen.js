@@ -111,9 +111,9 @@ const SubscriptionScreen = ({ navigation }) => {
           <View style={styles.premiumIcon}>
             <Ionicons name="star" size={48} color="#FFD700" />
           </View>
-          <Text style={styles.heroTitle}>Unlock Your Full Potential</Text>
+          <Text style={styles.heroTitle}>For Your Success</Text>
           <Text style={styles.heroSubtitle}>
-            Get unlimited access to all premium features and ace your citizenship interview
+            We guarantee this app will help you ace your citizenship interview
           </Text>
         </View>
 
@@ -137,12 +137,12 @@ const SubscriptionScreen = ({ navigation }) => {
               key={pkg.identifier}
               style={[
                 styles.planCard,
-                pkg.packageType === 'ANNUAL' && styles.popularPlan
+                pkg.identifier === '$rc_three_month' && styles.popularPlan
               ]}
               onPress={() => handlePurchase(pkg)}
               disabled={purchasing}
             >
-              {pkg.packageType === 'ANNUAL' && (
+              {pkg.identifier === '$rc_three_month' && (
                 <View style={styles.popularBadge}>
                   <Text style={styles.popularText}>Most Popular</Text>
                 </View>
@@ -150,23 +150,23 @@ const SubscriptionScreen = ({ navigation }) => {
               
               <View style={styles.planHeader}>
                 <Text style={styles.planTitle}>
-                  {pkg.packageType === 'ANNUAL' ? 'Yearly' : 'Monthly'}
+                  {pkg.identifier === '$rc_three_month' ? '3-Month' : 'Monthly'}
                 </Text>
                 <Text style={styles.planPrice}>
                   {pkg.product.priceString}
                   <Text style={styles.planPeriod}>
-                    /{pkg.packageType === 'ANNUAL' ? 'year' : 'month'}
+                    /{pkg.identifier === '$rc_three_month' ? '3 months' : 'month'}
                   </Text>
                 </Text>
               </View>
               
-              {pkg.packageType === 'ANNUAL' && (
-                <Text style={styles.savingsText}>Save 50% compared to monthly</Text>
+              {pkg.identifier === '$rc_three_month' && (
+                <Text style={styles.savingsText}>Save 23% compared to monthly</Text>
               )}
               
               <Text style={styles.planDescription}>
-                {pkg.packageType === 'ANNUAL' 
-                  ? 'Best value for serious learners' 
+                {pkg.identifier === '$rc_three_month'
+                  ? 'Most popular choice'
                   : 'Perfect for getting started'}
               </Text>
             </TouchableOpacity>

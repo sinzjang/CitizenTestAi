@@ -6,8 +6,8 @@ class RewardedAdManager {
     this.isLoaded = false;
     this.isLoading = false;
     
-    // 테스트 광고 ID 사용 (실제 배포시에는 실제 광고 ID로 변경)
-    this.adUnitId = __DEV__ ? TestIds.REWARDED : 'YOUR_REAL_REWARDED_AD_UNIT_ID';
+    // 리워드 광고 ID 설정
+    this.adUnitId = __DEV__ ? TestIds.REWARDED : 'ca-app-pub-8924313553021933/1234567890'; // 실제 리워드 광고 ID 필요
     
     this.createRewardedAd();
   }

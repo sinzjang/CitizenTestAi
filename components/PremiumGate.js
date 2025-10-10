@@ -1,23 +1,30 @@
 import React from 'react';
 import { Alert } from 'react-native';
-import { PremiumManager, PREMIUM_MESSAGES } from '../utils/premiumManager';
+import { SubscriptionManager } from '../utils/subscriptionManager';
+
+const PREMIUM_MESSAGES = {
+  title: '🌟 Premium Feature',
+  message: 'This feature is available for Premium subscribers only. Upgrade now to unlock all features!',
+  cancelButton: 'Maybe Later',
+  upgradeButton: 'Upgrade Now'
+};
 
 export const PremiumGate = {
   // 프리미엄 기능 접근 체크
-  async checkAccess(feature, onSuccess, onDenied = null) {
-    const isPremium = await PremiumManager.isPremium();
+  async checkAccess(feature, onSuccess, navigation = null, onDenied = null) {
+    const isPremium = await SubscriptionManager.checkSubscriptionStatus();
     
     if (isPremium) {
       // 프리미엄 사용자면 바로 실행
       onSuccess();
     } else {
       // 무료 사용자면 프리미엄 안내 표시
-      this.showPremiumAlert(onDenied);
+      this.showPremiumAlert(navigation, onDenied);
     }
   },
 
   // 프리미엄 안내 알림 표시
-  showPremiumAlert(onDenied = null) {
+  showPremiumAlert(navigation, onDenied = null) {
     Alert.alert(
       PREMIUM_MESSAGES.title,
       PREMIUM_MESSAGES.message,
@@ -30,26 +37,27 @@ export const PremiumGate = {
         {
           text: PREMIUM_MESSAGES.upgradeButton,
           onPress: () => {
-            // TODO: 프리미엄 구독 화면으로 이동
-            console.log('Navigate to premium subscription');
+            if (navigation) {
+              navigation.navigate('Subscription');
+            } else {
+              console.log('Navigation not available');
+            }
           }
         }
       ]
     );
   },
 
-  // 개발용: 프리미엄 상태 토글
-  async togglePremiumForTesting() {
-    const currentStatus = await PremiumManager.isPremium();
-    await PremiumManager.setPremium(!currentStatus);
-    const newStatus = await PremiumManager.isPremium();
+  // 개발용: 구독 상태 확인
+  async checkSubscriptionForTesting() {
+    const isPremium = await SubscriptionManager.checkSubscriptionStatus();
     
     Alert.alert(
-      'Premium Status Changed',
-      `Premium status is now: ${newStatus ? 'ACTIVE' : 'INACTIVE'}`,
+      'Subscription Status',
+      `Premium status: ${isPremium ? 'ACTIVE' : 'INACTIVE'}`,
       [{ text: 'OK' }]
     );
     
-    return newStatus;
+    return isPremium;
   }
 };

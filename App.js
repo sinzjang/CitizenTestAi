@@ -26,8 +26,11 @@ import AudioMode from './screens/AudioMode';
 import DeepDiveInterview from './screens/DeepDiveInterview';
 import N400PracticeScreen from './screens/N400PracticeScreen';
 import ResourcesScreen from './screens/ResourcesScreen';
+import SubscriptionScreen from './screens/SubscriptionScreen';
+import AdminScreen from './screens/AdminScreen';
 import mobileAds from 'react-native-google-mobile-ads';
 import Constants from 'expo-constants';
+import { SubscriptionManager } from './utils/subscriptionManager';
 import AdBanner from './components/AdBanner';
 import { useInterstitialAd } from './components/AdInterstitial';
 
@@ -39,6 +42,15 @@ export default function App() {
   useEffect(() => {
     // 환경변수 확인하여 광고 기능 제어
     const enableAds = Constants.expoConfig?.extra?.enableAds || process.env.ENABLE_ADS === 'true' || __DEV__;
+    
+    // RevenueCat 초기화
+    SubscriptionManager.initialize()
+      .then(() => {
+        console.log('[App] RevenueCat 초기화 완료');
+      })
+      .catch(error => {
+        console.error('[App] RevenueCat 초기화 실패:', error);
+      });
     
     if (enableAds) {
       console.log('[App] 광고 기능 활성화됨');
@@ -102,6 +114,8 @@ export default function App() {
               <Stack.Screen name="AudioMode" component={AudioMode} />
               <Stack.Screen name="DeepInterview" component={DeepDiveInterview} />
               <Stack.Screen name="N400Practice" component={N400PracticeScreen} />
+              <Stack.Screen name="Subscription" component={SubscriptionScreen} />
+              <Stack.Screen name="Admin" component={AdminScreen} />
             </Stack.Navigator>
           </NavigationContainer>
         </View>

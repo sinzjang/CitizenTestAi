@@ -52,9 +52,9 @@ const AIChatScreen = ({ navigation }) => {
 
 
 
-  // ChatGPT API 설정
-  const OPENAI_API_KEY = process.env.EXPO_PUBLIC_OPENAI_API_KEY || 'your-api-key-here';
-  const OPENAI_API_URL = 'https://api.openai.com/v1/chat/completions';
+  // Vercel API 프록시 설정
+  const OPENAI_API_URL = 'https://citizen-test-ai.vercel.app/api/openai';
+  const SPEECH_API_URL = 'https://citizen-test-ai.vercel.app/api/speech';
 
 
 
@@ -550,7 +550,6 @@ const AIChatScreen = ({ navigation }) => {
       const response = await fetch(OPENAI_API_URL, {
         method: 'POST',
         headers: {
-          'Authorization': `Bearer ${OPENAI_API_KEY}`,
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
