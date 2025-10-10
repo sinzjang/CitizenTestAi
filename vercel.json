@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "api/openai.js": {
+      "maxDuration": 30
+    },
+    "api/speech.js": {
+      "maxDuration": 30
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/$1"
+    }
+  ]
+}

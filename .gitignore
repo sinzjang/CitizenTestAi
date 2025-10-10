@@ -107,6 +107,7 @@ assets/keys/
 !app.json
 !eas.json
 !tsconfig.json
+!vercel.json
 !data/*.json
 !locales/*.json
 
