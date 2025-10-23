@@ -1,0 +1,1666 @@
+[
+  {
+    "id": 1,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Các hình thức của chính phủ Hoa Kỳ là gì?",
+    "correctAnswers": [
+      {
+        "text": "Cộng Hòa, Cộng Hòa liên bang dựa trên Hiến Pháp, Dân Chủ đại diện",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 2,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Bộ luật tối cao của quốc gia là gì? *",
+    "correctAnswers": [
+      {
+        "text": "Hiến pháp",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 3,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Kể tên một điều mà Hiến Pháp Hoa Kỳ thực hiện.",
+    "correctAnswers": [
+      {
+        "text": "Thiết lập Chính phủ, Mô tả quyền hạn Chính phủ, Mô tả tổ chức Chính phủ, Bảo vệ những quyền cơ bản của người dân Hoa Kỳ",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 4,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Hiến Pháp Hoa Kỳ được bắt đầu bằng các từ \"\"Chúng tôi, nhân dân.\"\" \"\"Chúng tôi,",
+    "correctAnswers": [
+      {
+        "text": "Tự quản, Chủ quyền phổ biến, Sự ưng thuận của nhân dân, Người dân nên tự quản lý, (Ví dụ về) khế ước xã hội",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 5,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Hiến pháp Hoa Kỳ được thay đổi như thế nào?",
+    "correctAnswers": [
+      {
+        "text": "Tu chánh án, Quy trình tu chính",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 6,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Tuyên ngôn Nhân quyền Hoa Kỳ bảo vệ điều gì?",
+    "correctAnswers": [
+      {
+        "text": "Các quyền (cơ bản) của công dân Hoa Kỳ, Các quyền (cơ bản) của những người sống ở Hoa Kỳ",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 7,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Hiến pháp có bao nhiêu tu chính án? *",
+    "correctAnswers": [
+      {
+        "text": "hai mươi bảy (27)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 8,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Tại sao Tuyên ngôn Độc lập lại quan trọng?",
+    "correctAnswers": [
+      {
+        "text": "Nó xác định rằng Hoa Kỳ thoát khỏi sự kiểm soát của Anh Quốc., Nó chỉ ra tất cả mọi người đều sinh ra có quyền bình đẳng., Nó xác định các quyền vốn có., Nó xác định các quyền tự do cá nhân",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 9,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Văn kiện thành lập nào cho biết các thuộc địa của Hoa Kỳ đã thoát khỏi Anh Quốc?",
+    "correctAnswers": [
+      {
+        "text": "Tuyên ngôn Độc lập",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 10,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Kể tên hai ý tưởng quan trọng trong Tuyên ngôn Độc lập và Hiến pháp Hoa Kỳ.",
+    "correctAnswers": [
+      {
+        "text": "Bình đẳng, Tự do, Khế ước xã hội, Quyền căn bản tự nhiên, Nhà nước có quyền lực hạn chế, Tự quản",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 11,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Các từ \"\"Cuộc sống, Tự do và theo đuổi Hạnh phúc\"\" có trong văn kiện sáng lập\" nào?",
+    "correctAnswers": [
+      {
+        "text": "Tuyên ngôn Độc lập",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 12,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Hệ thống kinh tế của Hoa Kỳ là gì? *",
+    "correctAnswers": [
+      {
+        "text": "Kinh tế tư bản, Kinh tế thị trường tự do",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 13,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Pháp quyền là gì?",
+    "correctAnswers": [
+      {
+        "text": "Mọi người đều phải tuân theo luật pháp., Các nhà lãnh đạo đều phải tuân theo luật pháp., Chính phủ phải tuân theo luật pháp., Không ai đứng trên pháp luật.",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 14,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Nhiều tài liệu ảnh hưởng đến Hiến pháp Hoa Kỳ. Hãy nêu một ví dụ.",
+    "correctAnswers": [
+      {
+        "text": "Tuyên ngôn Độc lập, Các điều khoản Hợp bang, Luận cương Liên bang, Luận cương chống Liên bang, Tuyên ngôn về Quyền của Virginia, Các Chỉ thị Cơ bản của Connecticut, Hiệp ước Mayflower, Luật Hòa bình Vĩ đại Iroquois",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 15,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Nguyên tắc của chính phủ",
+    "question": "Chính phủ Hoa Kỳ có ba nhánh. Tại sao?",
+    "correctAnswers": [
+      {
+        "text": "Để ngăn cản một nhánh trở nên quá quyền lực, Kiểm soát và cân bằng, Phân quyền",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 16,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Kể tên ba nhánh của chính phủ.",
+    "correctAnswers": [
+      {
+        "text": "Lập pháp, hành pháp và tư pháp, Quốc hội, tổng thống và tòa án",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 17,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Tổng thống Hoa Kỳ phụ trách nhánh nào của chính phủ?",
+    "correctAnswers": [
+      {
+        "text": "Nhánh hành pháp",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 18,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Bộ phận nào của chính phủ liên bang viết luật?",
+    "correctAnswers": [
+      {
+        "text": "Quốc hội, (của Liên Bang hay Quốc Gia) cơ quan lập pháp, Nhánh Lập Pháp",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 19,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Lưỡng Viện Hoa Kỳ bao gồm hai phần gì?",
+    "correctAnswers": [
+      {
+        "text": "Thượng Viện và Hạ Viện",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 20,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Nêu tên một quyền lực của Quốc hội Hoa Kỳ. *",
+    "correctAnswers": [
+      {
+        "text": "Viết luật, Tuyên bố chiến tranh, Tạo ra ngân sách liên bang",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 21,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Có bao nhiêu Thượng Nghị Sĩ Hoa Kỳ?",
+    "correctAnswers": [
+      {
+        "text": "Một trăm (100)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 22,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Nhiệm kỳ của một thượng nghị sĩ Hoa Kỳ là bao lâu?",
+    "correctAnswers": [
+      {
+        "text": "Sáu (6) năm",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 23,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Nghị sĩ đại diện cho bang của bạn là ai?",
+    "correctAnswers": [
+      {
+        "text": "[Câu trả lời có thể khác nhau]",
+        "rationale": "Một trong hai thượng nghị sĩ Hoa Kỳ của tiểu bang bạn. Câu trả lời sẽ khác nhau tùy theo tiểu bang của bạn."
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 24,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Hạ Viện có bao nhiêu thành viên bỏ phiếu?",
+    "correctAnswers": [
+      {
+        "text": "Bốn trăm ba mươi lăm (435)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 25,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Nhiệm kỳ của một dân biểu trong Hạ Viện là bao lâu?",
+    "correctAnswers": [
+      {
+        "text": "Hai (2) năm",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 26,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Tại sao dân biểu Hoa Kỳ có nhiệm kỳ ngắn hơn so với thượng nghị sĩ Hoa Kỳ?",
+    "correctAnswers": [
+      {
+        "text": "Theo dõi sát sao dư luận hơn",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 27,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Mỗi bang có bao nhiêu thượng nghị sĩ?",
+    "correctAnswers": [
+      {
+        "text": "Hai (2)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 28,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Tại sao mỗi bang có hai thượng nghị sĩ?",
+    "correctAnswers": [
+      {
+        "text": "Đại diện bình đẳng (cho các bang nhỏ), Thỏa Hiệp Lớn (Thỏa Hiệp Connecticut)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 29,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Kể tên dân biểu của bạn.",
+    "correctAnswers": [
+      {
+        "text": "[Câu trả lời có thể khác nhau]",
+        "rationale": "Đại diện Hoa Kỳ của bạn. Câu trả lời sẽ khác nhau tùy theo khu vực bầu cử của bạn."
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 30,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Tên của đương kim Phát ngôn viên Hạ Viện là gì? *",
+    "correctAnswers": [
+      {
+        "text": "[Câu trả lời có thể khác nhau]",
+        "rationale": "Chủ tịch Hạ viện là lãnh đạo của Hạ viện Hoa Kỳ. Chủ tịch hiện tại là Mike Johnson."
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 31,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Thượng nghị sĩ Hoa Kỳ đại diện cho ai?",
+    "correctAnswers": [
+      {
+        "text": "Công dân tiểu bang của họ, Người dân của bang họ",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 32,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Ai bầu chọn thượng nghị sĩ Hoa Kỳ?",
+    "correctAnswers": [
+      {
+        "text": "Công dân tiểu bang của họ",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 33,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Dân biểu của Hạ viện đại diện cho ai?",
+    "correctAnswers": [
+      {
+        "text": "Công dân trong quận (quốc hội) của họ, Công dân trong quận của họ, Người dân từ khu vực bầu cử (quốc hội) của họ, Người dân trong khu vực của họ",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 34,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Ai bầu ra các dân biểu của Hạ Viện?",
+    "correctAnswers": [
+      {
+        "text": "Công dân từ quận (quốc hội) của họ",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 35,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Tại sao một số bang có số dân biểu cao hơn những bang khác?",
+    "correctAnswers": [
+      {
+        "text": "(vì) dân số bang, (vì) bang có nhiều người hơn, (vì) một số bang có nhiều người hơn",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 36,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Nhiệm kỳ của một Tổng thống là bao nhiêu năm? *",
+    "correctAnswers": [
+      {
+        "text": "bốn (4)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 37,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Tổng thống Hoa Kỳ chỉ có thể phục vụ hai nhiệm kỳ. Tại sao?",
+    "correctAnswers": [
+      {
+        "text": "(Vì) Tu chính án thứ 22, Để giữ tổng thống không trở nên quá quyền lực",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 38,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Tên của đương kim Tổng thống Hoa Kỳ là gì?*",
+    "correctAnswers": [
+      {
+        "text": "[Câu trả lời có thể khác nhau]",
+        "rationale": "Tổng thống Hoa Kỳ là người đứng đầu nhánh hành pháp. Tổng thống hiện tại là Donald J. Trump (tính đến năm 2025)."
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 39,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Tên của đương kim Phó Tổng thống Hoa Kỳ là gì? *",
+    "correctAnswers": [
+      {
+        "text": "[Câu trả lời có thể khác nhau]",
+        "rationale": "Phó tổng thống Hoa Kỳ là người thứ hai trong thứ tự kế nhiệm tổng thống. Phó tổng thống hiện tại là JD Vance (tính đến năm 2025)."
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 40,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Nếu Tổng thống không thể tiếp tục phục vụ, ai sẽ trở thành Tổng thống?",
+    "correctAnswers": [
+      {
+        "text": "Phó Tổng thống",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 41,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Kể tên một quyền lực của tổng thống.",
+    "correctAnswers": [
+      {
+        "text": "Ký các dự luật thành luật, Phủ quyết các dự luật, Thi hành luật, Tổng tư lệnh (quân đội), Trưởng ngoại giao, Bổ nhiệm các thẩm phán liên bang",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 42,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Ai là Chỉ huy tối cao của quân đội?",
+    "correctAnswers": [
+      {
+        "text": "Tổng thống",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 43,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Ai sẽ ký dự thảo để thông qua thành luật?",
+    "correctAnswers": [
+      {
+        "text": "Tổng thống",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 44,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Ai phủ quyết các dự thảo luật? *",
+    "correctAnswers": [
+      {
+        "text": "Tổng thống",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 45,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Ai bổ nhiệm thẩm phán liên bang?",
+    "correctAnswers": [
+      {
+        "text": "Tổng thống (của Hoa Kỳ)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 46,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Nhánh hành pháp có nhiều bộ phận. Hãy nêu một ví dụ.",
+    "correctAnswers": [
+      {
+        "text": "Tổng thống (của Hoa Kỳ), Nội các, Các sở và cơ quan liên bang",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 47,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Nội các Tổng thống có vai trò gì?",
+    "correctAnswers": [
+      {
+        "text": "cố vấn cho Tổng thống",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 48,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Kể tên hai vị trí trong Nội các?",
+    "correctAnswers": [
+      {
+        "text": "Bộ trưởng Bộ Nông nghiệp, Bộ trưởng Bộ Thương mại, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Giáo dục, Bộ trưởng Bộ Năng lượng, Bộ trưởng Bộ Sức khỏe và Dịch vụ Nhân sinh, Bộ trưởng Bộ An ninh Nội địa, Bộ trưởng Bộ Nhà ở và Phát triển Đô thị, Bộ trưởng Bộ Nội vụ, Bộ trưởng Bộ Lao động, Ngoại trưởng, Bộ trưởng Bộ Giao thông, Bộ trưởng Bộ Ngân khố, Bộ trưởng Bộ Cựu chiến binh, Tổng chưởng lý, Phó Tổng thống, Giám đốc Cục Bảo Vệ Môi Trường, Giám đốc Cơ Quan Quản Lý Doanh Nghiệp Nhỏ, Giám đốc Cơ Quan Tình Báo Trung Ương, Giám đốc Văn Phòng Quản Lý và Ngân Sách, Giám đốc Tình Báo Quốc Gia, Đại Diện Thương Mại Hoa Kỳ",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 49,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Tại sao Đại cử tri Đoàn lại quan trọng?",
+    "correctAnswers": [
+      {
+        "text": "Nó quyết định ai được bầu làm tổng thống., Nó cung cấp một sự thỏa hiệp giữa cuộc bầu cử phổ biến của tổng thống và sự lựa chọn của quốc hội.",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 50,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Một bộ phận của nhánh tư pháp là gì?",
+    "correctAnswers": [
+      {
+        "text": "Tòa án tối cao, Tòa án liên bang",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 51,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Nhánh tư pháp có vai trò gì?",
+    "correctAnswers": [
+      {
+        "text": "xem xét luật, giải thích luật, giải quyết tranh chấp (bất hòa) Giới thiệu về luật, xác định luật có vi hiến hay không",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 52,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Tòa án cao nhất ở Hoa Kỳ là gì? *",
+    "correctAnswers": [
+      {
+        "text": "Tòa án Tối cao",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 53,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Tòa án Tối cao có bao nhiêu ghế?",
+    "correctAnswers": [
+      {
+        "text": "Chín (9)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 54,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Thường cần bao nhiêu thẩm phán Tòa án Tối cao để quyết định một vụ án?",
+    "correctAnswers": [
+      {
+        "text": "Năm (5)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 55,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Các thẩm phán Tòa án Tối cao phục vụ trong bao lâu?",
+    "correctAnswers": [
+      {
+        "text": "(Suốt) đời, Nhiệm kỳ trọn đời, (Cho đến khi) nghỉ hưu",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 56,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Các thẩm phán Tòa án Tối cao phục vụ suốt đời. Tại sao?",
+    "correctAnswers": [
+      {
+        "text": "Để độc lập (về chính trị), Để hạn chế ảnh hưởng từ bên ngoài (chính trị)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 57,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Tên của đương kim Chánh án Tòa án Tối cao Hoa Kỳ là gì?",
+    "correctAnswers": [
+      {
+        "text": "Xin ghé thăm trang uscis.gov/citizenship/testupdates để biết tên của Chánh Án Tòa Án Tối Cao Pháp Viện Hoa Kỳ.",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 58,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Nêu tên một quyền lực chỉ dành cho chính phủ liên bang.",
+    "correctAnswers": [
+      {
+        "text": "In tiền giấy, Đúc tiền xu, Tuyên bố chiến tranh, Thành lập quân đội, Kí các hòa ước, Thiết lập chính sách đối ngoại",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 59,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Nêu tên một quyền lực chỉ dành cho các bang.",
+    "correctAnswers": [
+      {
+        "text": "cung cấp trường học và giáo dục, đảm bảo an ninh (cảnh sát), đảm bảo an toàn (cứu hỏa), cấp bằng lái, chấp thuận quy hoạch và sử dụng đất",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 60,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Mục đích của Tu chính án thứ 10 là gì?",
+    "correctAnswers": [
+      {
+        "text": "(Tu chính án này nói rằng) quyền lực không được trao cho chính phủ liên bang mà thuộc về các tiểu bang hoặc nhân dân.",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 61,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Ai là đương kim Thống đốc ở bang của bạn? *",
+    "correctAnswers": [
+      {
+        "text": "[Câu trả lời có thể khác nhau]",
+        "rationale": "Thống đốc của tiểu bang bạn. Câu trả lời sẽ khác nhau tùy theo tiểu bang của bạn."
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 62,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Hệ thống chính quyền",
+    "question": "Thủ phủ tiểu bang của bạn là gì?",
+    "correctAnswers": [
+      {
+        "text": "[Câu trả lời có thể khác nhau]",
+        "rationale": "Thủ đô của tiểu bang bạn. Câu trả lời sẽ khác nhau tùy theo tiểu bang của bạn."
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 63,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Quyền lợi và Trách nhiệm",
+    "question": "Hiến pháp có bốn tu chính án nói về cử tri. Hãy miêu tả một trong số đó.",
+    "correctAnswers": [
+      {
+        "text": "Công dân trên mười tám (18) tuổi (có thể bầu cử)., Bạn không cần trả tiền (thuế khoán) để được bầu cử., Bất kỳ công dân nào cũng có thể bầu cử. (Nam nữ đều có thể bầu cử.), Công dân nam của bất kỳ chủng tộc nào (có thể bầu cử).",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 64,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Quyền lợi và Trách nhiệm",
+    "question": "Ai có thể bỏ phiếu trong các cuộc bầu cử liên bang, tranh cử vào văn phòng liên",
+    "correctAnswers": [
+      {
+        "text": "Công dân, Công dân của Hoa Kỳ, Công dân Hoa Kỳ",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 65,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Quyền lợi và Trách nhiệm",
+    "question": "Kể tên Ba quyền của mọi người sinh sống ở Hoa Kỳ?",
+    "correctAnswers": [
+      {
+        "text": "quyền tự do biểu đạt, quyền tự do ngôn luận, quyền tự do hội họp, quyền tự do kiến nghị chính quyền, quyền tự do tôn giáo, quyền được mang vũ khí",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 66,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Quyền lợi và Trách nhiệm",
+    "question": "Chúng ta thể hiện lòng trung thành với điều gì khi nói Lời tuyên thệ Trung thành? *",
+    "correctAnswers": [
+      {
+        "text": "Hoa Kỳ, quốc kỳ",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 67,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Quyền lợi và Trách nhiệm",
+    "question": "Kể tên hai lời hứa mà các công dân mới của Hoa Kỳ sẽ thực hiện trong Lời thề Trung thành.",
+    "correctAnswers": [
+      {
+        "text": "từ bỏ lòng trung thành với những quốc gia khác, Bảo vệ (Hoa Kỳ) Hiến pháp, tuân thủ luật pháp Hoa Kỳ, phục vụ trong quân đội Hoa Kỳ (nếu cần), phục vụ (làm những việc quan trọng) cho quốc gia (nếu cần)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 68,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Quyền lợi và Trách nhiệm",
+    "question": "Một người có thể trở thành công dân Hoa Kỳ như thế nào?",
+    "correctAnswers": [
+      {
+        "text": "Sinh ra ở Hoa Kỳ, theo các điều kiện được quy định bởi Tu chính án thứ 14, Nhập tịch, Có được tư cách công dân (theo các điều kiện do Quốc hội đặt ra)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 69,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Quyền lợi và Trách nhiệm",
+    "question": "Hai ví dụ về sự tham gia của công dân ở Hoa Kỳ là gì?",
+    "correctAnswers": [
+      {
+        "text": "Bỏ phiếu, Tranh cử, Tham gia một đảng phái chính trị, Tham dự vào một cuộc vận động tranh cử, Tham gia vào một nhóm hoạt động dân sự, Tham gia vào một nhóm hoạt động cộng đồng, Phát biểu ý kiến (về một vấn đề) với một vị dân cử, Liên hệ với các quan chức được bầu cử, Công khai ủng hộ hoặc phản đối một vấn đề hoặc chính sách nào đó, Góp ý kiến trên một tờ báo",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 70,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Quyền lợi và Trách nhiệm",
+    "question": "Một cách mà người dân Hoa Kỳ có thể phục vụ đất nước của họ là gì?",
+    "correctAnswers": [
+      {
+        "text": "Bỏ phiếu, Đóng thuế, Tuân theo luật pháp, Phục vụ trong quân đội, Tranh cử, Làm việc cho chính quyền địa phương, tiểu bang hoặc liên bang",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 71,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Quyền lợi và Trách nhiệm",
+    "question": "Tại sao việc đóng thuế liên bang lại quan trọng?",
+    "correctAnswers": [
+      {
+        "text": "Pháp luật bắt buộc, Tất cả mọi người đóng tiền để duy trì ngân sách cho chính phủ liên bang, Hiến pháp Hoa Kỳ (Tu chính án thứ 16) bắt buộc, Nghĩa vụ công dân",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 72,
+    "category": "CHÍNH QUYỀN HOA KỲ",
+    "subcategory": "Quyền lợi và Trách nhiệm",
+    "question": "Mọi thanh niên tuổi từ 18 đến 25 phải đăng ký quân dịch. Bạn hãy nêu một lý do.",
+    "correctAnswers": [
+      {
+        "text": "Pháp luật bắt buộc, Nghĩa vụ công dân, Công bằng hóa lựa chọn cho đợt nghĩa vụ, nếu cần",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 73,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Người di dân thời thuộc địa tới Châu Mỹ vì nhiều lí do. Hãy nêu một ví dụ.",
+    "correctAnswers": [
+      {
+        "text": "Tự do, Tự do chính trị, Tự do tôn giáo, Cơ hội kinh tế, Tránh sự áp bức",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 74,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Ai sống ở Hoa Kỳ trước khi những người dân châu Âu đến? *",
+    "correctAnswers": [
+      {
+        "text": "Người Mỹ da đỏ, Người Mỹ bản địa",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 75,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Nhóm người nào bị bắt và bán làm nô lệ?",
+    "correctAnswers": [
+      {
+        "text": "người châu Phi, những người từ châu Phi",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 76,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Người Mỹ đã chiến đấu trong cuộc chiến nào để giành lấy sự độc lập từ nước Anh?",
+    "correctAnswers": [
+      {
+        "text": "Cuộc Cách mạng Mỹ, Chiến tranh Cách mạng (Mỹ), Chiến tranh vì Độc lập (Hoa Kỳ)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 77,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Hãy nêu một lý do tại sao người dân Hoa Kỳ tuyên bố độc lập khỏi Anh Quốc.",
+    "correctAnswers": [
+      {
+        "text": "Thuế cao, Đóng thuế mà không có đại diện, Binh lính Anh ở trong nhà của người Mỹ (nội trú, đóng quân), Họ không có chính phủ tự chủ, Thảm sát Boston, Sự kiện tiệc trà Boston (Đạo luật Trà), Đạo luật Tem, Đạo luật Đường, Đạo luật Townshend, Các đạo luật Bất khoan dung (Cưỡng chế)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 78,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Ai viết bản Tuyên ngôn Độc lập? *",
+    "correctAnswers": [
+      {
+        "text": "(Thomas) Jefferson",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 79,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Bản Tuyên ngôn Độc lập được thông qua khi nào?",
+    "correctAnswers": [
+      {
+        "text": "4 tháng Bảy, 1776",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 80,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Cuộc Cách Mạng Mỹ có rất nhiều sự kiện quan trọng Hãy nêu một ví dụ.",
+    "correctAnswers": [
+      {
+        "text": "(Trận chiến ở) Bunker Hill, Tuyên Ngôn Độc Lập, Washington Vượt sông Delaware (Trận chiến Trenton), (Trận chiến ở) Saratoga, Valley Forge (Doanh trại), (Trận chiến ở) Yorktown (quân Anh đầu hàng tại Yorktown)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 81,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Có 13 bang đầu tiên. Kể tên số năm bang trong số đó.",
+    "correctAnswers": [
+      {
+        "text": "New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina, Georgia",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 82,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Văn kiện thành lập nào được viết vào năm 1787?",
+    "correctAnswers": [
+      {
+        "text": "(Hoa Kỳ) Hiến pháp",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 83,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "The Federalist Papers (Tiểu luận Liên bang) ủng hộ Hiến pháp Hoa Kỳ được thông qua. Nêu tên của một trong các tác giả.",
+    "correctAnswers": [
+      {
+        "text": "(James) Madison, (Alexander) Hamilton, (John) Jay, Publius",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 84,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Tại sao tập Luận cương Liên bang lại quan trọng?",
+    "correctAnswers": [
+      {
+        "text": "Nó giúp mọi người hiểu về Hoa Kỳ Hiến pháp., Nó ủng hộ thông qua (hệ thống Liên bang Hoa Kỳ) Hiến pháp.",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 85,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Benjamin Franklin nổi tiếng vì nhiều lý do. Hãy nêu một ví dụ.",
+    "correctAnswers": [
+      {
+        "text": "Thành lập những thư viện miễn phí cho cộng đồng đầu tiên, Bộ trưởng Bộ Bưu điện đầu tiên ở Mỹ, Tham gia soạn thảo Tuyên Ngôn Độc Lập, Nhà Sáng Chế, Nhà Ngoại Giao Hoa Kỳ",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 86,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "George Washington nổi tiếng vì nhiều lý do. Hãy nêu một ví dụ. *",
+    "correctAnswers": [
+      {
+        "text": "\"\"Người cha của Đất nước Chúng ta, Tổng Thống đầu tiên của Hợp Chủng Quốc Hoa Kỳ, Tổng Tư lệnh Lục Quân Lục Địa, Chủ Tịch Hội nghị Lập hiến",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 87,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Thomas Jefferson nổi tiếng vì nhiều lí do. Hãy nêu một ví dụ.",
+    "correctAnswers": [
+      {
+        "text": "Người soạn thảo Tuyên Ngôn Độc Lập, Tổng thống thứ ba của Hợp Chủng Quốc Hoa Kỳ, Mở rộng gấp đôi lãnh thổ Hoa Kỳ (mua bang Louisiana), Ngoại trưởng đầu tiên của Hoa Kỳ, Người thành lập trường Đại Học bang Virginia, Tác giả của Quy chế Virginia về Tự Do Tôn Giáo",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 88,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "James Madison nổi tiếng vì nhiều lý do. Hãy nêu một ví dụ.",
+    "correctAnswers": [
+      {
+        "text": "\"\"Cha đẻ của Hiến Pháp, Tổng Thống thứ tư của Hợp Chủng Quốc Hoa Kỳ, Tổng Thống trong thời kỳ Chiến Tranh 1812, Một trong những tác giả của tập Luận cương Liên Bang",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 89,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Colonial Period and Independence A :Thời kỳ thuộc địa và nền độc lập",
+    "question": "Alexander Hamilton nổi tiếng vì nhiều lý do. Hãy nêu một ví dụ.",
+    "correctAnswers": [
+      {
+        "text": "Bộ Trưởng Ngân Khố Hoa Kỳ đầu tiên, Một trong những tác giả của tập Luận cương Liên Bang, Giúp đỡ thành lập Ngân Hàng đầu tiên của Hoa Kỳ, Phụ tá cho tướng George Washington, Thành viên của Quốc Hội Lục Địa",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 90,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Thế kỷ 19",
+    "question": "Hoa Kỳ mua lãnh thổ nào từ Pháp vào năm 1803?",
+    "correctAnswers": [
+      {
+        "text": "Lãnh thổ Louisiana",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 91,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Thế kỷ 19",
+    "question": "Kể tên một cuộc chiến có Hoa Kỳ tham gia vào thế kỷ 19.",
+    "correctAnswers": [
+      {
+        "text": "Chiến tranh năm 1812, Chiến tranh Mexico - Hoa Kỳ, Nội chiến, Chiến tranh Tây Ban Nha - Hoa Kỳ",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 92,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Thế kỷ 19",
+    "question": "Kể tên cuộc chiến ở Hoa Kỳ giữa miền Bắc và miền Nam.",
+    "correctAnswers": [
+      {
+        "text": "Nội chiến",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 93,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Thế kỷ 19",
+    "question": "Cuộc Nội chiến có rất nhiều sự kiện quan trọng. Hãy nêu một ví dụ.",
+    "correctAnswers": [
+      {
+        "text": "(Trận chiến ở) Fort Sumter, Tuyên Ngôn Giải Phóng Nô lệ, (Trận chiến ở) Vicksburg,, (Trận Chiến ở) Gettysburg, Cuộc tiến quân của Sherman, (Đầu hàng ở) Appomattox, (Trận chiến ở) Antietam/Sharpburg, Lincoln bị ám sát.",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 94,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Thế kỷ 19",
+    "question": "braham Lincoln nổi tiếng vì nhiều lý do. Hãy nêu một ví dụ. *",
+    "correctAnswers": [
+      {
+        "text": "Giải phóng nô lệ (Tuyên ngôn Giải phóng Nô lệ), Cứu (hoặc duy trì) phe Liên bang, Lãnh đạo phe Liên bang trong cuộc Nội chiến, Tổng thống thứ 16 của Hợp Chủng Quốc Hoa Kỳ, Đọc bài Diễn văn Gettysburg",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 95,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Thế kỷ 19",
+    "question": "Tuyên ngôn Giải phóng Nô lệ có vai trò gì?",
+    "correctAnswers": [
+      {
+        "text": "giải phóng nô lệ, giải phóng nô lệ ở phe Liên hiệp, giải phóng nô lệ ở các bang Liên hiệp, giải phóng nô lệ ở hầu hết các bang miền Nam",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 96,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Thế kỷ 19",
+    "question": "Trận chiến nào đã kết thúc chế độ nô lệ ở Hoa Kỳ?",
+    "correctAnswers": [
+      {
+        "text": "Cuộc Nội chiến",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 97,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Thế kỷ 19",
+    "question": "Tu chính án nào quy định rằng tất cả những người sinh ra hoặc nhập tịch tại Hoa Kỳ và thuộc quyền tài phán của Hoa Kỳ là công dân Hoa Kỳ?",
+    "correctAnswers": [
+      {
+        "text": "Tu chính án thứ 14",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 98,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Thế kỷ 19",
+    "question": "Tất cả nam giới được phép bầu cử khi nào?",
+    "correctAnswers": [
+      {
+        "text": "Sau cuộc Nội chiến, Trong Thời kỳ Tái thiết, (Cùng với) Tu chính án thứ 15",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 99,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Thế kỷ 19",
+    "question": "Kể tên một nhà lãnh đạo của phong trào đòi quyền lợi cho phụ nữ những năm 1800",
+    "correctAnswers": [
+      {
+        "text": "Susan B. Anthony, Elizabeth Cady Stanton, Sojourner Truth, Harriet Tubman, Lucretia Mott, Lucy Stone",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 100,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Kể tên một cuộc chiến có Hoa Kỳ tham gia vào thế kỷ 20.",
+    "correctAnswers": [
+      {
+        "text": "Đệ nhất Thế chiến, Đệ nhị Thế chiến, Chiến tranh Triều Tiên, Chiến tranh Việt Nam, Chiến tranh vùng Vịnh (Ba Tư)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 101,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Tại sao Hoa Kỳ tham gia vào Thế chiến thứ I?",
+    "correctAnswers": [
+      {
+        "text": "Vì Đức tấn công tàu (dân sự) của Hoa Kỳ, Để hỗ trợ Đồng minh (Anh, Pháp, Ý và Nga), Để chống lại Trung ương (Đức, Áo-Hung, Đế chế Ottoman và Bulgaria)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 102,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Tất cả phụ nữ được phép bầu cử khi nào?",
+    "correctAnswers": [
+      {
+        "text": "1920, Sau Thế chiến thứ I, (Cùng với) Tu chính án thứ 19",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 103,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Cuộc Đại Suy Thoái là gì?",
+    "correctAnswers": [
+      {
+        "text": "Cuộc suy thoái kinh tế dài nhất trong lịch sử hiện đại",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 104,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Cuộc Đại Suy thoái bắt đầu khi nào?",
+    "correctAnswers": [
+      {
+        "text": "Cuộc Đại Sụp Đổ (1929), Sụp đổ thị trường chứng khoán năm 1929",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 105,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "i là Tổng thống Hoa Kỳ trong thời kỳ Đại suy thoái và Đệ nhị Thế chiến?",
+    "correctAnswers": [
+      {
+        "text": "(Franklin) Roosevelt",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 106,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Tại sao Hoa Kỳ tham gia vào Thế chiến thứ II?",
+    "correctAnswers": [
+      {
+        "text": "(Vụ đánh bom) Trân Châu Cảng, Nhật tấn công Trân Châu Cảng, Để ủng hộ Khối Đồng Minh (Anh, Pháp, Nga), Để tấn công Phe Trục (Đức, Ý, và Nhật)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 107,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Dwight Eisenhower nổi tiếng vì nhiều lý do. Hãy nêu một ví dụ.",
+    "correctAnswers": [
+      {
+        "text": "Tổng Tư Lệnh trong Thế Chiến Thứ II, Tổng thống (trong) thời kỳ cuối chiến tranh Triều Tiên, Tổng thống thứ 34 của Hợp Chủng Quốc Hoa Kỳ, Ký kết Đạo luật Liên Bang Tài trợ Xa lộ năm 1956 (xây dựng hệ thống xa lộ liên tiểu bang)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 108,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Ai là đối thủ chính của Hoa Kỳ trong thời kỳ Chiến tranh Lạnh?",
+    "correctAnswers": [
+      {
+        "text": "Liên Xô",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 109,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Trong thời kỳ Chiến trang Lạnh, mối quan tâm chính của Hoa Kỳ là gì?",
+    "correctAnswers": [
+      {
+        "text": "Chủ Nghĩa Cộng Sản, Chiến tranh hạt nhân",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 110,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Tại sao Hoa Kỳ tham gia vào Chiến tranh Triều Tiên?",
+    "correctAnswers": [
+      {
+        "text": "Để ngăn chặn sự lây lan của Chủ Nghĩa Cộng Sản",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 111,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Tại sao Hoa Kỳ tham gia vào Chiến Tranh Việt Nam?",
+    "correctAnswers": [
+      {
+        "text": "Để ngăn chặn sự lây lan của Chủ Nghĩa Cộng Sản",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 112,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Phong trào dân quyền đã làm được những gì?",
+    "correctAnswers": [
+      {
+        "text": "Đấu tranh để kết thúc phân biệt chủng tộc",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 113,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Martin Luther King, Jr. nổi tiếng vì nhiều thứ. Hãy nêu một điều. *",
+    "correctAnswers": [
+      {
+        "text": "Đấu tranh vì dân quyền, Nỗ lực vì sự bình đẳng cho mọi công dân Mỹ, Nỗ lực để đảm bảo mọi người \"\"không còn bị đánh giá qua màu da, mà bởi",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 114,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Tại sao Hoa Kỳ tham gia vào Chiến tranh Vùng Vịnh?",
+    "correctAnswers": [
+      {
+        "text": "Để buộc quân đội Iraq rút khỏi Kuwait",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 115,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Sự kiện lớn nào đã xảy ra vào ngày 11 tháng Chín, 2011 tại Hoa Kỳ?*",
+    "correctAnswers": [
+      {
+        "text": "Những tên khủng bố tấn công Hoa Kỳ., Các phần tử khủng bố cướp quyền kiểm soát hai chiếc máy bay dân dụng và đâm vào Trung tâm Thương Mại Thế giới tại Thành Phố New York, Các phần tử khủng bố cướp quyền kiểm soát một máy bay dân dụng và đâm",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 116,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Kể tên một xung đột quân sự ở Hoa Kỳ sau vụ tấn công 11/9/2001.",
+    "correctAnswers": [
+      {
+        "text": "(Toàn cầu) Chiến tranh chống khủng bố, Chiến tranh ở Afghanistan, Chiến tranh ở Iraq",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 117,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Kể tên một bộ tộc thổ dân ở Hoa Kỳ.",
+    "correctAnswers": [
+      {
+        "text": "Apache, Blackfeet, Cayuga, Cherokee, Cheyenne, Chippewa, Choctaw, Creek, Crow, Hopi, Huron, Inupiat, Lakota, Mohawk, Mohegan, Navajo, Oneida, Onondaga, Pueblo, Seminole, Seneca, Shawnee, Sioux, Teton, Tuscarora",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 118,
+    "category": "LỊCH SỬ HOA KỲ",
+    "subcategory": "Lịch sử Hoa Kỳ Hiện đại và Các Thông tin Lịch sử Quan trọng khác",
+    "question": "Nêu tên một ví dụ về phát minh của người Mỹ.",
+    "correctAnswers": [
+      {
+        "text": "Bóng đèn, Xe ô tô (xe hơi, động cơ đốt trong), Các tòa nhà cao tầng, Máy bay, Dây chuyền lắp ráp, Đặt chân lên mặt trăng, Vi mạch (IC) Symbols and holidays",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 119,
+    "category": "BIỂU TƯỢNG VÀ NGÀY LỄ",
+    "subcategory": "Biểu tượng",
+    "question": "Tên thủ đô Hoa Kỳ là gì?",
+    "correctAnswers": [
+      {
+        "text": "Washington, D.C.",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 120,
+    "category": "BIỂU TƯỢNG VÀ NGÀY LỄ",
+    "subcategory": "Biểu tượng",
+    "question": "Tượng Nữ thần Tự do đặt ở đâu?",
+    "correctAnswers": [
+      {
+        "text": "(Bến cảng) New York, Đảo Tự do [Chấp nhận cả đáp án New Jersey, gần thành phố New York và\" nằm trên (sông) Hudson.]",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 121,
+    "category": "BIỂU TƯỢNG VÀ NGÀY LỄ",
+    "subcategory": "Biểu tượng",
+    "question": "Tại sao quốc kỳ có 13 sọc?*",
+    "correctAnswers": [
+      {
+        "text": "vì có 13 thuộc địa đầu tiên, vì số sọc biểu trưng cho những thuộc địa đầu tiên",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 122,
+    "category": "BIỂU TƯỢNG VÀ NGÀY LỄ",
+    "subcategory": "Biểu tượng",
+    "question": "Tại sao quốc kỳ có 50 ngôi sao?",
+    "correctAnswers": [
+      {
+        "text": "vì một ngôi sao biểu trưng cho một bang, vì mỗi ngôi sao biểu trưng cho một bang, vì có 50 bang",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 123,
+    "category": "BIỂU TƯỢNG VÀ NGÀY LỄ",
+    "subcategory": "Biểu tượng",
+    "question": "Tên của quốc ca là gì?",
+    "correctAnswers": [
+      {
+        "text": "The Star-Spangled Banner (Lá cờ lấp lánh ánh sao)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 124,
+    "category": "BIỂU TƯỢNG VÀ NGÀY LỄ",
+    "subcategory": "Biểu tượng",
+    "question": "Châm ngôn đầu tiên của quốc gia là “E Pluribus Unum.” Điều đó có nghĩa là gì?",
+    "correctAnswers": [
+      {
+        "text": "Từ nhiều hợp thành một, Tất cả chúng ta trở thành một",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 125,
+    "category": "BIỂU TƯỢNG VÀ NGÀY LỄ",
+    "subcategory": "Ngày lễ",
+    "question": "Ngày Độc Lập là gì?",
+    "correctAnswers": [
+      {
+        "text": "Là một ngày lễ để ăn mừng sự độc lập của Hoa Kỳ (khỏi Anh), Ngày quốc khánh của Hoa Kỳ",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 126,
+    "category": "BIỂU TƯỢNG VÀ NGÀY LỄ",
+    "subcategory": "Ngày lễ",
+    "question": "Kể tên Ba ngày lễ quốc gia ở Hoa Kỳ.*",
+    "correctAnswers": [
+      {
+        "text": "Ngày Năm mới, Ngày tưởng niệm Martin Luther King, Jr., Ngày Tổng thống ( Ngày sinh của Washington), Ngày Tưởng niệm Chiến sĩ trận vong, Ngày Quốc khánh, Ngày Lao động, Ngày Columbus, Ngày Cựu chiến binh, Lễ Tạ ơn, Giáng sinh",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 127,
+    "category": "BIỂU TƯỢNG VÀ NGÀY LỄ",
+    "subcategory": "Ngày lễ",
+    "question": "Lễ Chiến sĩ trận vong là gì?",
+    "correctAnswers": [
+      {
+        "text": "Ngày lễ để tưởng niệm những quân nhân đã tử nạn trong quân ngũ",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  },
+  {
+    "id": 128,
+    "category": "BIỂU TƯỢNG VÀ NGÀY LỄ",
+    "subcategory": "Ngày lễ",
+    "question": "Ngày cựu chiến binh là gì?",
+    "correctAnswers": [
+      {
+        "text": "Ngày lễ để tôn vinh các cựu chiến binh trong quân đội (Hoa Kỳ), Ngày lễ để tôn vinh những người đã từng phục vụ (trong quân đội Hoa Kỳ)",
+        "rationale": ""
+      }
+    ],
+    "wrongAnswers": []
+  }
+]

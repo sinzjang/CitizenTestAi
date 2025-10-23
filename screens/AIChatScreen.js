@@ -52,9 +52,9 @@ const AIChatScreen = ({ navigation }) => {
 
 
 
-  // Vercel API 프록시 설정
-  const OPENAI_API_URL = 'https://citizen-test-ai.vercel.app/api/openai';
-  const SPEECH_API_URL = 'https://citizen-test-ai.vercel.app/api/speech';
+  // Vercel API 프록시 설정 (최종)
+  const OPENAI_API_URL = 'https://openai-proxy-tan-chi.vercel.app/api/openai';
+  const SPEECH_API_URL = 'https://openai-proxy-tan-chi.vercel.app/api/speech';
 
 
 

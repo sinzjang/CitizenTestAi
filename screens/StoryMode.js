@@ -27,6 +27,8 @@ const StoryMode = ({ navigation }) => {
   // When true, show content in current app language; when false, show English fallback
   const [showPrimary, setShowPrimary] = useState(true);
   const [userLocation, setUserLocation] = useState(null);
+  // 각 챕터의 관련 문제 섹션 토글 상태
+  const [expandedChapters, setExpandedChapters] = useState({});
 
   // Chapter colors and icons for visual appeal
   const chapterStyles = [
@@ -170,17 +172,124 @@ const StoryMode = ({ navigation }) => {
     return questions.filter(q => allQuestionIds.includes(q.id));
   };
 
+  // (Q.1), (Q.2) 등을 동그라미 안에 숫자로 변환하는 함수
+  const parseTextWithQuestionNumbers = (text) => {
+    if (!text || typeof text !== 'string') return text;
+    
+    const parts = [];
+    const regex = /\(Q\.(\d+)\)/g;
+    let lastIndex = 0;
+    let match;
+
+    while ((match = regex.exec(text)) !== null) {
+      // 매치 이전의 텍스트
+      if (match.index > lastIndex) {
+        parts.push({
+          type: 'text',
+          content: text.substring(lastIndex, match.index)
+        });
+      }
+      
+      // 질문 번호
+      parts.push({
+        type: 'question',
+        number: match[1]
+      });
+      
+      lastIndex = regex.lastIndex;
+    }
+    
+    // 남은 텍스트
+    if (lastIndex < text.length) {
+      parts.push({
+        type: 'text',
+        content: text.substring(lastIndex)
+      });
+    }
+    
+    return parts;
+  };
+
+  // 질문 번호로 질문 찾기
+  const findQuestionById = (questionId) => {
+    return questions.find(q => q.id === parseInt(questionId));
+  };
+
+  // 질문 번호 배지 클릭 핸들러
+  const handleQuestionBadgePress = (questionNumber) => {
+    const question = findQuestionById(questionNumber);
+    if (question) {
+      openQuestionModal(question);
+    }
+  };
+
+  // 챕터의 관련 문제 섹션 토글
+  const toggleChapterQuestions = (chapterId) => {
+    setExpandedChapters(prev => ({
+      ...prev,
+      [chapterId]: !prev[chapterId]
+    }));
+  };
+
   const renderStoryContent = (contentArray) => {
-    return contentArray.map((segment, index) => {
+    return contentArray.map((segment, segmentIndex) => {
       if (segment.type === 'answer') {
+        const parts = parseTextWithQuestionNumbers(segment.text);
+        if (Array.isArray(parts)) {
+          return (
+            <Text key={segmentIndex} style={styles.answerText}>
+              {parts.map((part, partIndex) => {
+                if (part.type === 'question') {
+                  return (
+                    <TouchableOpacity
+                      key={partIndex}
+                      onPress={() => handleQuestionBadgePress(part.number)}
+                      style={styles.inlineQuestionBadgeWrapper}
+                    >
+                      <View style={styles.inlineQuestionBadge}>
+                        <Text style={styles.inlineQuestionNumber}>{part.number}</Text>
+                      </View>
+                    </TouchableOpacity>
+                  );
+                }
+                return <Text key={partIndex}>{part.content}</Text>;
+              })}
+            </Text>
+          );
+        }
         return (
-          <Text key={index} style={styles.answerText}>
+          <Text key={segmentIndex} style={styles.answerText}>
             {segment.text}
           </Text>
         );
       }
+      
+      const parts = parseTextWithQuestionNumbers(segment.text);
+      if (Array.isArray(parts)) {
+        return (
+          <Text key={segmentIndex} style={styles.normalText}>
+            {parts.map((part, partIndex) => {
+              if (part.type === 'question') {
+                return (
+                  <TouchableOpacity
+                    key={partIndex}
+                    onPress={() => handleQuestionBadgePress(part.number)}
+                    style={styles.inlineQuestionBadgeWrapper}
+                  >
+                    <View style={styles.inlineQuestionBadge}>
+                      <Text style={styles.inlineQuestionNumber}>{part.number}</Text>
+                    </View>
+                  </TouchableOpacity>
+                );
+              }
+              return <Text key={partIndex}>{part.content}</Text>;
+            })}
+          </Text>
+        );
+      }
+      
       return (
-        <Text key={index} style={styles.normalText}>
+        <Text key={segmentIndex} style={styles.normalText}>
           {segment.text}
         </Text>
       );
@@ -231,24 +340,40 @@ const StoryMode = ({ navigation }) => {
           ))}
           
           <View style={styles.questionsSection}>
-            <Text style={styles.questionsSectionTitle}>
-              {t('story.relatedQuestions', { count: chapterQuestions.length })}
-            </Text>
-            {chapterQuestions.map((question, qIndex) => (
-              <TouchableOpacity
-                key={question.id}
-                style={styles.questionItem}
-                onPress={() => openQuestionModal(question)}
-              >
-                <View style={styles.questionItemNumber}>
-                  <Text style={styles.questionItemNumberText}>{question.id}</Text>
-                </View>
-                <Text style={styles.questionItemText} numberOfLines={2}>
-                  {getQuestionText(question)}
-                </Text>
-                <Ionicons name="chevron-forward" size={20} color="#666" />
-              </TouchableOpacity>
-            ))}
+            <TouchableOpacity 
+              style={styles.questionsSectionHeader}
+              onPress={() => toggleChapterQuestions(chapter.chapterId)}
+              activeOpacity={0.7}
+            >
+              <Text style={styles.questionsSectionTitle}>
+                {t('story.relatedQuestions', { count: chapterQuestions.length })}
+              </Text>
+              <Ionicons 
+                name={expandedChapters[chapter.chapterId] ? "chevron-up" : "chevron-down"} 
+                size={24} 
+                color="#2E86AB" 
+              />
+            </TouchableOpacity>
+            
+            {expandedChapters[chapter.chapterId] && (
+              <View style={styles.questionsListContainer}>
+                {chapterQuestions.map((question, qIndex) => (
+                  <TouchableOpacity
+                    key={question.id}
+                    style={styles.questionItem}
+                    onPress={() => openQuestionModal(question)}
+                  >
+                    <View style={styles.questionItemNumber}>
+                      <Text style={styles.questionItemNumberText}>{question.id}</Text>
+                    </View>
+                    <Text style={styles.questionItemText} numberOfLines={2}>
+                      {getQuestionText(question)}
+                    </Text>
+                    <Ionicons name="chevron-forward" size={20} color="#666" />
+                  </TouchableOpacity>
+                ))}
+              </View>
+            )}
           </View>
         </View>
       </View>
@@ -518,11 +643,24 @@ const styles = StyleSheet.create({
   questionsSection: {
     marginTop: 10,
   },
+  questionsSectionHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    paddingVertical: 12,
+    paddingHorizontal: 16,
+    backgroundColor: '#f0f8ff',
+    borderRadius: 8,
+    marginBottom: 8,
+  },
   questionsSectionTitle: {
     fontSize: 16,
     fontWeight: 'bold',
     color: '#2E86AB',
-    marginBottom: 12,
+    flex: 1,
+  },
+  questionsListContainer: {
+    marginTop: 4,
   },
   questionItem: {
     flexDirection: 'row',
@@ -647,6 +785,23 @@ const styles = StyleSheet.create({
     fontSize: 13,
     color: '#999',
     fontWeight: 'normal',
+  },
+  inlineQuestionBadgeWrapper: {
+    marginHorizontal: 2,
+  },
+  inlineQuestionBadge: {
+    width: 20,
+    height: 20,
+    borderRadius: 10,
+    backgroundColor: '#2E86AB',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  inlineQuestionNumber: {
+    color: '#fff',
+    fontSize: 10,
+    fontWeight: 'bold',
+    textAlign: 'center',
   },
 });
 

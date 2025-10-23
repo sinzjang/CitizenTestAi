@@ -71,17 +71,17 @@
       "title": "学习",
       "subtitle": "构建您的知识基础",
       "allQuestions": "所有问题",
-      "allQuestionsSubtitle": "查看所有100个问题",
+      "allQuestionsSubtitle": "查看所有128 (2025)个问题",
       "storyMode": "故事模式",
       "storyModeSubtitle": "美国冒险故事 ★",
       "audioLearning": "驾驶学习",
       "audioLearningSubtitle": "边开车边学习"
     },
     "practiceTests": {
-      "title": "练习测试",
-      "subtitle": "检查知识并识别弱点",
+      "title": "练习",
+      "subtitle": "闪卡练习模式",
       "flashcardMode": "闪卡模式",
-      "flashcardModeSubtitle": "有效记忆全部100道题",
+      "flashcardModeSubtitle": "有效记忆全部128 (2025)道题",
       "practiceTest": "练习测试",
       "practiceTestSubtitle": "随机10个问题",
       "practiceTestVoice": "练习测试（含语音）",
@@ -91,13 +91,17 @@
       "customTest": "自定义测试",
       "customTestSubtitle": "选择主题和问题数量"
     },
+    "test": {
+      "title": "测试",
+      "subtitle": "通过测试检查您的知识"
+    },
     "aiMockInterview": {
       "title": "AI模拟面试",
       "subtitle": "练习口语技能",
       "standardInterview": "标准面试",
       "standardInterviewSubtitle": "AI驱动的面试练习",
-      "deepDiveInterview": "深入面试",
-      "deepDiveInterviewSubtitle": "AI后续问题",
+      "deepDiveInterview": "学习分析",
+      "deepDiveInterviewSubtitle": "进度分析与学习建议",
       "n400Practice": "N-400练习",
       "n400PracticeSubtitle": "宣誓和个人问题"
     },

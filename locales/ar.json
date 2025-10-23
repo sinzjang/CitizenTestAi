@@ -80,10 +80,10 @@
     "resources": "الموارد والإعدادات",
     "interviewPractice": "ممارسة المقابلة",
     "practiceTests": {
-      "title": "اختبارات التدريب",
-      "subtitle": "تحقق من المعرفة وحدد نقاط الضعف",
+      "title": "ممارسة",
+      "subtitle": "أوضاع ممارسة البطاقات التعليمية",
       "flashcardMode": "وضع البطاقات التعليمية",
-      "flashcardModeSubtitle": "احفظ جميع الأسئلة الـ100 بفعالية",
+      "flashcardModeSubtitle": "احفظ جميع الأسئلة الـ128 (2025) بفعالية",
       "practiceTest": "اختبار تدريب",
       "practiceTestSubtitle": "10 أسئلة عشوائية",
       "practiceTestVoice": "اختبار تدريب (بالصوت)",

@@ -126,17 +126,17 @@
       "title": "Learn",
       "subtitle": "Build your knowledge foundation",
       "allQuestions": "All Questions",
-      "allQuestionsSubtitle": "View all 100 questions",
+      "allQuestionsSubtitle": "View all 128 questions (2025)",
       "storyMode": "Story Mode",
       "storyModeSubtitle": "American Adventure Story ★",
       "audioLearning": "Driving(Audio) Learning",
       "audioLearningSubtitle": "Learn while driving"
     },
     "practiceTests": {
-      "title": "Practice Tests",
-      "subtitle": "Check knowledge & identify weaknesses",
+      "title": "Practice",
+      "subtitle": "Flashcard practice modes",
       "flashcardMode": "Flashcard Mode",
-      "flashcardModeSubtitle": "Effectively memorize all 100 questions",
+      "flashcardModeSubtitle": "Effectively memorize all 128 questions (2025)",
       "practiceTest": "Practice Test",
       "practiceTestSubtitle": "Random 10 questions",
       "practiceTestVoice": "Practice Test (with voice)",
@@ -146,6 +146,10 @@
       "customTest": "Custom Test",
       "customTestSubtitle": "Choose topics & question count"
     },
+    "test": {
+      "title": "Test",
+      "subtitle": "Check your knowledge with tests"
+    },
     "aiMockInterview": {
       "title": "AI Mock Interview",
       "subtitle": "Practice speaking skills",
@@ -153,8 +157,8 @@
       "aiInterviewSubtitle": "Voice recognition-based AI interview practice",
       "standardInterview": "Standard Interview",
       "standardInterviewSubtitle": "AI-powered interview practice",
-      "deepDiveInterview": "Deep Dive Interview",
-      "deepDiveInterviewSubtitle": "AI follow-up questions",
+      "deepDiveInterview": "Learning Analytics",
+      "deepDiveInterviewSubtitle": "Progress analysis & study recommendations",
       "n400Practice": "N-400 Practice",
       "n400PracticeSubtitle": "Oath & personal questions"
     },
@@ -265,16 +269,16 @@
       "title": "Quiz Mode",
       "subtitle": "Practice with multiple choice questions",
       "sequential": "Sequential Flashcards",
-      "sequentialSubtitle": "Study all 100 questions in order with bilingual support",
+      "sequentialSubtitle": "Study all 128 questions (2025) in order with bilingual support",
       "random": "Random Flashcards",
       "randomSubtitle": "Study questions in random order for varied practice"
     },
     "subjectiveMode": {
-      "title": "Subjective Mode",
+      "title": "Flashcard Mode",
       "subtitle": "Study questions with hidden answers",
-      "sequential": "Sequential Subjective",
-      "sequentialSubtitle": "Study all 100 questions in order with hidden answers",
-      "random": "Random Subjective",
+      "sequential": "Sequential Flashcards",
+      "sequentialSubtitle": "Study all 128 questions (2025) in order with hidden answers",
+      "random": "Random Flashcards",
       "randomSubtitle": "Study questions in random order with hidden answers",
       "hideAnswer": "Hidden Answer Mode",
       "hideAnswerSubtitle": "Questions appear with answers hidden until you tap to reveal"

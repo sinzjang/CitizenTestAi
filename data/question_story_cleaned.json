@@ -1,0 +1,1595 @@
+{
+  "civicsStory": [
+    {
+      "chapterId": 1,
+      "translations": {
+        "ko": {
+          "title": "자유를 위한 청사진",
+          "introduction": "미국이라는 모험이 시작되기 전, 위대한 모험가들(건국의 아버지들)은 가장 중요한 '설계도'부터 그렸습니다. 이 설계도가 없었다면 지금의 미국은 존재하지 않았을 겁니다."
+        }
+      },
+      "sections": [
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "이 모험의 가장 중요한 규칙이자 땅의 최고법은 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "헌법(the Constitution)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 1). 이 헌법이라는 위대한 설계도는 세 가지 핵심적인 역할을 합니다. 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "정부를 세우고(sets up the government)"
+            },
+            {
+              "type": "normal",
+              "text": "정부의 역할을 규정하며(defines the government)"
+            },
+            {
+              "type": "answer",
+              "text": ", 가장 중요하게는 "
+            },
+            {
+              "type": "normal",
+              "text": "미국인의 기본권을 보호(protects basic rights of Americans)"
+            },
+            {
+              "type": "answer",
+              "text": "하는 것이죠 (Q. 2). 이 설계도의 첫 세 단어는 \""
+            },
+            {
+              "type": "normal",
+              "text": "우리 국민은(We the People)"
+            },
+            {
+              "type": "answer",
+              "text": "\"으로, 모든 힘이 국민으로부터 나온다는 것을 분명히 합니다 (Q. 3)."
+            },
+            {
+              "type": "normal",
+              "text": "\"으로, 모든 힘이 국민으로부터 나온다는 것을 분명히 합니다 (Q. 3)."
+            }
+          ],
+          "linkedQuestions": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "설계도는 완벽할 수 없기에, 시대가 변함에 따라 업데이트가 필요합니다. 이렇게 헌법을 변경하거나 내용을 추가하는 것을 "
+            },
+            {
+              "type": "answer",
+              "text": "수정헌법(an amendment)"
+            },
+            {
+              "type": "normal",
+              "text": "이라고 부릅니다 (Q. 4). 지금까지 미국 헌법은 총 "
+            },
+            {
+              "type": "answer",
+              "text": "27번"
+            },
+            {
+              "type": "normal",
+              "text": " 업데이트되었습니다 (Q. 7). 그중에서도 가장 먼저, \"이것만은 절대 지키자!\"고 약속한 첫 10개의 업데이트 목록이 있는데, 우리는 이것을 "
+            },
+            {
+              "type": "answer",
+              "text": "권리장전(the Bill of Rights)"
+            },
+            {
+              "type": "normal",
+              "text": "이라고 부릅니다 (Q. 5). 이 권리장전의 첫 번째 약속(1차 수정안) 안에는 아주 중요한 자유들이 담겨 있습니다. 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "언론(speech)"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "종교(religion)"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "집회(assembly)"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "출판(press)"
+            },
+            {
+              "type": "normal",
+              "text": ", 그리고 "
+            },
+            {
+              "type": "answer",
+              "text": "정부에 대한 청원(petition the government)"
+            },
+            {
+              "type": "normal",
+              "text": "의 자유가 있습니다 (Q. 6)."
+            }
+          ],
+          "linkedQuestions": [
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "헌법이 만들어지기 전, 미국인들은 영국 왕에게 \"우리는 더 이상 당신의 규칙을 따르지 않겠습니다!\"라는 편지를 보냈습니다. 이것이 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "독립선언서(the Declaration of Independence)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다. 이 선언서는 "
+            },
+            {
+              "type": "answer",
+              "text": "영국으로부터의 독립을 공식적으로 알렸고(announced our independence)"
+            },
+            {
+              "type": "normal",
+              "text": ", 미국이 자유로운 국가임을 선포했습니다 (Q. 8). 이 선언서에는 모든 인간이 태어날 때부터 갖는 세 가지 핵심 권리가 명시되어 있는데, 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "생명(life)"
+            },
+            {
+              "type": "normal",
+              "text": "자유(liberty)"
+            },
+            {
+              "type": "answer",
+              "text": ", "
+            },
+            {
+              "type": "normal",
+              "text": "그리고 행복 추구(pursuit of happiness)"
+            },
+            {
+              "type": "answer",
+              "text": "입니다 (Q. 9)."
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 9)."
+            }
+          ],
+          "linkedQuestions": [
+            8,
+            9
+          ]
+        },
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "이 모든 원칙이 제대로 작동하려면, 누구에게나 공평한 규칙이 적용되어야 합니다. 이것을 법치주의(rule of law)라고 부르며, 그 의미는 대통령이든, 평범한 시민이든 "
+            },
+            {
+              "type": "answer",
+              "text": "누구도 법 위에 있지 않고(no one is above the law)"
+            },
+            {
+              "type": "normal",
+              "text": "모든 사람이 법을 따라야 한다(everyone must follow the law)"
+            },
+            {
+              "type": "answer",
+              "text": "는 것입니다 (Q. 12). 이러한 자유로운 환경 속에서 미국은 개인의 재산과 노력을 존중하는 "
+            },
+            {
+              "type": "normal",
+              "text": "자본주의 또는 시장 경제(capitalist or market economy)"
+            },
+            {
+              "type": "answer",
+              "text": " 체제를 채택하게 되었습니다 (Q. 11). 마지막으로, 미국인들이 가장 소중하게 생각하는 권리 중 하나인 "
+            },
+            {
+              "type": "normal",
+              "text": "종교의 자유(freedom of religion)"
+            },
+            {
+              "type": "answer",
+              "text": "는, 당신이 "
+            },
+            {
+              "type": "normal",
+              "text": "어떤 종교를 믿든"
+            },
+            {
+              "type": "answer",
+              "text": "혹은 믿지 않든"
+            },
+            {
+              "type": "normal",
+              "text": " 국가가 간섭하지 않는다는 것을 의미합니다 (Q. 10)."
+            },
+            {
+              "type": "answer",
+              "text": " 국가가 간섭하지 않는다는 것을 의미합니다 (Q. 10)."
+            },
+            {
+              "type": "normal",
+              "text": " 국가가 간섭하지 않는다는 것을 의미합니다 (Q. 10)."
+            }
+          ],
+          "linkedQuestions": [
+            10,
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 2,
+      "translations": {
+        "ko": {
+          "title": "미국 주식회사 운영법",
+          "introduction": "나라를 하나의 큰 회사라고 상상해 봅시다. 이 회사가 독단적으로 운영되지 않도록, 창업자들은 권력을 세 명의 '매니저'에게 나누어 주었습니다."
+        }
+      },
+      "sections": [
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "미국 정부라는 회사는 크게 세 "
+            },
+            {
+              "type": "answer",
+              "text": "부서(branches)"
+            },
+            {
+              "type": "normal",
+              "text": "로 나뉩니다. 바로 법을 만드는 "
+            },
+            {
+              "type": "answer",
+              "text": "입법부(legislative)"
+            },
+            {
+              "type": "normal",
+              "text": ", 법을 집행하는 "
+            },
+            {
+              "type": "answer",
+              "text": "행정부(executive)"
+            },
+            {
+              "type": "normal",
+              "text": ", 그리고 법을 해석하는 "
+            },
+            {
+              "type": "answer",
+              "text": "사법부(judicial)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 13). 어느 한 매니저가 너무 강력해지는 것을 막기 위해, 서로를 감시하고 힘의 균형을 맞추는 시스템을 만들었는데, 이것이 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "견제와 균형(checks and balances)"
+            },
+            {
+              "type": "normal",
+              "text": "과 "
+            },
+            {
+              "type": "answer",
+              "text": "권력 분립(separation of powers)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 14)."
+            }
+          ],
+          "linkedQuestions": [
+            13,
+            14
+          ]
+        },
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": ""
+            },
+            {
+              "type": "answer",
+              "text": "연방법(federal laws)"
+            },
+            {
+              "type": "normal",
+              "text": "을 만드는 책임은 "
+            },
+            {
+              "type": "answer",
+              "text": "의회(Congress)"
+            },
+            {
+              "type": "normal",
+              "text": "에 있습니다 (Q. 16). 의회는 두 개의 작은 팀, 즉 "
+            },
+            {
+              "type": "answer",
+              "text": "상원(Senate)"
+            },
+            {
+              "type": "normal",
+              "text": "과 "
+            },
+            {
+              "type": "answer",
+              "text": "하원(House of Representatives)"
+            },
+            {
+              "type": "normal",
+              "text": "으로 구성됩니다 (Q. 17). 상원에는 각 주마다 2명씩, 총 "
+            },
+            {
+              "type": "answer",
+              "text": "100명(one hundred)"
+            },
+            {
+              "type": "normal",
+              "text": "의 상원의원이 있으며 (Q. 18), 임기는 "
+            },
+            {
+              "type": "answer",
+              "text": "6년(six years)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 19). 상원의원은 주 전체의 "
+            },
+            {
+              "type": "answer",
+              "text": "모든 사람들을 대표합니다(all people of the state)"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 24). (*당신이 사는 주의 상원의원 이름*을 알아두어야 합니다 (Q. 20)). 하원에는 총 "
+            },
+            {
+              "type": "answer",
+              "text": "435명(four hundred thirty-five)"
+            },
+            {
+              "type": "normal",
+              "text": "의 의원이 있으며 (Q. 21), 임기는 "
+            },
+            {
+              "type": "answer",
+              "text": "2년(two years)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 22). 하원의원 수가 주마다 다른 이유는 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "주의 인구(state's population)"
+            },
+            {
+              "type": "normal",
+              "text": " 때문입니다. 인구가 많은 주가 더 많은 대표를 갖게 되죠 (Q. 25). (*당신이 사는 지역의 하원의원 이름*을 알아두어야 합니다 (Q. 23))."
+            }
+          ],
+          "linkedQuestions": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "행정부 전체를 책임지는 최고 경영자는 바로 "
+            },
+            {
+              "type": "answer",
+              "text": "대통령(the President)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 15). 대통령의 임기는 "
+            },
+            {
+              "type": "answer",
+              "text": "4년(four years)"
+            },
+            {
+              "type": "normal",
+              "text": "이며 (Q. 26), 우리는 "
+            },
+            {
+              "type": "answer",
+              "text": "11월(November)"
+            },
+            {
+              "type": "normal",
+              "text": "에 대통령을 선출합니다 (Q. 27). (*현재 대통령("
+            },
+            {
+              "type": "answer",
+              "text": "Donald J. Trump"
+            },
+            {
+              "type": "normal",
+              "text": ")과 부통령("
+            },
+            {
+              "type": "answer",
+              "text": "JD Vance"
+            },
+            {
+              "type": "normal",
+              "text": ")의 이름을 알아두어야 합니다* (Q. 28, 29)). 대통령은 군대의 "
+            },
+            {
+              "type": "answer",
+              "text": "총사령관(Commander in Chief)"
+            },
+            {
+              "type": "normal",
+              "text": "이며 (Q. 32), 의회에서 만든 법안에 "
+            },
+            {
+              "type": "answer",
+              "text": "서명하여 법으로 만들거나(signs bills)"
+            },
+            {
+              "type": "normal",
+              "text": ", 마음에 들지 않으면 "
+            },
+            {
+              "type": "answer",
+              "text": "거부권(vetoes bills)"
+            },
+            {
+              "type": "normal",
+              "text": "을 행사할 수 있습니다 (Q. 33, 34). 대통령을 돕기 위해 각 분야의 전문가들로 구성된 "
+            },
+            {
+              "type": "answer",
+              "text": "내각(Cabinet)"
+            },
+            {
+              "type": "normal",
+              "text": "이 있으며, 이들의 주된 역할은 "
+            },
+            {
+              "type": "answer",
+              "text": "대통령에게 조언(advises the President)"
+            },
+            {
+              "type": "normal",
+              "text": "하는 것입니다 (Q. 35). 내각의 주요 직책으로는 "
+            },
+            {
+              "type": "answer",
+              "text": "국무부 장관(Secretary of State)"
+            },
+            {
+              "type": "normal",
+              "text": "국방부 장관(Secretary of Defense)"
+            },
+            {
+              "type": "answer",
+              "text": " 등이 있습니다 (Q. 36). 만약 대통령이 직무를 수행할 수 없게 되면 "
+            },
+            {
+              "type": "normal",
+              "text": "부통령(the Vice President)"
+            },
+            {
+              "type": "answer",
+              "text": "이 그 자리를 계승하며 (Q. 30), 대통령과 부통령이 모두 공석이 될 경우에는 "
+            },
+            {
+              "type": "normal",
+              "text": "하원의장(the Speaker of the House)"
+            },
+            {
+              "type": "answer",
+              "text": "이 대통령이 됩니다 (Q. 31). (*현재 하원의장("
+            },
+            {
+              "type": "normal",
+              "text": "Mike Johnson"
+            },
+            {
+              "type": "answer",
+              "text": ")과 대통령의 정당("
+            },
+            {
+              "type": "normal",
+              "text": "Republican Party"
+            },
+            {
+              "type": "answer",
+              "text": ")*을 알아두어야 합니다 (Q. 47, 46))."
+            },
+            {
+              "type": "normal",
+              "text": ")*을 알아두어야 합니다 (Q. 47, 46))."
+            }
+          ],
+          "linkedQuestions": [
+            15,
+            26,
+            27,
+            28,
+            30,
+            31,
+            32,
+            33,
+            35,
+            36,
+            47
+          ]
+        },
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "사법부의 주된 역할은 "
+            },
+            {
+              "type": "answer",
+              "text": "법을 검토하고(reviews laws)"
+            },
+            {
+              "type": "normal",
+              "text": "법을 설명하며(explains laws)"
+            },
+            {
+              "type": "answer",
+              "text": ", 법이 "
+            },
+            {
+              "type": "normal",
+              "text": "헌법에 위배되는지 결정(decides if a law goes against the Constitution)"
+            },
+            {
+              "type": "answer",
+              "text": "하는 것입니다 (Q. 37). 미국에서 가장 높은 법원은 "
+            },
+            {
+              "type": "normal",
+              "text": "연방 대법원(the Supreme Court)"
+            },
+            {
+              "type": "answer",
+              "text": "이며 (Q. 38), 이곳에는 총 "
+            },
+            {
+              "type": "normal",
+              "text": "9명(nine)"
+            },
+            {
+              "type": "answer",
+              "text": "의 대법관이 있습니다 (Q. 39). (*현재 연방 대법원장("
+            },
+            {
+              "type": "normal",
+              "text": "John Roberts"
+            },
+            {
+              "type": "answer",
+              "text": ")의 이름*을 알아두어야 합니다 (Q. 40))."
+            },
+            {
+              "type": "normal",
+              "text": ")의 이름*을 알아두어야 합니다 (Q. 40))."
+            }
+          ],
+          "linkedQuestions": [
+            37,
+            38,
+            39,
+            40
+          ]
+        },
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "헌법은 어떤 일은 연방 정부가, 어떤 일은 주 정부가 하도록 권한을 나누었습니다. "
+            },
+            {
+              "type": "answer",
+              "text": "화폐 발행(print money)"
+            },
+            {
+              "type": "normal",
+              "text": "이나 "
+            },
+            {
+              "type": "answer",
+              "text": "전쟁 선포(declare war)"
+            },
+            {
+              "type": "normal",
+              "text": "는 오직 연방 정부만이 할 수 있는 권한입니다 (Q. 41). 반면, "
+            },
+            {
+              "type": "answer",
+              "text": "학교와 교육 제공(provide schooling and education)"
+            },
+            {
+              "type": "normal",
+              "text": "운전면허 발급(give a driver's license)"
+            },
+            {
+              "type": "answer",
+              "text": " 등은 각 주 정부의 권한에 속합니다 (Q. 42). 미국의 주요 정당인 "
+            },
+            {
+              "type": "normal",
+              "text": "민주당과 공화당(Democratic and Republican)"
+            },
+            {
+              "type": "answer",
+              "text": "은 이러한 권한을 어떻게 사용해야 하는지에 대해 종종 다른 견해를 보입니다 (Q. 45). (*당신이 사는 주의 "
+            },
+            {
+              "type": "normal",
+              "text": "주지사"
+            },
+            {
+              "type": "answer",
+              "text": " 이름과 "
+            },
+            {
+              "type": "normal",
+              "text": "주도"
+            },
+            {
+              "type": "answer",
+              "text": "를 알아두어야 합니다* (Q. 43, 44))."
+            },
+            {
+              "type": "normal",
+              "text": "를 알아두어야 합니다* (Q. 43, 44))."
+            }
+          ],
+          "linkedQuestions": [
+            41,
+            42,
+            43,
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 3,
+      "translations": {
+        "ko": {
+          "title": "시민 핸드북",
+          "introduction": "미국 시민이 된다는 것은 특별한 권리와 그에 따르는 책임을 의미합니다."
+        }
+      },
+      "sections": [
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "미국 헌법은 누가 투표할 수 있는지에 대해 여러 번의 업데이트를 거쳤습니다. 이제 18세 이상의 모든 시민(Citizens 18 and older)은 투표할 수 있으며, 성별이나 인종 때문에, 혹은 세금을 내지 않았다는 이유("
+            },
+            {
+              "type": "answer",
+              "text": "you don't have to pay a poll tax"
+            },
+            {
+              "type": "normal",
+              "text": ")로 투표권을 박탈당하지 않습니다 (Q. 48). "
+            },
+            {
+              "type": "answer",
+              "text": "미국 시민에게만"
+            },
+            {
+              "type": "normal",
+              "text": " 주어지는 특별한 권리와 책임이 있습니다. "
+            },
+            {
+              "type": "answer",
+              "text": "연방 선거에서 투표(vote in a federal election)"
+            },
+            {
+              "type": "normal",
+              "text": "하거나 "
+            },
+            {
+              "type": "answer",
+              "text": "연방 공직에 출마(run for federal office)"
+            },
+            {
+              "type": "normal",
+              "text": "할 권리는 오직 시민에게만 있습니다 (Q. 50). 또한 "
+            },
+            {
+              "type": "answer",
+              "text": "배심원으로 봉사(serve on a jury)"
+            },
+            {
+              "type": "normal",
+              "text": "하는 것은 시민의 중요한 책임 중 하나입니다 (Q. 49)."
+            }
+          ],
+          "linkedQuestions": [
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "물론 언론의 자유(freedom of speech)나 "
+            },
+            {
+              "type": "answer",
+              "text": "종교의 자유(freedom of religion)"
+            },
+            {
+              "type": "normal",
+              "text": "처럼, 미국 땅에 사는 "
+            },
+            {
+              "type": "answer",
+              "text": "모든 사람(everyone living in the United States)"
+            },
+            {
+              "type": "normal",
+              "text": "에게 주어지는 권리도 있습니다 (Q. 51). 우리가 "
+            },
+            {
+              "type": "answer",
+              "text": "국기에 대한 맹세(Pledge of Allegiance)"
+            },
+            {
+              "type": "normal",
+              "text": "를 할 때, 우리는 "
+            },
+            {
+              "type": "answer",
+              "text": "미국(the United States)과 그 국기(the flag)"
+            },
+            {
+              "type": "normal",
+              "text": "에 충성을 보입니다 (Q. 52). 시민이 될 때, 우리는 몇 가지 중요한 약속을 합니다. 그중 하나는 "
+            },
+            {
+              "type": "answer",
+              "text": "미국의 법을 준수(obey the laws of the United States)"
+            },
+            {
+              "type": "normal",
+              "text": "하겠다는 것입니다 (Q. 53). 민주주의에 참여하는 방법은 다양합니다. 가장 대표적인 것은 "
+            },
+            {
+              "type": "answer",
+              "text": "투표(vote)"
+            },
+            {
+              "type": "normal",
+              "text": "를 하거나, 지지하는 후보의 "
+            },
+            {
+              "type": "answer",
+              "text": "선거 운동을 돕는(help with a campaign)"
+            },
+            {
+              "type": "normal",
+              "text": " 것입니다 (Q. 55)."
+            }
+          ],
+          "linkedQuestions": [
+            51,
+            52,
+            53,
+            55
+          ]
+        },
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "시민의 의무도 있습니다. "
+            },
+            {
+              "type": "answer",
+              "text": "연방 소득세 신고(federal income tax forms)"
+            },
+            {
+              "type": "normal",
+              "text": "는 매년 "
+            },
+            {
+              "type": "answer",
+              "text": "4월 15일(April 15)"
+            },
+            {
+              "type": "normal",
+              "text": "까지 해야 하며 (Q. 56), 모든 남성은 "
+            },
+            {
+              "type": "answer",
+              "text": "18세에서 26세 사이(between 18 and 26)"
+            },
+            {
+              "type": "normal",
+              "text": "에 "
+            },
+            {
+              "type": "answer",
+              "text": "병역 등록(Selective Service)"
+            },
+            {
+              "type": "normal",
+              "text": "을 해야 합니다 (Q. 57)."
+            }
+          ],
+          "linkedQuestions": [
+            56,
+            57
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 4,
+      "translations": {
+        "ko": {
+          "title": "시간 여행",
+          "introduction": "미국의 역사는 자유를 향한 투쟁과 끊임없는 변화의 연속이었습니다."
+        }
+      },
+      "sections": [
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "유럽인들이 도착하기 전, 이 땅에는 미국 원주민(American Indians)들이 살고 있었습니다 (Q. 59). 이후 많은 식민지 개척자들(colonists)이 "
+            },
+            {
+              "type": "answer",
+              "text": "종교의 자유(religious freedom)"
+            },
+            {
+              "type": "normal",
+              "text": "와 "
+            },
+            {
+              "type": "answer",
+              "text": "경제적 기회(economic opportunity)"
+            },
+            {
+              "type": "normal",
+              "text": "를 찾아 미국으로 왔습니다 (Q. 58). 슬프게도, 수많은 "
+            },
+            {
+              "type": "answer",
+              "text": "아프리카인(Africans)"
+            },
+            {
+              "type": "normal",
+              "text": "들이 강제로 끌려와 "
+            },
+            {
+              "type": "answer",
+              "text": "노예(slaves)"
+            },
+            {
+              "type": "normal",
+              "text": "가 되었습니다 (Q. 60). "
+            },
+            {
+              "type": "answer",
+              "text": "13개의 최초 식민지(13 original states)"
+            },
+            {
+              "type": "normal",
+              "text": " 중에는 "
+            },
+            {
+              "type": "answer",
+              "text": "뉴욕(New York)"
+            },
+            {
+              "type": "normal",
+              "text": "버지니아(Virginia)"
+            },
+            {
+              "type": "answer",
+              "text": ", "
+            },
+            {
+              "type": "normal",
+              "text": "조지아(Georgia)"
+            },
+            {
+              "type": "answer",
+              "text": " 등이 있었습니다 (Q. 64). 이들은 "
+            },
+            {
+              "type": "normal",
+              "text": "부당한 세금(high taxes)"
+            },
+            {
+              "type": "answer",
+              "text": "과 "
+            },
+            {
+              "type": "normal",
+              "text": "자치권 부재(didn't have self-government)"
+            },
+            {
+              "type": "answer",
+              "text": " 때문에 영국에 맞서 싸우기로 결심했습니다 (Q. 61). "
+            },
+            {
+              "type": "normal",
+              "text": "1776년"
+            },
+            {
+              "type": "answer",
+              "text": "토머스 제퍼슨(Thomas Jefferson)"
+            },
+            {
+              "type": "normal",
+              "text": "이 작성한 독립선언서가 채택되었고 (Q. 62, 63), 전쟁 후 "
+            },
+            {
+              "type": "answer",
+              "text": "1787년"
+            },
+            {
+              "type": "normal",
+              "text": ", 제헌 회의(Constitutional Convention)에서 마침내 "
+            },
+            {
+              "type": "answer",
+              "text": "헌법이 작성되었습니다"
+            },
+            {
+              "type": "normal",
+              "text": "(The Constitution was written) (Q. 65, 66). 이 과정에서 "
+            },
+            {
+              "type": "answer",
+              "text": "제임스 매디슨(James Madison)"
+            },
+            {
+              "type": "normal",
+              "text": "알렉산더 해밀턴(Alexander Hamilton)"
+            },
+            {
+              "type": "answer",
+              "text": " 등은 연방주의자 논집(The Federalist Papers)을 통해 헌법의 필요성을 역설했습니다 (Q. 67). 이 시대의 위대한 인물로는 뛰어난 "
+            },
+            {
+              "type": "normal",
+              "text": "미국 외교관(U.S. diplomat)"
+            },
+            {
+              "type": "answer",
+              "text": "이었던 "
+            },
+            {
+              "type": "normal",
+              "text": "벤자민 프랭클린(Benjamin Franklin)"
+            },
+            {
+              "type": "answer",
+              "text": " (Q. 68)과, 군대를 이끌고 "
+            },
+            {
+              "type": "normal",
+              "text": "초대 대통령(the first President)"
+            },
+            {
+              "type": "answer",
+              "text": "이 되어 '미국의 아버지(Father of Our Country)'로 불리는 "
+            },
+            {
+              "type": "normal",
+              "text": "조지 워싱턴(George Washington)"
+            },
+            {
+              "type": "answer",
+              "text": "이 있습니다 (Q. 69, 70)."
+            },
+            {
+              "type": "normal",
+              "text": "이 있습니다 (Q. 69, 70)."
+            },
+            {
+              "type": "answer",
+              "text": "이 있습니다 (Q. 69, 70)."
+            },
+            {
+              "type": "normal",
+              "text": "이 있습니다 (Q. 69, 70)."
+            }
+          ],
+          "linkedQuestions": [
+            58,
+            59,
+            60,
+            61,
+            62,
+            64,
+            65,
+            67,
+            68,
+            69
+          ]
+        },
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "1800년대에 미국은 영토를 크게 확장했습니다. 1803년, 프랑스로부터 거대한 "
+            },
+            {
+              "type": "answer",
+              "text": "루이지애나 영토"
+            },
+            {
+              "type": "normal",
+              "text": "를 구입했고 (Q. 71), 여러 전쟁을 치렀는데, 그중에는 "
+            },
+            {
+              "type": "answer",
+              "text": "미국-멕시코 전쟁"
+            },
+            {
+              "type": "normal",
+              "text": "도 있었습니다 (Q. 72). 그러나 이 시기는 또한 "
+            },
+            {
+              "type": "answer",
+              "text": "남북전쟁"
+            },
+            {
+              "type": "normal",
+              "text": "이라는 큰 비극을 겪었습니다 (Q. 73). 전쟁의 주된 원인은 "
+            },
+            {
+              "type": "answer",
+              "text": "노예제"
+            },
+            {
+              "type": "normal",
+              "text": "였습니다 (Q. 74). 대통령 "
+            },
+            {
+              "type": "answer",
+              "text": "아브라함 링컨"
+            },
+            {
+              "type": "normal",
+              "text": "은 "
+            },
+            {
+              "type": "answer",
+              "text": "노예를 해방시키고"
+            },
+            {
+              "type": "normal",
+              "text": " "
+            },
+            {
+              "type": "answer",
+              "text": "연방을 구했습니다"
+            },
+            {
+              "type": "normal",
+              "text": " (Q. 75). 그의 "
+            },
+            {
+              "type": "answer",
+              "text": "노예해방선언"
+            },
+            {
+              "type": "normal",
+              "text": "은 남부 연합 주의 노예들을 해방했습니다 (Q. 76). 한편 "
+            },
+            {
+              "type": "answer",
+              "text": "수전 B. 앤터니"
+            },
+            {
+              "type": "normal",
+              "text": "는 "
+            },
+            {
+              "type": "answer",
+              "text": "여성의 권리"
+            },
+            {
+              "type": "normal",
+              "text": "를 위해 평생을 바쳤습니다 (Q. 77)."
+            }
+          ],
+          "linkedQuestions": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ]
+        },
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "1900년대에 미국은 많은 국제 분쟁에 참여했는데, 여기에는 "
+            },
+            {
+              "type": "answer",
+              "text": "제1차 세계 대전"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "제2차 세계 대전"
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "한국전쟁"
+            },
+            {
+              "type": "normal",
+              "text": "과 "
+            },
+            {
+              "type": "answer",
+              "text": "베트남전쟁"
+            },
+            {
+              "type": "normal",
+              "text": "이 포함됩니다 (Q. 78). 제1차 세계 대전 당시 대통령은 "
+            },
+            {
+              "type": "answer",
+              "text": "우드로 윌슨"
+            },
+            {
+              "type": "normal",
+              "text": "이었고 (Q. 79), 대공황과 제2차 세계 대전 기간에 나라를 이끈 대통령은 "
+            },
+            {
+              "type": "answer",
+              "text": "프랭클린 루스벨트"
+            },
+            {
+              "type": "normal",
+              "text": "였습니다 (Q. 80). 제2차 세계 대전에서 미국은 "
+            },
+            {
+              "type": "answer",
+              "text": "일본, 독일, 이탈리아"
+            },
+            {
+              "type": "normal",
+              "text": "와 싸웠습니다 (Q. 81). "
+            },
+            {
+              "type": "answer",
+              "text": "아이젠하워"
+            },
+            {
+              "type": "normal",
+              "text": " 장군은 제2차 세계 대전의 영웅으로, 이후 대통령이 되었습니다 (Q. 82). 전쟁 후 미국은 냉전에 들어갔고, 그 주요 관심사는 "
+            },
+            {
+              "type": "answer",
+              "text": "공산주의"
+            },
+            {
+              "type": "normal",
+              "text": "였습니다 (Q. 83). 국내에서는 "
+            },
+            {
+              "type": "answer",
+              "text": "민권운동"
+            },
+            {
+              "type": "normal",
+              "text": "이 "
+            },
+            {
+              "type": "answer",
+              "text": "마틴 루터 킹 주니어"
+            },
+            {
+              "type": "normal",
+              "text": "의 지도 아래 인종 차별을 끝내기 위해 싸웠습니다 (Q. 84, 85). 2001년 9월 11일에는 "
+            },
+            {
+              "type": "answer",
+              "text": "테러리스트들이 미국을 공격하는"
+            },
+            {
+              "type": "normal",
+              "text": " 비극적인 사건이 발생했습니다 (Q. 86). 이 땅의 원주민 부족에는 "
+            },
+            {
+              "type": "answer",
+              "text": "체로키"
+            },
+            {
+              "type": "normal",
+              "text": "와 "
+            },
+            {
+              "type": "answer",
+              "text": "나바호"
+            },
+            {
+              "type": "normal",
+              "text": "가 포함됩니다 (Q. 87)."
+            }
+          ],
+          "linkedQuestions": [
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            86,
+            87
+          ]
+        },
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "Q.115: 미국에서는 2001년 9월 11일에 어떤 큰 사건이 발생했는가? * "
+            },
+            {
+              "type": "answer",
+              "text": "테러범들이 미국을 공격함."
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "테러리스트들이 비행기 두 대를 탈취 해 뉴욕시의 세계 무역 센터에 추락시켰다."
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "테러리스트들이 비행기를 탈취 해 버지니아 주 알링턴에 위치한 펜타곤 (미 국방청)에 추락시켰다."
+            },
+            {
+              "type": "normal",
+              "text": ", "
+            },
+            {
+              "type": "answer",
+              "text": "테러리스트들이 비행기를 탈취 해 원래 워싱턴 D.C.에 추락 하도록 겨냥 했으나 펜실베니아의 틀판에 추락 했다."
+            },
+            {
+              "type": "normal",
+              "text": "."
+            }
+          ],
+          "linkedQuestions": [
+            115
+          ]
+        }
+      ]
+    },
+    {
+      "chapterId": 5,
+      "translations": {
+        "ko": {
+          "title": "땅, 상징, 그리고 약속",
+          "introduction": "미국을 하나로 묶는 것은 법과 역사뿐만이 아닙니다. 함께 공유하는 땅과 상징, 그리고 기념일도 중요합니다."
+        }
+      },
+      "sections": [
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "미국 대륙을 가로지르는 가장 긴 두 강은 "
+            },
+            {
+              "type": "answer",
+              "text": "미주리 강(Missouri River)"
+            },
+            {
+              "type": "normal",
+              "text": "과 "
+            },
+            {
+              "type": "answer",
+              "text": "미시시피 강(Mississippi River)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 88). 미국 서쪽에는 "
+            },
+            {
+              "type": "answer",
+              "text": "태평양(Pacific Ocean)"
+            },
+            {
+              "type": "normal",
+              "text": "이 (Q. 89), 동쪽에는 "
+            },
+            {
+              "type": "answer",
+              "text": "대서양(Atlantic Ocean)"
+            },
+            {
+              "type": "normal",
+              "text": "이 펼쳐져 있습니다 (Q. 90). 미국의 국기는 그 자체로 역사를 말해줍니다. "
+            },
+            {
+              "type": "answer",
+              "text": "13개의 줄무늬(13 stripes)"
+            },
+            {
+              "type": "normal",
+              "text": "는 "
+            },
+            {
+              "type": "answer",
+              "text": "최초의 13개 식민지(13 original colonies)"
+            },
+            {
+              "type": "normal",
+              "text": "를 상징하고 (Q. 96), "
+            },
+            {
+              "type": "answer",
+              "text": "50개의 별(50 stars)"
+            },
+            {
+              "type": "normal",
+              "text": "은 현재의 "
+            },
+            {
+              "type": "answer",
+              "text": "50개 주(50 states)"
+            },
+            {
+              "type": "normal",
+              "text": "를 의미합니다 (Q. 97). 미국의 국가(national anthem) 제목은 "
+            },
+            {
+              "type": "answer",
+              "text": "성조기(The Star-Spangled Banner)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 98)."
+            }
+          ],
+          "linkedQuestions": [
+            88,
+            89,
+            90,
+            96,
+            97,
+            98
+          ]
+        },
+        {
+          "content_ko": [
+            {
+              "type": "normal",
+              "text": "자유의 여신상(Statue of Liberty), "
+            },
+            {
+              "type": "answer",
+              "text": "뉴욕 항구(New York Harbor)"
+            },
+            {
+              "type": "normal",
+              "text": "에 서 있는 은 전 세계 이민자들을 환영하는 상징입니다 (Q. 95). 미국의 수도는 "
+            },
+            {
+              "type": "answer",
+              "text": "워싱턴 D.C.(Washington, D.C.)"
+            },
+            {
+              "type": "normal",
+              "text": "입니다 (Q. 94). 미국은 50개의 주 외에도 "
+            },
+            {
+              "type": "answer",
+              "text": "푸에르토리코(Puerto Rico)"
+            },
+            {
+              "type": "normal",
+              "text": "괌(Guam)"
+            },
+            {
+              "type": "answer",
+              "text": "과 같은 해외 "
+            },
+            {
+              "type": "normal",
+              "text": "영토(U.S. territory)"
+            },
+            {
+              "type": "answer",
+              "text": "를 가지고 있습니다 (Q. 91). 지리적으로 북쪽으로는 "
+            },
+            {
+              "type": "normal",
+              "text": "캐나다(Canada)"
+            },
+            {
+              "type": "answer",
+              "text": "와 국경을 맞대고 있으며 (관련 주: "
+            },
+            {
+              "type": "normal",
+              "text": "뉴욕"
+            },
+            {
+              "type": "answer",
+              "text": "워싱턴"
+            },
+            {
+              "type": "normal",
+              "text": " 등) (Q. 92), 남쪽으로는 "
+            },
+            {
+              "type": "answer",
+              "text": "멕시코(Mexico)"
+            },
+            {
+              "type": "normal",
+              "text": "와 국경을 접하고 있습니다 (관련 주: "
+            },
+            {
+              "type": "answer",
+              "text": "캘리포니아"
+            },
+            {
+              "type": "normal",
+              "text": "텍사스"
+            },
+            {
+              "type": "answer",
+              "text": " 등) (Q. 93). 미국인들은 매년 "
+            },
+            {
+              "type": "normal",
+              "text": "7월 4일(July 4)"
+            },
+            {
+              "type": "answer",
+              "text": "에 "
+            },
+            {
+              "type": "normal",
+              "text": "독립기념일(Independence Day)"
+            },
+            {
+              "type": "answer",
+              "text": "을 기념하며 (Q. 99), "
+            },
+            {
+              "type": "normal",
+              "text": "추수감사절(Thanksgiving)"
+            },
+            {
+              "type": "answer",
+              "text": "과 "
+            },
+            {
+              "type": "normal",
+              "text": "크리스마스(Christmas)"
+            },
+            {
+              "type": "answer",
+              "text": " 등 여러 국경일을 함께 축하합니다 (Q. 100)."
+            },
+            {
+              "type": "normal",
+              "text": " 등 여러 국경일을 함께 축하합니다 (Q. 100)."
+            },
+            {
+              "type": "answer",
+              "text": " 등 여러 국경일을 함께 축하합니다 (Q. 100)."
+            },
+            {
+              "type": "normal",
+              "text": " 등 여러 국경일을 함께 축하합니다 (Q. 100)."
+            },
+            {
+              "type": "answer",
+              "text": " 등 여러 국경일을 함께 축하합니다 (Q. 100)."
+            },
+            {
+              "type": "normal",
+              "text": " 등 여러 국경일을 함께 축하합니다 (Q. 100)."
+            }
+          ],
+          "linkedQuestions": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            99,
+            100
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -132,8 +132,8 @@ const AllQuestionsScreen = ({ navigation }) => {
       }
     }
 
-    // 주지사 관련 질문 (ID: 43)
-    if (question.id === 43 && isCorrect) {
+    // 주지사 관련 질문 (ID: 61) - 128문제 기준
+    if (question.id === 61 && isCorrect) {
       const governor = LocationManager.getStateGovernor(state);
       if (governor && governor !== 'Answers will vary') {
         return {
@@ -143,8 +143,8 @@ const AllQuestionsScreen = ({ navigation }) => {
       }
     }
 
-    // 주도 관련 질문 (ID: 44)
-    if (question.id === 44 && isCorrect) {
+    // 주도 관련 질문 (ID: 62) - 128문제 기준
+    if (question.id === 62 && isCorrect) {
       const capital = LocationManager.getStateCapital(state);
       if (capital && capital !== 'Answers will vary') {
         return {

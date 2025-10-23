@@ -1,4 +1,9 @@
 {
+  "federal": {
+    "president": "Donald J. Trump",
+    "vicePresident": "JD Vance",
+    "speakerOfHouse": "Mike Johnson"
+  },
   "states": {
     "AL": {
       "name": "Alabama",

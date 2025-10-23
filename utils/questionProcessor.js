@@ -1,12 +1,15 @@
 import LocationManager from './locationManager';
 import { getCurrentLanguage, t } from './i18n';
 
-// 지역별로 답이 다른 문제들의 ID 목록
+// 지역별로 답이 다른 문제들의 ID 목록 (128문제 기준)
 const LOCATION_DEPENDENT_QUESTIONS = {
-  20: 'senator',        // "Who is one of your state's U.S. Senators now?"
-  23: 'representative', // "Name your U.S. Representative."
-  43: 'governor',       // "Who is the Governor of your state now?"
-  44: 'state_capital'   // "What is the capital of your state?"
+  23: 'senator',        // "Who is one of your state's U.S. senators now?"
+  29: 'representative', // "Name your U.S. representative."
+  30: 'speaker',        // "What is the name of the Speaker of the House of Representatives now?"
+  38: 'president',      // "What is the name of the President of the United States now?"
+  39: 'vice_president', // "What is the name of the Vice President of the United States now?"
+  61: 'governor',       // "Who is the governor of your state now?"
+  62: 'state_capital'   // "What is the capital of your state?"
 };
 
 class QuestionProcessor {
@@ -14,33 +17,14 @@ class QuestionProcessor {
   static async processQuestion(question) {
     const questionId = question.id;
     
-    // 23번 문제 디버깅
-    if (questionId === 23) {
-      console.log('🔍 23번 문제 처리 시작');
-      console.log('질문:', question.question);
-    }
-    
     // 지역별 답이 필요한 문제인지 확인
     if (LOCATION_DEPENDENT_QUESTIONS[questionId]) {
       const questionType = LOCATION_DEPENDENT_QUESTIONS[questionId];
-      
-      if (questionId === 23) {
-        console.log('✅ 23번 문제가 위치 의존 문제로 인식됨');
-        console.log('문제 타입:', questionType);
-      }
-      
       const userAnswer = await LocationManager.getLocationBasedAnswer(questionType);
-      
-      if (questionId === 23) {
-        console.log('사용자 답변:', userAnswer);
-      }
       
       // 사용자가 설정한 답이 있으면 정답을 업데이트
       if (userAnswer && userAnswer !== 'Answers will vary') {
         const processedQuestion = { ...question };
-        
-        // 현재 언어에 맞는 답 생성
-        const currentLanguage = getCurrentLanguage();
         
         // 정답 업데이트 (새로운 파일 구조에 맞게)
         processedQuestion.correctAnswers = [
@@ -50,18 +34,8 @@ class QuestionProcessor {
           }
         ];
         
-        if (questionId === 23) {
-          console.log('🎉 23번 문제 답변 업데이트 완료');
-          console.log('새로운 답변:', userAnswer);
-        }
-        
         return processedQuestion;
-      } else if (questionId === 23) {
-        console.log('❌ 23번 문제: 사용자 답변이 없거나 기본값임');
       }
-    } else if (questionId === 23) {
-      console.log('❌ 23번 문제가 위치 의존 문제로 인식되지 않음');
-      console.log('LOCATION_DEPENDENT_QUESTIONS:', LOCATION_DEPENDENT_QUESTIONS);
     }
     
     return question;

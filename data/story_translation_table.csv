@@ -1,0 +1,774 @@
+﻿ID,ChapterID,Type,Korean,English,Context
+1,1,title,자유를 위한 청사진: 헌법의 탄생,Blueprint for Freedom: The Birth of the Constitution,Chapter 1 Title
+2,1,introduction,"미국이라는 나라가 시작되기 전, 위대한 건국의 아버지들은 가장 중요한 '설계도'를 그렸습니다. 이 헌법이 없었다면 지금의 미국은 존재하지 않았을 것입니다.","Before the United States became a nation, the great Founding Fathers drew up the most important 'blueprint.' Without this Constitution, today's America would not exist.",Chapter 1 Introduction
+3,1,normal,"옛날 옛적에, 자유와 정의를 꿈꾸던 사람들이 있었습니다. 그들은 새로운 나라를 세우며 이렇게 선언했죠. ""우리는 ",,Ch1 Sec1 Item1
+4,1,answer,공화국,,Ch1 Sec1 Item2
+5,1,normal,"으로서, ",,Ch1 Sec1 Item3
+6,1,answer,헌법 기반 연방 공화국,,Ch1 Sec1 Item4
+7,1,normal,"의 원칙 아래 살며, 국민이 대표를 통해 스스로 다스리는 ",,Ch1 Sec1 Item5
+8,1,answer,대의민주주의,,Ch1 Sec1 Item6
+9,1,normal," 국가를 만들 것이다!"" (Q.1). 이들의 약속을 지탱하는 최고의 법은 바로 ",,Ch1 Sec1 Item7
+10,1,answer,헌법,,Ch1 Sec1 Item8
+11,1,normal,이었습니다 (Q.2). 이 ,,Ch1 Sec1 Item9
+12,1,answer,헌법,,Ch1 Sec1 Item10
+13,1,normal,"은 단지 글자가 아니라, 나라의 뼈대이자 약속이었죠. 그 안에는 ",,Ch1 Sec1 Item11
+14,1,answer,정부를 구성,,Ch1 Sec1 Item12
+15,1,normal,"하고, ",,Ch1 Sec1 Item13
+16,1,answer,정부의 권한을 정의,,Ch1 Sec1 Item14
+17,1,normal,"하며, ",,Ch1 Sec1 Item15
+18,1,answer,정부의 부서들을 정의,,Ch1 Sec1 Item16
+19,1,normal,"하고, 무엇보다 ",,Ch1 Sec1 Item17
+20,1,answer,국민의 권리를 보호,,Ch1 Sec1 Item18
+21,1,normal,"한다는 내용이 담겨 있었습니다 (Q.3). 그리고 헌법의 첫 문장은 이렇게 시작했죠. ""헌법은 ""우리 국민(We the People)""으로 시작됩니다."" 여기서 ""우리 국민""이란 말은 ",,Ch1 Sec1 Item19
+22,1,answer,자치,,Ch1 Sec1 Item20
+23,1,normal,", ",,Ch1 Sec1 Item21
+24,1,answer,대중의 주권,,Ch1 Sec1 Item22
+25,1,normal,", ",,Ch1 Sec1 Item23
+26,1,answer,통치되는 이들의 동의,,Ch1 Sec1 Item24
+27,1,normal,", ",,Ch1 Sec1 Item25
+28,1,answer,국민들은 스스로 통치해야함,,Ch1 Sec1 Item26
+29,1,normal,", 그리고 ",,Ch1 Sec1 Item27
+30,1,answer,사회 계약,,Ch1 Sec1 Item28
+31,1,normal,을 상징합니다 (Q.4). 하지만 헌법은 한 번 쓰고 끝나는 문서가 아니었습니다. 시대에 맞게 고치고 추가할 수 있도록 ,,Ch1 Sec1 Item29
+32,1,answer,헌법 수정 절차,,Ch1 Sec1 Item30
+33,1,normal,를 통해 ,,Ch1 Sec1 Item31
+34,1,answer,미 헌법 수정 조항,,Ch1 Sec1 Item32
+35,1,normal,이 만들어졌습니다 (Q.5). 그중 가장 유명한 수정안들은 바로 ,,Ch1 Sec1 Item33
+36,1,answer,권리 장전,,Ch1 Sec1 Item34
+37,1,normal,(Bill of Rights)입니다. 이 조항들은 ,,Ch1 Sec1 Item35
+38,1,answer,미국인들의 기본적인 권리,,Ch1 Sec1 Item36
+39,1,normal,와 ,,Ch1 Sec1 Item37
+40,1,answer,미국에 거주하는 사람들의 기본적인 권리,,Ch1 Sec1 Item38
+41,1,normal,를 보호합니다 (Q.6). 지금까지 총 ,,Ch1 Sec1 Item39
+42,1,answer,27,,Ch1 Sec1 Item40
+43,1,normal,개의 수정안이 헌법에 추가되었습니다 (Q.7). 그러나 모든 것은 한 문서에서 시작되었습니다. 바로 ,,Ch1 Sec1 Item41
+44,1,answer,독립 선언문,,Ch1 Sec1 Item42
+45,1,normal,이죠. 그 문서는 미국이 ,,Ch1 Sec1 Item43
+46,1,answer,영국의 통제에서 자유롭다고 선언,,Ch1 Sec1 Item44
+47,1,normal,"하고, 모든 인간이 ",,Ch1 Sec1 Item45
+48,1,answer,평등하게 창조되었다,,Ch1 Sec1 Item46
+49,1,normal,"고 말하며, 인간의 ",,Ch1 Sec1 Item47
+50,1,answer,생득권,,Ch1 Sec1 Item48
+51,1,normal,과 ,,Ch1 Sec1 Item49
+52,1,answer,개인의 자유,,Ch1 Sec1 Item50
+53,1,normal,"를 정의했습니다 (Q.8, Q.9). 그 문서와 헌법은 함께 ",,Ch1 Sec1 Item51
+54,1,answer,평등,,Ch1 Sec1 Item52
+55,1,normal,", ",,Ch1 Sec1 Item53
+56,1,answer,자유,,Ch1 Sec1 Item54
+57,1,normal,", ",,Ch1 Sec1 Item55
+58,1,answer,사회 계약,,Ch1 Sec1 Item56
+59,1,normal,", ",,Ch1 Sec1 Item57
+60,1,answer,생존권,,Ch1 Sec1 Item58
+61,1,normal,", ",,Ch1 Sec1 Item59
+62,1,answer,제한된 정부,,Ch1 Sec1 Item60
+63,1,normal,", 그리고 ",,Ch1 Sec1 Item61
+64,1,answer,자치,,Ch1 Sec1 Item62
+65,1,normal,"라는 핵심 가치를 전했습니다 (Q.10). 그리고 사람들의 가슴에 깊이 남은 말, 바로 ""생명, 자유, 그리고 행복의 추구""는 ",,Ch1 Sec1 Item63
+66,1,answer,독립 선언문,,Ch1 Sec1 Item64
+67,1,normal,에서 나왔습니다 (Q.11). 이러한 사상 위에 세워진 미국의 경제는 ,,Ch1 Sec1 Item65
+68,1,answer,자본주의,,Ch1 Sec1 Item66
+69,1,normal,와 ,,Ch1 Sec1 Item67
+70,1,answer,자유 시장 경제,,Ch1 Sec1 Item68
+71,1,normal,의 원칙을 따릅니다 (Q.12). 그러나 자유로운 나라에도 질서가 필요했죠. 그래서 생겨난 개념이 바로 ,,Ch1 Sec1 Item69
+72,1,answer,법치주의,,Ch1 Sec1 Item70
+73,1,normal,"입니다. 즉, ",,Ch1 Sec1 Item71
+74,1,answer,모든 사람은 법을 따라야 하고,,Ch1 Sec1 Item72
+75,1,normal,", ",,Ch1 Sec1 Item73
+76,1,answer,지도자들은 법을 준수해야 하며,,Ch1 Sec1 Item74
+77,1,normal,", ",,Ch1 Sec1 Item75
+78,1,answer,정부는 법을 준수해야 하고,,Ch1 Sec1 Item76
+79,1,normal,", ",,Ch1 Sec1 Item77
+80,1,answer,누구도 법 위에 있지 않다,,Ch1 Sec1 Item78
+81,1,normal,는 원칙을 세웠습니다 (Q.13). 이 헌법을 만드는 과정에서는 ,,Ch1 Sec1 Item79
+82,1,answer,독립 선언문,,Ch1 Sec1 Item80
+83,1,normal,", ",,Ch1 Sec1 Item81
+84,1,answer,연맹 조항,,Ch1 Sec1 Item82
+85,1,normal,", ",,Ch1 Sec1 Item83
+86,1,answer,연방 주의자 논집,,Ch1 Sec1 Item84
+87,1,normal,", ",,Ch1 Sec1 Item85
+88,1,answer,버지니아의 권리 선언문,,Ch1 Sec1 Item86
+89,1,normal,", ",,Ch1 Sec1 Item87
+90,1,answer,코네티컷의 근본적 지시,,Ch1 Sec1 Item88
+91,1,normal,", ",,Ch1 Sec1 Item89
+92,1,answer,메이플라워호 협약,,Ch1 Sec1 Item90
+93,1,normal,", 그리고 ",,Ch1 Sec1 Item91
+94,1,answer,이로쿼이 연맹 위대한 평화 법,,Ch1 Sec1 Item92
+95,1,normal,"이 큰 영향을 주었습니다 (Q.14). 그리고 마지막으로, 미국은 권력이 한 곳에 모이지 않도록 세 가지 부서를 만들었습니다. 이것이 바로 ",,Ch1 Sec1 Item93
+96,1,answer,권력의 분리,,Ch1 Sec1 Item94
+97,1,normal,와 ,,Ch1 Sec1 Item95
+98,1,answer,견제와 균형,,Ch1 Sec1 Item96
+99,1,normal,"의 원칙이며, ",,Ch1 Sec1 Item97
+100,1,answer,한 부서가 너무 강해지지 않도록,,Ch1 Sec1 Item98
+101,1,normal, 설계되었습니다 (Q.15).,,Ch1 Sec1 Item99
+102,2,title,법을 만드는 사람들: 의회의 탄생,The Lawmakers: Birth of Congress,Chapter 2 Title
+103,2,introduction,"헌법을 세운 후, 건국의 아버지들은 법을 만들 기관이 필요했습니다. 그들은 의회라는 특별한 기관을 만들었고, 이는 두 개의 방으로 나뉘어 각자의 역할을 수행하게 되었습니다.","After establishing the Constitution, the Founding Fathers needed an institution to make laws. They created Congress, a special body divided into two chambers, each with its own role.",Chapter 2 Introduction
+104,2,normal,권력을 나누기로 결심한 건국의 아버지들은 정부를 세 개의 기관으로 나누었습니다. 첫 번째는 법을 만드는 ,,Ch2 Sec1 Item1
+105,2,answer,입법부,,Ch2 Sec1 Item2
+106,2,normal,", 두 번째는 법을 집행하는 ",,Ch2 Sec1 Item3
+107,2,answer,행정부,,Ch2 Sec1 Item4
+108,2,normal,", 그리고 세 번째는 법을 해석하는 ",,Ch2 Sec1 Item5
+109,2,answer,사법부,,Ch2 Sec1 Item6
+110,2,normal,입니다. 이를 다른 말로 ,,Ch2 Sec1 Item7
+111,2,answer,의회,,Ch2 Sec1 Item8
+112,2,normal,", ",,Ch2 Sec1 Item9
+113,2,answer,대통령,,Ch2 Sec1 Item10
+114,2,normal,", ",,Ch2 Sec1 Item11
+115,2,answer,법원,,Ch2 Sec1 Item12
+116,2,normal,이라고도 부릅니다 (Q.16). 그중 미국의 대통령은 ,,Ch2 Sec1 Item13
+117,2,answer,행정부,,Ch2 Sec1 Item14
+118,2,normal,를 책임지고 있습니다 (Q.17). 그리고 연방 정부에서 법률을 작성하는 부서는 바로 ,,Ch2 Sec1 Item15
+119,2,answer,미국 의회,,Ch2 Sec1 Item16
+120,2,normal,", 즉 ",,Ch2 Sec1 Item17
+121,2,answer,입법부,,Ch2 Sec1 Item18
+122,2,normal,입니다 (Q.18).,,Ch2 Sec1 Item19
+123,2,normal,이 의회는 특별한 구조를 가지고 있었습니다. 두 개의 방으로 나뉘어 있었죠. 하나는 ,,Ch2 Sec2 Item1
+124,2,answer,상원,,Ch2 Sec2 Item2
+125,2,normal,"이고, 다른 하나는 ",,Ch2 Sec2 Item3
+126,2,answer,하원,,Ch2 Sec2 Item4
+127,2,normal,입니다 (Q.19). 이 의회는 막강한 권력을 가지고 있었습니다. ,,Ch2 Sec2 Item5
+128,2,answer,법안 작성,,Ch2 Sec2 Item6
+129,2,normal,"을 할 수 있고, ",,Ch2 Sec2 Item7
+130,2,answer,전쟁 선포,,Ch2 Sec2 Item8
+131,2,normal,"를 결정하며, ",,Ch2 Sec2 Item9
+132,2,answer,연방 예산 작성,,Ch2 Sec2 Item10
+133,2,normal,을 담당합니다 (Q.20).,,Ch2 Sec2 Item11
+134,2,normal,먼저 상원에 대해 알아볼까요? 미국의 상원 의원은 총 ,,Ch2 Sec3 Item1
+135,2,answer,100명,,Ch2 Sec3 Item2
+136,2,normal,입니다 (Q.21). 각 상원 의원의 임기는 ,,Ch2 Sec3 Item3
+137,2,answer,6년,,Ch2 Sec3 Item4
+138,2,normal,"으로, 비교적 긴 시간 동안 일합니다 (Q.22). 당신이 사는 주에도 상원 의원이 있습니다. 그들의 이름은 주마다 다르지만, 각 주는 반드시 두 명의 상원 의원을 가지고 있습니다 (Q.23).",,Ch2 Sec3 Item5
+139,2,normal,이제 하원을 살펴봅시다. 하원 의원은 훨씬 더 많습니다. 총 ,,Ch2 Sec4 Item1
+140,2,answer,435명,,Ch2 Sec4 Item2
+141,2,normal,이나 됩니다 (Q.24). 하원 의원의 임기는 상원보다 짧은 ,,Ch2 Sec4 Item3
+142,2,answer,2년,,Ch2 Sec4 Item4
+143,2,normal,입니다 (Q.25). 왜 하원 의원들의 임기가 더 짧을까요? 그 이유는 ,,Ch2 Sec4 Item5
+144,2,answer,여론을 더 밀접하게 따르기 위해,,Ch2 Sec4 Item6
+145,2,normal,서입니다. 국민의 목소리를 더 자주 듣기 위함이죠 (Q.26). 여기서 흥미로운 점이 있습니다. 각 주에는 ,,Ch2 Sec4 Item7
+146,2,answer,2명,,Ch2 Sec4 Item8
+147,2,normal,의 상원 의원이 있습니다 (Q.27). 왜 모든 주가 똑같이 2명씩일까요? 이는 ,,Ch2 Sec4 Item9
+148,2,answer,작은 주들을 위한 평등한 대의권,,Ch2 Sec4 Item10
+149,2,normal,을 보장하기 위함입니다. 이것이 바로 유명한 ,,Ch2 Sec4 Item11
+150,2,answer,위대한 타협,,Ch2 Sec4 Item12
+151,2,normal,", 또는 ",,Ch2 Sec4 Item13
+152,2,answer,코네티컷 타협,,Ch2 Sec4 Item14
+153,2,normal,"입니다 (Q.28). 당신이 사는 지역에도 하원 의원이 있고 (Q.29), 하원에는 모든 의원을 이끄는 하원 의장도 있습니다 (Q.30).",,Ch2 Sec4 Item15
+154,2,normal,그렇다면 이 의원들은 누구를 대표할까요? 상원 의원은 ,,Ch2 Sec5 Item1
+155,2,answer,해당 주의 주민들,,Ch2 Sec5 Item2
+156,2,normal,을 대표합니다 (Q.31). 그리고 상원 의원을 선출하는 사람도 바로 ,,Ch2 Sec5 Item3
+157,2,answer,해당 주의 주민들,,Ch2 Sec5 Item4
+158,2,normal,입니다 (Q.32). 하원 의원은 조금 다릅니다. 그들은 ,,Ch2 Sec5 Item5
+159,2,answer,자신의 의회 지구 시민,,Ch2 Sec5 Item6
+160,2,normal,", 즉 ",,Ch2 Sec5 Item7
+161,2,answer,해당 지구의 사람들,,Ch2 Sec5 Item8
+162,2,normal,을 대표합니다 (Q.33). 그리고 하원 의원을 선출하는 것도 ,,Ch2 Sec5 Item9
+163,2,answer,자신의 의회 지구의 시민들,,Ch2 Sec5 Item10
+164,2,normal,입니다 (Q.34). 이렇게 의회는 국민의 목소리를 대변하는 중요한 기관이 되었습니다.,,Ch2 Sec5 Item11
+165,3,title,나라를 이끄는 사람: 대통령과 내각,Leading the Nation: The President and Cabinet,Chapter 3 Title
+166,3,introduction,"의회가 법을 만든다면, 누가 그 법을 실행할까요? 바로 대통령과 행정부입니다. 이들은 나라를 이끌고, 법을 집행하며, 국민을 보호하는 중요한 역할을 합니다.",The Constitution created three branches of government. Now let's learn about the executive branch—the President and the team that helps lead our nation.,Chapter 3 Introduction
+167,3,normal,"의회 이야기를 마무리하며, 한 가지 중요한 질문이 남았습니다. 어째서 어떤 주에는 다른 주보다 더 많은 하원 의원이 있을까요? 그 이유는 ",,Ch3 Sec1 Item1
+168,3,answer,주의 인구 때문,,Ch3 Sec1 Item2
+169,3,normal,입니다. ,,Ch3 Sec1 Item3
+170,3,answer,더 많은 사람들이 살고 있기 때문,,Ch3 Sec1 Item4
+171,3,normal,"이고, ",,Ch3 Sec1 Item5
+172,3,answer,어떤 주에는 사람이 더 많기 때문,,Ch3 Sec1 Item6
+173,3,normal,입니다 (Q.35). 이제 행정부로 넘어가 봅시다. 미국의 대통령은 ,,Ch3 Sec1 Item7
+174,3,answer,4년,,Ch3 Sec1 Item8
+175,3,normal,"마다 선출됩니다 (Q.36). 그리고 한 가지 중요한 규칙이 있습니다. 대통령은 두 번만 임기를 할 수 있는데, 이는 ",,Ch3 Sec1 Item9
+176,3,answer,제22대 미국 헌법 수정 조항,,Ch3 Sec1 Item10
+177,3,normal," 때문이며, ",,Ch3 Sec1 Item11
+178,3,answer,대통령이 너무 강력해지는 것을 막기 위해,,Ch3 Sec1 Item12
+179,3,normal,서입니다 (Q.37).,,Ch3 Sec1 Item13
+180,3,normal,"현재 미국을 이끄는 지도자들이 있습니다. 현재 미국 대통령과 부통령의 이름은 시대에 따라 바뀌므로, 최신 정보를 확인해야 합니다 (Q.38, Q.39).",,Ch3 Sec2 Item1
+181,3,normal,만약 대통령이 더 이상 임무를 수행할 수 없다면 어떻게 될까요? 그때는 ,,Ch3 Sec3 Item1
+182,3,answer,부통령,,Ch3 Sec3 Item2
+183,3,normal,이 대통령이 됩니다 (Q.40). 대통령은 막강한 권한을 가지고 있습니다. ,,Ch3 Sec3 Item3
+184,3,answer,법안을 법률로 서명,,Ch3 Sec3 Item4
+185,3,normal,"할 수 있고, ",,Ch3 Sec3 Item5
+186,3,answer,법안 거부,,Ch3 Sec3 Item6
+187,3,normal,"도 할 수 있으며, ",,Ch3 Sec3 Item7
+188,3,answer,법 집행,,Ch3 Sec3 Item8
+189,3,normal,을 담당합니다. 또한 ,,Ch3 Sec3 Item9
+190,3,answer,군대의 총사령관,,Ch3 Sec3 Item10
+191,3,normal,이자 ,,Ch3 Sec3 Item11
+192,3,answer,최고위 외교관,,Ch3 Sec3 Item12
+193,3,normal,"이며, ",,Ch3 Sec3 Item13
+194,3,answer,연방 판사를 임명,,Ch3 Sec3 Item14
+195,3,normal,합니다 (Q.41). 특히 군의 최고 사령관은 ,,Ch3 Sec3 Item15
+196,3,answer,대통령,,Ch3 Sec3 Item16
+197,3,normal,입니다 (Q.42). 법안에 서명하여 법률로 정하는 사람도 ,,Ch3 Sec3 Item17
+198,3,answer,대통령,,Ch3 Sec3 Item18
+199,3,normal,"이고 (Q.43), 법안에 거부권을 행사하는 사람도 ",,Ch3 Sec3 Item19
+200,3,answer,대통령,,Ch3 Sec3 Item20
+201,3,normal,입니다 (Q.44). 그리고 연방 판사들을 임명하는 사람 역시 ,,Ch3 Sec3 Item21
+202,3,answer,미국의 대통령,,Ch3 Sec3 Item22
+203,3,normal,입니다 (Q.45).,,Ch3 Sec3 Item23
+204,3,normal,대통령 혼자서 모든 일을 할 수는 없습니다. 행정부에는 많은 부서들이 있습니다. 여기에는 ,,Ch3 Sec4 Item1
+205,3,answer,미국의 대통령,,Ch3 Sec4 Item2
+206,3,normal,", ",,Ch3 Sec4 Item3
+207,3,answer,정부의 내각,,Ch3 Sec4 Item4
+208,3,normal,", 그리고 ",,Ch3 Sec4 Item5
+209,3,answer,연방 부서들 및 기관들,,Ch3 Sec4 Item6
+210,3,normal,이 포함됩니다 (Q.46). 대통령의 각료들은 무엇을 할까요? 그들은 ,,Ch3 Sec4 Item7
+211,3,answer,대통령을 보조하여 조언,,Ch3 Sec4 Item8
+212,3,normal,합니다 (Q.47).,,Ch3 Sec4 Item9
+213,3,normal,각료급 직책은 매우 다양합니다. ,,Ch3 Sec5 Item1
+214,3,answer,농무부 장관,,Ch3 Sec5 Item2
+215,3,normal,", ",,Ch3 Sec5 Item3
+216,3,answer,상공부 장관,,Ch3 Sec5 Item4
+217,3,normal,", ",,Ch3 Sec5 Item5
+218,3,answer,국방부 장관,,Ch3 Sec5 Item6
+219,3,normal,", ",,Ch3 Sec5 Item7
+220,3,answer,교육부 장관,,Ch3 Sec5 Item8
+221,3,normal,", ",,Ch3 Sec5 Item9
+222,3,answer,에너지부 장관,,Ch3 Sec5 Item10
+223,3,normal,", ",,Ch3 Sec5 Item11
+224,3,answer,보건복지부 장관,,Ch3 Sec5 Item12
+225,3,normal,", ",,Ch3 Sec5 Item13
+226,3,answer,국토안보부 장관,,Ch3 Sec5 Item14
+227,3,normal,", ",,Ch3 Sec5 Item15
+228,3,answer,주택도시개발부 장관,,Ch3 Sec5 Item16
+229,3,normal,", ",,Ch3 Sec5 Item17
+230,3,answer,내무부 장관,,Ch3 Sec5 Item18
+231,3,normal,", ",,Ch3 Sec5 Item19
+232,3,answer,노동부 장관,,Ch3 Sec5 Item20
+233,3,normal,", ",,Ch3 Sec5 Item21
+234,3,answer,국무부 장관,,Ch3 Sec5 Item22
+235,3,normal,", ",,Ch3 Sec5 Item23
+236,3,answer,교통부 장관,,Ch3 Sec5 Item24
+237,3,normal,", ",,Ch3 Sec5 Item25
+238,3,answer,재무부 장관,,Ch3 Sec5 Item26
+239,3,normal,", ",,Ch3 Sec5 Item27
+240,3,answer,보훈부 장관,,Ch3 Sec5 Item28
+241,3,normal,", ",,Ch3 Sec5 Item29
+242,3,answer,법무부 장관,,Ch3 Sec5 Item30
+243,3,normal,", ",,Ch3 Sec5 Item31
+244,3,answer,부통령,,Ch3 Sec5 Item32
+245,3,normal," 등이 있습니다 (Q.48). 마지막으로, 선거인단은 왜 중요할까요? 선거인단은 ",,Ch3 Sec5 Item33
+246,3,answer,누가 대통령으로 선출되는지 결정,,Ch3 Sec5 Item34
+247,3,normal,"하며, ",,Ch3 Sec5 Item35
+248,3,answer,대통령의 대중 선거와 의회 선출 사이의 타협을 제공,,Ch3 Sec5 Item36
+249,3,normal,합니다 (Q.49).,,Ch3 Sec5 Item37
+250,4,title,정의의 수호자: 대법원과 사법부,Guardians of Justice: The Supreme Court and Judiciary,Chapter 4 Title
+251,4,introduction,"법을 만들고 집행하는 것도 중요하지만, 그 법이 공정하게 적용되는지 판단하는 것도 필요합니다. 이것이 바로 사법부의 역할입니다.","Making and enforcing laws is important, but we also need someone to judge whether those laws are applied fairly. This is the role of the judicial branch.",Chapter 4 Introduction
+252,4,normal,"삼권분립의 마지막 기관, 사법부를 살펴봅시다. 사법부의 한 부서로는 ",,Ch4 Sec1 Item1
+253,4,answer,대법원,,Ch4 Sec1 Item2
+254,4,normal,과 ,,Ch4 Sec1 Item3
+255,4,answer,연방 법원,,Ch4 Sec1 Item4
+256,4,normal,이 있습니다 (Q.50). 사법부는 무엇을 할까요? 그들은 ,,Ch4 Sec1 Item5
+257,4,answer,법률의 재검토,,Ch4 Sec1 Item6
+258,4,normal,"를 하고, ",,Ch4 Sec1 Item7
+259,4,answer,법률의 해석,,Ch4 Sec1 Item8
+260,4,normal,"을 하며, ",,Ch4 Sec1 Item9
+261,4,answer,법에 대해 분쟁이나 다툼의 해결,,Ch4 Sec1 Item10
+262,4,normal,"을 하고, ",,Ch4 Sec1 Item11
+263,4,answer,법률이 헌법에 위배되는지를 판단,,Ch4 Sec1 Item12
+264,4,normal,합니다 (Q.51). 그리고 미국의 최고 법원은 ,,Ch4 Sec1 Item13
+265,4,answer,연방 대법원,,Ch4 Sec1 Item14
+266,4,normal,입니다 (Q.52).,,Ch4 Sec1 Item15
+267,4,normal,대법원에는 총 ,,Ch4 Sec2 Item1
+268,4,answer,9명,,Ch4 Sec2 Item2
+269,4,normal,의 대법관이 있습니다 (Q.53). 판결을 내리기 위해서는 보통 ,,Ch4 Sec2 Item3
+270,4,answer,5명,,Ch4 Sec2 Item4
+271,4,normal,의 대법관이 필요합니다 (Q.54). 대법관들은 매우 특별한 임기를 가지고 있습니다. 그들은 ,,Ch4 Sec2 Item5
+272,4,answer,평생,,Ch4 Sec2 Item6
+273,4,normal," 동안, 즉 ",,Ch4 Sec2 Item7
+274,4,answer,평생 임명,,Ch4 Sec2 Item8
+275,4,normal,되어 ,,Ch4 Sec2 Item9
+276,4,answer,퇴직까지,,Ch4 Sec2 Item10
+277,4,normal, 일합니다 (Q.55). 왜 대법관은 평생 그 직책을 맡을까요? 그 이유는 ,,Ch4 Sec2 Item11
+278,4,answer,정치로부터 독립적이기 위해,,Ch4 Sec2 Item12
+279,4,normal,"서이며, ",,Ch4 Sec2 Item13
+280,4,answer,외부 정치의 영향력을 제한하기 위해,,Ch4 Sec2 Item14
+281,4,normal,서입니다 (Q.56).,,Ch4 Sec2 Item15
+282,4,normal,"미국의 대법원장은 시대에 따라 바뀌므로, 최신 정보를 확인해야 합니다 (Q.57). 이제 연방 정부와 주 정부의 권한을 살펴봅시다. 연방 정부만을 위한 권한으로는 ",,Ch4 Sec3 Item1
+283,4,answer,지폐 인쇄,,Ch4 Sec3 Item2
+284,4,normal,", ",,Ch4 Sec3 Item3
+285,4,answer,화폐 주조,,Ch4 Sec3 Item4
+286,4,normal,", ",,Ch4 Sec3 Item5
+287,4,answer,전쟁 선포,,Ch4 Sec3 Item6
+288,4,normal,", ",,Ch4 Sec3 Item7
+289,4,answer,군대를 만듦,,Ch4 Sec3 Item8
+290,4,normal,", ",,Ch4 Sec3 Item9
+291,4,answer,조약 체결,,Ch4 Sec3 Item10
+292,4,normal,", ",,Ch4 Sec3 Item11
+293,4,answer,외교 정책 설정,,Ch4 Sec3 Item12
+294,4,normal,이 있습니다 (Q.58). 반면 주만을 위한 권한으로는 ,,Ch4 Sec3 Item13
+295,4,answer,학교 교육 제공,,Ch4 Sec3 Item14
+296,4,normal,", ",,Ch4 Sec3 Item15
+297,4,answer,보호 서비스 제공,,Ch4 Sec3 Item16
+298,4,normal," (경찰 업무), ",,Ch4 Sec3 Item17
+299,4,answer,안전 서비스 제공,,Ch4 Sec3 Item18
+300,4,normal," (소방 업무), ",,Ch4 Sec3 Item19
+301,4,answer,운전 면허 발급,,Ch4 Sec3 Item20
+302,4,normal,", ",,Ch4 Sec3 Item21
+303,4,answer,용지 설정 및 토지 이용 승인,,Ch4 Sec3 Item22
+304,4,normal,이 있습니다 (Q.59). 10번째 수정안의 목적은 무엇일까요? 이는 ,,Ch4 Sec3 Item23
+305,4,answer,연방정부에 주어지지 않은 권한은 주 또는 사람들의 것,,Ch4 Sec3 Item24
+306,4,normal,"이라고 명시하고 있습니다 (Q.60). 당신이 사는 주에도 주지사가 있고 (Q.61), 주의 수도가 있습니다 (Q.62).",,Ch4 Sec3 Item25
+307,5,title,시민의 권리와 책임: 자유와 의무,Rights and Responsibilities: Freedom and Duty,Chapter 5 Title
+308,5,introduction,"정부의 구조를 이해했다면, 이제 시민으로서의 권리와 책임을 알아볼 차례입니다. 자유로운 나라에서 살기 위해서는 권리만큼이나 책임도 중요합니다.","Now that we understand the government's structure, it's time to learn about our rights and responsibilities as citizens. To live in a free country, responsibilities are just as important as rights.",Chapter 5 Introduction
+309,5,normal,헌법에는 누가 투표할 수 있는가에 관한 4개의 수정 조항이 있습니다. ,,Ch5 Sec1 Item1
+310,5,answer,18세 이상의 시민은 투표할 수 있고,,Ch5 Sec1 Item2
+311,5,normal,", ",,Ch5 Sec1 Item3
+312,5,answer,투표를 위해 인두세를 낼 필요가 없으며,,Ch5 Sec1 Item4
+313,5,normal,", ",,Ch5 Sec1 Item5
+314,5,answer,시민은 누구나 투표할 수 있습니다,,Ch5 Sec1 Item6
+315,5,normal, (여성이나 남성이나). 또한 ,,Ch5 Sec1 Item7
+316,5,answer,어떤 인종의 남성 시민이라도 투표할 수 있습니다,,Ch5 Sec1 Item8
+317,5,normal," (Q.63). 그렇다면 누가 연방 선거에서 투표하고, 연방 공직에 출마하며, 미국에서 배심원으로 봉사할 수 있을까요? 바로 ",,Ch5 Sec1 Item9
+318,5,answer,시민들,,Ch5 Sec1 Item10
+319,5,normal,", 즉 ",,Ch5 Sec1 Item11
+320,5,answer,미국의 시민들,,Ch5 Sec1 Item12
+321,5,normal,", ",,Ch5 Sec1 Item13
+322,5,answer,미 시민들,,Ch5 Sec1 Item14
+323,5,normal,입니다 (Q.64). 하지만 미국에 살고 있는 모든 사람이 갖는 권리도 있습니다. ,,Ch5 Sec1 Item15
+324,5,answer,표현의 자유,,Ch5 Sec1 Item16
+325,5,normal,", ",,Ch5 Sec1 Item17
+326,5,answer,언론의 자유,,Ch5 Sec1 Item18
+327,5,normal,", ",,Ch5 Sec1 Item19
+328,5,answer,집회의 자유,,Ch5 Sec1 Item20
+329,5,normal,", ",,Ch5 Sec1 Item21
+330,5,answer,정부 청원의 자유,,Ch5 Sec1 Item22
+331,5,normal,", ",,Ch5 Sec1 Item23
+332,5,answer,종교의 자유,,Ch5 Sec1 Item24
+333,5,normal,", ",,Ch5 Sec1 Item25
+334,5,answer,무기 소지 권리,,Ch5 Sec1 Item26
+335,5,normal,가 그것입니다 (Q.65).,,Ch5 Sec1 Item27
+336,5,normal,"충성의 맹세를 말할 때, 무엇에 충성을 표할까요? ",,Ch5 Sec2 Item1
+337,5,answer,미국,,Ch5 Sec2 Item2
+338,5,normal,과 ,,Ch5 Sec2 Item3
+339,5,answer,국기,,Ch5 Sec2 Item4
+340,5,normal,에 충성을 표합니다 (Q.66). 새로운 시민들의 충성 서약에서는 두 가지 중요한 약속을 합니다. ,,Ch5 Sec2 Item5
+341,5,answer,다른 나라에 대한 충성심 포기,,Ch5 Sec2 Item6
+342,5,normal,"하고, ",,Ch5 Sec2 Item7
+343,5,answer,미국을 방어,,Ch5 Sec2 Item8
+344,5,normal,"하며, ",,Ch5 Sec2 Item9
+345,5,answer,헌법,,Ch5 Sec2 Item10
+346,5,normal,"을 지키고, ",,Ch5 Sec2 Item11
+347,5,answer,미국 법률의 준수,,Ch5 Sec2 Item12
+348,5,normal,"하며, 필요한 경우 ",,Ch5 Sec2 Item13
+349,5,answer,미국 군에 복무,,Ch5 Sec2 Item14
+350,5,normal,"하고, 필요한 경우 ",,Ch5 Sec2 Item15
+351,5,answer,국가를 위한 중요한 일에 종사,,Ch5 Sec2 Item16
+352,5,normal,"하며, ",,Ch5 Sec2 Item17
+353,5,answer,미국에 충성,,Ch5 Sec2 Item18
+354,5,normal,할 것을 약속합니다 (Q.67). 그렇다면 사람들은 어떻게 미국 시민권자가 될까요? ,,Ch5 Sec2 Item19
+355,5,answer,미국 수정헌법 제14조에 명시된 조건에 따라 미국에서 태어나거나,,Ch5 Sec2 Item20
+356,5,normal,", ",,Ch5 Sec2 Item21
+357,5,answer,귀화,,Ch5 Sec2 Item22
+358,5,normal,"를 통해, 또는 ",,Ch5 Sec2 Item23
+359,5,answer,시민권을 얻습니다,,Ch5 Sec2 Item24
+360,5,normal, (의회가 정한 조건에 따름) (Q.68).,,Ch5 Sec2 Item25
+361,5,normal,미국의 시민 참여에는 여러 방법이 있습니다. ,,Ch5 Sec3 Item1
+362,5,answer,투표,,Ch5 Sec3 Item2
+363,5,normal,", ",,Ch5 Sec3 Item3
+364,5,answer,공직 출마,,Ch5 Sec3 Item4
+365,5,normal,", ",,Ch5 Sec3 Item5
+366,5,answer,정당 가입,,Ch5 Sec3 Item6
+367,5,normal,", ",,Ch5 Sec3 Item7
+368,5,answer,선거운동 지원,,Ch5 Sec3 Item8
+369,5,normal,", ",,Ch5 Sec3 Item9
+370,5,answer,시민 단체 가입,,Ch5 Sec3 Item10
+371,5,normal,", ",,Ch5 Sec3 Item11
+372,5,answer,지역 단체 가입,,Ch5 Sec3 Item12
+373,5,normal,", ",,Ch5 Sec3 Item13
+374,5,answer,선출된 정치인들에게 의견 제공,,Ch5 Sec3 Item14
+375,5,normal,", ",,Ch5 Sec3 Item15
+376,5,answer,선출된 정치인들에게 연락,,Ch5 Sec3 Item16
+377,5,normal,", ",,Ch5 Sec3 Item17
+378,5,answer,문제 또는 정책의 지지 또는 반대,,Ch5 Sec3 Item18
+379,5,normal,", ",,Ch5 Sec3 Item19
+380,5,answer,신문사에 기고,,Ch5 Sec3 Item20
+381,5,normal, 등이 있습니다 (Q.69). 미국인이 자국을 위해 봉사할 수 있는 방법도 다양합니다. ,,Ch5 Sec3 Item21
+382,5,answer,투표,,Ch5 Sec3 Item22
+383,5,normal,", ",,Ch5 Sec3 Item23
+384,5,answer,세금 납부,,Ch5 Sec3 Item24
+385,5,normal,", ",,Ch5 Sec3 Item25
+386,5,answer,법률 준수,,Ch5 Sec3 Item26
+387,5,normal,", ",,Ch5 Sec3 Item27
+388,5,answer,군 복무,,Ch5 Sec3 Item28
+389,5,normal,", ",,Ch5 Sec3 Item29
+390,5,answer,공직 출마,,Ch5 Sec3 Item30
+391,5,normal,", ",,Ch5 Sec3 Item31
+392,5,answer,"지방, 주, 또는 연방 정부에서 복무",,Ch5 Sec3 Item32
+393,5,normal,하는 것 등입니다 (Q.70). 왜 연방세를 내는 것이 중요할까요? ,,Ch5 Sec3 Item33
+394,5,answer,법으로 요구됨,,Ch5 Sec3 Item34
+395,5,normal,"이고, ",,Ch5 Sec3 Item35
+396,5,answer,모든 사람들은 연방정부 지원을 위해 세금을 냅니다,,Ch5 Sec3 Item36
+397,5,normal,. 이는 ,,Ch5 Sec3 Item37
+398,5,answer,미국이 요구함,,Ch5 Sec3 Item38
+399,5,normal,"이며, ",,Ch5 Sec3 Item39
+400,5,answer,헌법 16번째 개정,,Ch5 Sec3 Item40
+401,5,normal,에 명시된 ,,Ch5 Sec3 Item41
+402,5,answer,시민 의무,,Ch5 Sec3 Item42
+403,5,normal,"입니다 (Q.71). 마지막으로, 18세에서 25세 사이의 모든 남성들은 선택 서비스에 등록해야 합니다. 왜냐하면 ",,Ch5 Sec3 Item43
+404,5,answer,법으로 요구됨,,Ch5 Sec3 Item44
+405,5,normal,"이고, ",,Ch5 Sec3 Item45
+406,5,answer,시민 의무,,Ch5 Sec3 Item46
+407,5,normal,"이며, ",,Ch5 Sec3 Item47
+408,5,answer,필요한 경우 초안을 공정하게 만들기,,Ch5 Sec3 Item48
+409,5,normal, 위함입니다 (Q.72).,,Ch5 Sec3 Item49
+410,6,title,자유를 향한 여정: 식민지에서 독립까지,Journey to Freedom: From Colonies to Independence,Chapter 6 Title
+411,6,introduction,"미국이 어떻게 탄생했는지 알아볼 시간입니다. 먼 옛날, 새로운 삶을 꿈꾸던 사람들이 대서양을 건너 이 땅에 도착했고, 그들의 후손들은 자유를 위해 싸웠습니다.","It's time to learn how America was born. Long ago, people dreaming of a new life crossed the Atlantic Ocean to this land, and their descendants fought for freedom.",Chapter 6 Introduction
+412,6,normal,식민지 주민들은 많은 이유로 미국에 왔습니다. ,,Ch6 Sec1 Item1
+413,6,answer,자유,,Ch6 Sec1 Item2
+414,6,normal,", ",,Ch6 Sec1 Item3
+415,6,answer,정치적 자유,,Ch6 Sec1 Item4
+416,6,normal,", ",,Ch6 Sec1 Item5
+417,6,answer,종교적 자유,,Ch6 Sec1 Item6
+418,6,normal,", ",,Ch6 Sec1 Item7
+419,6,answer,경제적 기회,,Ch6 Sec1 Item8
+420,6,normal,", 그리고 ",,Ch6 Sec1 Item9
+421,6,answer,박해를 피하기 위해,,Ch6 Sec1 Item10
+422,6,normal,서였습니다 (Q.73). 하지만 유럽인들이 오기 전에 이 땅에는 이미 사람들이 살고 있었습니다. 바로 ,,Ch6 Sec1 Item11
+423,6,answer,아메리칸 인디언,,Ch6 Sec1 Item12
+424,6,normal,", 즉 ",,Ch6 Sec1 Item13
+425,6,answer,아메리카 원주민들,,Ch6 Sec1 Item14
+426,6,normal,입니다 (Q.74). 슬픈 역사도 있었습니다. ,,Ch6 Sec1 Item15
+427,6,answer,아프리카인들,,Ch6 Sec1 Item16
+428,6,normal,", 즉 ",,Ch6 Sec1 Item17
+429,6,answer,아프리카에서 온 사람들,,Ch6 Sec1 Item18
+430,6,normal,"이 노예로 잡혀 팔렸습니다 (Q.75). 시간이 흐르면서 식민지 주민들은 영국의 지배에 불만을 품게 되었고, 마침내 미국인들은 영국으로부터 독립하기 위해 전쟁을 벌였습니다. 이것이 바로 ",,Ch6 Sec1 Item19
+431,6,answer,미국 혁명,,Ch6 Sec1 Item20
+432,6,normal,", 또는 ",,Ch6 Sec1 Item21
+433,6,answer,미국의 혁명 전쟁,,Ch6 Sec1 Item22
+434,6,normal,", ",,Ch6 Sec1 Item23
+435,6,answer,미국의 독립 전쟁,,Ch6 Sec1 Item24
+436,6,normal,입니다 (Q.76). 미국이 영국으로부터 독립을 선언한 이유는 많았습니다. ,,Ch6 Sec1 Item25
+437,6,answer,높은 세금,,Ch6 Sec1 Item26
+438,6,normal,", ",,Ch6 Sec1 Item27
+439,6,answer,대의권 없는 납세 의무,,Ch6 Sec1 Item28
+440,6,normal,", ",,Ch6 Sec1 Item29
+441,6,answer,영국 군인들은 미국인들의 집에 머물렀고,,Ch6 Sec1 Item30
+442,6,normal,", ",,Ch6 Sec1 Item31
+443,6,answer,자치 정부 없음,,Ch6 Sec1 Item32
+444,6,normal,", ",,Ch6 Sec1 Item33
+445,6,answer,보스턴 학살,,Ch6 Sec1 Item34
+446,6,normal,", ",,Ch6 Sec1 Item35
+447,6,answer,보스턴 차 사건,,Ch6 Sec1 Item36
+448,6,normal, 등이 있었습니다 (Q.77).,,Ch6 Sec1 Item37
+449,6,normal,독립 선언서는 ,,Ch6 Sec2 Item1
+450,6,answer,토마스 제퍼슨,,Ch6 Sec2 Item2
+451,6,normal,이 썼습니다 (Q.78). 그리고 독립 선언서가 채택된 날은 ,,Ch6 Sec2 Item3
+452,6,answer,1776년 7월 4일,,Ch6 Sec2 Item4
+453,6,normal,입니다 (Q.79). 미국 독립 혁명에는 많은 중요한 사건들이 있었습니다. ,,Ch6 Sec2 Item5
+454,6,answer,벙커 힐의 전투,,Ch6 Sec2 Item6
+455,6,normal,", ",,Ch6 Sec2 Item7
+456,6,answer,독립 선언문,,Ch6 Sec2 Item8
+457,6,normal,", ",,Ch6 Sec2 Item9
+458,6,answer,워싱턴의 델라웨어 횡단,,Ch6 Sec2 Item10
+459,6,normal,", ",,Ch6 Sec2 Item11
+460,6,answer,사라토가의 전투,,Ch6 Sec2 Item12
+461,6,normal,", ",,Ch6 Sec2 Item13
+462,6,answer,밸리 포지 진지,,Ch6 Sec2 Item14
+463,6,normal,", ",,Ch6 Sec2 Item15
+464,6,answer,요크타운의 전투,,Ch6 Sec2 Item16
+465,6,normal, 등이 있었습니다 (Q.80). 처음에는 13개 주가 있었습니다. ,,Ch6 Sec2 Item17
+466,6,answer,뉴햄프셔,,Ch6 Sec2 Item18
+467,6,normal,", ",,Ch6 Sec2 Item19
+468,6,answer,매사추세츠,,Ch6 Sec2 Item20
+469,6,normal,", ",,Ch6 Sec2 Item21
+470,6,answer,로드아일랜드,,Ch6 Sec2 Item22
+471,6,normal,", ",,Ch6 Sec2 Item23
+472,6,answer,코네티컷,,Ch6 Sec2 Item24
+473,6,normal,", ",,Ch6 Sec2 Item25
+474,6,answer,뉴욕,,Ch6 Sec2 Item26
+475,6,normal,", ",,Ch6 Sec2 Item27
+476,6,answer,뉴저지,,Ch6 Sec2 Item28
+477,6,normal,", ",,Ch6 Sec2 Item29
+478,6,answer,펜실베니아,,Ch6 Sec2 Item30
+479,6,normal,", ",,Ch6 Sec2 Item31
+480,6,answer,델라웨어,,Ch6 Sec2 Item32
+481,6,normal,", ",,Ch6 Sec2 Item33
+482,6,answer,메릴랜드,,Ch6 Sec2 Item34
+483,6,normal,", ",,Ch6 Sec2 Item35
+484,6,answer,버지니아,,Ch6 Sec2 Item36
+485,6,normal,", ",,Ch6 Sec2 Item37
+486,6,answer,노스캐롤라이나,,Ch6 Sec2 Item38
+487,6,normal,", ",,Ch6 Sec2 Item39
+488,6,answer,사우스캐롤라이나,,Ch6 Sec2 Item40
+489,6,normal,", ",,Ch6 Sec2 Item41
+490,6,answer,조지아,,Ch6 Sec2 Item42
+491,6,normal,입니다 (Q.81). 그리고 1787년에 중요한 창립 문서가 작성되었습니다. 바로 ,,Ch6 Sec2 Item43
+492,6,answer,미국 헌법,,Ch6 Sec2 Item44
+493,6,normal,입니다 (Q.82).,,Ch6 Sec2 Item45
+494,6,normal,연방주의자 논문집은 미국 헌법의 가결을 지지했습니다. 저자는 ,,Ch6 Sec3 Item1
+495,6,answer,제임스 매디슨,,Ch6 Sec3 Item2
+496,6,normal,", ",,Ch6 Sec3 Item3
+497,6,answer,알렉산더 해밀튼,,Ch6 Sec3 Item4
+498,6,normal,", ",,Ch6 Sec3 Item5
+499,6,answer,존 제이,,Ch6 Sec3 Item6
+500,6,normal,", 또는 ",,Ch6 Sec3 Item7
+501,6,answer,퍼블리우스,,Ch6 Sec3 Item8
+502,6,normal,라는 필명으로 알려져 있습니다 (Q.83). 연방주의자 논집이 중요한 이유는 ,,Ch6 Sec3 Item9
+503,6,answer,사람들이 미국 헌법을 이해하게 도와주었고,,Ch6 Sec3 Item10
+504,6,normal,", ",,Ch6 Sec3 Item11
+505,6,answer,미국 헌법의 통과를 지지했기,,Ch6 Sec3 Item12
+506,6,normal, 때문입니다 (Q.84). 벤자민 프랭클린은 많은 이유로 유명합니다. ,,Ch6 Sec3 Item13
+507,6,answer,최초의 무료 공공 도서관 설립,,Ch6 Sec3 Item14
+508,6,normal,", ",,Ch6 Sec3 Item15
+509,6,answer,미국 최초의 우체국장,,Ch6 Sec3 Item16
+510,6,normal,", ",,Ch6 Sec3 Item17
+511,6,answer,독립 선언문 작성 지원,,Ch6 Sec3 Item18
+512,6,normal,", ",,Ch6 Sec3 Item19
+513,6,answer,발명가,,Ch6 Sec3 Item20
+514,6,normal,", ",,Ch6 Sec3 Item21
+515,6,answer,미국 외교관,,Ch6 Sec3 Item22
+516,6,normal, 등입니다 (Q.85). 조지 워싱턴은 ,,Ch6 Sec3 Item23
+517,6,answer,우리 조국의 아버지,,Ch6 Sec3 Item24
+518,6,normal,", ",,Ch6 Sec3 Item25
+519,6,answer,미국의 초대 대통령,,Ch6 Sec3 Item26
+520,6,normal,", ",,Ch6 Sec3 Item27
+521,6,answer,대륙군의 장군,,Ch6 Sec3 Item28
+522,6,normal,", ",,Ch6 Sec3 Item29
+523,6,answer,헌법 협정의 회장,,Ch6 Sec3 Item30
+524,6,normal,으로 유명합니다 (Q.86).,,Ch6 Sec3 Item31
+525,6,normal,토마스 제퍼슨은 다양한 이유로 유명합니다. ,,Ch6 Sec4 Item1
+526,6,answer,독립 선언서 작성자,,Ch6 Sec4 Item2
+527,6,normal,", ",,Ch6 Sec4 Item3
+528,6,answer,미국의 제3대 대통령,,Ch6 Sec4 Item4
+529,6,normal,", ",,Ch6 Sec4 Item5
+530,6,answer,루이지애나 매입으로 미국 영토의 두 배 증가,,Ch6 Sec4 Item6
+531,6,normal,", ",,Ch6 Sec4 Item7
+532,6,answer,최초의 국무 장관,,Ch6 Sec4 Item8
+533,6,normal,", ",,Ch6 Sec4 Item9
+534,6,answer,버지니아 대학 설립,,Ch6 Sec4 Item10
+535,6,normal, 등입니다 (Q.87). 제임스 매디슨은 ,,Ch6 Sec4 Item11
+536,6,answer,헌법의 아버지,,Ch6 Sec4 Item12
+537,6,normal,", ",,Ch6 Sec4 Item13
+538,6,answer,미국의 제4대 대통령,,Ch6 Sec4 Item14
+539,6,normal,", ",,Ch6 Sec4 Item15
+540,6,answer,1812년의 전쟁 당시 대통령,,Ch6 Sec4 Item16
+541,6,normal,", ",,Ch6 Sec4 Item17
+542,6,answer,연방주의자 논집의 작성자 중 하나,,Ch6 Sec4 Item18
+543,6,normal,로 유명합니다 (Q.88). 알렉산더 해밀튼은 ,,Ch6 Sec4 Item19
+544,6,answer,재무부 제1대 장관,,Ch6 Sec4 Item20
+545,6,normal,", ",,Ch6 Sec4 Item21
+546,6,answer,연방주의자 논집의 작성자 중 하나,,Ch6 Sec4 Item22
+547,6,normal,", ",,Ch6 Sec4 Item23
+548,6,answer,미국의 첫 은행 설립 지원,,Ch6 Sec4 Item24
+549,6,normal,", ",,Ch6 Sec4 Item25
+550,6,answer,조지 워싱턴 장군의 보좌관,,Ch6 Sec4 Item26
+551,6,normal,"으로 유명합니다 (Q.89). 마지막으로, 미국이 1803년 프랑스로부터 매입한 영토는 ",,Ch6 Sec4 Item27
+552,6,answer,루이지애나 영토,,Ch6 Sec4 Item28
+553,6,normal,", 즉 ",,Ch6 Sec4 Item29
+554,6,answer,루이지애나,,Ch6 Sec4 Item30
+555,6,normal,입니다 (Q.90).,,Ch6 Sec4 Item31
+556,7,title,시련과 성장: 1800년대 미국,Trials and Growth: America in the 1800s,Chapter 7 Title
+557,7,introduction,"1800년대는 미국에게 큰 시련의 시기였습니다. 전쟁과 갈등이 있었지만, 그 속에서 자유와 평등을 향한 위대한 발걸음도 있었습니다.","The 1800s were a time of great trials for America. There were wars and conflicts, but within them were also great steps toward freedom and equality.",Chapter 7 Introduction
+558,7,normal,1800년대에 미국은 여러 전쟁을 치렀습니다. ,,Ch7 Sec1 Item1
+559,7,answer,1812년 전쟁,,Ch7 Sec1 Item2
+560,7,normal,", ",,Ch7 Sec1 Item3
+561,7,answer,멕시코-미국 전쟁,,Ch7 Sec1 Item4
+562,7,normal,", ",,Ch7 Sec1 Item5
+563,7,answer,남북전쟁,,Ch7 Sec1 Item6
+564,7,normal,", ",,Ch7 Sec1 Item7
+565,7,answer,스페인-미국 전쟁,,Ch7 Sec1 Item8
+566,7,normal, 등이 있었습니다 (Q.91). 그중 가장 비극적인 전쟁은 남부와 북부 사이에 벌어진 ,,Ch7 Sec1 Item9
+567,7,answer,남북전쟁,,Ch7 Sec1 Item10
+568,7,normal,이었습니다 (Q.92). 남북 전쟁에는 많은 중요한 사건들이 있었습니다. ,,Ch7 Sec1 Item11
+569,7,answer,섬터 요새의 전투,,Ch7 Sec1 Item12
+570,7,normal,", ",,Ch7 Sec1 Item13
+571,7,answer,해방 선언문,,Ch7 Sec1 Item14
+572,7,normal,", ",,Ch7 Sec1 Item15
+573,7,answer,빅스버그의 전투,,Ch7 Sec1 Item16
+574,7,normal,", ",,Ch7 Sec1 Item17
+575,7,answer,게티즈버그의 전투,,Ch7 Sec1 Item18
+576,7,normal,", ",,Ch7 Sec1 Item19
+577,7,answer,셔먼의 행진,,Ch7 Sec1 Item20
+578,7,normal,", ",,Ch7 Sec1 Item21
+579,7,answer,아포마톡스의 항복,,Ch7 Sec1 Item22
+580,7,normal,", ",,Ch7 Sec1 Item23
+581,7,answer,링컨의 암살,,Ch7 Sec1 Item24
+582,7,normal, 등이 있었습니다 (Q.93). 이 시기의 가장 위대한 지도자는 에이브러햄 링컨이었습니다. 그는 ,,Ch7 Sec1 Item25
+583,7,answer,노예 해방,,Ch7 Sec1 Item26
+584,7,normal,"을 했고, ",,Ch7 Sec1 Item27
+585,7,answer,연방의 구조,,Ch7 Sec1 Item28
+586,7,normal,"를 지켰으며, ",,Ch7 Sec1 Item29
+587,7,answer,남북 전쟁 중 미국 주도,,Ch7 Sec1 Item30
+588,7,normal,"했고, ",,Ch7 Sec1 Item31
+589,7,answer,미국의 제16대 대통령,,Ch7 Sec1 Item32
+590,7,normal,"이었으며, ",,Ch7 Sec1 Item33
+591,7,answer,게티즈버그 연설,,Ch7 Sec1 Item34
+592,7,normal,로 유명합니다 (Q.94). 노예 해방 선언은 ,,Ch7 Sec1 Item35
+593,7,answer,노예들을 해방시켰고,,Ch7 Sec1 Item36
+594,7,normal,", ",,Ch7 Sec1 Item37
+595,7,answer,남부 연합에서의 노예 해방,,Ch7 Sec1 Item38
+596,7,normal,", ",,Ch7 Sec1 Item39
+597,7,answer,남부 대부분의 주에서 노예 해방,,Ch7 Sec1 Item40
+598,7,normal,을 이루었습니다 (Q.95).,,Ch7 Sec1 Item41
+599,7,normal,미국의 ,,Ch7 Sec2 Item1
+600,7,answer,남북전쟁,,Ch7 Sec2 Item2
+601,7,normal,"이 노예 제도를 종식시켰습니다 (Q.96). 전쟁 후, 중요한 헌법 수정안이 만들어졌습니다. ",,Ch7 Sec2 Item3
+602,7,answer,미국 수정 헌법 제14조,,Ch7 Sec2 Item4
+603,7,normal,는 미국에서 태어나거나 귀화하여 미국의 관할권에 속하는 모든 사람을 미국 시민으로 규정했습니다 (Q.97). 그리고 모든 남성들이 투표할 권리를 얻은 것은 ,,Ch7 Sec2 Item5
+604,7,answer,남북전쟁 이후,,Ch7 Sec2 Item6
+605,7,normal,", ",,Ch7 Sec2 Item7
+606,7,answer,재건 시대 중,,Ch7 Sec2 Item8
+607,7,normal,", ",,Ch7 Sec2 Item9
+608,7,answer,미국 수정 헌법 제15조,,Ch7 Sec2 Item10
+609,7,normal,"에 의해, ",,Ch7 Sec2 Item11
+610,7,answer,1870년,,Ch7 Sec2 Item12
+611,7,normal,이었습니다 (Q.98). 1800년대의 여성 인권 운동의 지도자로는 ,,Ch7 Sec2 Item13
+612,7,answer,수잔 B. 앤서니,,Ch7 Sec2 Item14
+613,7,normal,", ",,Ch7 Sec2 Item15
+614,7,answer,엘리자베스 케이디 스탠튼,,Ch7 Sec2 Item16
+615,7,normal,", ",,Ch7 Sec2 Item17
+616,7,answer,소저너 트루스,,Ch7 Sec2 Item18
+617,7,normal,", ",,Ch7 Sec2 Item19
+618,7,answer,해리엇 터브먼,,Ch7 Sec2 Item20
+619,7,normal, 등이 있었습니다 (Q.99).,,Ch7 Sec2 Item21
+620,7,normal,1900년대에 미국은 또 다른 전쟁들을 치렀습니다. ,,Ch7 Sec3 Item1
+621,7,answer,세계 1차 대전,,Ch7 Sec3 Item2
+622,7,normal,", ",,Ch7 Sec3 Item3
+623,7,answer,세계 2차 대전,,Ch7 Sec3 Item4
+624,7,normal,", ",,Ch7 Sec3 Item5
+625,7,answer,한국 전쟁,,Ch7 Sec3 Item6
+626,7,normal,", ",,Ch7 Sec3 Item7
+627,7,answer,베트남 전쟁,,Ch7 Sec3 Item8
+628,7,normal,", ",,Ch7 Sec3 Item9
+629,7,answer,페르시아 걸프 전쟁,,Ch7 Sec3 Item10
+630,7,normal, 등입니다 (Q.100). 미국이 제1차 세계 대전에 참전한 이유는 ,,Ch7 Sec3 Item11
+631,7,answer,독일의 미국 민간 선박을 공격했기 때문,,Ch7 Sec3 Item12
+632,7,normal,"이고, ",,Ch7 Sec3 Item13
+633,7,answer,연합국을 지원하기 위해,,Ch7 Sec3 Item14
+634,7,normal,서였습니다 (Q.101). 모든 여성들이 투표할 권리를 얻은 것은 ,,Ch7 Sec3 Item15
+635,7,answer,1920년,,Ch7 Sec3 Item16
+636,7,normal,", ",,Ch7 Sec3 Item17
+637,7,answer,제1차 세계대전 이후,,Ch7 Sec3 Item18
+638,7,normal,", ",,Ch7 Sec3 Item19
+639,7,answer,미국 수정 헌법 제19조,,Ch7 Sec3 Item20
+640,7,normal,에 의해서였습니다 (Q.102). 대공황은 ,,Ch7 Sec3 Item21
+641,7,answer,현대사에서 가장 긴 경제 불황,,Ch7 Sec3 Item22
+642,7,normal,이었습니다 (Q.103). 대공황은 ,,Ch7 Sec3 Item23
+643,7,answer,그레이트 크래시 1929년,,Ch7 Sec3 Item24
+644,7,normal,", 즉 ",,Ch7 Sec3 Item25
+645,7,answer,1929년의 주식 시장 붕괴,,Ch7 Sec3 Item26
+646,7,normal,로 시작되었습니다 (Q.104). 경제 대공황과 세계 2차 대전 기간 중 대통령은 ,,Ch7 Sec3 Item27
+647,7,answer,프랭클린 루즈벨트,,Ch7 Sec3 Item28
+648,7,normal,였습니다 (Q.105). 미국이 제2차 세계 대전에 참전한 이유는 ,,Ch7 Sec3 Item29
+649,7,answer,진주만 폭격,,Ch7 Sec3 Item30
+650,7,normal,", ",,Ch7 Sec3 Item31
+651,7,answer,일본의 진주만 공격,,Ch7 Sec3 Item32
+652,7,normal,", ",,Ch7 Sec3 Item33
+653,7,answer,연합국을 지원하기 위해,,Ch7 Sec3 Item34
+654,7,normal,", ",,Ch7 Sec3 Item35
+655,7,answer,추축국을 반대하기 위해,,Ch7 Sec3 Item36
+656,7,normal,서였습니다 (Q.106). 드와이트 아이젠하워는 ,,Ch7 Sec3 Item37
+657,7,answer,제2차 세계 대전 중 장군,,Ch7 Sec3 Item38
+658,7,normal,", ",,Ch7 Sec3 Item39
+659,7,answer,6.25 전쟁 말기 중 대통령,,Ch7 Sec3 Item40
+660,7,normal,", ",,Ch7 Sec3 Item41
+661,7,answer,미국의 제34대 대통령,,Ch7 Sec3 Item42
+662,7,normal,", ",,Ch7 Sec3 Item43
+663,7,answer,1956년 연방 지원 고속도로 법 서명,,Ch7 Sec3 Item44
+664,7,normal,으로 유명합니다 (Q.107).,,Ch7 Sec3 Item45
+665,8,title,현대 미국과 자랑스러운 상징들,Modern America and Proud Symbols,Chapter 8 Title
+666,8,introduction,"미국의 여정은 계속됩니다. 현대에 이르러서도 미국은 여러 도전을 마주했고, 그 과정에서 자유와 평등의 가치를 지켜왔습니다. 이제 미국을 상징하는 것들을 알아봅시다.","America's journey continues. Even in modern times, America has faced many challenges and upheld the values of freedom and equality. Now let's learn about the symbols that represent America.",Chapter 8 Introduction
+667,8,normal,냉전 당시 미국의 주요 라이벌은 ,,Ch8 Sec1 Item1
+668,8,answer,소비엣 연방,,Ch8 Sec1 Item2
+669,8,normal,", 즉 ",,Ch8 Sec1 Item3
+670,8,answer,소련,,Ch8 Sec1 Item4
+671,8,normal,", ",,Ch8 Sec1 Item5
+672,8,answer,러시아,,Ch8 Sec1 Item6
+673,8,normal,"였습니다 (Q.108). 냉전 당시, 미국의 가장 큰 걱정은 ",,Ch8 Sec1 Item7
+674,8,answer,공산주의,,Ch8 Sec1 Item8
+675,8,normal,와 ,,Ch8 Sec1 Item9
+676,8,answer,핵 전쟁,,Ch8 Sec1 Item10
+677,8,normal,이었습니다 (Q.109). 미국은 ,,Ch8 Sec1 Item11
+678,8,answer,공산주의의 확산을 막기 위해,,Ch8 Sec1 Item12
+679,8,normal," 6.25 전쟁에 참여했고 (Q.110), 같은 이유로 베트남 전쟁에도 참여했습니다 (Q.111). 미국의 시민권 운동들은 ",,Ch8 Sec1 Item13
+680,8,answer,인종 차별을 끝내기 위해 싸웠습니다,,Ch8 Sec1 Item14
+681,8,normal, (Q.112). 마틴 루터 킹 주니어는 ,,Ch8 Sec1 Item15
+682,8,answer,시민 권리를 위해 투쟁했고,,Ch8 Sec1 Item16
+683,8,normal,", ",,Ch8 Sec1 Item17
+684,8,answer,미국의 평등권을 위해 싸웠으며,,Ch8 Sec1 Item18
+685,8,normal,", 사람들이 ",,Ch8 Sec1 Item19
+686,8,answer,피부색이 아니라 어떤 사람인지에 의해 판단되기 위해,,Ch8 Sec1 Item20
+687,8,normal, 노력했습니다 (Q.113). 미국은 ,,Ch8 Sec1 Item21
+688,8,answer,쿠웨이트에서 이라크 군대를 굴복시키기 위해,,Ch8 Sec1 Item22
+689,8,normal, 페르시아 걸프 전쟁에 참여했습니다 (Q.114).,,Ch8 Sec1 Item23
+690,8,normal,미국에서는 2001년 9월 11일에 큰 사건이 발생했습니다. ,,Ch8 Sec2 Item1
+691,8,answer,테러범들이 미국을 공격했고,,Ch8 Sec2 Item2
+692,8,normal,", ",,Ch8 Sec2 Item3
+693,8,answer,테러리스트들이 비행기 두 대를 탈취해 뉴욕시의 세계 무역 센터에 추락시켰으며,,Ch8 Sec2 Item4
+694,8,normal,", ",,Ch8 Sec2 Item5
+695,8,answer,테러리스트들이 비행기를 탈취해 버지니아 주 알링턴에 위치한 펜타곤에 추락시켰습니다,,Ch8 Sec2 Item6
+696,8,normal, (Q.115). 2001년 9월 11일의 공격 이후 미군의 분쟁으로는 ,,Ch8 Sec2 Item7
+697,8,answer,국제적인 테러와의 전쟁,,Ch8 Sec2 Item8
+698,8,normal,", ",,Ch8 Sec2 Item9
+699,8,answer,아프가니스탄 전쟁,,Ch8 Sec2 Item10
+700,8,normal,", ",,Ch8 Sec2 Item11
+701,8,answer,이라크 전쟁,,Ch8 Sec2 Item12
+702,8,normal,이 있었습니다 (Q.116). 미국의 원주민 부족으로는 ,,Ch8 Sec2 Item13
+703,8,answer,아파치,,Ch8 Sec2 Item14
+704,8,normal,", ",,Ch8 Sec2 Item15
+705,8,answer,체로키,,Ch8 Sec2 Item16
+706,8,normal,", ",,Ch8 Sec2 Item17
+707,8,answer,나바호,,Ch8 Sec2 Item18
+708,8,normal,", ",,Ch8 Sec2 Item19
+709,8,answer,수,,Ch8 Sec2 Item20
+710,8,normal, 등 많은 부족이 있습니다 (Q.117). 미국의 혁신의 예로는 ,,Ch8 Sec2 Item21
+711,8,answer,전구,,Ch8 Sec2 Item22
+712,8,normal,", ",,Ch8 Sec2 Item23
+713,8,answer,자동차,,Ch8 Sec2 Item24
+714,8,normal,", ",,Ch8 Sec2 Item25
+715,8,answer,고층 빌딩,,Ch8 Sec2 Item26
+716,8,normal,", ",,Ch8 Sec2 Item27
+717,8,answer,비행기,,Ch8 Sec2 Item28
+718,8,normal,", ",,Ch8 Sec2 Item29
+719,8,answer,조립 라인,,Ch8 Sec2 Item30
+720,8,normal,", ",,Ch8 Sec2 Item31
+721,8,answer,달 착륙,,Ch8 Sec2 Item32
+722,8,normal, 등이 있습니다 (Q.118). 미국의 수도는 ,,Ch8 Sec2 Item33
+723,8,answer,워싱턴 D.C.,,Ch8 Sec2 Item34
+724,8,normal,입니다 (Q.119). 자유의 여신상은 ,,Ch8 Sec2 Item35
+725,8,answer,뉴욕항,,Ch8 Sec2 Item36
+726,8,normal,", ",,Ch8 Sec2 Item37
+727,8,answer,리버티 섬,,Ch8 Sec2 Item38
+728,8,normal,에 있습니다 (Q.120).,,Ch8 Sec2 Item39
+729,8,normal,미국 성조기에는 왜 13개의 줄이 있을까요? ,,Ch8 Sec3 Item1
+730,8,answer,최초 식민 이주지가 13개였기 때문,,Ch8 Sec3 Item2
+731,8,normal,"이고, ",,Ch8 Sec3 Item3
+732,8,answer,줄무늬는 최초의 13개 식민 이주지를 나타내기 때문,,Ch8 Sec3 Item4
+733,8,normal,입니다 (Q.121). 미국 성조기에는 왜 50개의 별이 있을까요? ,,Ch8 Sec3 Item5
+734,8,answer,각 주마다 하나의 별이 있기 때문,,Ch8 Sec3 Item6
+735,8,normal,"이고, ",,Ch8 Sec3 Item7
+736,8,answer,각 별이 한 주를 나타내기 때문,,Ch8 Sec3 Item8
+737,8,normal,"이며, ",,Ch8 Sec3 Item9
+738,8,answer,50개의 주가 있기 때문,,Ch8 Sec3 Item10
+739,8,normal,입니다 (Q.122). 국가의 이름은 ,,Ch8 Sec3 Item11
+740,8,answer,성조기,,Ch8 Sec3 Item12
+741,8,normal,"입니다 (Q.123). 이 국가의 첫 모토는 'E Pluribus Unum'인데, 이는 ",,Ch8 Sec3 Item13
+742,8,answer,여럿에서 하나로,,Ch8 Sec3 Item14
+743,8,normal,", ",,Ch8 Sec3 Item15
+744,8,answer,모두 하나가 된다,,Ch8 Sec3 Item16
+745,8,normal,는 의미입니다 (Q.124). 독립기념일은 ,,Ch8 Sec3 Item17
+746,8,answer,미국의 영국으로부터 독립을 축하하는 휴일,,Ch8 Sec3 Item18
+747,8,normal,", 즉 ",,Ch8 Sec3 Item19
+748,8,answer,나라의 생일,,Ch8 Sec3 Item20
+749,8,normal,입니다 (Q.125). 미국의 국가 공휴일로는 ,,Ch8 Sec3 Item21
+750,8,answer,새해 첫날,,Ch8 Sec3 Item22
+751,8,normal,", ",,Ch8 Sec3 Item23
+752,8,answer,마틴 루터 킹 2세 기념일,,Ch8 Sec3 Item24
+753,8,normal,", ",,Ch8 Sec3 Item25
+754,8,answer,대통령 기념일,,Ch8 Sec3 Item26
+755,8,normal,", ",,Ch8 Sec3 Item27
+756,8,answer,전몰 장병 추도 기념일,,Ch8 Sec3 Item28
+757,8,normal,", ",,Ch8 Sec3 Item29
+758,8,answer,독립 기념일,,Ch8 Sec3 Item30
+759,8,normal,", ",,Ch8 Sec3 Item31
+760,8,answer,노동절,,Ch8 Sec3 Item32
+761,8,normal,", ",,Ch8 Sec3 Item33
+762,8,answer,재향 군인의 날,,Ch8 Sec3 Item34
+763,8,normal,", ",,Ch8 Sec3 Item35
+764,8,answer,추수 감사절,,Ch8 Sec3 Item36
+765,8,normal,", ",,Ch8 Sec3 Item37
+766,8,answer,크리스마스,,Ch8 Sec3 Item38
+767,8,normal, 등이 있습니다 (Q.126). 현충일은 ,,Ch8 Sec3 Item39
+768,8,answer,군 복무 중 사망한 군인을 기리는 휴일,,Ch8 Sec3 Item40
+769,8,normal,입니다 (Q.127). 재향 군인의 날은 ,,Ch8 Sec3 Item41
+770,8,answer,미군에 속한 이들을 기리기 위한 휴일,,Ch8 Sec3 Item42
+771,8,normal,", ",,Ch8 Sec3 Item43
+772,8,answer,미국 군대에 복무한 사람들을 기리기 위한 휴일,,Ch8 Sec3 Item44
+773,8,normal,입니다 (Q.128).,,Ch8 Sec3 Item45

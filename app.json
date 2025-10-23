@@ -2,7 +2,7 @@
   "expo": {
     "name": "Pass US Citizen Interview with AI Premium",
     "slug": "CitizenTestAi",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -54,7 +54,7 @@
       },
       "enableAds": true
     },
-    "runtimeVersion": "1.0.3",
+    "runtimeVersion": "1.0.4",
     "owner": "sinzjang"
   }
 }

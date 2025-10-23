@@ -1,0 +1,2970 @@
+[
+  {
+    "id": 1,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "¿Cuál es la forma de gobierno de los Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "República, Constitución basada en la República federal, Democracia representativa",
+        "rationale": "Antecedentes: Estados Unidos opera bajo un sistema diseñado para evitar que una sola entidad obtenga demasiado poder. Explicación: El gobierno de EE. UU. es una república, lo que significa que los ciudadanos eligen representantes. También es una república federal basada en la constitución, guiada por una constitución escrita y que comparte el poder entre los gobiernos federal y estatal. Finalmente, es una democracia representativa, donde la gente vota por individuos para que tomen decisiones en su nombre."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Monarquía, Dictadura comunista, Monarquía absoluta"
+      },
+      {
+        "text": "Democracia directa, Oligarquía, Teocracia"
+      },
+      {
+        "text": "Sistema parlamentario, República basada en el socialismo, Estado totalitario"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "¿Cuál es la ley suprema de la nación?*",
+    "correctAnswers": [
+      {
+        "text": "La Constitución",
+        "rationale": "La Constitución de los Estados Unidos es la ley suprema de los Estados Unidos. Es el documento fundamental que establece el marco del gobierno federal y garantiza los derechos de sus ciudadanos. Todas las demás leyes, ya sean locales, estatales o federales, deben cumplir con la Constitución. Reemplazó los Artículos de la Confederación y fue firmada en Filadelfia por los delegados de la Convención Constitucional en 1787."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Declaración (de EE. UU.)"
+      },
+      {
+        "text": "Congreso (de EE. UU.)"
+      },
+      {
+        "text": "Presidente (de EE. UU.)"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "Nombra una cosa que hace la Constitución de los Estados Unidos.",
+    "correctAnswers": [
+      {
+        "text": "Forma el gobierno, Define los poderes del gobierno, Define las partes del gobierno, Protege los derechos del pueblo",
+        "rationale": "La Constitución de los EE. UU. es la ley suprema de los Estados Unidos. Establece el marco para el gobierno federal y garantiza los derechos de sus ciudadanos. Respuestas simplificadas: - Crea la estructura del gobierno. - Describe lo que el gobierno puede y no puede hacer. - Define las diferentes ramas del gobierno. - Protege las libertades y los derechos individuales."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Elige al Presidente, Declara la guerra, Controla todas las leyes estatales"
+      },
+      {
+        "text": "Imprime dinero, Nombra jueces federales, Concede indultos"
+      },
+      {
+        "text": "Construye carreteras, Establece escuelas, Recauda todos los impuestos"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "La Constitución de los Estados Unidos empieza con las palabras \"Nosotros el Pueblo.\" ¿Qué significa \"Nosotros el Pueblo\"?",
+    "correctAnswers": [
+      {
+        "text": "Autogobierno, Soberanía popular, Consentimiento de los gobernados, El pueblo debería gobernarse a sí mismo, (Ejemplo de) contrato social",
+        "rationale": "\"Nosotros el Pueblo\" representa la idea de que el poder del gobierno proviene de sus ciudadanos. Este concepto es fundamental para la democracia estadounidense, lo que significa que el pueblo mismo tiene la autoridad para gobernar, y el gobierno existe solo con su permiso."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Supervisión gubernamental, Decreto presidencial, Revisión judicial, (Ejemplo de) proceso legislativo"
+      },
+      {
+        "text": "Poder ejecutivo, Autoridad del Congreso, Soberanía estatal, Las personas se rigen por leyes"
+      },
+      {
+        "text": "Mandato federal, Enmienda constitucional, Fallo de la Corte Suprema, (Ejemplo de) controles y equilibrios"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "¿Cómo se hacen los cambios en la Constitución de los Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Enmiendas, El proceso de enmienda",
+        "rationale": "La Constitución de EE. UU. se puede cambiar a través de un proceso formal de enmienda. Esto implica una propuesta por voto de dos tercios tanto de la Cámara de Representantes como del Senado o por una convención nacional convocada por dos tercios de las legislaturas estatales. Una vez propuesta, una enmienda debe ser ratificada por tres cuartos de los estados, ya sea a través de sus legislaturas o por convenciones. Este riguroso proceso fue diseñado por los Padres Fundadores para asegurar que la Constitución no se altere fácilmente."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Órdenes Ejecutivas, Decretos Presidenciales"
+      },
+      {
+        "text": "Fallos de la Corte Suprema, Revisión Judicial"
+      },
+      {
+        "text": "Resoluciones del Congreso, Actos Legislativos"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "¿Qué protege la Carta de derechos?",
+    "correctAnswers": [
+      {
+        "text": "Los derechos (básicos) de los estadounidenses, Los derechos (básicos) de las personas que viven en los Estados Unidos",
+        "rationale": "La Carta de Derechos son las primeras diez enmiendas a la Constitución de los Estados Unidos. Garantiza derechos esenciales y libertades civiles a los individuos, protegiéndolos de la extralimitación del gobierno. La respuesta indica que salvaguarda los derechos fundamentales de todas las personas que residen en los Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Los deberes básicos) de los ciudadanos, (Las responsabilidades básicas) de las personas que viven en los Estados Unidos"
+      },
+      {
+        "text": "(Los poderes básicos) del Presidente, (Los poderes básicos) del gobierno"
+      },
+      {
+        "text": "(Las leyes básicas) del país, (Las reglas básicas) para los militares"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "¿Cuántas enmiendas tiene la Constitución de los Estados Unidos? *",
+    "correctAnswers": [
+      {
+        "text": "Veintisiete (27)",
+        "rationale": "La Constitución de los EE. UU. actualmente tiene 27 enmiendas. Estas enmiendas son cambios o adiciones al texto original de la Constitución, diseñadas para adaptar el gobierno a los tiempos y valores cambiantes, al mismo tiempo que preservan sus principios fundamentales. Las primeras diez enmiendas se conocen colectivamente como la Declaración de Derechos, que garantizan las libertades individuales fundamentales."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Veintiuno (21)"
+      },
+      {
+        "text": "Treinta y tres (33)"
+      },
+      {
+        "text": "Dieciséis (16)"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "¿Por qué es importante la Declaración de independencia?",
+    "correctAnswers": [
+      {
+        "text": "Dice que Estados Unidos está libre del control británico., Dice que todas las personas son iguales., Identifica los derechos inherentes., Identifica las libertades individuales.",
+        "rationale": "La Declaración de Independencia es un documento fundamental para los Estados Unidos. Proclamó la libertad de las colonias americanas del dominio británico, afirmó que todas las personas son creadas iguales con derechos inherentes y describió las libertades individuales que la nueva nación protegería."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dice que Estados Unidos es una superpotencia mundial., Dice que todas las personas tienen que pagar impuestos., Identifica los poderes gubernamentales., Identifica las responsabilidades colectivas."
+      },
+      {
+        "text": "Dice que Estados Unidos descubrió nuevas tierras., Dice que todas las personas deben servir en el ejército., Identifica las ventajas económicas., Identifica los logros nacionales."
+      },
+      {
+        "text": "Dice que Estados Unidos es la nación más fuerte., Dice que todas las personas están protegidas de ataques extranjeros., Identifica las estrategias militares., Identifica los planes de defensa nacional."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "¿Qué documento fundacional decía que las colonias americanas estaban libres de Gran Bretaña?",
+    "correctAnswers": [
+      {
+        "text": "La Declaración de independencia",
+        "rationale": "La Declaración de Independencia es el documento fundacional de los Estados Unidos, adoptado el 4 de julio de 1776. Anunció y explicó la separación de las colonias americanas de Gran Bretaña, declarando que eran libres e independientes. Su propósito era unir a los colonos, conseguir aliados extranjeros y declarar formalmente la creación de un nuevo país después de que comenzara la Guerra de Independencia de Estados Unidos en abril de 1775."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Artículos de la Confederación"
+      },
+      {
+        "text": "Constitución de los Estados Unidos"
+      },
+      {
+        "text": "Declaración de Derechos"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "Nombra dos ideas importantes de la Declaración de independencia y de la Constitución de los Estados Unidos.",
+    "correctAnswers": [
+      {
+        "text": "Igualdad, Libertad, Contrato social, Derechos naturales, Gobierno limitado, Autogobierno",
+        "rationale": "Estas ideas son fundamentales para la Declaración de Independencia y la Constitución de los EE. UU., dando forma al sistema de gobierno estadounidense. * Igualdad: Todos los individuos son creados iguales y poseen los mismos derechos. * Libertad: Libertad de un gobierno opresivo y el derecho a tomar las propias decisiones. * Contrato social: La idea de que la autoridad del gobierno proviene del consentimiento de los gobernados. * Derechos naturales: Derechos inherentes a todas las personas, como la vida, la libertad y la propiedad (o la búsqueda de la felicidad). * Gobierno limitado: El poder del gobierno está restringido por ley para proteger las libertades individuales. * Autogobierno: El pueblo se gobierna a sí mismo a través de representantes electos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Comunismo, Dictadura, Monarquía, Totalitarismo, Anarquía, Feudalismo"
+      },
+      {
+        "text": "Socialismo, Oligarquía, Teocracia, Imperialismo, Colonialismo, Absolutismo"
+      },
+      {
+        "text": "Fascismo, Autoritarismo, Populismo, Despotismo, Nazismo, Aristocracia"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "Las palabras “Vida, libertad y buscar la felicidad.” ¿En qué documento fundacional están?",
+    "correctAnswers": [
+      {
+        "text": "La Declaración de independencia",
+        "rationale": "La Declaración de Independencia es el documento fundacional que establece \"Vida, libertad y la búsqueda de la felicidad\" como derechos inalienables. Fue adoptada el 4 de julio de 1776, anunciando la separación de las 13 colonias americanas de Gran Bretaña. Las colonias habían estado en guerra con Gran Bretaña durante más de un año cuando se adoptó la Declaración."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Artículos de la Confederación"
+      },
+      {
+        "text": "Constitución de los Estados Unidos"
+      },
+      {
+        "text": "Declaración de Derechos"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "¿Cuál es el sistema económico de los Estados Unidos? *",
+    "correctAnswers": [
+      {
+        "text": "Capitalismo, Economía de libre mercado",
+        "rationale": "Los Estados Unidos operan principalmente bajo un sistema económico capitalista de libre mercado. En este sistema, los individuos y las empresas controlan en gran medida los medios de producción y distribución, con los precios y la producción determinados por la oferta y la demanda, en lugar de por el control gubernamental. El papel del gobierno es generalmente regular el mercado, hacer cumplir los contratos y proporcionar algunos bienes y servicios públicos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Socialismo, Economía dirigida"
+      },
+      {
+        "text": "Comunismo, Economía planificada"
+      },
+      {
+        "text": "Feudalismo, Sistema de trueque"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "¿En qué consiste el Estado de derecho?",
+    "correctAnswers": [
+      {
+        "text": "Todos deben seguir la ley., Los líderes deben obedecer la ley., El gobierno debe obedecer la ley., Nadie está por encima de la ley.",
+        "rationale": "Antecedentes: El Estado de derecho es un principio fundamental del gobierno estadounidense. Significa que todas las personas e instituciones están sujetas y rinden cuentas a una ley que se aplica y se hace cumplir de manera justa. Explicación: El Estado de derecho asegura que todos, incluidos los líderes y el gobierno, deben obedecer las leyes. Nadie está por encima de la ley. Este principio promueve la equidad y previene el abuso de poder."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Solo algunas personas deben seguir la ley., Los líderes están por encima de la ley., El gobierno está por encima de la ley., Algunas personas están por encima de la ley."
+      },
+      {
+        "text": "Las leyes solo se aplican a los ciudadanos., El presidente puede ignorar las leyes., El gobierno crea leyes para otros., Las leyes son sugerencias."
+      },
+      {
+        "text": "La policía hace cumplir las leyes., Los jueces interpretan las leyes., Los abogados representan a los clientes., El público vota las leyes."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "Muchos documentos influyeron en la Constitución de los Estados Unidos. Nombra uno de ellos.",
+    "correctAnswers": [
+      {
+        "text": "Declaración de independencia, Artículos de confederación, Documentos federalistas, Documentos antifederalistas, Declaración de derechos de Virginia, Órdenes fundamentales de Connecticut, Pacto del Mayflower, Gran ley de la paz de Iroquois",
+        "rationale": "La Constitución de los Estados Unidos estuvo influenciada por varios documentos históricos importantes. La Declaración de Independencia declaró la separación de las colonias de Gran Bretaña. Los Artículos de la Confederación sirvieron como la primera constitución de los EE. UU., estableciendo una \"firme liga\" entre los estados. Los Documentos Federalistas fueron ensayos escritos para persuadir a los votantes a apoyar la nueva Constitución, mientras que los Documentos Antifederalistas expresaron temores sobre el poder del nuevo gobierno. La Declaración de Derechos de Virginia fue un documento fundamental que influyó en la Declaración de Independencia y la Declaración de Derechos. Otros documentos como las Órdenes Fundamentales de Connecticut, el Pacto del Mayflower y la Gran Ley de la Paz Iroquesa también contribuyeron a las ideas de autogobierno estadounidense."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Carta Magna, Declaración de Derechos inglesa, Sentido Común, Dos Tratados de Gobierno, Petición de Derechos, Artículos de la Confederación, El Espíritu de las Leyes, El Contrato Social"
+      },
+      {
+        "text": "Declaración Francesa de los Derechos del Hombre, Manifiesto Comunista, Sobre la Libertad, El Príncipe, Utopía, Leviatán, La República, El Capital"
+      },
+      {
+        "text": "Código de Hammurabi, Doce Tablas, Código de Justiniano, Código Napoleónico, Leyes Draconianas, Constitución Soloniana, Reformas de Licurgo, Los Edictos de Ashoka"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Principios del Gobierno Estadounidense",
+    "question": "Hay tres ramas de gobierno. ¿Por qué?",
+    "correctAnswers": [
+      {
+        "text": "De forma que una parte no se vuelva demasiado poderosa, Controles y equilibrios, Separación de poderes",
+        "rationale": "Las tres ramas del gobierno (legislativa, ejecutiva y judicial) tienen poderes distintos para evitar que una sola rama se vuelva demasiado dominante. Este sistema de controles y equilibrios asegura una separación de poderes, lo que significa que cada rama puede limitar los poderes de las otras, manteniendo así un gobierno equilibrado y protegiendo las libertades."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Para garantizar la equidad para todos, Para evitar el abuso de poder por parte de cualquier rama, Para proteger las libertades individuales"
+      },
+      {
+        "text": "Para permitir una toma de decisiones rápida, Para simplificar los procesos gubernamentales, Para centralizar la autoridad"
+      },
+      {
+        "text": "Para promover el crecimiento económico, Para mantener el orden social, Para proteger las fronteras nacionales"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "Nombra las tres ramas de gobierno.",
+    "correctAnswers": [
+      {
+        "text": "Legislativo, ejecutivo y judicial, El Congreso, el Presidente y los tribunales",
+        "rationale": "Las tres ramas del gobierno en los Estados Unidos están diseñadas para crear un sistema de controles y equilibrios, asegurando que ninguna rama se vuelva demasiado poderosa. Explicación de la respuesta: * Poder Legislativo (Congreso): Hace las leyes. * Poder Ejecutivo (Presidente): Ejecuta y hace cumplir las leyes. * Poder Judicial (Tribunales): Interpreta las leyes y administra justicia."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Económico, social y cultural, negocios, personas y los estados"
+      },
+      {
+        "text": "Federal, estatal y local, alcalde, gobernador y el país"
+      },
+      {
+        "text": "Público, privado y civil, ciudadanos, empresas y las ciudades"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿El Presidente de los Estados Unidos está a cargo de qué rama del gobierno?",
+    "correctAnswers": [
+      {
+        "text": "Poder ejecutivo",
+        "rationale": "El Presidente de los Estados Unidos lidera la rama ejecutiva, que es responsable de implementar y hacer cumplir las leyes escritas por el Congreso. Esta rama también incluye al Vicepresidente y varios departamentos y agencias."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Poder legislativo"
+      },
+      {
+        "text": "Poder judicial"
+      },
+      {
+        "text": "Congreso"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Qué parte del gobierno federal escribe las leyes?",
+    "correctAnswers": [
+      {
+        "text": "(EE. UU.) El Congreso, La legislatura (nacional o EE. UU.), Poder legislativo",
+        "rationale": "El Congreso de los Estados Unidos, compuesto por el Senado y la Cámara de Representantes, es la rama legislativa del gobierno federal. Su principal responsabilidad es crear y aprobar leyes para el país. Este sistema está diseñado para garantizar la representación de todos los estados y un proceso exhaustivo para la elaboración de leyes."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Poder Ejecutivo (Presidente), Líder (Presidente o nacional), Rama Ejecutiva"
+      },
+      {
+        "text": "Corte (Suprema), Poder judicial (Supremo o nacional), Rama Judicial"
+      },
+      {
+        "text": "Gobernador (Estatal), Líder (Estatal o nacional), Gobierno estatal"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuáles son las dos partes que integran el Congreso de los Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "El Senado y la Cámara (de Representantes)",
+        "rationale": "El Congreso de los Estados Unidos, el poder legislativo del gobierno federal, es bicameral, lo que significa que está dividido en dos cámaras distintas: el Senado y la Cámara de Representantes. Esta estructura fue establecida por la Constitución de los Estados Unidos para proporcionar un sistema de pesos y contrapesos, asegurando diferentes formas de representación y procesos legislativos. El Senado, con igual representación para cada estado, y la Cámara de Representantes, con representación proporcional basada en la población, trabajan juntos para crear y aprobar leyes."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Presidente y Vicepresidente"
+      },
+      {
+        "text": "Poder Ejecutivo y Judicial (Ramas)"
+      },
+      {
+        "text": "Gobernadores y Alcaldes"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "Nombra un poder del Congreso de los Estados Unidos. *",
+    "correctAnswers": [
+      {
+        "text": "Escribir leyes, Declarar guerra, Preparar el presupuesto federal",
+        "rationale": "El Congreso de los Estados Unidos, compuesto por la Cámara de Representantes y el Senado, es la rama legislativa del gobierno federal. Su función principal es crear leyes para el país. Los poderes clave incluyen redactar y aprobar legislación, declarar la guerra oficialmente y aprobar el presupuesto federal, que describe el gasto gubernamental."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nombra jueces, Comanda militares, Veta legislación"
+      },
+      {
+        "text": "Aplica leyes, Interpreta leyes, Perdona criminales"
+      },
+      {
+        "text": "Negocia tratados, Recauda impuestos, Emite órdenes ejecutivas"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuántos senadores de los Estados Unidos hay?",
+    "correctAnswers": [
+      {
+        "text": "Cien (100)",
+        "rationale": "El Senado de los Estados Unidos está compuesto por 100 senadores, con dos senadores representando cada uno de los 50 estados. Estos senadores cumplen mandatos de seis años."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Cincuenta (50)"
+      },
+      {
+        "text": "Doscientos (200)"
+      },
+      {
+        "text": "Setenta (70)"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuánto dura un mandato para un senador de los EE. UU.?",
+    "correctAnswers": [
+      {
+        "text": "Seis (6) años",
+        "rationale": "Los senadores cumplen mandatos de seis años para brindar estabilidad y permitirles enfocarse en políticas a largo plazo sin la presión constante de la reelección. Este período más largo los distingue de los Representantes de la Cámara, quienes cumplen mandatos de dos años y responden más directamente al sentimiento público inmediato."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dos (2) años"
+      },
+      {
+        "text": "Cuatro (4) años"
+      },
+      {
+        "text": "Diez (10) años"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "Nombre a uno de los senadores actuales del estado donde usted vive.",
+    "correctAnswers": [
+      {
+        "text": "Las respuestas variarán. [Los residentes del Distrito de Columbia y los territorios de los Estados Unidos deberán responder que D.C. (o territorio en donde vive el solicitante) no cuenta con senadores a nivel nacional.]",
+        "rationale": "La respuesta a esta pregunta depende del estado donde viva la persona. Cada estado de EE. UU. elige dos senadores para representarlos en el Senado de EE. UU. Como hay 50 estados, hay un total de 100 senadores de EE. UU."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "[Las respuestas incorrectas variarán]"
+      },
+      {
+        "text": "[No hay una respuesta específica]"
+      },
+      {
+        "text": "[Varía según el estado]"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuántos miembros con derecho a voto hay en la Cámara de Representantes?",
+    "correctAnswers": [
+      {
+        "text": "Cuatrocientos treinta y cinco (435)",
+        "rationale": "La Cámara de Representantes es la cámara baja del Congreso de los Estados Unidos. El número de miembros con derecho a voto está fijado en 435 por ley, con la representación de cada estado determinada por la población. Este número se ha mantenido desde 1913."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Trescientos (300)"
+      },
+      {
+        "text": "Quinientos (500)"
+      },
+      {
+        "text": "Doscientos (200)"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuánto dura un mandato para un miembro de la Cámara de Representantes?",
+    "correctAnswers": [
+      {
+        "text": "Dos (2) años",
+        "rationale": "Los miembros de la Cámara de Representantes de EE. UU. sirven términos de dos años. Esta duración de mandato más corta, en comparación con el mandato de seis años para los senadores, fue diseñada para mantener a los representantes más directamente responsables ante sus electores y para reflejar la opinión pública con mayor frecuencia. Toda la Cámara se somete a reelección cada dos años."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Cuatro (4) años"
+      },
+      {
+        "text": "Seis (6) años"
+      },
+      {
+        "text": "Un (1) año"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Por qué los representantes sirven por períodos más cortos que los senadores de los EE. UU.?",
+    "correctAnswers": [
+      {
+        "text": "Para seguir más de cerca la opinión pública",
+        "rationale": "Explicación: Los redactores de la Constitución de los EE. UU. diseñaron la Cámara de Representantes para que respondiera más directamente a la voluntad inmediata del pueblo. Al tener mandatos más cortos, los representantes son más frecuentemente responsables ante sus electores y la opinión pública. Antecedentes: El Congreso de los EE. UU. es bicameral y consta de la Cámara de Representantes y el Senado. Los representantes cumplen mandatos de dos años, mientras que los senadores cumplen mandatos de seis años. Esta diferencia en la duración de los mandatos refleja la intención de los redactores de crear un equilibrio entre la representación popular directa y un pensamiento legislativo más deliberativo y a largo plazo."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Para limitar su poder"
+      },
+      {
+        "text": "Para asegurar un gobierno más estable"
+      },
+      {
+        "text": "Para representar a un grupo más pequeño de personas"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuántos senadores tiene cada estado?",
+    "correctAnswers": [
+      {
+        "text": "Dos (2)",
+        "rationale": "Cada estado, independientemente de su población, tiene dos senadores para asegurar una representación igualitaria para todos los estados en el Senado de los EE. UU. Esta estructura fue establecida por la Constitución de los EE. UU. para equilibrar el poder de los estados más grandes y más pequeños."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Uno (1)"
+      },
+      {
+        "text": "Tres (3)"
+      },
+      {
+        "text": "Cuatro (4)"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Por qué cada estado tiene dos senadores?",
+    "correctAnswers": [
+      {
+        "text": "Representación igualitaria (para los estados pequeños), El Gran compromiso (Compromiso de Connecticut)",
+        "rationale": "El Senado de los Estados Unidos tiene dos senadores por estado para asegurar una representación igualitaria para todos los estados, sin importar el tamaño de su población. Esto fue una parte clave del \"Gran Compromiso\" (también conocido como el Compromiso de Connecticut) durante la Convención Constitucional, que equilibró los intereses de los estados grandes y pequeños."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "El orden del Presidente (para equilibrar el poder), La Declaración de Derechos (para los estados individuales)"
+      },
+      {
+        "text": "Para limitar el poder federal (y aumentar el control estatal), Los Artículos de la Confederación (primera constitución)"
+      },
+      {
+        "text": "Densidad de población (de estados más grandes), El Consentimiento Unánime (de todos los delegados)"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "Nombre a su representante a nivel nacional.",
+    "correctAnswers": [
+      {
+        "text": "Las respuestas variarán. [Los residentes de territorios con delegados no votantes o comisionados residentes pueden decir el nombre de dicho delegado o comisionado. También es aceptable una respuesta que indique que el territorio no tiene representantes (votantes) en el Congreso.]",
+        "rationale": "Explicación: La respuesta varía porque cada representante de EE. UU. es elegido para representar un distrito específico, por lo que la respuesta correcta depende de la ubicación del examinado. Antecedentes: La Cámara de Representantes de EE. UU. está compuesta por miembros elegidos por el pueblo de los 50 estados. El número de representantes que tiene cada estado se basa en su población. Estos representantes sirven términos de dos años y son responsables de representar los intereses de sus constituyentes en el gobierno federal."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nancy Pelosi"
+      },
+      {
+        "text": "Kevin Mullin"
+      },
+      {
+        "text": "Maxine Waters"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cómo se llama el Presidente actual de la Cámara de Representantes?*",
+    "correctAnswers": [
+      {
+        "text": "Visite uscis.gov/citizenship/testupdates para saber el nombre del Portavoz de la Cámara de Representantes.",
+        "rationale": "El Portavoz de la Cámara es el líder de la Cámara de Representantes de los Estados Unidos. Este puesto se ocupa mediante una elección al comienzo de cada nuevo Congreso, o si el puesto queda vacante. El Portavoz actual es Mike Johnson. La respuesta \"Las respuestas variarán\" indica que el nombre del Portavoz puede cambiar con el tiempo."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Incorrecto:"
+      },
+      {
+        "text": "Kevin McCarthy"
+      },
+      {
+        "text": "Nancy Pelosi"
+      },
+      {
+        "text": "Paul Ryan"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿A quién representa un senador de los EE. UU.?",
+    "correctAnswers": [
+      {
+        "text": "Los ciudadanos de su estado, La gente de su estado",
+        "rationale": "Un senador de los Estados Unidos representa a toda la población de su estado específico en el gobierno federal. Esto asegura que los intereses y necesidades de todos los ciudadanos del estado sean expresados en la formulación de políticas nacionales."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "El Presidente, El Vicepresidente"
+      },
+      {
+        "text": "La Corte Suprema, La Cámara de Representantes"
+      },
+      {
+        "text": "Gobiernos extranjeros, Otros países"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Quién elige a los senadores de los EE. UU.?",
+    "correctAnswers": [
+      {
+        "text": "Los ciudadanos de su estado",
+        "rationale": "En Estados Unidos, los senadores son elegidos directamente por los ciudadanos de sus respectivos estados. Este proceso es una parte fundamental de la democracia estadounidense, lo que permite a la gente elegir a sus representantes en el gobierno federal. La 17ª Enmienda a la Constitución de los Estados Unidos, ratificada en 1913, estableció la elección directa de los senadores por voto popular, reemplazando el sistema anterior en el que las legislaturas estatales los elegían."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "El Presidente"
+      },
+      {
+        "text": "La Cámara de Representantes"
+      },
+      {
+        "text": "La Corte Suprema"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿A quiénes representa un miembro de la Cámara de Representantes?",
+    "correctAnswers": [
+      {
+        "text": "Los ciudadanos en su distrito (congresional), Los ciudadanos en su distrito, Personas de su distrito (del Congreso), Personas en su distrito",
+        "rationale": "Explicación: Los miembros de la Cámara de Representantes representan a las personas que viven en áreas geográficas específicas dentro de su estado, conocidas como distritos congresionales. Esto asegura que las diversas necesidades e intereses de las diferentes comunidades en todo el país sean escuchados y abordados en la legislatura nacional. Antecedentes: La Cámara de Representantes de EE. UU. está diseñada para ser la cámara del Congreso más cercana a la gente. Los representantes son elegidos por períodos de dos años, y el número de representantes que tiene cada estado se basa en su población, según lo determinado por el censo decenal."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "El Presidente, La Corte Suprema, El Senado"
+      },
+      {
+        "text": "El Gobernador, La Legislatura Estatal, El Alcalde"
+      },
+      {
+        "text": "Ciudadanos extranjeros, Ciudadanos de otros países, No residentes"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Quién elige a los miembros de la Cámara de Representantes?",
+    "correctAnswers": [
+      {
+        "text": "Los ciudadanos de su distrito (congresional)",
+        "rationale": "La Cámara de Representantes de EE. UU. está compuesta por miembros elegidos por el pueblo. Cada miembro representa un distrito congresional específico dentro de su estado, y solo los ciudadanos que viven en ese distrito pueden votar por su representante."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Senadores de su distrito (electoral)"
+      },
+      {
+        "text": "Gobernadores de su distrito (estatal)"
+      },
+      {
+        "text": "El Presidente de su distrito (nacional)"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Por qué algunos estados tienen más representantes que otros?",
+    "correctAnswers": [
+      {
+        "text": "(Debido a) la población del estado, (Debido a que) tienen más gente, (Debido a que) algunos estados tienen más gente",
+        "rationale": "El número de representantes que tiene un estado en la Cámara de Representantes se basa en su población. Los estados con más gente obtienen más representantes, asegurando que la representación sea proporcional a la población del estado. Este sistema es parte del Gran Compromiso durante la redacción de la Constitución de los Estados Unidos, equilibrando los intereses de los estados grandes y pequeños."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Debido a) el tamaño del estado, (Porque) tienen más tierra, (Porque) algunos estados son más grandes"
+      },
+      {
+        "text": "(Debido a) la ubicación del estado, (Porque) están en el sur, (Porque) algunos estados son más cálidos"
+      },
+      {
+        "text": "(Debido a) la historia del estado, (Porque) fueron fundados primero, (Porque) algunos estados son más antiguos"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿De cuántos años es el término de elección de un presidente? *",
+    "correctAnswers": [
+      {
+        "text": "Cuatro (4）",
+        "rationale": "El Presidente de los Estados Unidos cumple un mandato de cuatro años. Este límite de mandato fue establecido por la 22ª Enmienda de la Constitución de los EE. UU., ratificada en 1951, principalmente para evitar que cualquier presidente sirviera un número excesivo de mandatos, después de los cuatro mandatos de Franklin D. Roosevelt durante un período de crisis nacional."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dos (2) años"
+      },
+      {
+        "text": "Seis (6) años"
+      },
+      {
+        "text": "Ocho (8) años"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "El Presidente de los Estados Unidos sólo puede cumplir dos mandatos. ¿Por qué?",
+    "correctAnswers": [
+      {
+        "text": "(Debido a) la 22a Enmienda, Para evitar que el presidente se vuelva demasiado poderoso",
+        "rationale": "La 22ª Enmienda limita al Presidente a dos mandatos para evitar que una sola persona acumule demasiado poder, asegurando un equilibrio de poder y promoviendo principios democráticos al permitir cambios regulares en el liderazgo."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Debido a) la 19ª Enmienda, Para hacer al presidente más poderoso"
+      },
+      {
+        "text": "(Debido a) la 13ª Enmienda, Para permitir que el presidente sirva términos ilimitados"
+      },
+      {
+        "text": "(Debido a) la 1ª Enmienda, Para limitar el poder del presidente a un mandato"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cómo se llama el actual Presidente de los Estados Unidos?*",
+    "correctAnswers": [
+      {
+        "text": "Visite uscis.gov/citizenship/testupdates para saber el nombre del Presidente de Estados Unidos.",
+        "rationale": "La respuesta correcta depende de cuándo se haga la pregunta porque el actual Presidente de los Estados Unidos cambia con el tiempo. Esta pregunta se usa a menudo para exámenes de educación cívica o ciudadanía para asegurar que los examinados estén al tanto del panorama político actual."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "George Washington"
+      },
+      {
+        "text": "Abraham Lincoln"
+      },
+      {
+        "text": "John F. Kennedy"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cómo se llama el actual Vicepresidente de los Estados Unidos? *",
+    "correctAnswers": [
+      {
+        "text": "Visite uscis.gov/citizenship/testupdates para saber el nombre del Vicepresidente de Estados Unidos.",
+        "rationale": "La Vicepresidenta de los Estados Unidos cambia según los resultados de las elecciones. Por lo tanto, la respuesta a esta pregunta variará dependiendo de cuándo se haga. La Vicepresidenta también sirve como Presidenta del Senado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "George Washington"
+      },
+      {
+        "text": "Abraham Lincoln"
+      },
+      {
+        "text": "John F. Kennedy"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "Si el Presidente ya no puede cumplir sus funciones, ¿quién se convierte en Presidente?",
+    "correctAnswers": [
+      {
+        "text": "El Vicepresidente",
+        "rationale": "Explicación: Si el Presidente ya no puede servir, el Vicepresidente asume el cargo para mantener la continuidad en el liderazgo. Esto es parte de la línea de sucesión presidencial."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "El Presidente de la Cámara de Representantes"
+      },
+      {
+        "text": "El Presidente de la Corte Suprema"
+      },
+      {
+        "text": "El Secretario de Estado"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "Nombra una poder del presidente.",
+    "correctAnswers": [
+      {
+        "text": "Firma los proyectos de ley, Veta los proyectos de ley, Aplica las leyes, Comandante en jefe (de las fuerzas armadas), Jefe diplomático, Nombra a jueces federales",
+        "rationale": "El Presidente de los Estados Unidos tiene una autoridad significativa. Sus poderes incluyen promulgar leyes (o vetarlas), hacer cumplir esas leyes, servir como Comandante en Jefe del ejército, actuar como el principal diplomático de la nación y nombrar jueces federales. Estas responsabilidades son cruciales para el funcionamiento del gobierno estadounidense."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Declara la guerra, Nombra gobernadores estatales, Escribe leyes estatales"
+      },
+      {
+        "text": "Aprueba presupuestos estatales, Comanda milicias estatales, Negocia tratados estatales"
+      },
+      {
+        "text": "Grava impuestos estatales, Imprime dinero estatal, Establece días festivos estatales"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Quién es el Comandante en Jefe de las Fuerzas Armadas?",
+    "correctAnswers": [
+      {
+        "text": "El Presidente",
+        "rationale": "El Presidente de los Estados Unidos ostenta el título de Comandante en Jefe, lo que significa que es el comandante supremo de todas las fuerzas militares de EE. UU. Este rol se describe en la Constitución de los EE. UU., estableciendo el control civil sobre el ejército para asegurar que el poder militar esté subordinado al gobierno democrático."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "El Presidente de la Cámara de Representantes"
+      },
+      {
+        "text": "El Presidente del Tribunal Supremo"
+      },
+      {
+        "text": "El Vicepresidente de los Estados Unidos"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Quién firma los proyectos de ley para convertirlos en ley?",
+    "correctAnswers": [
+      {
+        "text": "El Presidente",
+        "rationale": "El Presidente de los Estados Unidos juega un papel crucial en el proceso legislativo. Después de que un proyecto de ley es aprobado tanto por la Cámara de Representantes como por el Senado, se envía al Presidente. El Presidente puede entonces firmar el proyecto de ley para convertirlo en ley, vetarlo (rechazarlo) o permitir que se convierta en ley sin una firma. Una firma presidencial es el paso final para promulgar un proyecto de ley, haciéndolo ejecutable en todo el país."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "El Vicepresidente (de los Estados Unidos)"
+      },
+      {
+        "text": "El Portavoz (de la Cámara)"
+      },
+      {
+        "text": "El Presidente del Tribunal Supremo (del Tribunal Supremo)"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Quién veta los proyectos de ley? *",
+    "correctAnswers": [
+      {
+        "text": "El Presidente",
+        "rationale": "Explicación: El Presidente tiene el poder de rechazar los proyectos de ley aprobados por el Congreso, impidiendo que se conviertan en ley. Antecedentes: Este poder es una parte clave del sistema de pesos y contrapesos en el gobierno de EE. UU., diseñado para garantizar que ninguna rama se vuelva demasiado poderosa."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "El Presidente de la Cámara de Representantes"
+      },
+      {
+        "text": "El Juez Presidente (de la Corte Suprema)"
+      },
+      {
+        "text": "El Vicepresidente (de los Estados Unidos)"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Quién designa a los jueces federales?",
+    "correctAnswers": [
+      {
+        "text": "El Presidente (de los Estados Unidos)",
+        "rationale": "El Presidente de los Estados Unidos nombra a los jueces federales. Esto es parte del sistema de controles y equilibrios, donde el Poder Ejecutivo (Presidente) propone a los jueces y el Poder Legislativo (Senado) confirma estas nominaciones. Esto asegura que ninguna rama tenga demasiado poder."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "El Presidente del Tribunal Supremo (de la Corte Suprema)"
+      },
+      {
+        "text": "El Senado (de los Estados Unidos)"
+      },
+      {
+        "text": "El Presidente (de la Cámara de Representantes)"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "El poder ejecutivo tiene muchas partes. Nombra uno de ellas.",
+    "correctAnswers": [
+      {
+        "text": "Presidente (de los Estados Unidos), Gabinete, Los departamentos y agencias federales",
+        "rationale": "La rama ejecutiva es responsable de implementar y hacer cumplir las leyes escritas por el Congreso. El Presidente de los Estados Unidos es el jefe de la rama ejecutiva. El Gabinete y los departamentos y agencias federales ayudan al Presidente a llevar a cabo estas tareas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "La Corte Suprema (de los Estados Unidos), El Congreso, Las legislaturas y agencias estatales"
+      },
+      {
+        "text": "El Presidente (de la Cámara), El Senado, Los departamentos y agencias locales"
+      },
+      {
+        "text": "El Presidente del Tribunal Supremo (de los Estados Unidos), La Cámara de Representantes, Los departamentos y agencias del condado"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Qué hace el Gabinete del Presidente?",
+    "correctAnswers": [
+      {
+        "text": "Asesora al Presidente",
+        "rationale": "El Gabinete del Presidente está compuesto por los jefes de los departamentos ejecutivos, elegidos por el Presidente, y su función principal es asesorar al Presidente en asuntos relacionados con sus respectivos departamentos y cuestiones nacionales más amplias. Este órgano asesor ayuda al Presidente a tomar decisiones informadas y a ejecutar políticas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Aprueba leyes (del Congreso)"
+      },
+      {
+        "text": "Nombra jueces de la Corte Suprema (para el país)"
+      },
+      {
+        "text": "Dirige el ejército (de la nación)"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuáles son dos puestos a nivel de gabinete?",
+    "correctAnswers": [
+      {
+        "text": "Secretario de Agricultura, Secretario de Comercio, Secretario de Defensa, Secretario de Educación, Secretario de Energía, Secretario de Salud y Servicios Humanos, Secretario de Seguridad Nacional, Secretario de Vivienda y Desarrollo Urbano, Secretario del Interior, Secretario del Trabajo, Secretario de Estado, Secretario de Transporte, Secretario del Tesoro, Secretario de Asuntos de los Veteranos, Procurador General, Vicepresidente, Administrador de la Agencia de Protección Ambiental, Administrador de la Administración de Pequeñas Empresas, Director de la Agencia Central de Inteligencia, Director de la Oficina de Administración y Presupuesto, Director de Inteligencia Nacional, Representante Comercial de Estados Unidos",
+        "rationale": "El Gabinete de los Estados Unidos está compuesto por los funcionarios designados de mayor rango del poder ejecutivo del gobierno federal. El papel del Gabinete es asesorar al Presidente sobre cualquier tema que pueda requerir en relación con los deberes de sus respectivas oficinas. Estos puestos a menudo se denominan \"a nivel de gabinete\" porque sus titulares se consideran parte del círculo íntimo de asesores del Presidente."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Jefe de Gabinete, Secretario de Prensa, Embajador ante las Naciones Unidas"
+      },
+      {
+        "text": "Presidente de la Reserva Federal, Juez de la Corte Suprema, Presidente de la Cámara de Representantes"
+      },
+      {
+        "text": "Director del FBI, Comisionado del IRS, Director General de Correos"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Por qué es importante el Colegio electoral?",
+    "correctAnswers": [
+      {
+        "text": "Decide quién es elegido presidente., Proporciona un compromiso entre la elección popular del presidente y la selección del congreso.",
+        "rationale": "El Colegio Electoral es un sistema establecido por la Constitución de los Estados Unidos para la elección indirecta del presidente y vicepresidente. A cada estado se le asigna un número de votos electorales en función de su número total de representantes en el Congreso (Cámara + Senado). Cuando los ciudadanos votan en una elección presidencial, técnicamente votan por una lista de electores que se han comprometido a apoyar a un candidato en particular.\n\nEl Colegio Electoral es importante por dos razones principales:1.  Determina quién se convierte en presidente, ya que un candidato debe ganar la mayoría de los votos electorales (270 de 538) para ser elegido.\n2.  Representa un compromiso al equilibrar la voluntad del voto popular con la representación de los estados, particularmente aquellos con poblaciones más pequeñas. Esto asegura que los candidatos necesiten un amplio apoyo en diferentes regiones y no solo en áreas densamente pobladas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Permite a los estados votar sobre las enmiendas."
+      },
+      {
+        "text": "Asegura que los estados más pequeños tengan menos poder que los estados más grandes. Determina el número de representantes que obtiene cada estado."
+      },
+      {
+        "text": "Es responsable de aprobar los nombramientos presidenciales. Es un órgano consultivo de la Corte Suprema. Se estableció para limitar el poder del gobierno federal."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuál es una parte del poder judicial?",
+    "correctAnswers": [
+      {
+        "text": "El Tribunal supremo, El Tribunal federal",
+        "rationale": "La rama judicial es responsable de interpretar las leyes de los Estados Unidos y resolver disputas legales. Está compuesta por la Corte Suprema, que es el tribunal más alto del país, y los tribunales federales, que manejan casos que involucran leyes federales."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Rama Legislativa, Poder Ejecutivo"
+      },
+      {
+        "text": "Gabinete del Presidente, Gobernadores Estatales"
+      },
+      {
+        "text": "Cámara de Representantes, Senado"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Qué hace la rama judicial?",
+    "correctAnswers": [
+      {
+        "text": "Revisa las leyes, Explica las leyes, Resuelve disputas (desacuerdos) Sobre la ley, Decide si una ley va en contra de la Constitución",
+        "rationale": "La Rama Judicial es responsable de interpretar las leyes de los Estados Unidos y de resolver disputas legales. Asegura que las leyes se apliquen de manera justa y que cumplan con la Constitución de los EE. UU. Sus funciones principales incluyen: revisar leyes, explicar el significado de las leyes, resolver desacuerdos sobre leyes y decidir si una ley viola la Constitución."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Hace cumplir las leyes, Crea leyes, Nombra jueces (a la Corte Suprema), Declara la guerra"
+      },
+      {
+        "text": "Elige al Presidente, Recauda impuestos, Gestiona el ejército (y la defensa), Firma tratados"
+      },
+      {
+        "text": "Negocia con otros países, Imprime dinero, Proporciona educación pública, Regula el comercio"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuál es el tribunal más alto de los Estados Unidos? *",
+    "correctAnswers": [
+      {
+        "text": "La Corte Suprema",
+        "rationale": "La Corte Suprema es el tribunal más alto de los Estados Unidos y el árbitro final de la ley. Fue establecida por la Ley Judicial de 1789 con seis jueces, y actualmente consta de un Presidente del Tribunal Supremo y ocho jueces asociados. Estos jueces son nombrados por el Presidente, confirmados por el Senado y suelen ocupar el cargo de por vida. El Tribunal tiene el poder de revisión judicial, lo que le permite interpretar la Constitución y revisar los actos del Congreso."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "District Court: Tribunal de Distrito"
+      },
+      {
+        "text": "Circuit Court: Tribunal de Circuito"
+      },
+      {
+        "text": "Appeals Court: Tribunal de Apelaciones"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuántos escaños hay en la Suprema Corte?",
+    "correctAnswers": [
+      {
+        "text": "Nueve (9)",
+        "rationale": "La Corte Suprema de los Estados Unidos está compuesta por un Presidente de la Corte y ocho Jueces Asociados, lo que suma un total de nueve miembros. Este número ha sido establecido desde 1869. Los jueces son nominados por el Presidente y confirmados por el Senado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Siete (7)"
+      },
+      {
+        "text": "Ocho (8)"
+      },
+      {
+        "text": "Diez (10)"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuántos jueces de la Corte suprema se necesitan normalmente para decidir un caso?",
+    "correctAnswers": [
+      {
+        "text": "Cinco (5)",
+        "rationale": "El Tribunal Supremo decide los casos por mayoría de votos, y se requiere un quórum de seis jueces para decidir un caso. Por lo tanto, si al menos cinco de los nueve jueces están de acuerdo, su opinión prevalece."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dos (2)"
+      },
+      {
+        "text": "Cuatro (4)"
+      },
+      {
+        "text": "Seis (6)"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuánto tiempo sirven los jueces del Tribunal supremo?",
+    "correctAnswers": [
+      {
+        "text": "(De por) vida, Nombramiento vitalicio, (Hasta) la jubilación",
+        "rationale": "Los jueces del Tribunal Supremo de los Estados Unidos ocupan sus cargos de por vida, o hasta que deciden jubilarse, renunciar o son destituidos mediante el proceso de juicio político. Esta permanencia vitalicia está diseñada para garantizar su independencia de la presión política, permitiéndoles tomar decisiones basadas únicamente en la ley sin temor a perder sus puestos de trabajo."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Por) 2 años, mandato de 2 años, (Hasta la) próxima elección"
+      },
+      {
+        "text": "(Por) 4 años, mandato de 4 años, (Hasta el) nuevo presidente"
+      },
+      {
+        "text": "(Por) 6 años, mandato de 6 años, (Hasta la) reelección"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "Los jueces de la Corte suprema sirven de por vida. ¿Por qué?",
+    "correctAnswers": [
+      {
+        "text": "Para ser independiente (de los políticos), Para limitar la influencia (política) exterior",
+        "rationale": "A los jueces de la Corte Suprema se les otorga un cargo vitalicio para asegurar que sus decisiones se basen únicamente en principios legales, libres de presión política o de la necesidad de hacer campaña para la reelección. Esta independencia ayuda a mantener un poder judicial imparcial."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ser dependiente (de la política), Para aumentar la influencia (política) externa"
+      },
+      {
+        "text": "Seguir a los partidos (políticos), Ignorar la opinión pública (política)"
+      },
+      {
+        "text": "Servir por un (corto) término, Ser influenciado (por la política)"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Quién es el presidente actual de la Corte Suprema de los Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Visite uscis.gov/citizenship/testupdates para saber el nombre del Presidente del Tribunal",
+        "rationale": "El Presidente del Tribunal Supremo de los Estados Unidos es John Roberts. La respuesta varía porque el puesto se ocupa de por vida, y el actual Presidente del Tribunal Supremo puede cambiar debido a jubilación, renuncia o fallecimiento."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Sonia Sotomayor"
+      },
+      {
+        "text": "Elena Kagan"
+      },
+      {
+        "text": "Amy Coney Barrett"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "Nombra un poder que es sólo para el gobierno federal.",
+    "correctAnswers": [
+      {
+        "text": "Imprimir dinero, Acuñar monedas, Declarar la guerra, Crear un ejército, Suscribir tratados, Establecer la política exterior",
+        "rationale": "El gobierno federal de los Estados Unidos tiene poderes específicos que no se comparten con los gobiernos estatales. Estos se llaman poderes enumerados, lo que significa que están explícitamente listados en la Constitución. Por ejemplo, solo el gobierno federal puede: * Imprimir papel moneda y acuñar monedas: Esto asegura una moneda uniforme en toda la nación. * Declarar la guerra, crear un ejército y hacer tratados: Estos son cruciales para la defensa nacional y la política exterior. * Establecer la política exterior: Esto permite que EE. UU. actúe como una entidad única en las relaciones internacionales."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Emitir licencias de conducir, Proporcionar escolarización y educación, Proporcionar protección (policía)"
+      },
+      {
+        "text": "Gravar a las personas, Declarar la guerra, Crear un ejército, Hacer tratados, Establecer la política exterior"
+      },
+      {
+        "text": "Proporcionar departamentos de policía y bomberos, Dar una licencia de conducir, Vender una licencia de caza"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "Nombra un poder que es sólo para los estados.",
+    "correctAnswers": [
+      {
+        "text": "Proveer escuelas y educación, Proveer protección (policía), Proveer seguridad (cuerpos de bomberos), Conceder licencias para conducir, Aprobar la zonificación y uso de la tierra",
+        "rationale": "En el sistema de gobierno estadounidense, los poderes se dividen entre el gobierno federal (nacional) y los gobiernos estatales. Algunos poderes son exclusivos de los estados. Estos incluyen establecer gobiernos locales, crear escuelas, emitir licencias y proporcionar servicios policiales y de bomberos. Estos poderes permiten a los estados abordar las necesidades específicas de sus residentes."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "El orden presidencial (para equilibrar el poder), La Declaración de Derechos (para los estados individuales)"
+      },
+      {
+        "text": "Para limitar el poder federal (y aumentar el control estatal), Los Artículos de la Confederación (primera constitución)"
+      },
+      {
+        "text": "Densidad de población (de estados más grandes), El Consentimiento Unánime (de todos los delegados)"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuál es el propósito de la Décima enmienda?",
+    "correctAnswers": [
+      {
+        "text": "(Establece que) los poderes no otorgados al gobierno federal pertenecen a los estados o al pueblo.",
+        "rationale": "La Décima Enmienda refuerza el principio de federalismo, lo que significa que los poderes no otorgados específicamente al gobierno federal por la Constitución, ni prohibidos a los estados, están reservados para los estados o para el pueblo. Esto asegura un equilibrio de poder entre los gobiernos federal y estatal."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Establece que) los poderes no otorgados al gobierno federal pertenecen al Presidente o a la Corte Suprema."
+      },
+      {
+        "text": "(Establece que) los poderes no otorgados al gobierno federal pertenecen a las ciudades o a los militares."
+      },
+      {
+        "text": "(Establece que) los poderes no otorgados al gobierno federal pertenecen a la ONU o a otros países."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Quién es el gobernador actual de su estado? *",
+    "correctAnswers": [
+      {
+        "text": "Las respuestas variarán. [Los residentes del Distrito de Columbia deberán responder que el D.C. no tiene gobernador.]",
+        "rationale": "La respuesta a \"¿Quién es el gobernador actual de su estado?\" variará porque cada uno de los 50 estados de los Estados Unidos tiene su propio gobernador. Los gobernadores son los jefes ejecutivos de sus respectivos estados y son responsables de implementar las leyes estatales y supervisar el poder ejecutivo del gobierno estatal. Sus deberes y poderes específicos pueden diferir de un estado a otro, pero generalmente incluyen firmar proyectos de ley, proponer presupuestos y comandar la Guardia Nacional del estado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Sarah Chen"
+      },
+      {
+        "text": "David Rodriguez"
+      },
+      {
+        "text": "Emily White"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Sistema de Gobierno",
+    "question": "¿Cuál es la capital de su estado?",
+    "correctAnswers": [
+      {
+        "text": "Las respuestas variarán. [Los residentes del Distrito de Columbia deberán responder que el D.C. no es un estado y que no tiene capital. Los residentes de los territorios de los Estados Unidos deben dar el nombre de la capital del territorio.]",
+        "rationale": "Antecedentes: En los Estados Unidos, cada estado tiene su propia ciudad capital, que es donde se encuentra el gobierno estatal. Explicación: La respuesta varía porque hay 50 estados diferentes, y cada persona proporcionaría la capital de su estado específico."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "George Washington"
+      },
+      {
+        "text": "Abraham Lincoln"
+      },
+      {
+        "text": "John F. Kennedy"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Derechos y Responsabilidades",
+    "question": "Existen cuatro enmiendas a la Constitución sobre quién puede votar. Describa una de ellas.",
+    "correctAnswers": [
+      {
+        "text": "Ciudadanos de dieciocho (18) años en adelante (pueden votar)., No se exige pagar un impuesto para votar (el impuesto para acudir a las urnas o «poll tax» en inglés)., Cualquier ciudadano puede votar. (Pueden votar tanto mujeres como hombres), Un hombre ciudadano de cualquier raza (puede votar).",
+        "rationale": "Las Enmiendas 15, 19, 24 y 26 ampliaron el derecho al voto en los EE. UU. para incluir a ciudadanos sin importar su raza, sexo o la capacidad de pagar un impuesto electoral, y redujeron la edad para votar a los 18 años. Cada enmienda amplió progresivamente quiénes podían participar en el proceso democrático."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Solo los ciudadanos de 21 años o más (pueden votar)."
+      },
+      {
+        "text": "Tienes que pagar (un impuesto electoral) para votar."
+      },
+      {
+        "text": "Solo los ciudadanos varones (pueden votar)."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Derechos y Responsabilidades",
+    "question": "¿Quién puede votar en las elecciones federales, postularse a un cargo federal y servir en un jurado en los Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Ciudadanos, Ciudadanos de los Estados Unidos, Ciudadanos de EE. UU.",
+        "rationale": "Explicación: Solo a los ciudadanos de los Estados Unidos se les otorgan los derechos y responsabilidades de votar en elecciones federales, postularse para un cargo federal y servir en un jurado. Antecedentes: Estos derechos y responsabilidades son fundamentales para el sistema democrático estadounidense y están reservados para los ciudadanos a fin de garantizar su participación directa y representación en el gobierno y el sistema judicial."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Residentes Permanentes, Residentes Permanentes Legales, Titulares de la Green Card"
+      },
+      {
+        "text": "No Ciudadanos, Extranjeros, Titulares de Visa"
+      },
+      {
+        "text": "Menores, Niños, Menores de 18 años"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Derechos y Responsabilidades",
+    "question": "¿Cuáles son Tres derechos que pueden ejercer todas las personas que viven en los Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Libertad de expresión, Libertad de palabra, Libertad de reunión, Libertad para peticionar al gobierno, Libertad de religión, Derecho a portar armas",
+        "rationale": "Antecedentes: La Constitución de los Estados Unidos garantiza ciertos derechos fundamentales a todas las personas que viven en el país. Estos derechos a menudo se denominan libertades civiles y están protegidos por la ley. Explicación de las respuestas: Estos son ejemplos de libertades básicas que tienen las personas en los EE. UU., lo que les permite expresarse, reunirse pacíficamente, practicar su religión y pedir cambios al gobierno. El derecho a portar armas también es un derecho protegido constitucionalmente."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Libertad para conducir, Libertad para construir, Libertad para viajar"
+      },
+      {
+        "text": "El derecho a poseer un coche, El derecho a tener un trabajo, El derecho a vivir en cualquier lugar"
+      },
+      {
+        "text": "Libertad para votar, Libertad para obtener una educación, Libertad para la atención médica"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Derechos y Responsabilidades",
+    "question": "¿A qué demostramos nuestra lealtad cuando decimos el Juramento de Lealtad (Pledge of Allegiance)? *",
+    "correctAnswers": [
+      {
+        "text": "A los Estados Unidos, A la bandera",
+        "rationale": "Antecedentes: El Juramento de Lealtad es una promesa de lealtad a los Estados Unidos. Explicación: Cuando decimos el Juramento de Lealtad, estamos mostrando nuestra lealtad a los Estados Unidos como nación y a su bandera, que simboliza el país y sus valores."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "La Constitución, El Presidente"
+      },
+      {
+        "text": "La Casa Blanca, El Congreso"
+      },
+      {
+        "text": "La Corte Suprema, Los estados"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Derechos y Responsabilidades",
+    "question": "Nombra dos promesas que los nuevos ciudadanos hacen en el juramento de lealtad.",
+    "correctAnswers": [
+      {
+        "text": "Renunciar a la lealtad a otros países, Defender los (EE. UU.) Constitución, Obedecer las leyes de los Estados Unidos, Prestar servicio en las Fuerzas Armadas de los Estados Unidos (de ser necesario), Prestar servicio a (realizar trabajo importante para) la nación (de ser necesario), Ser leal a los Estados Unidos",
+        "rationale": "Cuando los nuevos ciudadanos toman el Juramento de Lealtad, hacen promesas importantes para mostrar su compromiso con los Estados Unidos. Estas promesas incluyen renunciar a la lealtad a otros países, defender la Constitución de los EE. UU., obedecer las leyes y estar listos para servir a la nación si es necesario."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "No votar en las elecciones, Desobedecer la Constitución (de EE. UU.), Ignorar las leyes de los Estados Unidos."
+      },
+      {
+        "text": "Negarse a servir en el ejército (si es necesario), Evitar servir (ayudar, hacer un trabajo importante para) la nación (si es necesario), Ser desleal a los Estados Unidos."
+      },
+      {
+        "text": "Mantener lealtad a otros países, No defender la Constitución (de EE. UU.), No obedecer las leyes de los Estados Unidos."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Derechos y Responsabilidades",
+    "question": "¿Cómo convertirse en ciudadano estadounidense?",
+    "correctAnswers": [
+      {
+        "text": "Nacer en Estados Unidos bajo las condiciones establecidas en la Enmienda, Por naturalización, Obtener la ciudadanía derivada (bajo las condiciones establecidas por el Congreso)",
+        "rationale": "Para convertirse en ciudadano estadounidense, las personas pueden nacer en los EE. UU. (según la 14.ª Enmienda), pasar por el proceso de naturalización u obtener la ciudadanía a través de un padre, bajo las condiciones establecidas por el Congreso."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Unirse al ejército (y servir por un período determinado)"
+      },
+      {
+        "text": "Casarse con un ciudadano de los Estados Unidos, Ganar una lotería (para la residencia permanente)"
+      },
+      {
+        "text": "Comprar propiedades en los Estados Unidos, Ser dueño de un negocio, Tener un pariente (que sea ciudadano)"
+      },
+      {
+        "text": "Votar en elecciones federales, Pagar impuestos (por un cierto número de años), Asistir a una universidad de los Estados Unidos (y graduarse)"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Derechos y Responsabilidades",
+    "question": "¿Cuáles son dos ejemplos de participación cívica en los Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Votar, Postularse a un cargo, Unirse a un partido político, Ayudar con una campaña, Unirse a un grupo cívico, Unirse a un grupo comunitario, Dar su opinión a un funcionario electo (sobre un tema), Contactar funcionarios electos, Apoyar u oponerse a un asunto o político, Escribir a un periódico",
+        "rationale": "La participación cívica se refiere a las formas en que los ciudadanos se involucran en sus comunidades y gobierno. Dos ejemplos comunes incluyen votar en las elecciones y unirse a un partido político para apoyar a candidatos o políticas específicas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pagar impuestos, Seguir las leyes de tránsito, Servir en un jurado"
+      },
+      {
+        "text": "Respetar las creencias de los demás, Ser voluntario en la comunidad, Asistir a la escuela regularmente"
+      },
+      {
+        "text": "Obedecer las leyes, Hacer ejercicio regularmente, Reciclar materiales de desecho"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Derechos y Responsabilidades",
+    "question": "¿Cuál es una de la forma en que los Estadounidenses pueden servir a su país?",
+    "correctAnswers": [
+      {
+        "text": "Votar, Pagar impuestos, Obedecer la ley, Servir en el ejército, Postularse a un cargo, Trabajar para el gobierno local, estatal o federal",
+        "rationale": "Servir a su país significa participar activamente en las responsabilidades de la ciudadanía para ayudar a la nación y a su gente. Esto incluye deberes cívicos como votar y obedecer las leyes, así como un servicio más directo, como la participación militar o el trabajo para el gobierno."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "No votar, No pagar impuestos, No obedecer la ley"
+      },
+      {
+        "text": "No servir en el ejército, No postularse para un cargo, No trabajar para el gobierno"
+      },
+      {
+        "text": "Ignorar leyes, Evadir impuestos, Faltar el respeto a la autoridad"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Derechos y Responsabilidades",
+    "question": "¿Por qué es importante pagar los impuestos federales?",
+    "correctAnswers": [
+      {
+        "text": "Lo exige la ley, El pueblo paga para financiar al gobierno federal, Lo exige la constitución (de EEUU) Constitución (Decimosexta enmienda), Deber cívico",
+        "rationale": "Pagar impuestos federales es un deber cívico y un requisito legal en los Estados Unidos, tal como lo exige la ley y la 16.ª Enmienda de la Constitución de los EE. UU. Estos impuestos financian al gobierno federal y sus operaciones."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "No lo exige la ley, Todas las personas pagan para obtener beneficios, No lo exige la Constitución (de EE. UU.) (1.ª Enmienda), No es un deber cívico"
+      },
+      {
+        "text": "Opcional para algunas personas, Solo ciertas personas pagan para financiar al gobierno local, Exigido por la Constitución (de EE. UU.) (1.ª Enmienda), Deber opcional"
+      },
+      {
+        "text": "Contribución voluntaria, Solo las personas de altos ingresos pagan para financiar al gobierno estatal, No se menciona en la Constitución (de EE. UU.), Elección personal"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "category": "Gobierno estadounidense",
+    "subcategory": "Derechos y Responsabilidades",
+    "question": "Es importante que todos los hombres de entre 18 y 25 años se registren para el Servicio Selectivo. Mencione una razón por qué.",
+    "correctAnswers": [
+      {
+        "text": "Lo exige la ley, Deber cívico, Hace que de ser necesario el servicio militar obligatorio éste sea justo",
+        "rationale": "El Sistema de Servicio Selectivo requiere que casi todos los ciudadanos estadounidenses varones y los inmigrantes varones que viven en los EE. UU. de 18 a 25 años se registren. Este registro es importante porque está estipulado por ley, se considera un deber cívico y ayuda a garantizar un proceso de reclutamiento justo y equitativo si una emergencia nacional lo requiere."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Evitar impuestos, Recibir educación gratuita, Viajar por el mundo"
+      },
+      {
+        "text": "Convertirse en soldado, Obtener un trabajo bien remunerado, Recibir beneficios especiales"
+      },
+      {
+        "text": "Vivir en un nuevo país, Aprender un nuevo idioma, Conocer gente nueva"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "Los colonizadores llegaron a América por muchas razones. Nombra uno de ellas.",
+    "correctAnswers": [
+      {
+        "text": "Libertad, Libertad política, Libertad religiosa, Oportunidad económica, Para huir de la persecución",
+        "rationale": "Los colonos llegaron a América buscando una vida mejor. Sus razones incluyeron: Libertad: La capacidad de vivir y adorar como eligieran sin persecución. Libertad política: El deseo de autogobierno y libertad de un gobierno opresor. Libertad religiosa: Para escapar de la persecución religiosa y practicar su fe libremente. Oportunidad económica: La oportunidad de poseer tierras, encontrar trabajo y mejorar su situación financiera. Escapar de la persecución: Para huir de diversas formas de dificultad e injusticia en sus países de origen."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Impuestos altos, Dominio británico, Falta de tierra"
+      },
+      {
+        "text": "Aventura, Oro, Nuevas rutas comerciales"
+      },
+      {
+        "text": "Exploración, Descubrimiento científico, Difundir la democracia"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "¿Quiénes vivían en lo que hoy conocemos como los Estados Unidos antes de la llegada de los europeos?*",
+    "correctAnswers": [
+      {
+        "text": "Indios americanos, Nativos americanos",
+        "rationale": "Los indios americanos, también conocidos como nativos americanos, eran los pueblos indígenas que habitaban las Américas durante miles de años antes de que comenzara la colonización europea a finales del siglo XV. Desarrollaron diversas culturas, idiomas y sociedades en todo el continente."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Europeos, Colonos"
+      },
+      {
+        "text": "Africanos, Asiáticos"
+      },
+      {
+        "text": "Vikingos, Exploradores"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "¿Qué grupo de personas fue llevado y vendido como esclavos?",
+    "correctAnswers": [
+      {
+        "text": "Africanos, Gente de África",
+        "rationale": "Los africanos fueron sacados a la fuerza de sus hogares y transportados a través del Océano Atlántico para ser vendidos como esclavos, principalmente para trabajar en plantaciones en América. Este brutal sistema, conocido como el comercio transatlántico de esclavos, duró siglos y resultó en un inmenso sufrimiento y la explotación de millones de personas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Europeos, Gente de Europa"
+      },
+      {
+        "text": "Asiáticos, Gente de Asia"
+      },
+      {
+        "text": "Nativos Americanos, Gente de las Américas"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "¿En qué guerra lucharon los estadounidenses para obtener su independencia de Gran Bretaña?",
+    "correctAnswers": [
+      {
+        "text": "La Guerra de Independencia, La Guerra (estadounidense) de Independencia, Guerra por la Independencia (estadounidense)",
+        "rationale": "La Revolución Americana (1775-1783) fue una guerra librada por las 13 colonias americanas contra Gran Bretaña para obtener la independencia. Los colonos, descontentos con el dominio y los impuestos británicos, declararon su independencia y, con la ayuda de Francia, derrotaron a los británicos, formando los Estados Unidos de América."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "La Segunda Guerra Mundial, La Segunda Guerra Mundial, Guerra por la Supremacía (Global)"
+      },
+      {
+        "text": "Guerra Civil, La Guerra Civil (estadounidense), Guerra por la Independencia (sureña)"
+      },
+      {
+        "text": "Guerra Mexicano-Americana, La Guerra (fronteriza) Mexicana, Guerra por la Expansión (Territorial)"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "Nombra una razón por la cual los estadounidenses declararon la independencia de Gran Bretaña.",
+    "correctAnswers": [
+      {
+        "text": "Altos impuestos, Impuestos sin representación, Los soldados británicos se quedaron en las casas de los estadounidenses (alojamiento, acuartelamiento), No tenían autogobierno, Masacre de Boston, Fiesta del té de Boston (Tea Act), Stamp Act (Ley del sello), Sugar Act (Ley del azúcar), Leyes de Townshend, Actos intolerables (coercitivos)",
+        "rationale": "Las colonias americanas declararon su independencia de Gran Bretaña debido a varios agravios. Las razones clave incluyeron \"impuestos sin representación\", lo que significa que fueron gravados por el Parlamento Británico pero no tenían representantes electos allí, lo que llevó a altos impuestos como la Ley del Timbre y la Ley del Azúcar. Los soldados británicos también fueron acuartelados en casas estadounidenses sin consentimiento. Eventos como la Masacre de Boston y el Motín del Té de Boston impulsaron aún más los deseos de autogobierno."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Impuestos bajos, Representación con impuestos, Soldados británicos construyeron casas de estadounidenses (construcción, edificación), Tenían autogobierno, Fiesta del Té de Boston (Ley del Té), Ley del Timbre, Ley del Azúcar, Leyes de Townshend, Actos intolerables (coercitivos)"
+      },
+      {
+        "text": "Sin impuestos, Mucha representación, Soldados británicos salieron de las casas de los estadounidenses (desocupación, mudanza), Tenían autogobierno, Masacre de Boston, Fiesta del Té de Boston (Ley del Té), Ley del Timbre, Ley del Azúcar, Leyes de Townshend, Actos intolerables (coercitivos)"
+      },
+      {
+        "text": "Pocos impuestos, Impuestos con representación, Soldados británicos cocinaron en casas de estadounidenses (catering, cocina), Tenían autogobierno, Fiesta del Té de Boston (Ley del Té), Ley del Timbre, Ley del Azúcar, Leyes de Townshend, Actos intolerables (coercitivos)"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "¿Quién escribió la Declaración de Independencia?*",
+    "correctAnswers": [
+      {
+        "text": "(Thomas) Jefferson",
+        "rationale": "Thomas Jefferson fue el autor principal de la Declaración de Independencia, un documento fundamental en la historia estadounidense que declaró las trece colonias americanas independientes de Gran Bretaña. Fue una figura clave en la Revolución Americana y más tarde se convirtió en el tercer Presidente de los Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Benjamín) Franklin"
+      },
+      {
+        "text": "(Jorge) Washington"
+      },
+      {
+        "text": "(Juan) Adams"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "¿Cuándo se adoptó la Declaración de Independencia?",
+    "correctAnswers": [
+      {
+        "text": "El 4 de julio de 1776",
+        "rationale": "La Declaración de Independencia fue una declaración adoptada por el Segundo Congreso Continental reunido en la Casa Estatal de Pensilvania en Filadelfia el 4 de julio de 1776. Anunció que las trece colonias americanas, entonces en guerra con Gran Bretaña, se consideraban a sí mismas como trece estados soberanos recién independizados, y que ya no estaban bajo el dominio británico."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "17 de septiembre de 1787"
+      },
+      {
+        "text": "15 de diciembre de 1791"
+      },
+      {
+        "text": "11 de noviembre de 1620"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "La Revolución de las trece colonias estuvo compuesta por varios acontecimientos de relevancia. Nombre una de ellas.",
+    "correctAnswers": [
+      {
+        "text": "(Batalla de) Bunker Hill, Declaración de independencia, Cruce de Washington por el río Delaware (Batalla of Trenton), (Batalla de) Saratoga, (Campamento) Valley Forge, (Batalla de) Yorktown (Rendición de las tropas británicas en Yorktown)",
+        "rationale": "La Revolución Americana fue una guerra librada por la independencia de Gran Bretaña. Los acontecimientos clave incluyen: * Batalla de Bunker Hill: Batalla temprana que muestra la determinación colonial. * Declaración de Independencia: Declaración formal de separación del dominio británico. * Cruce de Washington por el río Delaware (Batalla de Trenton): Un ataque sorpresa que impulsó la moral estadounidense. * Batalla de Saratoga: Un punto de inflexión que trajo el apoyo francés. * Valley Forge (Campamento): Campamento de invierno donde el Ejército Continental enfrentó duras condiciones pero se reagrupó. * Batalla de Yorktown: La batalla decisiva que condujo a la rendición británica."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Batalla de) Gettysburg, Ataque a Pearl Harbor, (Batalla de) Antietam"
+      },
+      {
+        "text": "(Fiesta del té de Boston), Proclamación de Emancipación, Ley de Derechos Civiles"
+      },
+      {
+        "text": "(Compra de Luisiana), Expedición de Lewis y Clark, Canal de Panamá"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "Había 13 estados originales. Nombre Cinco.",
+    "correctAnswers": [
+      {
+        "text": "New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina, Georgia",
+        "rationale": "Los trece estados originales fueron las primeras colonias en declarar la independencia de Gran Bretaña y formar los Estados Unidos de América. Estos estados son: Nuevo Hampshire, Massachusetts, Rhode Island, Connecticut, Nueva York, Nueva Jersey, Pensilvania, Delaware, Maryland, Virginia, Carolina del Norte, Carolina del Sur y Georgia."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Florida, California, Texas, Illinois, Ohio"
+      },
+      {
+        "text": "Washington, Oregón, Nevada, Arizona, Utah"
+      },
+      {
+        "text": "Colorado, Kansas, Misuri, Arkansas, Luisiana"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "¿Qué documento patrio se redactó en 1787?",
+    "correctAnswers": [
+      {
+        "text": "(EE. UU.) Constitución",
+        "rationale": "La Constitución de los EE. UU. es la ley suprema de los Estados Unidos. Redactada en 1787, estableció el marco para el gobierno federal y garantizó los derechos de los ciudadanos. Describe los poderes de las ramas legislativa, ejecutiva y judicial, y ha sido enmendada con el tiempo para adaptarse a las necesidades cambiantes de la nación."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Declaración de Derechos)"
+      },
+      {
+        "text": "(Declaración de Independencia)"
+      },
+      {
+        "text": "(Artículos de la Confederación)"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "Los escritos conocidos como \"Los Documentos Federalistas\" respaldaron la aprobación de la Constitución de los Estados Unidos. Nombre uno de los autores.",
+    "correctAnswers": [
+      {
+        "text": "(James) Madison, (Alexander) Hamilton, (John) Jay, Publius",
+        "rationale": "Los Documentos Federalistas fueron una serie de 85 ensayos escritos por James Madison, Alexander Hamilton y John Jay para promover la ratificación de la Constitución de los Estados Unidos. Estos ensayos explicaron y defendieron la Constitución recién redactada, abogando por un gobierno federal fuerte para garantizar la estabilidad y proteger las libertades individuales. Publius fue el seudónimo utilizado por estos tres escritores."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Thomas) Jefferson, (Benjamin) Franklin, (George) Washington, Sentido Común"
+      },
+      {
+        "text": "(John) Adams, (Paul) Revere, (Samuel) Adams, La Crisis"
+      },
+      {
+        "text": "(Patrick) Henry, (Thomas) Paine, (Alexander) Hamilton, Los Derechos del Hombre"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "¿Por qué El Federalista es tan importante?",
+    "correctAnswers": [
+      {
+        "text": "Ayudó a que las personas comprendan la Constitución (estadounidense)., Fue un apoyo para la sanción de la Constitución (estadounidense).",
+        "rationale": "Los Federalist Papers fueron una serie de ensayos escritos para persuadir a la gente a ratificar la Constitución de los Estados Unidos. Explicaron cómo funcionaría el nuevo gobierno y por qué era importante aprobar la Constitución."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ayudaron a la gente a comprender la Declaración de Independencia (de EE. UU.)., Apoyaron la aprobación de los Artículos de la Confederación (de EE. UU.)."
+      },
+      {
+        "text": "Ayudaron a la gente a comprender la Declaración de Derechos (de EE. UU.)., Apoyaron la aprobación de la Proclamación de Emancipación (de EE. UU.)."
+      },
+      {
+        "text": "Ayudaron a la gente a comprender el Compromiso de 1850 (de EE. UU.)., Apoyaron la aprobación de la Ley Kansas-Nebraska (de EE. UU.)."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "Benjamin Franklin es reconocido por varias cosas. Nombre una de ellas.",
+    "correctAnswers": [
+      {
+        "text": "Creó las primeras bibliotecas públicas y gratuitas, Fue el primer Director del correo de Estados Unidos, Colaboró en la redacción de la Declaración de la independencia, Fue un inventor, Fue diplomático estadounidense",
+        "rationale": "Benjamin Franklin fue un polímata estadounidense prominente que fue activo como escritor, científico, inventor, estadista, diplomático, impresor, editor y filósofo político. Es conocido por sus muchas contribuciones a la sociedad estadounidense y su papel en la fundación de los Estados Unidos.\n\nRespuestas:  * Fundó las primeras bibliotecas públicas gratuitas: Franklin estableció la Library Company of Philadelphia en 1731, haciendo los libros accesibles al público.\n  * Primer Director General de Correos de los Estados Unidos: Reorganizó el sistema postal, haciéndolo más eficiente.\n  * Ayudó a redactar la Declaración de Independencia: Franklin fue uno de los cinco miembros del comité que redactó este documento fundamental.\n  * Inventor: Sus inventos incluyen el pararrayos, las gafas bifocales y la estufa Franklin.\n  * Diplomático de EE. UU.: Desempeñó un papel crucial en la obtención del apoyo francés para la Guerra de Independencia de los Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Escribió \"Common Sense\", Negoció la Compra de Luisiana, Lideró el Ejército Continental"
+      },
+      {
+        "text": "Descubrió la electricidad, Inventó el teléfono, Primer Presidente de los Estados Unidos"
+      },
+      {
+        "text": "Firmó la Constitución, Fue autor de la Declaración de Derechos, Comandante del USS Constitution"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "George Washington es reconocido por varias cosas. Nombre una de ellas. *",
+    "correctAnswers": [
+      {
+        "text": "Fue uno de los \"fundadores de la patria\", Fue el primer presidente de Estados Unidos de América, Fue General del Ejército continental, Fue Presidente de la Convención constitucional",
+        "rationale": "George Washington fue una figura fundamental en la historia estadounidense, liderando al Ejército Continental a la victoria durante la Guerra Revolucionaria y convirtiéndose en el primer Presidente de los Estados Unidos. A menudo se le llama el \"Padre de nuestra Patria\" por su papel crucial en el establecimiento de la nación. También presidió la Convención Constitucional, que redactó la Constitución de los Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "“Primero en navegar a América”, Firmó la Declaración de Independencia, Escribió la Constitución, Lideró el Boston Tea Party"
+      },
+      {
+        "text": "“Fundador de la Ciudad de Nueva York”, Tercer presidente de los Estados Unidos, General del Ejército de la Unión, Presidente de la Compra de Luisiana"
+      },
+      {
+        "text": "“Descubridor de la Electricidad”, Segundo presidente de los Estados Unidos, Autor de la Declaración de Derechos, Gobernador de California"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "Thomas Jefferson es reconocido por varias cosas. Nombre una de ellas.",
+    "correctAnswers": [
+      {
+        "text": "Redactó la Declaración de la independencia, Fue el tercer presidente de los Estados Unidos, Duplicó el tamaño de Estados Unidos (Compra de Louisiana), Fue el primer Secretario de estado, Fundó la Universidad de Virginia, Redactó el Estatuto de Virginia para la libertad religiosa",
+        "rationale": "Thomas Jefferson fue una figura clave en la historia temprana de Estados Unidos, sirviendo como el tercer presidente de los Estados Unidos y el autor principal de la Declaración de Independencia, un documento fundamental para los Estados Unidos. Su presidencia se destacó por la Compra de Luisiana, que expandió significativamente el territorio del país. También ocupó cargos como el primer Secretario de Estado, fundó la Universidad de Virginia y defendió la libertad religiosa a través del Estatuto de Virginia para la Libertad Religiosa."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Primer presidente de los Estados Unidos, Escribió la Proclamación de Emancipación, Inventó la bombilla"
+      },
+      {
+        "text": "Dirigió el Ejército Continental, Firmó la Constitución, Descubridor de América"
+      },
+      {
+        "text": "Fue autor de la Declaración de Derechos, Cuarto presidente de los Estados Unidos, Compró Alaska"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "James Madison es reconocido por varias cosas. Nombre una de ellas.",
+    "correctAnswers": [
+      {
+        "text": "Fue el \"Padre de la constitución\", Fue el cuarto presidente de Estados Unidos, Fue presidente durante la Guerra de 1812, Fue uno de los escritores de El Federalista",
+        "rationale": "James Madison fue una figura clave en la historia temprana de Estados Unidos, a menudo llamado el \"Padre de la Constitución\" por su papel fundamental en la redacción de la Constitución de los Estados Unidos. También se desempeñó como el cuarto presidente durante la Guerra de 1812 y fue coautor de los influyentes Documentos Federalistas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "\"Autor de la Declaración de Independencia\", Segundo presidente de los Estados Unidos, Presidente durante la Guerra Civil, Uno de los firmantes de la Constitución"
+      },
+      {
+        "text": "\"Fundador de las Naciones Unidas\", Tercer presidente de los Estados Unidos, Presidente durante la Primera Guerra Mundial, Uno de los autores de la Declaración de Derechos"
+      },
+      {
+        "text": "\"Emancipador de esclavos\", Primer presidente de los Estados Unidos, Presidente durante la Guerra Revolucionaria, Uno de los creadores de los Artículos de la Confederación"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "category": "La historia americana",
+    "subcategory": "Período Colonial e Independencia",
+    "question": "Alexander Hamilton es reconocido por varias cosas. Nombre una de ellas.",
+    "correctAnswers": [
+      {
+        "text": "Fue el primer Secretario del tesoro, Fue uno de los escritores de El Federalista, Colaboró en la creación del Primer banco de Estados Unidos, Fue un auxiliar del General George Washington, Fue miembro del Congreso continental",
+        "rationale": "Alexander Hamilton fue una figura clave en la historia temprana de Estados Unidos, sirviendo como el primer Secretario del Tesoro. Fue fundamental en el establecimiento del sistema financiero de la nación, incluyendo el Primer Banco de los Estados Unidos. También desempeñó un papel importante en la defensa de la Constitución a través de sus contribuciones a Los Documentos Federalistas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Primer Presidente de los Estados Unidos, Escribió la Declaración de Independencia, Inventó la bombilla"
+      },
+      {
+        "text": "Líder del Ejército Confederado, Ayudó a establecer el Servicio de Parques Nacionales, Firmó la Proclamación de Emancipación"
+      },
+      {
+        "text": "Ayudante del Presidente Abraham Lincoln, Miembro de la Corte Suprema, Luchó en la Guerra de 1812"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "category": "La historia americana",
+    "subcategory": "Años 1800",
+    "question": "¿Qué territorio compró Estados Unidos a Francia en 1803?",
+    "correctAnswers": [
+      {
+        "text": "El territorio de Louisiana, Louisiana",
+        "rationale": "La Compra de Luisiana fue un acuerdo masivo de tierras en 1803 donde Estados Unidos compró aproximadamente 827,000 millas cuadradas de territorio a Francia por unos 15 millones de dólares. Esta adquisición, que efectivamente duplicó el tamaño de los jóvenes Estados Unidos, fue un momento clave en la historia estadounidense, allanando el camino para la expansión hacia el oeste a través del continente."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Territorio de Florida, Florida"
+      },
+      {
+        "text": "Territorio de Texas, Texas"
+      },
+      {
+        "text": "Territorio de Alaska, Alaska"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "category": "La historia americana",
+    "subcategory": "Años 1800",
+    "question": "Mencione una guerra en la que los Estados Unidos pelearon durante los años 1800",
+    "correctAnswers": [
+      {
+        "text": "La Guerra de 1812, La Guerra entre México y los Estados Unidos, La Guerra Civil, La Guerra Hispano-Estadounidense (Hispano-americana)",
+        "rationale": "Estados Unidos estuvo involucrado en varios conflictos significativos durante los años 1800. La Guerra de 1812 se libró contra Gran Bretaña. La Guerra México-Americana resultó en importantes ganancias territoriales para EE. UU. La Guerra Civil fue un conflicto entre los estados del Norte y del Sur por cuestiones como la esclavitud. La Guerra Hispanoamericana marcó el fin de la colonización española en las Américas y el ascenso de EE. UU. como potencia mundial."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Guerra de Corea, Guerra de Vietnam, Guerra del Golfo Pérsico, Segunda Guerra Mundial"
+      },
+      {
+        "text": "Revolución Americana, Guerra Francesa e India, Primera Guerra Mundial, Guerra Fría"
+      },
+      {
+        "text": "Movimiento por los Derechos Civiles, Gran Depresión, Felices Años Veinte, Revolución Industrial"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "category": "La historia americana",
+    "subcategory": "Años 1800",
+    "question": "Dé el nombre de la guerra entre el Norte y el Sur de los Estados Unidos.",
+    "correctAnswers": [
+      {
+        "text": "La Guerra Civil",
+        "rationale": "La Guerra Civil fue una guerra librada en los Estados Unidos de 1861 a 1865 entre los estados del Norte (Unión) y los estados del Sur (Confederación). La causa principal fue la disputa sobre la esclavitud, los derechos de los estados y las diferencias económicas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "La Guerra Mexicano-Americana"
+      },
+      {
+        "text": "La Guerra de Corea"
+      },
+      {
+        "text": "La Guerra de Vietnam"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "category": "La historia americana",
+    "subcategory": "Años 1800",
+    "question": "La Guerra civil estuvo compuesta por varios acontecimientos. Nombre una de ellas.",
+    "correctAnswers": [
+      {
+        "text": "(Batalla de) Fort Sumter, Proclamación de Emancipación, (Batalla de) Vicksburg, (Batalla de) Gettysburg, Marcha de Sherman, (Rendición de) Appomattox, (Batalla de) Antietam/Sharpsburg, Asesinato de Lincoln.",
+        "rationale": "La Guerra Civil fue un conflicto en los Estados Unidos de 1861 a 1865 entre la Unión (estados del Norte) y la Confederación (estados del Sur). Se luchó principalmente por las cuestiones de la esclavitud y los derechos de los estados.\n\nAquí están algunos acontecimientos clave:  * Fort Sumter: Aquí se dispararon los primeros tiros de la Guerra Civil.\n  * Proclamación de Emancipación: Una orden presidencial de Abraham Lincoln que declaraba libres a la mayoría de los esclavos en los estados confederados.\n  * Vicksburg: Una importante victoria de la Unión que les dio el control del río Misisipi.\n  * Gettysburg: Una victoria crucial de la Unión que marcó un punto de inflexión en la guerra.\n  * Marcha de Sherman: Una destructiva campaña militar liderada por el general de la Unión William Tecumseh Sherman a través de Georgia y las Carolinas.\n  * Appomattox: El lugar donde el general confederado Robert E. Lee se rindió al general de la Unión Ulysses S. Grant, poniendo fin efectivamente a la Guerra Civil.\n  * Antietam/Sharpsburg: La batalla de un solo día más sangrienta de la historia de Estados Unidos.\n  * Lincoln fue asesinado: El presidente Abraham Lincoln fue asesinado poco después de que terminara la guerra."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ataque a Pearl Harbor"
+      },
+      {
+        "text": "Fiesta del té de Boston"
+      },
+      {
+        "text": "Declaración de Independencia"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "category": "La historia americana",
+    "subcategory": "Años 1800",
+    "question": "Abraham Lincoln es reconocido por varias cosas. Nombre una de ellas. *",
+    "correctAnswers": [
+      {
+        "text": "Liberó a los esclavos (Proclamación de Emancipación), Salvó (o preservó) la Unión, Lideró a Estados Unidos durante la Guerra civil, Fue el decimosexto presidente de Estados Unidos, Emitió el Discurso de Gettysburg",
+        "rationale": "Abraham Lincoln fue el 16º presidente de EE. UU. que lideró el país durante la Guerra Civil, preservó la Unión y emitió la Proclamación de Emancipación para liberar a las personas esclavizadas. También pronunció el famoso Discurso de Gettysburg."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Fundó los Estados Unidos (Convención Constitucional), Escribió la Declaración de Independencia, Se desempeñó como el primer presidente de los Estados Unidos, Lideró a los colonos durante la Revolución Americana, Negoció la Compra de Luisiana"
+      },
+      {
+        "text": "Firmó la Declaración de Derechos (Primera Enmienda), Inventó la bombilla, Exploró el oeste americano (Expedición de Lewis y Clark), Compró Alaska a Rusia, Pronunció el discurso \"Tengo un sueño\""
+      },
+      {
+        "text": "Fue autor de \"Sentido Común\" (Panfleto Revolucionario), Abolió la esclavitud (13ª Enmienda), Luchó por el sufragio femenino, Estableció el Servicio de Parques Nacionales, Supervisó la construcción del Canal de Panamá"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "category": "La historia americana",
+    "subcategory": "Años 1800",
+    "question": "¿Para qué sirvió la Proclamación de la Emancipación?",
+    "correctAnswers": [
+      {
+        "text": "Liberó a los esclavos, Liberó a los esclavos de la Confederación, Liberó a los esclavos en los estados de la Confederación, Liberó a los esclavos en la mayoría de los estados del sur",
+        "rationale": "La Proclamación de Emancipación, emitida por el presidente Abraham Lincoln durante la Guerra Civil Estadounidense, declaró libres a la mayoría de las personas esclavizadas en los estados confederados. Si bien no liberó inmediatamente a todos los esclavos, fue un paso fundamental hacia la abolición de la esclavitud en los Estados Unidos y cambió la naturaleza de la guerra para que también tratara sobre la libertad."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Estableció la Constitución"
+      },
+      {
+        "text": "Concedió a las mujeres el derecho al voto"
+      },
+      {
+        "text": "Terminó la Guerra Civil"
+      },
+      {
+        "text": "Declaró la independencia de Gran Bretaña"
+      },
+      {
+        "text": "Creó la Declaración de Derechos"
+      },
+      {
+        "text": "Formó la Corte Suprema"
+      },
+      {
+        "text": "Protegió la libertad religiosa"
+      },
+      {
+        "text": "Garantizó la libertad de expresión"
+      },
+      {
+        "text": "Proporcionó atención médica universal"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "category": "La historia americana",
+    "subcategory": "Años 1800",
+    "question": "¿Qué guerra estadounidense abolió la esclavitud?",
+    "correctAnswers": [
+      {
+        "text": "La Guerra civil",
+        "rationale": "La Guerra Civil, librada de 1861 a 1865, fue un conflicto entre los Estados Unidos y 11 estados del Sur que se separaron de la Unión, principalmente por la cuestión de la esclavitud. La victoria de la Unión puso fin efectivamente a la esclavitud en los EE. UU."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "La Guerra Revolucionaria"
+      },
+      {
+        "text": "La Guerra de 1812"
+      },
+      {
+        "text": "La Guerra Mexicano-Americana"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "category": "La historia americana",
+    "subcategory": "Años 1800",
+    "question": "¿En qué enmienda, se establece que todas las personas nacidas o naturalizadas en Estados Unidos, y sujetas a su jurisdicción, son ciudadanas estadounidenses?",
+    "correctAnswers": [
+      {
+        "text": "14a Enmienda",
+        "rationale": "La 14.ª Enmienda, ratificada el 9 de julio de 1868, es una parte crucial de la Constitución de los Estados Unidos. Su primera sección declara que todas las personas nacidas o naturalizadas en los Estados Unidos son ciudadanas, y garantiza la igual protección de las leyes a todos los ciudadanos, incluidas las personas anteriormente esclavizadas. Esta enmienda ha sido fundamental para muchas decisiones históricas de la Corte Suprema, estableciendo los derechos civiles y la igualdad de trato ante la ley."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "10ma Enmienda"
+      },
+      {
+        "text": "12a Enmienda"
+      },
+      {
+        "text": "19a Enmienda"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "category": "La historia americana",
+    "subcategory": "Años 1800",
+    "question": "¿Cuándo tuvieron derecho a votar todos los hombres?",
+    "correctAnswers": [
+      {
+        "text": "Luego de la Guerra Civil, Durante la Reconstrucción, (A partir de la) 15a Enmienda, En 1870",
+        "rationale": "Después de la Guerra Civil, la 15ª Enmienda a la Constitución de los Estados Unidos fue ratificada en 1870, otorgando a todos los hombres, independientemente de su raza, el derecho al voto. Este período, conocido como Reconstrucción, tuvo como objetivo reconstruir el Sur e integrar a las personas anteriormente esclavizadas en la sociedad."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Antes de la Guerra Civil, Durante el Antebellum, (Con la) 10ª Enmienda, 1850"
+      },
+      {
+        "text": "Antes de la Gran Depresión, Durante el Destino Manifiesto, (Con la) 13ª Enmienda, 1920"
+      },
+      {
+        "text": "Después de la Primera Guerra Mundial, Durante los Felices Años Veinte, (Con la) 19ª Enmienda, 1900"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "category": "La historia americana",
+    "subcategory": "Años 1800",
+    "question": "Nombre a una de las líderes del movimiento feminista del 1800.",
+    "correctAnswers": [
+      {
+        "text": "Susan B. Anthony, Elizabeth Cady Stanton, Sojourner Truth, Harriet Tubman, Lucretia Mott, Lucy Stone",
+        "rationale": "El movimiento por los derechos de las mujeres en el siglo XIX se centró en lograr la igualdad de derechos para las mujeres, incluido el sufragio. Susan B. Anthony y Elizabeth Cady Stanton fueron figuras destacadas que cofundaron organizaciones como la American Equal Rights Association y la National Woman Suffrage Association. Otras líderes clave incluyeron a Sojourner Truth, Harriet Tubman, Lucretia Mott y Lucy Stone, quienes abogaron por el sufragio femenino y otros derechos, a menudo formando alianzas con el movimiento abolicionista."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Eleanor Roosevelt, Rosa Parks, Amelia Earhart, Clara Barton, Sacagawea, Harriet Tubman"
+      },
+      {
+        "text": "Dolly Parton, Beyoncé, Taylor Swift, Rihanna, Madonna, Adele"
+      },
+      {
+        "text": "Marilyn Monroe, Audrey Hepburn, Grace Kelly, Elizabeth Taylor, Katharine Hepburn, Bette Davis"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "Mencione una guerra en la que los Estados Unidos pelearon durante los años",
+    "correctAnswers": [
+      {
+        "text": "",
+        "rationale": "Estados Unidos estuvo involucrado en varias guerras importantes durante el siglo XX. Estos conflictos tuvieron un impacto significativo en la política global y en la sociedad estadounidense."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Guerra Francesa e India, Guerra Civil, Guerra Revolucionaria, Guerra de 1812, Guerra Mexicano-Americana"
+      },
+      {
+        "text": "Guerra Hispanoamericana, Guerra Civil Americana, Guerra de Vietnam, Guerra del Golfo Pérsico, Operación Tormenta del Desierto"
+      },
+      {
+        "text": "Guerra de 1812, Guerra Mexicano-Americana, Guerra Civil, Guerra Hispanoamericana, Guerra Mundial"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "¿Por qué los Estados Unidos participó de la Primera Guerra Mundial?",
+    "correctAnswers": [
+      {
+        "text": "Debido al ataque contra barcos civiles estadounidenses por parte de Alemania, Para apoyar a los Aliados (Inglaterra, Francia, Italia y Rusia), Para oponerse al Potencias Centrales (Alemania, Austria-Hungría, el Imperio Otomano y Bulgaria)",
+        "rationale": "Estados Unidos entró en la Primera Guerra Mundial debido a la guerra submarina sin restricciones de Alemania, que incluyó ataques a barcos civiles estadounidenses, y para apoyar a las Potencias Aliadas mientras se oponía a las Potencias Centrales. Antecedentes: En 1917, Alemania reanudó la guerra submarina sin restricciones, hundiendo barcos estadounidenses como el Aztec, lo que enfureció enormemente al público estadounidense y al presidente Wilson. Esto, combinado con el deseo de apoyar a las fuerzas aliadas y contrarrestar a las Potencias Centrales, llevó a Estados Unidos a declarar la guerra a Alemania."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Porque Japón atacó las bases (navales) de Estados Unidos, Para prevenir la expansión del comunismo (en Europa del Este y Asia), Para establecer la paz global (a través de una nueva organización internacional)"
+      },
+      {
+        "text": "Para obtener nuevos territorios coloniales (en África y Asia), Para tomar represalias contra las sanciones económicas (impuestas por las potencias europeas), Para difundir la democracia (alrededor del mundo)"
+      },
+      {
+        "text": "Porque México invadió pueblos (fronterizos) de Estados Unidos, Para adquirir valiosos recursos naturales (petróleo, caucho y minerales), Para apoyar a las Potencias del Eje (Alemania, Italia y Japón)"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "¿Cuándo pudieron votar todas las mujeres?",
+    "correctAnswers": [
+      {
+        "text": "En 1920, Luego de la Primera Guerra Mundial, (A partir de la) 19a Enmienda",
+        "rationale": "La 19ª Enmienda a la Constitución de los Estados Unidos otorgó a las mujeres el derecho al voto. Este logro histórico, ratificado en 1920, culminó décadas de defensa por parte del movimiento sufragista femenino, que se intensificó después de la Primera Guerra Mundial."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "1945, Después de la Segunda Guerra Mundial, (Con la) 20ª Enmienda"
+      },
+      {
+        "text": "1900, Antes de la Primera Guerra Mundial, (Con la) 18ª Enmienda"
+      },
+      {
+        "text": "1970, Durante la Guerra de Vietnam, (Con la) 21ª Enmienda"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "¿Qué fue la Gran Depresión?",
+    "correctAnswers": [
+      {
+        "text": "La recesión económica más prolongada de la historia moderna",
+        "rationale": "La Gran Depresión fue una grave depresión económica mundial que tuvo lugar principalmente durante la década de 1930. Fue la recesión económica más larga y generalizada de la historia moderna."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "El auge económico más corto de la antigüedad"
+      },
+      {
+        "text": "El mayor escándalo político de la memoria reciente"
+      },
+      {
+        "text": "El avance tecnológico más rápido en la historia humana"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "¿Cuándo se inició la Gran Depresión?",
+    "correctAnswers": [
+      {
+        "text": "La Gran Crisis (1929), El derrumbe de la bolsa en 1929",
+        "rationale": "La Gran Depresión comenzó con el colapso del mercado de valores en octubre de 1929, conocido como el Gran Crash, que desencadenó una grave recesión económica mundial."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "La Gran Recesión (1939), Recesión económica de 1939"
+      },
+      {
+        "text": "La burbuja del mercado (1919), Colapso financiero de 1919"
+      },
+      {
+        "text": "La crisis bancaria (1909), Crisis crediticia de 1909"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "¿Quién era presidente durante la Gran Depresión y la Segunda Guerra Mundial?",
+    "correctAnswers": [
+      {
+        "text": "(Franklin) Roosevelt",
+        "rationale": "Franklin Delano Roosevelt fue el 32º presidente de los Estados Unidos desde 1933 hasta 1945. Es conocido por haber liderado el país a través de la Gran Depresión con sus programas del New Deal y por su liderazgo durante la Segunda Guerra Mundial."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Herbert) Hoover"
+      },
+      {
+        "text": "(Harry) Truman"
+      },
+      {
+        "text": "(Woodrow) Wilson"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "¿Por qué Estados Unidos participó en la Segunda Guerra Mundial?",
+    "correctAnswers": [
+      {
+        "text": "Por (el ataque a) Pearl Harbor, Por el ataque de Japón contra Pearl Harbor, Para apoyar a los Aliados (Inglaterra, Francia, Rusia), Para oponerse a las Potencias del Eje (Alemania, Italia y Japón)",
+        "rationale": "Estados Unidos entró en la Segunda Guerra Mundial debido al ataque sorpresa a Pearl Harbor por parte de Japón, lo que impulsó a la nación a unirse oficialmente a las Potencias Aliadas (Inglaterra, Francia y Rusia) y oponerse activamente a las Potencias del Eje (Alemania, Italia y Japón)."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Bombardeo de) Nueva York, Alemania atacó Nueva York, Para apoyar a las Potencias Centrales (Alemania, Austria-Hungría y el Imperio Otomano), Para oponerse a las Potencias Aliadas (Inglaterra, Francia y Rusia)"
+      },
+      {
+        "text": "(Asesinato de) el archiduque Franz Ferdinand, los serbios atacaron Austria-Hungría, Para apoyar a las Potencias del Eje (Alemania, Italia y Japón), Para oponerse a las Potencias Aliadas (Inglaterra, Francia y Rusia)"
+      },
+      {
+        "text": "(Hundimiento del) Lusitania, los submarinos alemanes atacaron barcos de pasajeros, Para apoyar a las Potencias Aliadas (Alemania, Italia y Japón), Para oponerse a las Potencias del Eje (Inglaterra, Francia y Rusia)"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "Dwight Eisenhower es reconocido por varias cosas. Nombre una de ellas.",
+    "correctAnswers": [
+      {
+        "text": "Fue General durante la Segunda Guerra Mundial, Fue presidente al finalizar (y durante) la Guerra contra Corea, Fue el presidente trigésimo cuarto de los Estados Unidos, Promulgó la Ley de autopistas interestatales en 1956 (que creó el Sistema interestatal)",
+        "rationale": "Dwight D. Eisenhower fue una figura clave en la historia estadounidense, primero como Comandante Supremo de la Fuerza Expedicionaria Aliada en la Segunda Guerra Mundial, liderando la invasión del Día D. Más tarde, se convirtió en el 34º presidente de los EE. UU., conocido por poner fin a la Guerra de Corea y establecer el Sistema de Carreteras Interestatales."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Primer Presidente de los Estados Unidos, Escribió la Declaración de Independencia, Lideró el Movimiento por los Derechos Civiles"
+      },
+      {
+        "text": "Lideró la Revolución Americana, Inventó la bombilla, Sirvió como Vicepresidente (durante) la Guerra Fría"
+      },
+      {
+        "text": "Fue autor de la Proclamación de Emancipación, Fundó las Naciones Unidas, 40º presidente de los Estados Unidos"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "¿Qué país fue el principal oponente de Estados Unidos durante la Guerra Fría?",
+    "correctAnswers": [
+      {
+        "text": "La Unión Soviética, La USSR, Rusia",
+        "rationale": "Explicación: La Unión Soviética (también conocida como la URSS o Rusia) fue el principal adversario político e ideológico de Estados Unidos durante la Guerra Fría. Antecedentes: La Guerra Fría fue un período de tensión geopolítica entre Estados Unidos y sus aliados y la Unión Soviética y sus estados satélites, que duró desde el final de la Segunda Guerra Mundial a mediados de la década de 1940 hasta el colapso de la Unión Soviética en 1991. Se caracterizó por una carrera armamentista, guerras subsidiarias y una lucha por la influencia global, pero sin un conflicto militar directo a gran escala entre las dos superpotencias."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Alemania, Francia, Reino Unido"
+      },
+      {
+        "text": "China, Japón, Italia"
+      },
+      {
+        "text": "Canadá, México, Brasil"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "¿Cuál fue la principal preocupación de los Estados Unidos durante la Guerra Fría?",
+    "correctAnswers": [
+      {
+        "text": "El comunismo, La guerra nuclear",
+        "rationale": "Durante la Guerra Fría, la principal preocupación de EE. UU. fue la expansión del comunismo, una ideología política en la que el estado controla la economía y la sociedad, que veían como una amenaza para la democracia y el capitalismo. También estaban profundamente preocupados por la guerra nuclear, temiendo un conflicto devastador con la Unión Soviética, especialmente dado el desarrollo de bombas atómicas y misiles balísticos intercontinentales."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Socialismo, Recesión económica"
+      },
+      {
+        "text": "Colonialismo, Disturbios civiles"
+      },
+      {
+        "text": "Aislacionismo, Guerra Mundial"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "¿Por qué los Estados Unidos participó en la Guerra de Corea?",
+    "correctAnswers": [
+      {
+        "text": "Para detener la propagación del comunismo",
+        "rationale": "La Guerra de Corea (1950-1953) fue un conflicto entre Corea del Norte (apoyada por China y la Unión Soviética) y Corea del Sur (apoyada por las Naciones Unidas, principalmente Estados Unidos). Estados Unidos intervino para evitar que el gobierno comunista de Corea del Norte se apoderara de Corea del Sur, como parte de su política más amplia de la Guerra Fría de contener el comunismo a nivel mundial."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Para promover la democracia"
+      },
+      {
+        "text": "Para obtener nuevos territorios"
+      },
+      {
+        "text": "Para apoyar a la Unión Soviética"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "¿Por qué los Estados Unidos participó en la Guerra de Vietnam?",
+    "correctAnswers": [
+      {
+        "text": "Para detener la propagación del comunismo",
+        "rationale": "Estados Unidos entró en la Guerra de Vietnam principalmente para evitar la propagación del comunismo en el sudeste asiático, una política conocida como la \"teoría del dominó\". Esta teoría postulaba que si un país de una región caía en el comunismo, otros le seguirían pronto. Estados Unidos vio el conflicto en Vietnam como un frente crítico en la Guerra Fría más amplia contra la Unión Soviética y China."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Adquirir nuevos territorios"
+      },
+      {
+        "text": "Establecer un nuevo gobierno"
+      },
+      {
+        "text": "Proteger sus intereses económicos"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "¿Qué logró el movimiento por los derechos civiles?",
+    "correctAnswers": [
+      {
+        "text": "Luchó para abolir la discriminación racial",
+        "rationale": "El Movimiento por los Derechos Civiles fue una lucha por la justicia social que tuvo lugar principalmente durante las décadas de 1950 y 1960 para que los afroamericanos obtuvieran la igualdad de derechos ante la ley en los Estados Unidos. Su objetivo principal era acabar con la discriminación y la segregación racial."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Luchó para acabar con la segregación racial"
+      },
+      {
+        "text": "Luchó por el sufragio femenino"
+      },
+      {
+        "text": "Luchó contra la desigualdad económica"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "Martin Luther King, Jr. es célebre por muchos motivos. Mencione uno. *",
+    "correctAnswers": [
+      {
+        "text": "Luchó por los derechos civiles, Peleó por la igualdad para todos los estadounidenses, Trabajó para garantizar que la gente no fuera \"juzgada por el color de su piel, sino por su carácter\"",
+        "rationale": "Martin Luther King, Jr. fue un líder en el Movimiento por los Derechos Civiles en Estados Unidos. Abogó por la igualdad de derechos y el fin de la discriminación contra los afroamericanos, expresando famosamente su esperanza de que las personas fueran juzgadas por su carácter, no por el color de su piel."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Se convirtió en el primer presidente afroamericano, Escribió la Declaración de Independencia, Inventó la bombilla"
+      },
+      {
+        "text": "Descubrió América, Lideró el Boston Tea Party, Firmó la Proclamación de Emancipación"
+      },
+      {
+        "text": "Luchó en la Guerra Civil, Fundó la Cruz Roja, Fue un general en la Guerra Revolucionaria"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "¿Por qué los Estados Unidos participó en la Guerra del Golfo Pérsico?",
+    "correctAnswers": [
+      {
+        "text": "Para exigir el retiro de las tropas iraquíes de Kuwait",
+        "rationale": "Estados Unidos intervino en la Guerra del Golfo Pérsico para liberar Kuwait después de la invasión de Irak en agosto de 1990. La comunidad internacional condenó ampliamente la invasión, y Estados Unidos, liderando una coalición de fuerzas, lanzó la Operación Tormenta del Desierto para expulsar a las tropas iraquíes de Kuwait."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Para proteger el suministro de petróleo"
+      },
+      {
+        "text": "Para liberar a Kuwait de la ocupación iraquí"
+      },
+      {
+        "text": "Para establecer la democracia en el Medio Oriente"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "¿Qué suceso de gran magnitud ocurrió el 11 de septiembre de 2001 en los Estados Unidos?*",
+    "correctAnswers": [
+      {
+        "text": "Terroristas atacaron los Estados Unidos., Los terroristas secuestraron dos aviones y los estrellaron contra el World Trade Center de Nueva York, Los terroristas secuestraron un avión y lo estrellaron contra el Pentágono, ubicado en Arlington, Virginia, Los terroristas secuestraron un avión, cuyo objetivo en realidad era Washington D.C., y lo estrellaron contra un campo en Pensilvania.",
+        "rationale": "El 11 de septiembre de 2001, una serie de cuatro ataques terroristas coordinados por el grupo terrorista islámico al-Qaeda contra los Estados Unidos resultaron en el colapso de las torres del World Trade Center en la ciudad de Nueva York y graves daños al Pentágono en Arlington, Virginia. Un cuarto avión, que se cree se dirigía a Washington D.C., se estrelló en un campo en Pensilvania después de que los pasajeros y la tripulación intentaran recuperar el control."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Terroristas atacaron las Torres Gemelas, Terroristas estrellaron aviones contra la Casa Blanca y el Capitolio, Terroristas usaron bombas para atacar ciudades importantes, Terroristas intentaron secuestrar un tren"
+      },
+      {
+        "text": "Terroristas atacaron edificios gubernamentales, Terroristas tomaron dos aviones y los estrellaron contra el Empire State Building, Terroristas tomaron un avión y lo estrellaron contra la Estatua de la Libertad, Terroristas tomaron un avión originalmente dirigido a la ciudad de Nueva York y se estrelló en un lago en Canadá"
+      },
+      {
+        "text": "Terroristas atacaron bases militares, Terroristas tomaron dos aviones y los estrellaron contra el Puente Golden Gate, Terroristas tomaron un avión y lo estrellaron contra el Monte Rushmore, Terroristas tomaron un avión originalmente dirigido a Los Ángeles y se estrelló en un desierto en Arizona"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "Nombre uno de los conflictos bélicos estadounidenses que ocurrieron luego de los ataques del 11 de septiembre de 2001.",
+    "correctAnswers": [
+      {
+        "text": "Guerra (Mundial) contra el Terrorismo, Guerra de Afganistán, Guerra de Irak",
+        "rationale": "Los ataques del 11 de septiembre de 2001 impulsaron a Estados Unidos a lanzar operaciones militares, incluida la Guerra Global contra el Terrorismo, que abarcó la Guerra de Afganistán y la Guerra de Irak, para combatir el terrorismo y los regímenes asociados."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Guerra (Civil) de Corea, Guerra de Vietnam, Segunda Guerra Mundial"
+      },
+      {
+        "text": "(Desierto) Golfo Pérsico, Guerra en Europa, Guerra en Cuba"
+      },
+      {
+        "text": "(Fría) Carrera espacial, Guerra en Rusia, Guerra en Berlín"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "Nombre una de las tribus nativas americanas de Estados Unidos.",
+    "correctAnswers": [
+      {
+        "text": "Apache, Pies negros, Cayuga, Cheroqui, Cheyenne, Chippewa, Choctaw, Creek, Cuervo, Hopi, Huron, Inupiat, Lakota, Mohawk, Mohegan, Navajo, Oneida, Onondaga, Pueblo, Seminole, Seneca, Shawnee, Sioux, Teton, Tuscarora Para conocer la lista completa, por favor diríjase a bia.gov.",
+        "rationale": "Estas son algunas de las muchas tribus indígenas americanas reconocidas a nivel federal en los Estados Unidos. Estas tribus representan diversas culturas, idiomas e historias, y son naciones soberanas con sus propios gobiernos y tradiciones."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Alemania, Francia, España"
+      },
+      {
+        "text": "Manzana, Plátano, Naranja"
+      },
+      {
+        "text": "Perro, Gato, Pájaro"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "category": "La historia americana",
+    "subcategory": "Historia Estadounidense Reciente y Otra Información Histórica Importante",
+    "question": "Nombre un ejemplo de innovación estadounidense.",
+    "correctAnswers": [
+      {
+        "text": "Bombilla, Automóvil (autos, combustible), Rascacielos, Aviones, Producción en cadena, Aterrizaje en la Luna, Circuito integrado (CI)",
+        "rationale": "Estados Unidos tiene una rica historia de innovación, lo que ha llevado a muchos inventos que han impactado significativamente al mundo. Estas innovaciones demuestran el ingenio estadounidense y su contribución al progreso global. Aquí hay algunos ejemplos clave: * Bombilla: Inventada por Thomas Edison, revolucionó la iluminación y extendió las horas productivas. * Automóvil (coches, motor de combustión interna): Iniciado por figuras como Henry Ford, transformó el transporte y la fabricación. * Rascacielos: Arquitectos e ingenieros estadounidenses lideraron el desarrollo de estos edificios altos, cambiando los paisajes urbanos. * Avión: Inventado por los hermanos Wright, marcó el comienzo de la era de los viajes aéreos. * Cadena de montaje: Desarrollada por Henry Ford, aumentó drásticamente la eficiencia en la fabricación. * Aterrizaje en la luna: Un logro monumental del programa Apolo, que muestra la destreza científica y de ingeniería estadounidense. * Circuito integrado (CI): Un invento fundamental de la era de la electrónica, que permitió el desarrollo de computadoras y tecnología moderna."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pirámides, Gran Muralla China (estructura de defensa antigua), Coliseo, Imprenta, Brújula, Pólvora, Ruta de la Seda (ruta comercial)"
+      },
+      {
+        "text": "Tipos móviles, Papel (material de escritura), Porcelana, Cohetes, Ábaco, Astrolabio, Sismógrafo (detector de terremotos)"
+      },
+      {
+        "text": "Zigurats, Partenón (templo griego antiguo), Acueducto, Estribo, Carretilla, Molino de agua, Reloj de sol (dispositivo para decir la hora)"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "category": "Símbolos y Días Feriados",
+    "subcategory": "Símbolos",
+    "question": "¿Cuál es la capital de los Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Washington, D.C.",
+        "rationale": "Washington, D.C. es la capital de los Estados Unidos. Es un distrito federal, no forma parte de ningún estado, y fue establecido en 1790 para servir como sede permanente del gobierno de los Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nueva York, N.Y."
+      },
+      {
+        "text": "Los Ángeles, C.A."
+      },
+      {
+        "text": "Chicago, I.L."
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "category": "Símbolos y Días Feriados",
+    "subcategory": "Símbolos",
+    "question": "¿Dónde está la Estatua de la Libertad?",
+    "correctAnswers": [
+      {
+        "text": "(El puerto de) Nueva York, Liberty Island [Otras respuestas aceptables son Nueva Jersey, cerca de la Ciudad de Nueva York y en el (Río) Hudson.]",
+        "rationale": "La Estatua de la Libertad está ubicada en el puerto de Nueva York, específicamente en Liberty Island. Es un famoso símbolo de libertad y democracia, regalado a los Estados Unidos por Francia."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Los Ángeles (Playa), Hollywood Hills [También son aceptables Las Vegas, cerca de San Francisco y en el (Río) Colorado.]"
+      },
+      {
+        "text": "Chicago (Loop), Millennium Park [También son aceptables Miami, cerca de Washington D.C. y en el (Río) Misisipi.]"
+      },
+      {
+        "text": "Boston (Puerto), Freedom Trail [También son aceptables Filadelfia, cerca de Atlanta y en el (Río) Potomac.]"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "category": "Símbolos y Días Feriados",
+    "subcategory": "Símbolos",
+    "question": "¿Por qué hay 13 franjas en la bandera? *",
+    "correctAnswers": [
+      {
+        "text": "Porque representan las 13 colonias originales, Porque las franjas representan las colonias originales",
+        "rationale": "Las 13 franjas de la bandera representan las 13 colonias británicas originales que declararon su independencia y formaron los Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Porque había) 13 padres fundadores, (Porque las franjas) representan las 13 virtudes"
+      },
+      {
+        "text": "(Porque había) 13 estados en la unión, (Porque las franjas) significan 13 años de independencia"
+      },
+      {
+        "text": "(Porque había) 13 eventos históricos, (Porque las franjas) conmemoran 13 héroes"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "category": "Símbolos y Días Feriados",
+    "subcategory": "Símbolos",
+    "question": "¿Por qué hay 50 estrellas en la bandera?",
+    "correctAnswers": [
+      {
+        "text": "Porque hay una estrella por cada estado, Porque cada estrella representa un estado, Porque hay 50 estados",
+        "rationale": "La bandera estadounidense tiene 50 estrellas porque cada estrella representa uno de los 50 estados de los Estados Unidos de América. Este diseño asegura que cada estado esté simbolizado en la bandera nacional."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Porque es) una estrella por cada raya, (Porque) cada estrella representa un color, (Porque hay) 50 rayas"
+      },
+      {
+        "text": "(Porque hay) una estrella por cada colonia original, (Porque) cada estrella representa un presidente, (Porque hay) 50 colores"
+      },
+      {
+        "text": "(Porque hay) una estrella por cada evento histórico, (Porque) cada estrella representa una victoria militar, (Porque hay) 50 enmiendas"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "category": "Símbolos y Días Feriados",
+    "subcategory": "Símbolos",
+    "question": "¿Cómo se llama el himno nacional?",
+    "correctAnswers": [
+      {
+        "text": "The Star-Spangled Banner",
+        "rationale": "The Star-Spangled Banner es el himno nacional de los Estados Unidos. Su letra proviene de \"Defence of Fort M'Henry\", un poema escrito por Francis Scott Key en 1814 después de presenciar el bombardeo de Fort McHenry en Baltimore durante la Guerra de 1812."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "America la Bella"
+      },
+      {
+        "text": "Dios Bendiga América"
+      },
+      {
+        "text": "Mi País, Es de Ti"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "category": "Símbolos y Días Feriados",
+    "subcategory": "Símbolos",
+    "question": "El primer lema del Estado fue “E Pluribus Unum”. ¿Qué significa?",
+    "correctAnswers": [
+      {
+        "text": "De muchos, uno, Todos nos convertimos en uno",
+        "rationale": "La frase \"E Pluribus Unum\" es latín y significa \"De muchos, uno\". Fue el lema adoptado por el Gran Sello de los Estados Unidos en 1782. Este lema significa la unidad de los estados individuales en una nación cohesiva. La idea es que, si bien hay muchos estados, se unen para formar un solo país."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "De muchos, a uno, Todos somos uno"
+      },
+      {
+        "text": "Una nación, bajo Dios, indivisible"
+      },
+      {
+        "text": "Para el pueblo, por el pueblo, del pueblo"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "category": "Símbolos y Días Feriados",
+    "subcategory": "Días Feriados",
+    "question": "¿Qué se celebra el Día de la Independencia?",
+    "correctAnswers": [
+      {
+        "text": "Es una fecha patria en la que se celebra la independencia estadounidense (de Gran Bretaña), Es el cumpleaños del país",
+        "rationale": "El Día de la Independencia es un día festivo estadounidense que se celebra anualmente el 4 de julio. Conmemora la adopción de la Declaración de Independencia el 4 de julio de 1776, que declaró la independencia del país de Gran Bretaña. A menudo se le conoce como el cumpleaños de Estados Unidos y se celebra con fuegos artificiales, desfiles y otras festividades."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Un día festivo para celebrar la Constitución de los EE. UU. (ratificación), la fundación del país"
+      },
+      {
+        "text": "Un día festivo para celebrar a los veteranos de los EE. UU. (de todas las guerras), el día de los héroes del país"
+      },
+      {
+        "text": "Un día festivo para celebrar a los presidentes de los EE. UU. (Washington, Lincoln), los líderes del país"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "category": "Símbolos y Días Feriados",
+    "subcategory": "Días Feriados",
+    "question": "Mencione Tres días feriados nacionales de los Estados Unidos.*",
+    "correctAnswers": [
+      {
+        "text": "El Día de Año Nuevo, El Día de Martin Luther King Jr., El Día de los Presidentes (Cumpleaños de Washington), El Día de los Caídos, El Día de la Independencia, El Día del Trabajo, El Día de Colón (Día de la Raza), El Día de los Veteranos, El Día de Acción de Gracias, El Día de Navidad",
+        "rationale": "Estados Unidos observa una serie de días feriados nacionales a lo largo del año, celebrando diversos eventos históricos, figuras y tradiciones culturales. Estos días a menudo se caracterizan por el cierre de oficinas federales, bancos y escuelas, lo que permite a las personas tiempo para el recuerdo, la celebración o la relajación. La lista proporcionada incluye muchos de estos días festivos ampliamente reconocidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Día de los Inocentes, Día de San Valentín, Halloween, Día de San Patricio, Día de la Madre, Día del Padre, Día de la Bandera, Día de las Elecciones, Día de la Marmota, Día Más Dulce, Día de Pearl Harbor"
+      },
+      {
+        "text": "Día de la Bastilla, Día de Canadá, Día de Australia, Noche de Guy Fawkes, Boxing Day, Kwanzaa, Diwali, Eid al-Fitr, Rosh Hashanah, Año Nuevo Chino, Nochevieja"
+      },
+      {
+        "text": "Día del Árbol, Día de la Tierra, Día Nacional de las Mascotas, Día Nacional de la Dona, Día de Pi, Día de Hablar como un Pirata, Día de Star Wars, Día Nacional del Waffle, Día del Panqueque, Día Nacional del Café, Día Nacional de la Pizza"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "category": "Símbolos y Días Feriados",
+    "subcategory": "Días Feriados",
+    "question": "¿Qué se conmemora durante el Día de los caídos?",
+    "correctAnswers": [
+      {
+        "text": "Es una fecha en la que se le rinde homenaje a los soldados que murieron en combate",
+        "rationale": "El Día de los Caídos es un feriado federal en los Estados Unidos que se observa el último lunes de mayo. Es un día de recuerdo para aquellos que han muerto en servicio militar por los Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Un día feriado para celebrar la firma de la Declaración de Independencia"
+      },
+      {
+        "text": "Un día para recordar a aquellos que sirvieron en las fuerzas armadas y regresaron a casa"
+      },
+      {
+        "text": "Una celebración del fin de la Segunda Guerra Mundial"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "category": "Símbolos y Días Feriados",
+    "subcategory": "Días Feriados",
+    "question": "¿Qué se conmemora durante el Día de los Veteranos?",
+    "correctAnswers": [
+      {
+        "text": "Es una fecha en la que se le rinde homenaje a los miembros del Ejército estadounidense, Es una fecha en la que se le rinde homenaje a los que sirvieron al país (en el Ejército estadounidense)",
+        "rationale": "El Día de los Veteranos es un día festivo en los Estados Unidos que se celebra el 11 de noviembre y rinde homenaje a todos los que han servido en el ejército de los EE. UU. Originalmente llamado Día del Armisticio, marcó el final de la Primera Guerra Mundial."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Un día festivo para honrar a las personas que trabajan (en el gobierno de los EE. UU.), Un día festivo para honrar a las personas que votan (en las elecciones de los EE. UU.)"
+      },
+      {
+        "text": "Un día festivo para honrar a las personas que enseñan (en las escuelas de los EE. UU.), Un día festivo para honrar a las personas que inventan (en las industrias de los EE. UU.)"
+      },
+      {
+        "text": "Un día festivo para honrar a las personas que cantan (en los conciertos de los EE. UU.), Un día festivo para honrar a las personas que pintan (en los museos de los EE. UU.)"
+      }
+    ]
+  }
+]

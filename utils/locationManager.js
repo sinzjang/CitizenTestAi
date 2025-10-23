@@ -55,6 +55,19 @@ class LocationManager {
     return state ? state.senators : [];
   }
 
+  // 연방 정부 정보 가져오기
+  static getPresident() {
+    return US_POLITICAL_DATA.federal?.president || 'Answers will vary';
+  }
+
+  static getVicePresident() {
+    return US_POLITICAL_DATA.federal?.vicePresident || 'Answers will vary';
+  }
+
+  static getSpeakerOfHouse() {
+    return US_POLITICAL_DATA.federal?.speakerOfHouse || 'Answers will vary';
+  }
+
   // ZIP 코드로 하원의원 찾기 (API 우선 방식)
   static async getRepresentativeFromZip(zipCode) {
     console.log('\n🔍 === ZIP 코드 조회 시작 ===');
@@ -429,6 +442,24 @@ class LocationManager {
         }
         console.log('❌ 하원의원 정보 없음');
         return 'Answers will vary';
+      
+      case 'speaker':
+        // 하원의장 정보
+        const speaker = this.getSpeakerOfHouse();
+        console.log('🏛️ 하원의장:', speaker);
+        return speaker;
+      
+      case 'president':
+        // 대통령 정보
+        const president = this.getPresident();
+        console.log('🇺🇸 대통령:', president);
+        return president;
+      
+      case 'vice_president':
+        // 부통령 정보
+        const vicePresident = this.getVicePresident();
+        console.log('🏛️ 부통령:', vicePresident);
+        return vicePresident;
       
       default:
         console.log('❌ 알 수 없는 질문 타입:', questionType);

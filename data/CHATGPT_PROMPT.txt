@@ -1,0 +1,55 @@
+Please translate the English_Full column in the attached CSV file to Chinese_Full column in Simplified Chinese.
+
+This file contains educational stories for the U.S. citizenship test. There are 8 chapters with 43 items total.
+
+Translation Rules:
+
+1. Handling [ANSWER:xxx] Format
+   - These are correct answers for the U.S. citizenship test
+   - Replace with accurate Chinese answers
+   - Examples:
+     * Republic → 共和国
+     * Constitution-based federal republic → 基于宪法的联邦共和国
+     * Representative democracy → 代议制民主
+     * Constitution → 宪法
+     * Legislative branch → 立法部门
+     * Executive branch → 行政部门
+     * Judicial branch → 司法部门
+     * Congress → 国会
+     * Senate → 参议院
+     * House of Representatives → 众议院
+     * President → 总统
+     * Supreme Court → 最高法院
+
+2. Translation Style
+   - Maintain storytelling tone (e.g., 很久很久以前... for Once upon a time...)
+   - Natural and flowing Simplified Chinese
+   - Educational yet engaging style
+   - Consider the context of the entire sentence
+
+3. Maintain Context
+   - Keep question numbers (Q.1, Q.2, etc.) as is
+   - Use appropriate quotation marks and punctuation
+   - Grammatically natural Chinese
+
+4. Type-Specific Handling
+   - Type title: Concise and impactful
+   - Type introduction: Engaging introduction
+   - Type section: Natural story flow
+
+Important Notes for Simplified Chinese:
+- Use Simplified Chinese characters (简体中文)
+- Use standard Mandarin expressions
+- Avoid overly formal or literary language
+- Use clear and accessible Chinese for learners
+
+Example:
+
+English_Full:
+Once upon a time, there were people who dreamed of freedom and justice. As they established a new nation, they declared: We shall live as a Republic, under the principles of a Constitution-based federal republic, and create a nation of Representative democracy where people govern themselves through representatives! (Q.1). The supreme law supporting their promise was the Constitution (Q.2).
+
+Chinese_Full:
+很久很久以前，有一群梦想自由和正义的人。当他们建立一个新国家时，他们宣布：我们将作为一个共和国生活，遵循基于宪法的联邦共和国的原则，并创建一个代议制民主国家，人民通过代表自我治理！(Q.1)。支持他们承诺的最高法律是宪法 (Q.2)。
+
+Once translation is complete, please provide the CSV file for download.
+Please translate all 43 items.

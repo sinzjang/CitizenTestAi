@@ -174,7 +174,7 @@ const DeepDiveInterview = ({ navigation }) => {
         >
           <Ionicons name="arrow-back" size={24} color={theme.colors.primary} />
         </TouchableOpacity>
-        <Text style={styles.headerTitle}>Deep Dive Interview</Text>
+        <Text style={styles.headerTitle}>Learning Analytics</Text>
       </View>
 
       <ScrollView style={styles.content} showsVerticalScrollIndicator={false}>
@@ -217,7 +217,7 @@ const DeepDiveInterview = ({ navigation }) => {
 
         {/* Interview Modes */}
         <View style={styles.modesSection}>
-          <Text style={styles.sectionTitle}>🎯 Choose Your Deep Dive Mode</Text>
+          <Text style={styles.sectionTitle}>🎯 Recommended Study Modes</Text>
 
           {/* Weakness Focus Mode */}
           <TouchableOpacity
@@ -299,7 +299,7 @@ const DeepDiveInterview = ({ navigation }) => {
 
         {/* Tips Section */}
         <View style={styles.tipsSection}>
-          <Text style={styles.sectionTitle}>💪 Deep Dive Tips</Text>
+          <Text style={styles.sectionTitle}>💪 Study Tips</Text>
           <View style={styles.tipItem}>
             <Ionicons name="checkmark-circle" size={16} color="#4CAF50" />
             <Text style={styles.tipText}>Take your time to think through each answer</Text>

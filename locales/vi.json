@@ -50,17 +50,17 @@
       "title": "Học tập",
       "subtitle": "Xây dựng nền tảng kiến thức của bạn",
       "allQuestions": "Tất cả Câu hỏi",
-      "allQuestionsSubtitle": "Xem tất cả 100 câu hỏi",
+      "allQuestionsSubtitle": "Xem tất cả 128 (2025) câu hỏi",
       "storyMode": "Chế độ Câu chuyện",
       "storyModeSubtitle": "Câu chuyện Phiêu lưu Mỹ ★",
       "audioLearning": "Học bằng Âm thanh khi Lái xe",
       "audioLearningSubtitle": "Học trong khi lái xe"
     },
     "practiceTests": {
-      "title": "Bài Kiểm tra Thực hành",
-      "subtitle": "Kiểm tra kiến thức và xác định điểm yếu",
+      "title": "Luyện tập",
+      "subtitle": "Chế độ luyện tập thẻ ghi nhớ",
       "flashcardMode": "Chế độ Thẻ ghi nhớ",
-      "flashcardModeSubtitle": "Ghi nhớ hiệu quả tất cả 100 câu hỏi",
+      "flashcardModeSubtitle": "Ghi nhớ hiệu quả tất cả 128 (2025) câu hỏi",
       "practiceTest": "Bài Kiểm tra Thực hành",
       "practiceTestSubtitle": "10 câu hỏi ngẫu nhiên",
       "practiceTestVoice": "Bài kiểm tra (có giọng nói)",
@@ -70,13 +70,17 @@
       "customTest": "Bài Kiểm tra Tùy chỉnh",
       "customTestSubtitle": "Chọn chủ đề và số lượng câu hỏi"
     },
+    "test": {
+      "title": "Kiểm tra",
+      "subtitle": "Kiểm tra kiến thức của bạn"
+    },
     "aiMockInterview": {
       "title": "Phỏng vấn Giả lập AI",
       "subtitle": "Luyện tập kỹ năng nói",
       "standardInterview": "Phỏng vấn Tiêu chuẩn",
       "standardInterviewSubtitle": "Luyện phỏng vấn với AI",
-      "deepDiveInterview": "Phỏng vấn Sâu",
-      "deepDiveInterviewSubtitle": "Câu hỏi theo sau của AI",
+      "deepDiveInterview": "Phân tích Học tập",
+      "deepDiveInterviewSubtitle": "Phân tích tiến độ và đề xuất học tập",
       "n400Practice": "Luyện tập N-400",
       "n400PracticeSubtitle": "Tuyên thệ và câu hỏi cá nhân"
     },

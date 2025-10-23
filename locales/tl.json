@@ -50,17 +50,17 @@
       "title": "Matuto",
       "subtitle": "Bumuo ng inyong knowledge foundation",
       "allQuestions": "Lahat ng Tanong",
-      "allQuestionsSubtitle": "Tingnan ang lahat ng 100 tanong",
+      "allQuestionsSubtitle": "Tingnan ang lahat ng 128 (2025) tanong",
       "storyMode": "Story Mode",
       "storyModeSubtitle": "American Adventure Story ★",
       "audioLearning": "Audio Learning sa Driving",
       "audioLearningSubtitle": "Matuto habang nagmamaneho"
     },
     "practiceTests": {
-      "title": "Practice Tests",
-      "subtitle": "I-check ang knowledge at tukuyin ang weaknesses",
+      "title": "Pagsasanay",
+      "subtitle": "Mga mode ng pagsasanay ng flashcard",
       "flashcardMode": "Flashcard Mode",
-      "flashcardModeSubtitle": "Epektibong memorya sa lahat ng 100 tanong",
+      "flashcardModeSubtitle": "Epektibong memorya sa lahat ng 128 (2025) tanong",
       "practiceTest": "Practice Test",
       "practiceTestSubtitle": "Random na 10 tanong",
       "practiceTestVoice": "Practice Test (may boses)",
@@ -70,13 +70,17 @@
       "customTest": "Custom Test",
       "customTestSubtitle": "Pumili ng topics at bilang ng tanong"
     },
+    "test": {
+      "title": "Pagsusulit",
+      "subtitle": "Suriin ang iyong kaalaman sa mga pagsusulit"
+    },
     "aiMockInterview": {
       "title": "AI Mock Interview",
       "subtitle": "Practice ng speaking skills",
       "standardInterview": "Standard Interview",
       "standardInterviewSubtitle": "AI-powered interview practice",
-      "deepDiveInterview": "Deep Dive Interview",
-      "deepDiveInterviewSubtitle": "AI follow-up questions",
+      "deepDiveInterview": "Learning Analytics",
+      "deepDiveInterviewSubtitle": "Progress analysis at mga rekomendasyon",
       "n400Practice": "N-400 Practice",
       "n400PracticeSubtitle": "Oath at personal questions"
     },

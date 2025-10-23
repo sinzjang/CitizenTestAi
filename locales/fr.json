@@ -86,10 +86,10 @@
       "storyModeSubtitle": "Histoire d'aventure américaine ★"
     },
     "practiceTests": {
-      "title": "Tests d'entraînement",
-      "subtitle": "Vérifiez vos connaissances et identifiez vos faiblesses",
+      "title": "Pratique",
+      "subtitle": "Modes de pratique avec cartes mémoire",
       "flashcardMode": "Mode flashcards",
-      "flashcardModeSubtitle": "Mémoriser efficacement les 100 questions",
+      "flashcardModeSubtitle": "Mémoriser efficacement les 128 (2025) questions",
       "practiceTest": "Test d'entraînement",
       "practiceTestSubtitle": "10 questions aléatoires",
       "practiceTestVoice": "Test d'entraînement (avec voix)",

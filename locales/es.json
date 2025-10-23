@@ -71,17 +71,17 @@
       "title": "Aprender",
       "subtitle": "Construye tu base de conocimiento",
       "allQuestions": "Todas las Preguntas",
-      "allQuestionsSubtitle": "Ver todas las 100 preguntas",
+      "allQuestionsSubtitle": "Ver todas las 128 (2025) preguntas",
       "storyMode": "Modo Historia",
       "storyModeSubtitle": "Historia de Aventura Americana ★",
       "audioLearning": "Aprendizaje en Auto",
       "audioLearningSubtitle": "Aprende mientras conduces"
     },
     "practiceTests": {
-      "title": "Exámenes de Práctica",
-      "subtitle": "Verifica conocimiento e identifica debilidades",
+      "title": "Práctica",
+      "subtitle": "Modos de práctica con tarjetas",
       "flashcardMode": "Modo Tarjetas",
-      "flashcardModeSubtitle": "Memorizar efectivamente las 100 preguntas",
+      "flashcardModeSubtitle": "Memorizar efectivamente las 128 (2025) preguntas",
       "practiceTest": "Examen de Práctica",
       "practiceTestSubtitle": "10 preguntas aleatorias",
       "practiceTestVoice": "Examen de Práctica (con voz)",
@@ -91,13 +91,17 @@
       "customTest": "Examen Personalizado",
       "customTestSubtitle": "Elige temas y cantidad de preguntas"
     },
+    "test": {
+      "title": "Prueba",
+      "subtitle": "Verifica tu conocimiento con pruebas"
+    },
     "aiMockInterview": {
       "title": "Entrevista Simulada IA",
       "subtitle": "Practica habilidades de habla",
       "standardInterview": "Entrevista Estándar",
       "standardInterviewSubtitle": "Práctica de entrevista con IA",
-      "deepDiveInterview": "Entrevista Profunda",
-      "deepDiveInterviewSubtitle": "Preguntas de seguimiento de IA",
+      "deepDiveInterview": "Análisis de Aprendizaje",
+      "deepDiveInterviewSubtitle": "Análisis de progreso y recomendaciones",
       "n400Practice": "Práctica N-400",
       "n400PracticeSubtitle": "Juramento y preguntas personales"
     },

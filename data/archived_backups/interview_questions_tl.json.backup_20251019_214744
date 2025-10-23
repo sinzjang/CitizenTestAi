@@ -1,0 +1,3082 @@
+[
+  {
+    "id": 1,
+    "question": "Ano ang pinakamataas na batas ng bansa?",
+    "correctAnswers": [
+      {
+        "text": "ang Konstitusyon",
+        "rationale": "Ang Konstitusyon ay ang pundamental at pinakamataas na batas ng pamahalaan ng U.S."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang Deklarasyon ng Kalayaan",
+        "rationale": "Ang Deklarasyon ng Kalayaan ay isang mahalagang dokumento na nagdeklara ng kalayaan, ngunit hindi ito batas."
+      },
+      {
+        "text": "ang Bill of Rights",
+        "rationale": "Ang Bill of Rights ay bahagi ng Konstitusyon (ang unang 10 amyenda), hindi ang buong pinakamataas na batas."
+      },
+      {
+        "text": "ang mga Papel ng Federalista",
+        "rationale": "Ang mga Papel ng Federalista ay isang serye ng mga sanaysay na isinulat upang hikayatin ang mga tao na ratipikahan ang Konstitusyon."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ano ang ginagawa ng Konstitusyon?",
+    "correctAnswers": [
+      {
+        "text": "itinatatag ang pamahalaan",
+        "rationale": "Isa sa mga pangunahing tungkulin ng Konstitusyon ay ang magtatag at magtakda ng pamahalaan."
+      },
+      {
+        "text": "tinutukoy ang pamahalaan",
+        "rationale": "Tinutukoy ng Konstitusyon ang mga kapangyarihan at pananagutan ng bawat sangay ng pamahalaan."
+      },
+      {
+        "text": "pinoprotektahan ang mga pangunahing karapatan ng mga Amerikano",
+        "rationale": "Maraming mga susog, kabilang ang Bill of Rights, ang nagpoprotekta sa mga pangunahing karapatan ng mga mamamayan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "inihahalal ang Pangulo, gumagawa ng batas, nangongolekta ng buwis",
+        "rationale": "Itinatakda ng Konstitusyon ang proseso para sa paghalal ng Pangulo, ngunit hindi ito mismo ang pumipili ng Pangulo. Ang mga batas ay ginagawa ng Kongreso, hindi ng Konstitusyon mismo. Ang pangongolekta ng buwis ay kapangyarihang ibinigay sa Kongreso ng Konstitusyon, hindi aksyon ng Konstitusyon mismo."
+      },
+      {
+        "text": "nagpapatupad ng mga batas, namumuno sa militar, nakikipagkasundo sa mga tratado",
+        "rationale": "Ito ay mga kapangyarihan ng sangay ng ehekutibo na ibinigay ng Konstitusyon, ngunit hindi ito mismo ang ginagawa ng Konstitusyon."
+      },
+      {
+        "text": "nagsusuri ng mga batas, nag-aayos ng mga alitan, nire-review ang mga kaso sa korte",
+        "rationale": "Ito ay mga tungkulin ng sangay ng hudikatura na itinatag ng Konstitusyon, ngunit hindi ito direktang aksyon ng Konstitusyon mismo."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Ang ideya ng sariling pamahalaan ay nasa unang tatlong salita ng Konstitusyon. Ano ang mga salitang ito?",
+    "correctAnswers": [
+      {
+        "text": "Kami, ang mga Tao",
+        "rationale": "Ang mga salitang ito ay sumasagisag na ang kapangyarihan ng pamahalaan ay nagmumula sa mga tao."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Apat na pu at",
+        "rationale": "Ito ang simula ng Gettysburg Address ni Lincoln."
+      },
+      {
+        "text": "Gagawa ang Kongreso",
+        "rationale": "Ito ay isang parirala mula sa Artikulo I ng Konstitusyon."
+      },
+      {
+        "text": "Ako'y nanunumpa ng katapatan",
+        "rationale": "Ito ang simula ng Panatang Makabayan."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Ano ang isang susog?",
+    "correctAnswers": [
+      {
+        "text": "isang pagbabago",
+        "rationale": "Ang susog ay isang pagbabago sa Konstitusyon."
+      },
+      {
+        "text": "isang karagdagan",
+        "rationale": "Ang susog ay isang karagdagan sa Konstitusyon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "isang bagong batas, isang desisyon ng Korte Suprema",
+        "rationale": "Ang bagong batas ay nililikha ng Kongreso at iba ito sa isang susog, na binabago mismo ang Konstitusyon. Ang desisyon ng Korte Suprema ay nagpapaliwanag ng batas, ngunit hindi nito direktang binabago ang teksto ng Konstitusyon."
+      },
+      {
+        "text": "isang tratado, isang kasunduang ehekutibo",
+        "rationale": "Ang tratado ay isang internasyonal na kasunduan na nangangailangan ng pag-apruba ng Senado ngunit hindi binabago ang Konstitusyon. Ang kasunduang ehekutibo ay ginagawa ng Pangulo sa mga banyagang bansa nang walang pag-apruba ng Senado."
+      },
+      {
+        "text": "isang batas ng estado, isang regulasyon ng pederal",
+        "rationale": "Ang batas ng estado ay nalalapat lamang sa loob ng estadong iyon at hindi maaaring baguhin ang pederal na Konstitusyon. Ang regulasyon ng pederal ay isang patakaran na ginawa ng mga ahensya ng pederal upang ipatupad ang mga batas, ngunit hindi nito maaaring amyendahan ang Konstitusyon."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Ano ang tawag natin sa unang sampung susog sa Konstitusyon?",
+    "correctAnswers": [
+      {
+        "text": "ang Bill of Rights",
+        "rationale": "Ang sampung susog na ito ay ginagarantiyahan ang pangunahing mga karapatan at kalayaan ng indibidwal."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang Deklarasyon ng Kalayaan",
+        "rationale": "Ang Deklarasyon ng Kalayaan, mula 1776, ay nagdeklara ng kalayaan at hindi isang hanay ng mga susog sa konstitusyon."
+      },
+      {
+        "text": "ang mga Papel ng Federalista",
+        "rationale": "Ang mga Papel ng Federalista ay isang serye ng mga sanaysay na isinulat upang hikayatin ang mga tao na ratipikahan ang Konstitusyon."
+      },
+      {
+        "text": "ang Proklamasyon ng Emansipasyon",
+        "rationale": "Ang Proklamasyon ng Emansipasyon ay isang kautusang ehekutibo ni Lincoln na nagpalaya sa mga alipin sa Konpederasyon."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Ano ang isang karapatan o kalayaan mula sa Unang Susog?",
+    "correctAnswers": [
+      {
+        "text": "kalayaan sa relihiyon",
+        "rationale": "Ipinagbabawal ng Unang Susog ang gobyerno na makialam sa pagpili ng relihiyon ng isang tao."
+      },
+      {
+        "text": "kalayaan sa pagsasalita",
+        "rationale": "Ipinagbabawal ng Unang Susog na pigilan ng gobyerno nang hindi makatarungan ang pagpapahayag ng indibidwal."
+      },
+      {
+        "text": "kalayaan sa pagtitipon",
+        "rationale": "May karapatan ang mga tao na magtipon nang mapayapa at ibahagi ang kanilang mga opinyon."
+      },
+      {
+        "text": "kalayaan ng pamamahayag",
+        "rationale": "Ito ang karapatang mag-print at magpamudmod ng impormasyon nang walang naunang sensura mula sa gobyerno."
+      },
+      {
+        "text": "kalayaan na magpetisyon sa gobyerno",
+        "rationale": "May karapatan ang mga mamamayan na humiling ng mga pagbabago sa patakaran ng gobyerno."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang karapatan bumoto, ang karapatan magdala ng armas, ang karapatan sa tamang proseso, ang karapatan sa pantay na proteksyon, ang karapatan sa pribasiya",
+        "rationale": "Ang karapatang bumoto ay protektado ng iba pang mga susog (15, 19, 26), hindi ng Una. Ang karapatan sa pagdadala ng armas ay protektado ng Ikalawang Susog. Ang tamang proseso ay ginagarantiyahan ng ika-5 at ika-14 na Susog. Ang pantay na proteksyon ay ibinibigay ng ika-14 na Susog. Ang mga karapatan sa pribasiya ay nagmula sa iba't ibang mga susog ngunit hindi tahasang nakasaad sa Una."
+      },
+      {
+        "text": "ang karapatan sa paglilitis ng hurado, ang karapatan laban sa sariling pag-akusa, ang karapatan sa abogado, ang karapatan sa mabilis na paglilitis, ang karapatan na harapin ang mga saksi",
+        "rationale": "Ang lahat ng ito ay mga karapatang ginagarantiyahan ng ika-6, ika-7, at ika-8 na Susog na may kaugnayan sa katarungang pangkriminal at mga legal na proseso, hindi ng Unang Susog na nakatuon sa mga pangunahing kalayaan ng pagpapahayag at paniniwala."
+      },
+      {
+        "text": "ang karapatang maglakbay sa pagitan ng mga estado, ang karapatang magpakasal, ang karapatang magtrabaho, ang karapatang sa edukasyon, ang karapatang sa pangangalagang pangkalusugan",
+        "rationale": "Ang paglalakbay sa pagitan ng mga estado ay ipinahiwatig sa Kon"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Ilang susog mayroon ang Konstitusyon?",
+    "correctAnswers": [
+      {
+        "text": "Dalawampu't pito (27)",
+        "rationale": "Pagkatapos ng Bill of Rights noong 1791, may idinagdag pang 17, kaya kabuuan ay 27."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Sampu (10)",
+        "rationale": "Sampu ang bilang ng mga susog sa Bill of Rights."
+      },
+      {
+        "text": "Limampu (50)",
+        "rationale": "Limampu ang bilang ng mga estado sa U.S."
+      },
+      {
+        "text": "Labintatlo (13)",
+        "rationale": "Labintatlo ang bilang ng mga orihinal na kolonya (estado) noong itinatag ang U.S."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Ano ang ginawa ng Deklarasyon ng Kalayaan?",
+    "correctAnswers": [
+      {
+        "text": "inihayag ang ating kalayaan (mula sa Gran Britanya)",
+        "rationale": "Inihayag nito sa mundo na ang mga kolonya ay wala na sa ilalim ng pamamahala ng Britanya."
+      },
+      {
+        "text": "idineklara ang ating kalayaan (mula sa Gran Britanya)",
+        "rationale": "Pormal nitong idineklara na ang mga kolonya ay malaya mula sa Gran Britanya."
+      },
+      {
+        "text": "sinabing malaya ang Estados Unidos (mula sa Gran Britanya)",
+        "rationale": "Ipinahiwatig nito na ang mga kolonya ay malaya at hindi na sakop ng awtoridad ng Britanya."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "binigyan ang mga kababaihan ng karapatang bumoto",
+        "rationale": "Ang karapatan ng kababaihan na bumoto ay ipinagkaloob ng Ika-19 na Susog, na naratipikahan noong 1920."
+      },
+      {
+        "text": "pinalaya ang mga alipin",
+        "rationale": "Ang mga alipin ay pinalaya ng Proklamasyon ng Emansipasyon ni Lincoln noong 1863 at kalaunan ng Ika-13 na Susog."
+      },
+      {
+        "text": "nilikha ang Konstitusyon",
+        "rationale": "Ang Konstitusyon ay nilikha kalaunan, sa Kumbensiyong Konstitusyonal noong 1787."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Ano ang dalawang karapatan sa Deklarasyon ng Kalayaan?",
+    "correctAnswers": [
+      {
+        "text": "buhay",
+        "rationale": "Ang buhay ay isa sa tatlong hindi maaalis na karapatan na nakasaad sa Deklarasyon ng Kalayaan."
+      },
+      {
+        "text": "kalayaan",
+        "rationale": "Ang kalayaan ay isa sa tatlong hindi maaalis na karapatan na nakasaad sa Deklarasyon ng Kalayaan."
+      },
+      {
+        "text": "paghahangad ng kaligayahan",
+        "rationale": "Ang paghahangad ng kaligayahan ay isa sa tatlong hindi maaalis na karapatan na nakasaad sa Deklarasyon ng Kalayaan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "kalayaan sa pananalita at relihiyon",
+        "rationale": "Ang kalayaan sa pananalita at relihiyon ay mga karapatang nakasaad sa Bill of Rights (Unang Susog)."
+      },
+      {
+        "text": "ang karapatang bumoto at tumakbo sa halalan",
+        "rationale": "Ito ay mahahalagang karapatan para sa mga mamamayan ng U.S., ngunit tinutukoy ang mga ito ng Konstitusyon, hindi ng Deklarasyon ng Kalayaan."
+      },
+      {
+        "text": "ang karapatan sa pagmamay-ari ng ari-arian at edukasyon",
+        "rationale": "Ito ay mahahalagang karapatan, ngunit hindi ito ang tatlong pangunahing hindi maaalis na karapatan na binanggit sa Deklarasyon."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Ano ang kalayaan sa relihiyon?",
+    "correctAnswers": [
+      {
+        "text": "Maaari kang magpraktis ng anumang relihiyon o hindi magpraktis ng relihiyon",
+        "rationale": "Walang opisyal na relihiyon ang U.S., at hindi maaaring manghimasok ang gobyerno sa pagpili ng isang tao."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Maaari ka lamang magpraktis ng Kristiyanismo",
+        "rationale": "Walang opisyal na relihiyon ang U.S. at ginagarantiyahan ang kalayaan para sa lahat ng relihiyon o wala."
+      },
+      {
+        "text": "Dapat kang magpraktis ng relihiyon na aprubado ng gobyerno",
+        "rationale": "Mali ito; hindi kailangan ang aprubal ng gobyerno at lalabag ito sa prinsipyo ng kalayaan sa relihiyon."
+      },
+      {
+        "text": "Dapat kang magbayad ng buwis sa iyong mga gawaing panrelihiyon",
+        "rationale": "Karaniwang hindi pinapatawan ng buwis ang mga gawaing panrelihiyon, dahil ang pagbubuwis nito ay maaaring pumigil sa kalayaan sa relihiyon."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Ano ang sistemang pang-ekonomiya sa Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "kapitalistang ekonomiya",
+        "rationale": "Gumagana ang U.S. sa ilalim ng isang kapitalistang ekonomiya na nakabatay sa pribadong pag-aari at malayang pamilihan."
+      },
+      {
+        "text": "pamilihang ekonomiya",
+        "rationale": "Ang ekonomiyang pamilihan, kung saan ang mga presyo ay tinutukoy ng suplay at demand, ay inilalarawan din ang sistemang pang-ekonomiya ng U.S."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "sosyalistang ekonomiya, komunistang ekonomiya",
+        "rationale": "Ang sosyalistang ekonomiya ay may kasamang pagmamay-ari ng estado o komunidad ng mga paraan ng produksyon, na naiiba sa modelong pribadong pag-aari ng U.S. Ang komunistang ekonomiya ay may pinagsasaluhang pag-aari at ganap na kontrol ng estado sa produksyon at distribusyon, na kabaligtaran ng sistemang malayang pamilihan ng U.S."
+      },
+      {
+        "text": "merkantilistang ekonomiya, pyudal na ekonomiya",
+        "rationale": "Ang merkantilismo ay isang patakarang Europeo noong ika-16 hanggang ika-18 siglo kung saan kontrolado ng estado ang kalakalan upang mag-ipon ng yaman, na iba sa malayang kalakalan ng U.S. Ang pyudal na ekonomiya ay nakabatay sa pagmamay-ari ng lupa at obligasyong paggawa sa agrikultura, na lubhang naiiba sa modernong sistemang kapitalista."
+      },
+      {
+        "text": "kontroladong ekonomiya, planadong ekonomiya",
+        "rationale": "Ang kontroladong ekonomiya ay ganap na pinamamahalaan ng gobyerno, na nagpapasya kung ano ang ipoprodyus at ipapamahagi, na iba sa sistemang pinapagana ng merkado ng U.S. Ang planadong ekonomiya ay kinabibilangan ng sentralisadong pagpaplano ng gobyerno sa lahat ng gawaing pang-ekonomiya, na salungat sa sistemang U.S. kung saan ang pwersa ng merkado ang nagtatakda ng mga desisyong pang-ekonomiya."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Ano ang \"rule of law\"?",
+    "correctAnswers": [
+      {
+        "text": "Lahat ay dapat sumunod sa batas",
+        "rationale": "Ang rule of law ay ang prinsipyo na lahat ng tao ay nasasaklaw at may pananagutan sa ilalim ng batas, anuman ang kanilang katayuan."
+      },
+      {
+        "text": "Ang mga pinuno ay dapat sumunod sa batas",
+        "rationale": "Ang mga pinuno ng gobyerno, kabilang ang Pangulo, ay nasasaklaw din ng rule of law."
+      },
+      {
+        "text": "Walang sinuman ang nasa itaas ng batas",
+        "rationale": "Ang pariralang ito ang pinakamahusay na nagbubuod sa pangunahing prinsipyo ng rule of law."
+      },
+      {
+        "text": "Dapat sumunod ang gobyerno sa batas",
+        "rationale": "Ang gobyerno mismo ay nasasaklaw ng batas at hindi maaaring kumilos lampas sa legal nitong awtoridad."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Laging nagbabago ang mga batas, ang Pangulo ang gumagawa ng batas, lahat ng batas ay patas",
+        "rationale": "Bagama't maaaring magbago ang mga batas, hindi ito ang kahulugan ng rule of law. Ang Kongreso ang gumagawa ng batas at ang Pangulo ang nagpapatupad nito. Ito ay ang prinsipyo ng paghihiwalay ng kapangyarihan. Nilalayon ng rule of law ang katarungan, ngunit hindi nito ginagarantiya na lahat ng batas ay ganap na patas."
+      },
+      {
+        "text": "Tanging mga mamamayan lamang ang sumusunod sa batas, iba ang aplikasyon ng batas sa mayayaman, exempted ang mga opisyal ng gobyerno sa batas",
+        "rationale": "Ang mga pahayag na ito ay salungat sa rule of law, na nangangailangan na lahat ng tao, anuman ang katayuan o yaman, ay sakop ng parehong batas."
+      },
+      {
+        "text": "Ang mga batas ay mungkahi lamang, maaaring pumili ang mga tao kung alin ang susundin, ang mga batas ay naaangkop lamang sa panahon ng emerhensiya",
+        "rationale": "Ang mga pahayag na ito ay hindi nauunawaan ang obligadong katangian ng mga batas sa ilalim ng rule of law, kung saan ang mga batas ay sapilitan at naaangkop sa lahat sa lahat ng oras."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Magbanggit ng isang sangay o bahagi ng pamahalaan.",
+    "correctAnswers": [
+      {
+        "text": "Kongreso (lehislatura)",
+        "rationale": "Ang Kongreso ay ang sangay ng lehislatura na gumagawa ng mga batas."
+      },
+      {
+        "text": "Pangulo (ehekutibo)",
+        "rationale": "Ang Pangulo ang pinuno ng sangay na ehekutibo na nagpapatupad ng mga batas."
+      },
+      {
+        "text": "mga hukuman (hudisyal)",
+        "rationale": "Ang mga hukuman ay ang sangay hudisyal na nagpapaliwanag at nagpapatupad ng mga batas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang mga estado, militar, pulis",
+        "rationale": "Ang mga estado ay mahalagang bahagi ng sistemang pederal, ngunit hindi kabilang sa tatlong sangay ng pamahalaang pederal. Ang militar ay isang mahalagang institusyon na kontrolado ng sangay na ehekutibo, ngunit hindi ito isang hiwalay na sangay ng pamahalaan. Ang pulis ay mga ahensya ng pagpapatupad ng batas na karaniwang nasa ilalim ng pamahalaang estado o lokal."
+      },
+      {
+        "text": "ang Gabinete, Senado, Kapulungan",
+        "rationale": "Ang Gabinete ay bahagi ng sangay ehekutibo, habang ang Senado at Kapulungan ay parehong bahagi ng sangay lehislatibo, at hindi hiwalay na mga sangay."
+      },
+      {
+        "text": "ang FBI, CIA, Korte Suprema",
+        "rationale": "Ang FBI at CIA ay mga ahensya sa loob ng sangay ehekutibo, habang ang Korte Suprema ay bahagi ng sangay hudisyal, at hindi mga hiwalay na sangay ng pamahalaan."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Ano ang pumipigil sa isang sangay ng gobyerno na maging masyadong makapangyarihan?",
+    "correctAnswers": [
+      {
+        "text": "checks and balances",
+        "rationale": "Ito ang sistemang kung saan maaaring suriin at limitahan ng bawat sangay ang kapangyarihan ng iba."
+      },
+      {
+        "text": "paghihiwalay ng kapangyarihan",
+        "rationale": "Ito ang prinsipyo ng paghahati ng kapangyarihan ng pamahalaan sa lehislatibo, ehekutibo, at hudikatura."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang batas ng batas, pederalismo",
+        "rationale": "Ang batas ng batas ay tumutulong na pigilan ang pang-aabuso ng kapangyarihan ngunit hindi ito ang partikular na sistemang pumipigil sa isang sangay na maging masyadong makapangyarihan. Ang pederalismo ay ang prinsipyo ng paghahati ng kapangyarihan sa pagitan ng pederal at ng mga pamahalaang estado, hindi sa pagitan ng tatlong sangay ng gobyerno. Wala sa mga ito ang direktang tumutukoy sa mekanismong konstitusyonal upang pigilan ang isang sangay na mangibabaw sa iba."
+      },
+      {
+        "text": "limitasyon sa termino, halalan",
+        "rationale": "Ang limitasyon sa termino at halalan ay mga mekanismong demokratiko na maaaring maglimita sa kapangyarihan ng gobyerno at magbigay ng pananagutan, ngunit hindi ito ang sistemang konstitusyonal na partikular na idinisenyo upang pigilan ang anumang sangay ng gobyerno na maging masyadong makapangyarihan sa pamamagitan ng kapwa pagsubaybay at pagpipigil."
+      },
+      {
+        "text": "ang Bill of Rights, impeachment",
+        "rationale": "Ang Bill of Rights ay nagpoprotekta ng mga kalayaang indibidwal mula sa pang-aabuso ng gobyerno ngunit hindi nito direktang tinutugunan ang balanse ng kapangyarihan sa pagitan ng mga sangay. Ang impeachment ay isang partikular na mekanismo para tanggalin ang mga opisyal dahil sa maling asal, ngunit hindi ito ang mas malawak na sistema na pumipigil sa dominasyon ng isang sangay sa pamamagitan ng patuloy na kapwa pagsusuri."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Sino ang namumuno sa sangay na ehekutibo?",
+    "correctAnswers": [
+      {
+        "text": "ang Pangulo",
+        "rationale": "Ang Pangulo ang pinuno ng sangay na ehekutibo."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang Tagapagsalita ng Kapulungan",
+        "rationale": "Ang Tagapagsalita ng Kapulungan ay pinuno ng Kapulungan ng mga Kinatawan na nasa sangay na lehislatibo."
+      },
+      {
+        "text": "ang Punong Mahistrado",
+        "rationale": "Ang Punong Mahistrado ay pinuno ng Korte Suprema na nasa sangay na hudisyal."
+      },
+      {
+        "text": "ang Kalihim ng Estado",
+        "rationale": "Ang Kalihim ng Estado ay isang mataas na opisyal ng gabinete sa sangay na ehekutibo, ngunit hindi ang pinuno ng buong sangay."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Sino ang gumagawa ng mga pederal na batas?",
+    "correctAnswers": [
+      {
+        "text": "ang Kongreso",
+        "rationale": "Ang mga batas pederal ay ginagawa ng Kongreso (ang Senado at Kapulungan ng mga Kinatawan)."
+      },
+      {
+        "text": "Senado at Kapulungan (ng mga Kinatawan)",
+        "rationale": "Binubuo ang Kongreso ng Senado at Kapulungan ng mga Kinatawan, na magkasamang gumagawa ng mga batas pederal."
+      },
+      {
+        "text": "lehislatura (U.S. o pambansa)",
+        "rationale": "Ang lehislatura ng U.S., na siyang Kongreso, ay may konstitusyonal na kapangyarihang gumawa ng mga batas pederal."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang Pangulo",
+        "rationale": "Nilalagdaan ng Pangulo ang mga panukalang batas na ipinasa ng Kongreso upang maging batas, ngunit hindi siya ang lumilikha ng mga batas."
+      },
+      {
+        "text": "ang Korte Suprema",
+        "rationale": "Ang Korte Suprema ay nagpapaliwanag ng mga batas at nagpapasya kung ito ay naaayon sa konstitusyon, ngunit hindi ito ang gumagawa ng mga batas."
+      },
+      {
+        "text": "ang lehislatura ng estado",
+        "rationale": "Ang mga lehislatura ng estado ay gumagawa ng mga batas pang-estado, hindi ng mga batas pederal."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Ano ang dalawang bahagi ng Kongreso ng U.S.?",
+    "correctAnswers": [
+      {
+        "text": "ang Senado at Kapulungan (ng mga Kinatawan)",
+        "rationale": "Ang Kongreso ng U.S. ay isang bikameral na lehislatura na binubuo ng Senado at Kapulungan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang Pangulo at Gabinete",
+        "rationale": "Ito ay naglalarawan sa sangay ehekutibo."
+      },
+      {
+        "text": "ang pederal at panlalawigang korte",
+        "rationale": "Ito ay naglalarawan ng estruktura ng hudikatura."
+      },
+      {
+        "text": "ang Partidong Demokratiko at Republikano",
+        "rationale": "Ito ang mga pangunahing partidong pampulitika sa U.S."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Ilang senador ang mayroon sa U.S.?",
+    "correctAnswers": [
+      {
+        "text": "Isang daan (100)",
+        "rationale": "May dalawang senador mula sa bawat isa sa 50 estado, kabuuang 100."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Apat na raan tatlumpu’t lima (435)",
+        "rationale": "435 ang bilang ng mga kasapi sa Kapulungan ng mga Kinatawan."
+      },
+      {
+        "text": "Limampu (50)",
+        "rationale": "50 ang bilang ng mga estado sa U.S."
+      },
+      {
+        "text": "Siyam (9)",
+        "rationale": "Siyam ang bilang ng mga mahistrado sa Kataas-taasang Hukuman."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Ilang taon natin inihahalal ang isang senador ng U.S.?",
+    "correctAnswers": [
+      {
+        "text": "Anim (6)",
+        "rationale": "Ang termino para sa isang senador ng U.S. ay anim na taon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dalawa (2)",
+        "rationale": "Dalawang taon ang termino para sa isang miyembro ng Kapulungan ng mga Kinatawan."
+      },
+      {
+        "text": "Apat (4)",
+        "rationale": "Apat na taon ang termino ng Pangulo."
+      },
+      {
+        "text": "Walo (8)",
+        "rationale": "Maaaring magsilbi ang isang Pangulo nang maximum na dalawang termino, o walong taon, ngunit iba ito sa termino ng isang senador."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Sino ang isa sa mga kasalukuyang U.S. Senator ng iyong estado?",
+    "correctAnswers": [
+      {
+        "text": "Maaaring mag-iba ang mga sagot",
+        "rationale": "Ang sagot sa tanong na ito ay nakadepende sa estado kung saan ka nakatira. Dapat mong tingnan ang senate.gov."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang pangalan ng Gobernador",
+        "rationale": "Ang Gobernador ang pinuno ng sangay ehekutibo ng estado, hindi isang pederal na Senador."
+      },
+      {
+        "text": "Ang pangalan ng Kinatawan",
+        "rationale": "Ang Kinatawan ay miyembro ng Kapulungan ng mga Kinatawan, na iba sa Senador."
+      },
+      {
+        "text": "Ang pangalan ng Pangulo",
+        "rationale": "Ang Pangulo ang pinuno ng sangay ehekutibo ng pederal na pamahalaan."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Ilang miyembro ng Kapulungan ng mga Kinatawan ang may karapatang bumoto?",
+    "correctAnswers": [
+      {
+        "text": "Apat na raan tatlumpu't lima (435)",
+        "rationale": "Ang bilang ng mga kinatawan ay nakabatay sa populasyon ng bawat estado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Isang daan (100)",
+        "rationale": "100 ang bilang ng mga senador."
+      },
+      {
+        "text": "Limampu (50)",
+        "rationale": "50 ang bilang ng mga estado."
+      },
+      {
+        "text": "Limang daan tatlumpu't walo (538)",
+        "rationale": "538 ang kabuuang bilang ng mga elektor sa Electoral College."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Ilang taon nating inihahalal ang isang Kinatawan ng U.S.?",
+    "correctAnswers": [
+      {
+        "text": "Dalawa (2)",
+        "rationale": "Ang termino para sa isang Kinatawan ng U.S. ay dalawang taon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Apat (4)",
+        "rationale": "Apat na taon ang termino ng Pangulo."
+      },
+      {
+        "text": "Anim (6)",
+        "rationale": "Anim na taon ang termino ng isang Senador."
+      },
+      {
+        "text": "Habambuhay",
+        "rationale": "Ang mga mahistrado ng Korte Suprema ay nagsisilbi habambuhay, ngunit ang mga Kinatawan ay halal na opisyal."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Sabihin ang pangalan ng iyong Kinatawan sa U.S.",
+    "correctAnswers": [
+      {
+        "text": "Magkakaiba ang mga sagot",
+        "rationale": "Ang sagot sa tanong na ito ay nakadepende sa iyong distrito sa kongreso. Dapat mong tingnan ang house.gov."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang pangalan ng Senador",
+        "rationale": "Ang isang Senador ay kumakatawan sa buong estado at naiiba sa isang Kinatawan para sa isang partikular na distrito."
+      },
+      {
+        "text": "Ang pangalan ng Gobernador",
+        "rationale": "Ang Gobernador ang pinuno ng sangay ehekutibo ng estado."
+      },
+      {
+        "text": "Ang pangalan ng Alkalde",
+        "rationale": "Ang Alkalde ang pinuno ng pamahalaan ng lungsod."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Sino ang kinakatawan ng isang Senador ng U.S.?",
+    "correctAnswers": [
+      {
+        "text": "lahat ng tao sa estado",
+        "rationale": "Ang mga Senador ay kumakatawan sa mga interes ng buong estado nila, hindi lang isang partikular na distrito."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "tanging kanilang partidong pampulitika",
+        "rationale": "Kahit na kabilang sila sa isang partidong pampulitika, legal na obligasyon ng mga Senador na katawanin ang lahat ng tao sa kanilang estado."
+      },
+      {
+        "text": "tanging lungsod na tinitirhan nila",
+        "rationale": "Ang mga Senador ay kumakatawan sa buong estado, hindi lamang sa isang lungsod."
+      },
+      {
+        "text": "ang Pangulo",
+        "rationale": "Bilang bahagi ng sangay na pambatas, tinitiyak ng mga Senador ang pagsusuri sa Pangulo, na namumuno sa sangay na ehekutibo."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Bakit may mas maraming kinatawan ang ilang estado kaysa sa iba?",
+    "correctAnswers": [
+      {
+        "text": "(dahil sa) populasyon ng estado",
+        "rationale": "Ang bilang ng mga kinatawan ay itinatakda batay sa populasyon ng bawat estado, ayon sa census tuwing 10 taon."
+      },
+      {
+        "text": "(dahil) mas marami silang tao",
+        "rationale": "Ang mga estadong may mas malaking populasyon ay binibigyan ng mas maraming kinatawan."
+      },
+      {
+        "text": "(dahil) ang ilang estado ay may mas maraming tao",
+        "rationale": "Ang apportionment ay naglalaan ng mas maraming upuan sa mga estadong mas maraming tao."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(dahil sa) lawak ng lupa ng estado",
+        "rationale": "Ang bilang ng mga kinatawan ay batay sa populasyon, hindi sa pisikal na laki ng estado."
+      },
+      {
+        "text": "(dahil sa) yaman ng estado",
+        "rationale": "Ang populasyon, hindi ang kapangyarihang pang-ekonomiya ng estado, ang pamantayan."
+      },
+      {
+        "text": "dahil sa kung kailan itinatag ang estado",
+        "rationale": "Ang pagkakasunod ng pagsali ng estado sa Unyon ay hindi nakakaapekto sa bilang ng mga kinatawan nito."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Ilang taon natin inihahalal ang isang pangulo?",
+    "correctAnswers": [
+      {
+        "text": "Apat (4)",
+        "rationale": "Ang termino ng pangulo ay apat na taon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dalawa (2)",
+        "rationale": "Dalawang taon ang termino ng isang miyembro ng Kapulungan ng mga Kinatawan."
+      },
+      {
+        "text": "Anim (6)",
+        "rationale": "Anim na taon ang termino ng isang senador."
+      },
+      {
+        "text": "Lima (5)",
+        "rationale": "Walang mga opisina ng pederal sa U.S. na may limang taong termino."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Sa anong buwan tayo bumoboto para sa Pangulo?",
+    "correctAnswers": [
+      {
+        "text": "Nobyembre",
+        "rationale": "Ang halalan ng Pangulo ng U.S. ay ginaganap tuwing apat na taon sa Martes pagkatapos ng unang Lunes ng Nobyembre."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Enero",
+        "rationale": "Ang bagong Pangulo ay nanunumpa sa Enero."
+      },
+      {
+        "text": "Hulyo",
+        "rationale": "Ang ika-4 ng Hulyo ay Araw ng Kalayaan."
+      },
+      {
+        "text": "Oktubre",
+        "rationale": "Karaniwang panahon ng matinding kampanya sa huling yugto ang Oktubre bago ang halalan."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Ano ang pangalan ng kasalukuyang pangulo ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Donald J. Trump",
+        "rationale": "(Noong Hulyo 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "JD Vance",
+        "rationale": "Si JD Vance ang kasalukuyang bise presidente."
+      },
+      {
+        "text": "Mike Johnson",
+        "rationale": "Si Mike Johnson ang kasalukuyang speaker ng Kapulungan ng mga Kinatawan."
+      },
+      {
+        "text": "Joe Biden",
+        "rationale": "Si Joe Biden ang dating pangulo."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Ano ang pangalan ng kasalukuyang bise presidente ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "JD Vance",
+        "rationale": "(Noong Hulyo 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Donald J. Trump",
+        "rationale": "Si Donald J. Trump ang kasalukuyang pangulo."
+      },
+      {
+        "text": "Kamala Harris",
+        "rationale": "Si Kamala Harris ang dating bise presidente."
+      },
+      {
+        "text": "John Roberts",
+        "rationale": "Si John Roberts ang kasalukuyang punong mahistrado."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Kung hindi na makakapagsilbi ang pangulo, sino ang magiging pangulo?",
+    "correctAnswers": [
+      {
+        "text": "ang Pangalawang Pangulo",
+        "rationale": "Ang Pangalawang Pangulo ang papalit bilang pangulo kung hindi na makakapagsilbi ang pangulo."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang Ispiker ng Kapulungan",
+        "rationale": "Ang Ispiker ng Kapulungan ay papalit lamang bilang pangulo kung parehong hindi na makakapagsilbi ang pangulo at pangalawang pangulo."
+      },
+      {
+        "text": "ang Punong Mahistrado",
+        "rationale": "Ang Punong Mahistrado ay wala sa linya ng pagpapalit sa pangulo."
+      },
+      {
+        "text": "ang Kalihim ng Estado",
+        "rationale": "Ang Kalihim ng Estado ay pang-apat sa linya ng pagpapalit sa pangulo."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Kung parehong hindi na makakapaglingkod ang Pangulo at ang Pangalawang Pangulo, sino ang magiging Pangulo?",
+    "correctAnswers": [
+      {
+        "text": "ang Tagapagsalita ng Kapulungan",
+        "rationale": "Ang Tagapagsalita ng Kapulungan ay pangatlo sa linya ng paghalili sa pagkapangulo."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang Kalihim ng Estado",
+        "rationale": "Ang Kalihim ng Estado ay pang-apat sa linya ng paghalili, kasunod ng Tagapagsalita ng Kapulungan."
+      },
+      {
+        "text": "ang Punong Mahistrado",
+        "rationale": "Ang Punong Mahistrado ay hindi kasama sa linya ng paghalili sa pagkapangulo."
+      },
+      {
+        "text": "ang Pangulo pro tempore ng Senado",
+        "rationale": "Ang Pangulo pro tempore ng Senado ay pang-apat sa linya, kasunod ng Tagapagsalita ng Kapulungan."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Sino ang Commander in Chief ng sandatahang lakas?",
+    "correctAnswers": [
+      {
+        "text": "ang Pangulo",
+        "rationale": "Ang Pangulo ang may pinakamataas na kapangyarihan sa sandatahang lakas ng U.S. bilang Commander in Chief."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang Kalihim ng Depensa",
+        "rationale": "Ang Kalihim ng Depensa ay ang sibilyang pinuno ng Kagawaran ng Depensa at kumikilos sa ilalim ng utos ng Pangulo."
+      },
+      {
+        "text": "ang Tagapangulo ng Pinagsamang mga Hepe ng Kawani",
+        "rationale": "Ang Tagapangulo ng Pinagsamang mga Hepe ng Kawani ay ang pinakamataas na ranggong opisyal ng militar at pangunahing tagapayo militar ng Pangulo."
+      },
+      {
+        "text": "ang Pangalawang Pangulo",
+        "rationale": "Ang Pangalawang Pangulo ay walang direktang kapangyarihang mag-utos sa militar."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Sino ang pumipirma ng mga panukalang batas upang maging mga batas?",
+    "correctAnswers": [
+      {
+        "text": "ang Pangulo",
+        "rationale": "Ang panukalang batas na ipinasa ng Kongreso ay dapat pirmahan ng Pangulo upang maging batas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang Speaker ng Kapulungan",
+        "rationale": "Pinamumunuan ng Speaker ng Kapulungan ang proseso para maipasa ang panukalang batas sa Kapulungan, ngunit wala siyang huling kapangyarihan na pirmahan ito bilang batas."
+      },
+      {
+        "text": "ang Pangalawang Pangulo",
+        "rationale": "Maaaring bumoto ang Pangalawang Pangulo upang tapusin ang tabla sa Senado ngunit hindi siya pumipirma ng mga panukalang batas upang maging batas."
+      },
+      {
+        "text": "ang Punong Mahistrado",
+        "rationale": "Ang Punong Mahistrado ay nagbibigay-kahulugan sa mga batas at hindi nakikilahok sa proseso ng paggawa ng batas."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Sino ang nagbe-veto ng mga panukalang batas?",
+    "correctAnswers": [
+      {
+        "text": "ang Pangulo",
+        "rationale": "May kapangyarihan ang Pangulo na i-veto ang mga panukalang batas na ipinasa ng Kongreso."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang Kongreso",
+        "rationale": "Ang Kongreso ang nagpasa ng mga panukalang batas; maaari rin nitong balewalain ang veto ng Pangulo."
+      },
+      {
+        "text": "ang Korte Suprema",
+        "rationale": "Maaaring ideklara ng Korte Suprema na labag sa Konstitusyon ang isang batas matapos itong maisabatas, ngunit hindi ito maaaring mag-veto ng panukalang batas."
+      },
+      {
+        "text": "ang Gobernador",
+        "rationale": "May kapangyarihan ang Gobernador na mag-veto ng mga batas ng estado, hindi ng mga batas pederal."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Ano ang ginagawa ng Gabinete ng Pangulo?",
+    "correctAnswers": [
+      {
+        "text": "pinapayuhan ang Pangulo",
+        "rationale": "Ang Gabinete, na binubuo ng mga pinuno ng mga kagawaran ng ehekutibo, ay nagbibigay ng ekspertong payo sa Pangulo."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "gumagawa ng mga batas",
+        "rationale": "Ang mga batas ay ginagawa ng Kongreso."
+      },
+      {
+        "text": "pumipili ng Pangulo",
+        "rationale": "Ang Pangulo ay inihahalal ng mga tao at ng Electoral College."
+      },
+      {
+        "text": "nagpapahayag ng digmaan",
+        "rationale": "Ang pagdeklara ng digmaan ay isang eksklusibong kapangyarihan ng Kongreso."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Ano ang dalawang posisyon sa antas ng Gabinete?",
+    "correctAnswers": [
+      {
+        "text": "Kalihim ng Estado",
+        "rationale": "Ang Kalihim ng Estado ay isang pangunahing miyembro ng Gabinete na responsable para sa patakarang panlabas."
+      },
+      {
+        "text": "Kalihim ng Pananalapi",
+        "rationale": "Ang Kalihim ng Pananalapi ay responsable para sa patakarang pinansyal at pang-ekonomiya ng bansa."
+      },
+      {
+        "text": "Kalihim ng Depensa",
+        "rationale": "Ang Kalihim ng Depensa ay nangangasiwa sa patakarang militar at depensa."
+      },
+      {
+        "text": "Pangkalahatang Abugado",
+        "rationale": "Ang Pangkalahatang Abugado ang pinuno ng Kagawaran ng Hustisya at ang pangunahing opisyal ng pagpapatupad ng batas."
+      },
+      {
+        "text": "Kalihim ng Agrikultura",
+        "rationale": "Ang Kalihim ng Agrikultura ay nangangasiwa sa pagsasaka, kaligtasan ng pagkain, at mga patakaran sa pag-unlad ng kanayunan."
+      },
+      {
+        "text": "Kalihim ng Komersyo",
+        "rationale": "Ang Kalihim ng Komersyo ay nagtataguyod ng paglago ng ekonomiya at kalakalan."
+      },
+      {
+        "text": "Kalihim ng Edukasyon",
+        "rationale": "Ang Kalihim ng Edukasyon ay nangangasiwa sa pederal na patakaran at mga programa sa edukasyon."
+      },
+      {
+        "text": "Kalihim ng Enerhiya",
+        "rationale": "Ang Kalihim ng Enerhiya ay namamahala sa patakaran sa enerhiya at seguridad nuklear."
+      },
+      {
+        "text": "Kalihim ng Kalusugan at Serbisyong Pantao",
+        "rationale": "Ang Kalihim ng Kalusugan at Serbisyong Pantao ay nangangasiwa sa mga programang pangkalusugan at kapakanan."
+      },
+      {
+        "text": "Kalihim ng Seguridad sa Bayan",
+        "rationale": "Ang Kalihim ng Seguridad sa Bayan ay nagpoprotekta sa bansa mula sa mga banta sa seguridad."
+      },
+      {
+        "text": "Kalihim ng Pabahay at Kaunlarang Panlungsod",
+        "rationale": "Ang Kalihim ng Pabahay at Kaunlarang Panlungsod ay nangangasiwa sa mga patakaran sa pabahay at kaunlaran ng lungsod."
+      },
+      {
+        "text": "Kalihim ng Panloob",
+        "rationale": "Ang Kalihim ng Panloob ay namamahala sa mga pampublikong lupain at likas na yaman."
+      },
+      {
+        "text": "Kalihim ng Paggawa",
+        "rationale": "Ang Kalihim ng Paggawa ay nangangasiwa sa kaligtasan sa lugar ng trabaho at relasyon sa paggawa."
+      },
+      {
+        "text": "Kalihim ng Transportasyon",
+        "rationale": "Ang Kalihim ng Transportasyon ay nangangasiwa sa imprastraktura ng transportasyon at kaligtasan."
+      },
+      {
+        "text": "Kalihim ng Kagawaran ng mga Beterano",
+        "rationale": "Ang Kalihim ng Kagawaran ng mga Beterano ay nagbibigay ng serbisyo sa mga beteranong militar."
+      },
+      {
+        "text": "Pangalawang Pangulo",
+        "rationale": "Ang Pangalawang Pangulo ay itinuturing din na posisyon sa antas ng Gabinete."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Punong Mahistrado, Ispiker ng Kapulungan, Pinuno ng Mayorya sa Senado, Pinuno ng Minorya sa Kapulungan",
+        "rationale": "Ang Punong Mahistrado ay pinuno ng sangay hudisyal at hindi miyembro ng Gabinete ng ehekutibo. Ang Ispiker ng Kapulungan ay pinuno sa sangay lehislatibo, hindi miyembro ng Gabinete. Ang Pinuno ng Mayorya sa Senado ay posisyong lehislatibo. Ang Pinuno ng Minorya sa Kapulungan ay isa ring posisyong lehislatibo."
+      },
+      {
+        "text": "Tagapangulo ng Federal Reserve, Mahistrado ng Korte Suprema, Senador ng U.S., Kinatawan ng U.S.",
+        "rationale": "Ang Tagapangulo ng Federal Reserve ay isang independiyenteng posisyon, hindi miyembro ng Gabinete. Ang mga Mahistrado ng Korte Suprema ay bahagi ng sangay hudisyal. Ang mga Senador at Kinatawan ng U.S. ay bahagi ng sangay lehislatibo, hindi ng Gabinete ng ehekutibo."
+      },
+      {
+        "text": "Gobernador ng Estado, Alkalde, Komisyoner ng County, Miyembro ng Konseho ng Lungsod",
+        "rationale": "Ang mga Gobernador ng Estado ay mga ehekutibo sa antas ng estado, hindi miyembro ng Gabinete pederal. Ang mga Alkalde ay mga opisyal ng pamahalaang lokal. Ang mga Komisyoner ng County ay naglilingkod sa antas ng county. Ang mga Miyembro ng Konseho ng Lungsod ay mga opisyal ng pamahalaang lokal. Wala sa mga ito ang posisyon sa Gabinete pederal."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Ano ang ginagawa ng sangay hudisyal?",
+    "correctAnswers": [
+      {
+        "text": "nire-review ang mga batas",
+        "rationale": "Tinitingnan ng sangay hudisyal ang mga batas upang matiyak na ito ay ayon sa konstitusyon."
+      },
+      {
+        "text": "nagpapaliwanag ng mga batas",
+        "rationale": "Ang sangay hudisyal ay nagpapaliwanag ng kahulugan ng mga batas at ginagamit ito sa mga partikular na kaso."
+      },
+      {
+        "text": "lumulutas ng mga pagtatalo",
+        "rationale": "Nilulutas nito ang mga legal na pagtatalo sa pamamagitan ng paggawa ng mga pasya."
+      },
+      {
+        "text": "nagpapasya kung ang isang batas ay laban sa Konstitusyon",
+        "rationale": "May kapangyarihan ang sangay hudisyal sa judicial review upang matukoy kung ang mga batas ay ayon sa konstitusyon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "gumagawa ng batas, nagpapatupad ng batas, nagbibigay payo sa Pangulo",
+        "rationale": "Ang sangay lehislatibo (Kongreso) ay gumagawa ng mga batas. Ang sangay ehekutibo ay nagpapatupad ng mga batas. Ang papel ng Gabinete ay payuhan ang Pangulo."
+      },
+      {
+        "text": "nangongolekta ng buwis, nag-iimprenta ng pera, nagreregula ng kalakalan",
+        "rationale": "Ito ay mga kapangyarihan ng Kongreso, hindi ng sangay hudisyal."
+      },
+      {
+        "text": "namumuno sa militar, nakikipagkasundo sa mga tratado, nagtatalaga ng mga embahador",
+        "rationale": "Ito ay mga kapangyarihan ng Pangulo, hindi ng sangay hudisyal."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Ano ang pinakamataas na hukuman sa Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "ang Korte Suprema",
+        "rationale": "Ang Korte Suprema ang pinakamataas na hukuman sa sistemang panghukuman ng U.S."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "isang Korte Suprema ng estado",
+        "rationale": "Ang Korte Suprema ng estado ang pinakamataas sa sistemang panghukuman ng estado, ngunit ang Korte Suprema ng U.S. ay mas mataas para sa buong bansa."
+      },
+      {
+        "text": "isang korte ng apela",
+        "rationale": "Ang korte ng apela ay mas mababa kaysa sa Korte Suprema."
+      },
+      {
+        "text": "ang Pandaigdigang Hukuman ng Katarungan",
+        "rationale": "Ang Pandaigdigang Hukuman ng Katarungan ay isang panghukuman na katawan ng UN na humahawak ng mga pagtatalo sa pagitan ng mga bansa."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Ilan ang mga mahistrado sa Korte Suprema?",
+    "correctAnswers": [
+      {
+        "text": "Siyam (9)",
+        "rationale": "Ang Korte Suprema ay binubuo ng isang Punong Mahistrado at walong Kasamang Mahistrado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pito (7)",
+        "rationale": "Ang bilang ng mga mahistrado ay itinakda ng batas at siyam na mula pa noong 1869."
+      },
+      {
+        "text": "Labindalawa (12)",
+        "rationale": "Ang labindalawa ay tumutukoy sa bilang ng mga rehiyonal na hukuman ng apela, hindi sa bilang ng mga mahistrado sa Korte Suprema."
+      },
+      {
+        "text": "Limampu (50)",
+        "rationale": "Limampu ang bilang ng mga estado."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Sino ang kasalukuyang Punong Mahistrado ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "John Roberts",
+        "rationale": "Si John G. Roberts, Jr. ay ang ika-17 at kasalukuyang Punong Mahistrado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Clarence Thomas",
+        "rationale": "Si Clarence Thomas ang kasalukuyang Associate Justice na may pinakamahabang serbisyo."
+      },
+      {
+        "text": "Merrick Garland",
+        "rationale": "Si Merrick Garland ang kasalukuyang Pangkalahatang Tagausig."
+      },
+      {
+        "text": "Ruth Bader Ginsburg",
+        "rationale": "Si Ruth Bader Ginsburg ay isang iginagalang na Associate Justice na pumanaw noong 2020."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Sa ilalim ng ating Konstitusyon, ang ilang kapangyarihan ay kabilang sa pamahalaang pederal. Ano ang isa sa mga kapangyarihan ng pamahalaang pederal?",
+    "correctAnswers": [
+      {
+        "text": "mag-imprenta ng pera",
+        "rationale": "Ang pag-imprenta ng pera ay isang eksklusibong kapangyarihan ng pamahalaang pederal."
+      },
+      {
+        "text": "magdeklara ng digmaan",
+        "rationale": "Ang pagdedeklara ng digmaan ay kapangyarihan ng Kongreso ng pederal."
+      },
+      {
+        "text": "bumuo ng hukbo",
+        "rationale": "Ang paglikha at pagpapanatili ng hukbo para sa pambansang depensa ay tungkulin ng pamahalaang pederal."
+      },
+      {
+        "text": "gumawa ng mga kasunduan",
+        "rationale": "Ang paggawa ng opisyal na kasunduan sa ibang bansa ay kapangyarihan ng pamahalaang pederal."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "magbigay ng lisensya sa pagmamaneho, magbigay ng edukasyon, magbigay ng proteksyon (pulis), mag-regulate ng batas sa kasal",
+        "rationale": "Ang pagbibigay ng lisensya sa pagmamaneho ay kapangyarihan ng mga pamahalaang pang-estado. Ang pagpapatakbo ng mga sistema ng edukasyon ay pangunahing responsibilidad ng mga pamahalaang pang-estado at lokal. Ang pagbibigay ng mga pwersang pulis ay pangunahing kapangyarihan ng mga pamahalaang pang-estado at lokal. Ang pag-regulate ng mga batas sa kasal ay kapangyarihan ng estado, hindi pederal."
+      },
+      {
+        "text": "magsagawa ng halalan, magtatag ng mga lokal na korte, magbigay ng mga propesyonal na lisensya, mag-regulate ng kalakalan sa loob ng estado",
+        "rationale": "Ang pagsasagawa ng halalan ay pinamamahalaan ng mga pamahalaang pang-estado at lokal. Ang pagtatatag ng mga lokal na korte ay kapangyarihan ng estado. Ang pagbibigay ng mga propesyonal na lisensya ay hawak ng mga pamahalaang pang-estado. Ang pag-regulate ng kalakalan sa loob ng estado (intrastate) ay kapangyarihan ng estado."
+      },
+      {
+        "text": "pamahalaan ang likas na yaman, magtatag ng mga munisipalidad, mag-regulate ng mga lokal na negosyo, magbigay ng mga fire department",
+        "rationale": "Ang pamamahala ng likas na yaman sa loob ng hangganan ng estado ay pangunahing responsibilidad ng estado. Ang pagtatatag ng mga munisipalidad ay tungkulin ng pamahalaang pang-estado at lokal. Ang pag-regulate ng mga lokal na negosyo ay karaniwang ginagawa ng mga awtoridad ng estado at lokal. Ang pagbibigay ng mga fire department ay responsibilidad ng pamahalaang lokal."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Ayon sa ating Konstitusyon, ang ilang kapangyarihan ay kabilang sa mga estado. Ano ang isa sa mga kapangyarihan ng mga estado?",
+    "correctAnswers": [
+      {
+        "text": "magbigay ng edukasyon at paaralan",
+        "rationale": "Ang patakaran sa edukasyon at pagpapatakbo ng paaralan ay pangunahing responsibilidad ng mga estado."
+      },
+      {
+        "text": "magbigay ng proteksyon (pulis)",
+        "rationale": "Ang pagpapanatili ng kaayusan sa publiko sa pamamagitan ng pagpapatakbo ng pulisya ng estado at lokal ay isang kapangyarihan ng estado."
+      },
+      {
+        "text": "magbigay ng lisensya sa pagmamaneho",
+        "rationale": "Bawat estado ay nagtatakda ng sarili nitong pamantayan at pamamaraan para sa pagbibigay ng lisensya sa pagmamaneho."
+      },
+      {
+        "text": "magbigay ng kaligtasan (mga bumbero)",
+        "rationale": "Ang proteksyon laban sa sunog at mga serbisyo sa kaligtasan ay karaniwang ibinibigay ng mga pamahalaan ng estado at lokal."
+      },
+      {
+        "text": "aprubahan ang pag-zoning at paggamit ng lupa",
+        "rationale": "May kapangyarihan ang mga estado na i-regulate ang paggamit ng lupa at pag-zoning sa loob ng kanilang mga hangganan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "mag-imprenta ng pera, magdeklara ng digmaan, gumawa ng mga kasunduan",
+        "rationale": "Ang pag-imprenta ng pera ay eksklusibong kapangyarihan ng pamahalaang pederal, hindi ng mga estado. Ang pagdeklara ng digmaan ay kapangyarihan ng pederal na Kongreso, hindi ng mga estado. Ang paggawa ng mga kasunduan sa ibang bansa ay kapangyarihan ng pamahalaang pederal, hindi ng mga estado."
+      },
+      {
+        "text": "i-regulate ang interstate commerce, magtatag ng post office, magmint ng pera",
+        "rationale": "Ito ay pawang mga eksklusibong kapangyarihan ng pamahalaang pederal na hindi maaaring isagawa ng mga estado."
+      },
+      {
+        "text": "lumikha ng hukbo, magtatag ng mga batas sa imigrasyon, mag-regulate ng kalakalan sa ibang bansa",
+        "rationale": "Ito ay karagdagang kapangyarihan ng pamahalaang pederal na hindi ibinigay sa mga indibidwal na estado sa ilalim ng Konstitusyon."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Sino ang gobernador ng iyong estado ngayon?",
+    "correctAnswers": [
+      {
+        "text": "Magkakaiba ang mga sagot",
+        "rationale": "Ang sagot sa tanong na ito ay nakadepende sa estado kung saan ka nakatira. Dapat mong tingnan ang usa.gov."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang pangalan ng senador",
+        "rationale": "Ang isang senador ay bahagi ng pederal na sangay na tagapagbatas at iba sa gobernador, na siyang pinuno ng sangay na tagapagpaganap ng estado."
+      },
+      {
+        "text": "Ang pangalan ng alkalde",
+        "rationale": "Ang alkalde ang pinuno ng pamahalaang lungsod, iba sa gobernador na pinuno ng buong estado."
+      },
+      {
+        "text": "Ang pangalan ng pangulo",
+        "rationale": "Ang pangulo ang pinuno ng pamahalaang pederal, iba sa gobernador na pinuno ng pamahalaang panlalawigan."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Ano ang kabisera ng iyong estado?",
+    "correctAnswers": [
+      {
+        "text": "Magkakaiba ang mga sagot",
+        "rationale": "Ang sagot sa tanong na ito ay nakadepende sa estado kung saan ka nakatira."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Washington D.C.",
+        "rationale": "Ang Washington, D.C. ay kabisera ng Estados Unidos, hindi ng isang estado. Bawat estado ay may sarili nitong kabisera."
+      },
+      {
+        "text": "Lungsod ng New York",
+        "rationale": "Ang Lungsod ng New York ang pinakamalaking lungsod sa estado ng New York, ngunit ang Albany ang kabisera nito."
+      },
+      {
+        "text": "Los Angeles",
+        "rationale": "Ang Los Angeles ang pinakamalaking lungsod sa California, ngunit Sacramento ang kabisera nito."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Ano ang dalawang pangunahing partidong pampulitika sa Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Demokratiko at Republikano",
+        "rationale": "Ang mga partidong Demokratiko at Republikano ang dalawang pangunahing partido na namamayani sa pulitika ng U.S. ngayon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Labour at Konserbatibo",
+        "rationale": "Ang mga partidong Labour at Konserbatibo ay ang mga pangunahing partidong pampulitika sa United Kingdom."
+      },
+      {
+        "text": "Liberal at Luntian",
+        "rationale": "Ang mga partidong gaya ng Libertarian at Green ay mga ikatlong partido sa U.S., ngunit hindi kabilang sa dalawang pangunahing partido."
+      },
+      {
+        "text": "Senado at Kapulungan",
+        "rationale": "Ang Senado at Kapulungan ay ang dalawang bahagi ng Kongreso, hindi mga partidong pampulitika."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Ano ang partidong pampulitika ng kasalukuyang pangulo?",
+    "correctAnswers": [
+      {
+        "text": "Republikano (Partido)",
+        "rationale": "Ang pangulong Donald Trump ay kasapi ng Partido Republikano. (Noong Hulyo 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Demokratiko (Partido)",
+        "rationale": "Ang Partido Demokratiko ay kasalukuyang pangunahing partido ng oposisyon."
+      },
+      {
+        "text": "Independent",
+        "rationale": "Ang kasalukuyang pangulo ay kasapi ng isang pangunahing partido, ang Partido Republikano."
+      },
+      {
+        "text": "Libertaryo (Partido)",
+        "rationale": "Ang Partido Libertaryo ay isa sa mga ikatlong partido sa U.S."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Ano ang pangalan ng kasalukuyang Speaker ng Kapulungan ng mga Kinatawan?",
+    "correctAnswers": [
+      {
+        "text": "Mike Johnson",
+        "rationale": "(Simula Hulyo 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nancy Pelosi",
+        "rationale": "Si Nancy Pelosi ay dating Speaker ng Kapulungan ng mga Kinatawan."
+      },
+      {
+        "text": "Kevin McCarthy",
+        "rationale": "Si Kevin McCarthy ang Speaker bago si Mike Johnson."
+      },
+      {
+        "text": "Chuck Schumer",
+        "rationale": "Si Chuck Schumer ang kasalukuyang Senate Majority Leader."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "May apat na susog sa Konstitusyon tungkol sa kung sino ang maaaring bumoto. Ilarawan ang isa sa mga ito.",
+    "correctAnswers": [
+      {
+        "text": "Mga mamamayan na labing-walo (18) taong gulang at mas matanda (maaaring bumoto)",
+        "rationale": "Binaba ng Ika-26 na Susog ang edad ng pagboto sa 18."
+      },
+      {
+        "text": "Hindi mo kailangang magbayad (ng buwis sa pagboto) para bumoto",
+        "rationale": "Inalis ng Ika-24 na Susog ang mga buwis sa pagboto sa pambansang halalan."
+      },
+      {
+        "text": "Sinumang mamamayan ay maaaring bumoto. (Maaaring bumoto ang mga babae at lalaki.)",
+        "rationale": "Ipinagkaloob ng Ika-19 na Susog sa mga babae ang karapatang bumoto."
+      },
+      {
+        "text": "Isang lalaking mamamayan ng anumang lahi (maaaring bumoto)",
+        "rationale": "Ipinagbawal ng Ika-15 na Susog ang diskriminasyon sa pagboto batay sa lahi."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang mga permanenteng residente ay maaaring bumoto, Tanging ang mga taong may-ari ng ari-arian lamang ang maaaring bumoto, Tanging ang mga taong lampas 30 taong gulang lamang ang maaaring bumoto, Tanging ang mga taong may degree sa kolehiyo lamang ang maaaring bumoto",
+        "rationale": "Ang karapatang bumoto sa pambansang halalan ay karaniwang nakalaan para sa mga mamamayang U.S., hindi sa mga permanenteng residente. Noon ay kinakailangan ang pagmamay-ari ng ari-arian, ngunit hindi na ito kailangan ngayon. Ayon sa Ika-26 na Susog, ang edad ng pagboto ay 18 pataas, hindi 30. Ang antas ng edukasyon ay hindi kinakailangan upang makaboto sa Estados Unidos."
+      },
+      {
+        "text": "Tanging mga may asawa lamang ang maaaring bumoto, Tanging mga may trabaho lamang ang maaaring bumoto, Tanging mga beterano lamang ng militar ang maaaring bumoto, Tanging mga may-ari lamang ng bahay ang maaaring bumoto",
+        "rationale": "Ang katayuan sa pag-aasawa ay hindi kailanman naging konstitusyunal na kinakailangan para bumoto. Ang katayuan sa trabaho ay hindi kinakailangan para bumoto; nananatili ang karapatang bumoto ng mga walang trabaho. Hindi kailangan ng serbisyo militar para bumoto; pantay ang karapatang bumoto ng mga sibilyan. Ang pagmamay-ari ng bahay ay hindi kinakailangan para bumoto ayon sa kasalukuyang batas."
+      },
+      {
+        "text": "Tanging mga nagbabayad ng buwis lamang ang maaaring bumoto, Tanging mga ipinanganak sa U.S. lamang ang maaaring bumoto, Tanging mga nagsasalita ng Ingles lamang ang maaaring bumoto, Tanging mga walang rekord kriminal lamang ang maaaring bumoto",
+        "rationale": "Kahit na karamihan sa mga botante ay nagbabayad ng ilang buwis, ang pagbabayad ng buwis ay hindi kinakailangang konstitusyunal para bumoto. Ang mga naturalized na mamamayan ay may parehong karapatan sa pagboto gaya ng mga ipinanganak sa U.S. Ang mga kinakailangang wika para bumoto ay halos tinanggal na ng batas pederal. Kahit na ang ilang estado ay naglilimita sa pagboto para sa ilang kriminal, ang kawalan ng rekord kriminal ay hindi isang unibersal na kinakailangang konstitusyunal."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Ano ang isang responsibilidad na tanging para lamang sa mga mamamayan ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "maglingkod sa isang hurado",
+        "rationale": "Ang tungkulin sa hurado ay isang pangunahing responsibilidad na nakalaan para sa mga mamamayang Amerikano."
+      },
+      {
+        "text": "bumoto sa isang pederal na halalan",
+        "rationale": "Ang pagboto sa isang pederal na halalan ay parehong karapatan at pangunahing responsibilidad ng isang mamamayan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "magbayad ng buwis, sumunod sa batas",
+        "rationale": "Ang pagbabayad ng buwis ay responsibilidad ng lahat ng residente na may kita (tulad ng mga permanenteng residente), hindi lang ng mga mamamayan. Ang pagsunod sa batas ay responsibilidad ng lahat sa Estados Unidos, anuman ang katayuan sa pagkamamamayan."
+      },
+      {
+        "text": "kumuha ng lisensya sa pagmamaneho, pumasok sa paaralan",
+        "rationale": "Ang pagkuha ng lisensya sa pagmamaneho ay bukas para sa mga permanenteng residente at iba pang legal na residente, hindi lang para sa mga mamamayan. Ang pagpasok sa paaralan ay sapilitan para sa lahat ng bata, anuman ang katayuan sa pagkamamamayan."
+      },
+      {
+        "text": "magtrabaho nang legal, makilahok sa komunidad",
+        "rationale": "Ang pagtatrabaho nang legal ay pinapayagan para sa mga permanenteng residente at iba pang awtorisadong hindi mamamayan, hindi eksklusibo para sa mga mamamayan. Ang pakikilahok sa komunidad ay hinihikayat para sa lahat ng residente, hindi lang sa mga mamamayan."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Sabihin ang isang karapatan na para lamang sa mga mamamayan ng Estados Unidos.",
+    "correctAnswers": [
+      {
+        "text": "bumoto sa isang pederal na halalan",
+        "rationale": "Ang pagboto sa mga pederal na halalan ay isang karapatang eksklusibo para sa mga mamamayan."
+      },
+      {
+        "text": "tumakbo para sa pederal na posisyon",
+        "rationale": "Ang karapatang tumakbo para sa pederal na posisyon, tulad ng Pangulo, Senador, o Kinatawan, ay nakalaan para sa mga mamamayan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "kalayaan sa relihiyon, kalayaan sa pananalita",
+        "rationale": "Ang kalayaan sa relihiyon ay isang karapatang ginagarantiyahan sa lahat sa Estados Unidos, hindi lamang sa mga mamamayan. Ang kalayaan sa pananalita ay isang karapatang ginagarantiyahan sa lahat sa Estados Unidos, hindi lamang sa mga mamamayan."
+      },
+      {
+        "text": "mga karapatan sa tamang proseso, pantay na proteksiyon",
+        "rationale": "Ang mga karapatan sa tamang proseso ay ginagarantiyahan sa lahat ng tao sa hurisdiksyon ng U.S., hindi lamang sa mga mamamayan. Ang pantay na proteksiyon sa ilalim ng batas ay naaangkop sa lahat sa Estados Unidos, anuman ang katayuan sa pagiging mamamayan."
+      },
+      {
+        "text": "karapatan sa abogado, proteksiyon laban sa hindi makatwirang paghahalughog",
+        "rationale": "Ang karapatang magkaroon ng abogado ay ginagarantiyahan sa lahat ng taong inaakusahan ng krimen, anuman ang pagiging mamamayan. Ang proteksiyon laban sa hindi makatwirang paghahalughog at pagsamsam ay naaangkop sa lahat sa Estados Unidos, hindi lamang sa mga mamamayan."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Ano ang dalawang karapatan ng bawat taong naninirahan sa Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "kalayaan sa pagpapahayag",
+        "rationale": "Lahat ng tao sa U.S. ay may karapatang magpahayag ng kanilang opinyon."
+      },
+      {
+        "text": "kalayaan sa pagsasalita",
+        "rationale": "Lahat sa U.S. ay may karapatang magsalita nang malaya."
+      },
+      {
+        "text": "kalayaan sa pagtitipon",
+        "rationale": "Lahat sa U.S. ay may karapatang magtipon nang mapayapa."
+      },
+      {
+        "text": "kalayaan na magpetisyon sa gobyerno",
+        "rationale": "Lahat sa U.S. ay may karapatang magpetisyon sa gobyerno para sa pagwawasto ng mga karaingan."
+      },
+      {
+        "text": "kalayaan sa relihiyon",
+        "rationale": "Lahat sa U.S. ay may karapatang magsagawa ng anumang relihiyon o wala."
+      },
+      {
+        "text": "ang karapatan na magdala ng armas",
+        "rationale": "Pinoprotektahan ng Ikalawang Susog ang karapatan na magkaroon at magdala ng armas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang karapatang bumoto sa pederal na halalan, ang karapatang tumakbo para sa pederal na posisyon, ang karapatan sa pasaporte ng U.S., ang karapatang maglingkod sa hurado",
+        "rationale": "Ang karapatang bumoto sa pederal na halalan ay nakalaan lamang sa mga mamamayang Amerikano, hindi sa lahat ng nakatira sa U.S. Ang karapatang tumakbo para sa pederal na posisyon ay para lamang sa mga mamamayang Amerikano. Ang mga pasaporteng Amerikano ay ibinibigay lamang sa mga mamamayang Amerikano, hindi sa lahat ng residente. Ang paglilingkod sa hurado ay karaniwang nakalaan lamang sa mga mamamayan sa karamihan ng mga hurisdiksyon."
+      },
+      {
+        "text": "ang karapatan sa mga benepisyo ng social security, ang karapatan sa Medicare, ang karapatan sa mga benepisyo sa kawalan ng trabaho, ang karapatan sa pederal na trabaho",
+        "rationale": "Ang mga benepisyo ng Social Security ay pangunahing para sa mga mamamayan at awtorisadong manggagawa na nag-ambag. Ang Medicare ay pangunahing para sa mga mamamayan at permanenteng residente na nakakatugon sa mga kinakailangan. Ang mga benepisyo sa kawalan ng trabaho ay may kinakailangan ng pagkamamamayan o pahintulot sa trabaho sa karamihan ng mga estado. Maraming trabaho sa pederal ang nangangailangan ng pagkamamamayan ng U.S."
+      },
+      {
+        "text": "ang karapatang mag-sponsor ng imigrasyon ng pamilya, ang karapatan sa proteksiyong diplomatiko sa ibang bansa, ang karapatang bumalik sa U.S., ang karapatang humawak ng pederal na posisyon",
+        "rationale": "Ang karapatang mag-sponsor ng ilang miyembro ng pamilya para sa imigrasyon ay pangunahing para sa mga mamamayan at permanenteng residente. Ang proteksiyong diplomatiko sa ibang bansa ay pangunahing para sa mga mamamayan ng U.S. Ang karapatang bumalik sa U.S. nang walang paghihigpit ay para sa mga mamamayan. Ang paghawak ng pederal na posisyon ay karaniwang nangangailangan ng pagkamamamayan."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Kanino tayo nagpapakita ng katapatan kapag sinasabi natin ang Panatang Pambansa?",
+    "correctAnswers": [
+      {
+        "text": "ang Estados Unidos",
+        "rationale": "Ang Panatang Pambansa ay isang pagpapahayag ng katapatan sa bansang Estados Unidos."
+      },
+      {
+        "text": "ang watawat",
+        "rationale": "Ang watawat ay sumisimbolo sa Estados Unidos, kaya’t ang panunumpa dito ay pagpapakita ng katapatan sa bansa."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang Pangulo, ang Konstitusyon",
+        "rationale": "Ang katapatan ay sa bansa mismo, hindi sa isang partikular na tao o pamahalaan tulad ng Pangulo. May tungkulin ang mga mamamayan na igalang ang Konstitusyon, ngunit ang tuwirang layon ng Panatang Pambansa ay ang Estados Unidos at ang watawat nito."
+      },
+      {
+        "text": "ang Kongreso, ang Korte Suprema",
+        "rationale": "Ang Panata ay para sa buong bansa, hindi sa partikular na sangay ng pamahalaan tulad ng Kongreso. Ang Korte Suprema ay isang sangay ng pamahalaan, ngunit ang katapatan ay sa bansa mismo."
+      },
+      {
+        "text": "ang iyong estado, ang iyong komunidad",
+        "rationale": "Mahalaga ang katapatan sa sariling estado, ngunit ang Panatang Pambansa ay para sa buong bansang pederal. Mahalaga rin ang katapatan sa komunidad, ngunit ang Panata ay tiyak na para sa bansa."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Ano ang isang pangako na ginagawa mo kapag naging mamamayan ka ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "sumunod sa mga batas ng Estados Unidos",
+        "rationale": "Ang Panunumpa ng Katapatan ay naglalaman ng pangakong susunod sa mga batas ng Estados Unidos."
+      },
+      {
+        "text": "maging tapat sa Estados Unidos",
+        "rationale": "Ito ay pangunahing bahagi ng Panunumpa ng Katapatan."
+      },
+      {
+        "text": "maglingkod sa militar ng U.S. (kung kinakailangan)",
+        "rationale": "Ito ay isang pangakong dadala ng armas para sa bansa kapag kinakailangan."
+      },
+      {
+        "text": "isuko ang katapatan sa ibang bansa",
+        "rationale": "Ang Panunumpa ng Katapatan ay may kasamang pagtalikod sa katapatan sa mga banyagang estado."
+      },
+      {
+        "text": "ipagtanggol ang Konstitusyon at mga batas ng Estados Unidos",
+        "rationale": "Nangangako ang mga bagong mamamayan na susuporta at ipagtatanggol ang Konstitusyon at mga batas."
+      },
+      {
+        "text": "maglingkod (gumawa ng mahalagang gawain para sa) bansa (kung kinakailangan)",
+        "rationale": "Nangangako ang mga mamamayan na gagawa ng mga gawaing mahalaga para sa bansa kapag kinakailangan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "bumoto bawat taon, laging magsalita ng Ingles, huwag kailanman umalis sa Estados Unidos",
+        "rationale": "Ang pagboto ay isang mahalagang karapatan at pananagutan ng isang mamamayan, ngunit hindi ito isang legal na obligasyon o bahagi ng panunumpa. Bagama’t kailangan ang kasanayan sa Ingles para sa pagkamamamayan, walang pangakong magsasalita lamang ng Ingles. May karapatan ang mga mamamayan ng U.S. na maglakbay at manirahan sa ibang bansa nang malaya."
+      },
+      {
+        "text": "magbayad ng mas mataas na buwis, maglingkod sa gobyerno, magbigay sa kawanggawa",
+        "rationale": "Nagbabayad ang mga mamamayan ng parehong buwis tulad bago sila naging mamamayan, batay sa kita, hindi mas mataas dahil sa pagkamamamayan. Ang paglilingkod sa gobyerno ay isang pagkakataon, hindi isang obligadong pangako. Ang pagbibigay sa kawanggawa ay hinihikayat ngunit hindi isang legal na kinakailangan o bahagi ng panunumpa."
+      },
+      {
+        "text": "baguhin ang iyong pangalan, isuko ang nakaraang pagkamamamayan, manirahan sa Amerika magpakailanman",
+        "rationale": "Ang pagbabago ng pangalan ay opsyonal at hindi kinakailangan para sa pagkamamamayan. Habang ang ilang bansa ay nangangailangan ng pagsuko ng nakaraang pagkamamamayan, ang panunumpa sa U.S. ay hindi hayagang nangangailangan nito. Maaaring manirahan ang mga mamamayan sa ibang bansa at panatilihin pa rin ang kanilang pagkamamamayan."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Ilang taon dapat ang mga mamamayan para makaboto sa pangulo?",
+    "correctAnswers": [
+      {
+        "text": "labing-walo (18) pataas",
+        "rationale": "Itinakda ng ika-26 na Amyenda ang pambansang edad ng pagboto sa 18."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "labing-anim (16) pataas",
+        "rationale": "Bagaman pinapayagan ng ilang bansa o partikular na lokal na halalan ang pagboto sa edad na 16, ang pederal na edad ng pagboto sa U.S. ay 18."
+      },
+      {
+        "text": "dalawampu’t isa (21) pataas",
+        "rationale": "Bago ipinasa ang ika-26 na Amyenda, ang edad ng pagboto ay 21 sa maraming estado."
+      },
+      {
+        "text": "walang limitasyon sa edad",
+        "rationale": "Mayroong itinatag na minimum na edad ayon sa batas para maging karapat-dapat bumoto."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Ano ang dalawang paraan na maaaring makilahok ang mga Amerikano sa kanilang demokrasya?",
+    "correctAnswers": [
+      {
+        "text": "bumoto",
+        "rationale": "Ang pagboto ang pinakapundamental na paraan upang makilahok sa demokrasya."
+      },
+      {
+        "text": "sumali sa isang partidong pampulitika",
+        "rationale": "Ang pagsali sa isang partidong pampulitika ay nagbibigay-daan sa mga mamamayan na suportahan ang mga kandidato at adhikain na kanilang pinaniniwalaan."
+      },
+      {
+        "text": "tumulong sa isang kampanya",
+        "rationale": "Ang pagiging boluntaryo sa mga kampanyang pampulitika ay isang aktibong paraan upang makilahok sa proseso ng demokrasya."
+      },
+      {
+        "text": "sumali sa isang pangsibikong grupo",
+        "rationale": "Ang mga pangsibikong grupo ay nagpapahintulot sa mga mamamayan na magtulungan sa mga isyu ng komunidad."
+      },
+      {
+        "text": "sumali sa isang pangkomunidad na grupo",
+        "rationale": "Ang mga pangkomunidad na grupo ay tumutulong sa mga mamamayan na tugunan ang mga lokal na alalahanin at isyu."
+      },
+      {
+        "text": "ibigay sa isang halal na opisyal ang iyong opinyon sa isang isyu",
+        "rationale": "Ang pakikipag-ugnayan sa mga halal na opisyal ay isang mahalagang paraan upang marinig ang iyong tinig."
+      },
+      {
+        "text": "tawagan ang mga Senador at mga Kinatawan",
+        "rationale": "Ang pagtawag sa iyong mga kinatawan ay isang direktang paraan ng pakikilahok sa demokrasya."
+      },
+      {
+        "text": "hayagang suportahan o tutulan ang isang isyu o patakaran",
+        "rationale": "Ang pampublikong pagtataguyod ay isang mahalagang paraan ng demokratikong pakikilahok."
+      },
+      {
+        "text": "tumakbo para sa posisyon",
+        "rationale": "Ang pagtakbo para sa posisyon ay isa sa pinakamadaling paraan ng pakikilahok sa demokrasya."
+      },
+      {
+        "text": "sumulat sa isang pahayagan",
+        "rationale": "Ang pagsusulat ng mga liham sa mga pahayagan ay nakakatulong na maibahagi ang iyong mga pananaw sa komunidad."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "manood ng balita sa TV, magtaas ng bandila ng Amerika, magbayad ng buwis, magbasa ng pahayagan",
+        "rationale": "Bagama't mahalaga ang manatiling may alam, ang panonood ng balita lamang ay hindi itinuturing na aktibong 'pakikilahok'. Ang pagtaas ng bandila ng Amerika ay isang mabuting paraan upang ipakita ang nasyonalismo, ngunit hindi ito pakikilahok sa demokratikong 'proseso'. Ang pagbabayad ng buwis ay isang legal na obligasyon, na naiiba sa isang kusang-loob na gawain ng pakikilahok. Ang pagbasa ng mga pahayagan ay tumutulong na manatiling may alam ngunit ito ay pasibo kaysa aktibong pakikilahok."
+      },
+      {
+        "text": "dumalo sa parada, magpakita ng makabayang simbolo, sumunod sa batas, igalang ang watawat",
+        "rationale": "Ang pagdalo sa parada ay nagpapakita ng espiritu ng sibiko ngunit hindi direktang nakikilahok sa mga demokratikong proseso. Ang pagpapakita ng makabayang simbolo ay nagpapakita ng suporta ngunit hindi bumubuo ng demokratikong pakikilahok. Ang pagsunod sa batas ay tungkulin ng sibiko at legal na kinakailangan, hindi kusang-loob na demokratikong pakikilahok. Ang paggalang sa watawat ay nagpapakita ng makabayan ngunit hindi nakikilahok sa mga demokratikong proseso."
+      },
+      {
+        "text": "kumanta ng pambansang awit, magdiwang ng pista, magsuot ng makabayang damit, mag-post sa social media",
+        "rationale": "Ang pagkanta ng pambansang awit, pagdiriwang ng pista, at pagsusuot ng makabayang damit ay mga pagpapahayag ng nasyonalismo ngunit hindi itinuturing na pakikilahok sa mismong \"proseso\" ng demokrasya. Ang pagpo-post sa social media ay maaaring magpahayag ng opinyon, ngunit hindi ito pormal na pakikilahok sa mga demokratikong institusyon at pamamaraan."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Kailan ang huling araw na maaari kang magsumite ng mga pederal na form sa buwis sa kita?",
+    "correctAnswers": [
+      {
+        "text": "Abril 15",
+        "rationale": "Ang karaniwang huling araw ng pagsumite ng buwis ay Abril 15. (Maaari itong ma-extend kung sakaling bumagsak ito sa weekend o holiday)."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Enero 1",
+        "rationale": "Ang Enero 1 ay Bagong Taon."
+      },
+      {
+        "text": "Disyembre 31",
+        "rationale": "Ang Disyembre 31 ay katapusan ng taon ng buwis."
+      },
+      {
+        "text": "Hulyo 4",
+        "rationale": "Ang Hulyo 4 ay Araw ng Kalayaan."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "모든 남성은 언제 병역 의무 등록을 해야 합니까?",
+    "correctAnswers": [
+      {
+        "text": "sa edad na labing-walo (18)",
+        "rationale": "Ang pagpaparehistro ay dapat gawin sa loob ng 30 araw matapos maging 18."
+      },
+      {
+        "text": "sa pagitan ng labing-walo (18) at dalawampu’t anim (26)",
+        "rationale": "Bagaman dapat gawin ang pagpaparehistro sa edad na 18, maaari pa ring magparehistro hanggang edad na 26."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "kapag sumali sila sa militar, kapag bumoto sila",
+        "rationale": "Ang pagpaparehistro sa Selective Service ay isang hiwalay na proseso mula sa aktwal na pag-enlist at para sa posibleng draft. Ang pagpaparehistro sa Selective Service at pagpaparehistro ng botante ay magkahiwalay na proseso na may magkaibang pangangailangan at oras."
+      },
+      {
+        "text": "kapag ikinasal sila, kapag nagtapos ng high school",
+        "rationale": "Ang katayuan sa pag-aasawa ay hindi nagti-trigger ng mga kinakailangan para sa Selective Service. Ang pagtatapos sa high school ay hindi konektado sa oras ng pagpaparehistro, na nakabatay lamang sa edad."
+      },
+      {
+        "text": "kapag sila ay tumuntong ng 21, kapag sila ay tumuntong ng 30",
+        "rationale": "Ang edad ng pagpaparehistro ay 18, hindi 21. Sa edad na 30, ang mga lalaki ay lampas na sa saklaw ng edad ng pagpaparehistro (18-26), kaya huli na para magparehistro."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Ano ang isang dahilan kung bakit pumunta ang mga kolonista sa Amerika?",
+    "correctAnswers": [
+      {
+        "text": "kalayaan",
+        "rationale": "Maraming mga kolonista ang pumunta sa Amerika upang maghanap ng iba’t ibang anyo ng kalayaan."
+      },
+      {
+        "text": "kalayaang pampulitika",
+        "rationale": "Ang ilang mga kolonista ay pumunta sa Amerika upang maghanap ng mas malaking kalayaang pampulitika."
+      },
+      {
+        "text": "kalayaan sa relihiyon",
+        "rationale": "Maraming mga kolonista ang pumunta sa Amerika upang malayang isagawa ang kanilang relihiyon."
+      },
+      {
+        "text": "pagkakataong pang-ekonomiya",
+        "rationale": "Maraming mga kolonista ang pumunta sa Amerika upang maghanap ng mas magagandang pagkakataong pang-ekonomiya."
+      },
+      {
+        "text": "isagawa ang kanilang relihiyon",
+        "rationale": "Ang pagsasagawa ng relihiyon ay isang pangunahing motibasyon para sa maraming mga kolonista."
+      },
+      {
+        "text": "makatakas sa pag-uusig",
+        "rationale": "Maraming mga kolonista ang tumakas mula sa pag-uusig sa kanilang mga bansang pinagmulan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "upang maglingkod sa Hari ng Britanya, para sa bakasyon, upang sakupin ang mga Katutubong Amerikano",
+        "rationale": "Ang mga kolonista ay naghahangad na makatakas sa awtoridad ng Hari ng Britanya, hindi upang maglingkod sa kanya. Ang pagtawid sa Atlantiko noong panahong iyon ay isang mapanganib at nagbabantang-buhay na paglalakbay, malayo sa isang bakasyon. Bagama’t may mga naganap na alitan at pananakop, hindi ito ang pangunahing dahilan ng pagpunta sa Amerika."
+      },
+      {
+        "text": "upang makatakas sa kahirapan, upang makahanap ng ginto, upang magtatag ng mga rutang pangkalakalan",
+        "rationale": "Bagama’t ang oportunidad na pang-ekonomiya ay isang wastong dahilan, ang mga partikular na motibasyong ito ay labis na pinapasimple ang masalimuot na relihiyoso, politikal, at ekonomikong mga salik na nagtulak sa kolonisasyon."
+      },
+      {
+        "text": "upang ipalaganap ang Kristiyanismo, upang angkinin ang lupa para sa Espanya, upang hanapin ang Northwest Passage",
+        "rationale": "Ang mga ito ay mga motibasyon para sa ilang mga eksplorador at misyonero, ngunit hindi ang pangunahing dahilan kung bakit ang mga ordinaryong kolonista ay pumunta upang magtatag ng permanenteng pamayanan sa Amerika."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Sino ang nanirahan sa Amerika bago dumating ang mga Europeo?",
+    "correctAnswers": [
+      {
+        "text": "Mga Amerikanong Indio",
+        "rationale": "Mga katutubong tao na nanirahan sa Amerika sa loob ng libu-libong taon bago dumating ang mga Europeo."
+      },
+      {
+        "text": "Mga Katutubong Amerikano",
+        "rationale": "Isa pang katawagan para sa mga katutubong tao na nanirahan sa Amerika matagal bago dumating ang mga Europeo."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Wala, mga Aprikano",
+        "rationale": "Milyun-milyong mga katutubong tao ang naninirahan sa Amerika bago pa dumating ang mga Europeo. Ang mga Aprikano ay sapilitang dinala sa Amerika bilang mga alipin, hindi ang mga orihinal na naninirahan na nandoon na."
+      },
+      {
+        "text": "Mga Viking, mga manlalakbay na Tsino",
+        "rationale": "Maaaring binisita ng mga Viking ang Hilagang Amerika nang panandalian noong bandang taong 1000 AD, ngunit hindi sila nagtayo ng permanenteng pamayanan at hindi sila ang mga orihinal na naninirahan. Ang mga manlalakbay na Tsino ay hindi nakarating sa Amerika bago dumating ang mga Europeo."
+      },
+      {
+        "text": "Mga mananakop na Kastila, mga Ingles na kolonista",
+        "rationale": "Ang mga mananakop na Kastila ay kabilang sa mga unang Europeo na dumating, hindi mga nanirahan bago ang Europeo. Ang mga Ingles na kolonista ay dumating noong 1600s, matagal pagkatapos na naninirahan doon ang mga katutubong tao sa loob ng libu-libong taon."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Anong grupo ng mga tao ang dinala sa Amerika at ipinagbili bilang mga alipin?",
+    "correctAnswers": [
+      {
+        "text": "Mga Aprikano",
+        "rationale": "Ang mga Aprikano ay sapilitang dinala sa Amerika at ipinagbili bilang mga alipin."
+      },
+      {
+        "text": "mga tao mula sa Africa",
+        "rationale": "Ang mga tao mula sa kontinente ng Africa ay inalipin at dinala sa Amerika."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mga Europeo",
+        "rationale": "Ang mga Europeo ang mga imigrante o mga kolonista."
+      },
+      {
+        "text": "Mga Amerikanong Indio",
+        "rationale": "Bagama’t nakaranas ng pang-aapi at pagkawala ng lupa ang mga Katutubong Amerikano, hindi sila naging bahagi ng transatlantic na kalakalan ng alipin."
+      },
+      {
+        "text": "Mga Asyano",
+        "rationale": "Ang imigrasyon mula sa Asya ay nagsimula pangunahin noong ikalawang kalahati ng ika-19 na siglo."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Bakit nakipaglaban ang mga kolonista sa mga Briton?",
+    "correctAnswers": [
+      {
+        "text": "dahil sa mataas na buwis (pagbubuwis na walang representasyon)",
+        "rationale": "Galit sila sa mga buwis na ipinataw sa kanila nang wala silang sariling kinatawan sa Parlyamento ng Britanya."
+      },
+      {
+        "text": "dahil nanirahan ang hukbong Britanya sa kanilang mga bahay",
+        "rationale": "Inatasan ng Quartering Act ang mga kolonista na patuluyin at pakainin ang mga sundalong Britanya."
+      },
+      {
+        "text": "dahil wala silang sariling pamahalaan",
+        "rationale": "Nais ng mga kolonista na pamahalaan ang kanilang sarili at maging malaya mula sa isang panig na pamamahala ng gobyernong Britanya."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "dahil gusto nila ng bagong hari, dahil gusto nilang makipag-alyansa sa France, dahil gusto nilang alisin ang lahat ng buwis",
+        "rationale": "Layunin nilang magtatag ng republika at tuluyang humiwalay sa pamumuno ng isang hari, hindi lang palitan siya. Ang alyansa sa France ay isang estratehiya sa panahon ng digmaan, hindi ang pangunahing dahilan ng pagsisimula nito. Ang isyu ay hindi buwis sa pangkalahatan, kundi ang “hindi makatarungang” buwis na ipinataw nang walang kanilang pahintulot."
+      },
+      {
+        "text": "dahil sa pag-uusig sa relihiyon, dahil sa kahirapan sa ekonomiya, dahil sa mga pagtatalo sa teritoryo",
+        "rationale": "Habang ito ay mga nakatulong na salik sa mga karaingan ng kolonya, ang pangunahing dahilan ng pakikipaglaban ay pampulitika: pagbubuwis na walang representasyon, sapilitang pagpapatuloy ng mga sundalo, at kakulangan ng sariling pamahalaan."
+      },
+      {
+        "text": "dahil gusto nila ng agarang kalayaan, dahil galit sila sa lahat ng Britanya, dahil gusto nilang lumawak pa-kanluran",
+        "rationale": "Noong una, hinangad ng mga kolonista ang pagkakasundo at dahan-dahang lumipat tungo sa kalayaan. Ang kanilang mga karaingan ay laban sa mga patakaran ng Britanya, hindi laban sa mga tao mismo. Ang paglawak pa-kanluran ay hindi pangunahing dahilan ng tunggalian."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Sino ang sumulat ng Deklarasyon ng Kalayaan?",
+    "correctAnswers": [
+      {
+        "text": "(Thomas) Jefferson",
+        "rationale": "Si Thomas Jefferson ang pangunahing may-akda ng Deklarasyon ng Kalayaan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "George Washington",
+        "rationale": "Si George Washington ang Pinuno ng Hukbong Kontinental at ang unang Pangulo."
+      },
+      {
+        "text": "Abraham Lincoln",
+        "rationale": "Si Abraham Lincoln ang ika-16 na Pangulo noong Digmaang Sibil."
+      },
+      {
+        "text": "Benjamin Franklin",
+        "rationale": "Kasama si Benjamin Franklin sa komite, nirepaso ang dokumento at nilagdaan ito, ngunit hindi siya ang pangunahing may-akda."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Kailan pinagtibay ang Deklarasyon ng Kalayaan?",
+    "correctAnswers": [
+      {
+        "text": "Hulyo 4, 1776",
+        "rationale": "Ang petsang ito ay ipinagdiriwang bilang Araw ng Kalayaan sa Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Setyembre 17, 1787",
+        "rationale": "Noong Setyembre 17, 1787 ay pinirmahan ang Konstitusyon, hindi ang pagpapatibay ng Deklarasyon ng Kalayaan."
+      },
+      {
+        "text": "Oktubre 12, 1492",
+        "rationale": "Noong Oktubre 12, 1492 dumating si Christopher Columbus sa Amerika, hindi noong pinagtibay ang Deklarasyon."
+      },
+      {
+        "text": "Abril 19, 1775",
+        "rationale": "Noong Abril 19, 1775 nagsimula ang Digmaang Rebolusyonaryo sa Lexington at Concord, hindi noong pinagtibay ang Deklarasyon."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Mayroong 13 orihinal na estado. Magbanggit ng tatlo.",
+    "correctAnswers": [
+      {
+        "text": "New Hampshire",
+        "rationale": "Ang New Hampshire ay isa sa orihinal na 13 kolonya."
+      },
+      {
+        "text": "Massachusetts",
+        "rationale": "Ang Massachusetts ay isa sa orihinal na 13 kolonya."
+      },
+      {
+        "text": "Rhode Island",
+        "rationale": "Ang Rhode Island ay isa sa orihinal na 13 kolonya."
+      },
+      {
+        "text": "Connecticut",
+        "rationale": "Ang Connecticut ay isa sa orihinal na 13 kolonya."
+      },
+      {
+        "text": "New York",
+        "rationale": "Ang New York ay isa sa orihinal na 13 kolonya."
+      },
+      {
+        "text": "New Jersey",
+        "rationale": "Ang New Jersey ay isa sa orihinal na 13 kolonya."
+      },
+      {
+        "text": "Pennsylvania",
+        "rationale": "Ang Pennsylvania ay isa sa orihinal na 13 kolonya."
+      },
+      {
+        "text": "Delaware",
+        "rationale": "Ang Delaware ay isa sa orihinal na 13 kolonya."
+      },
+      {
+        "text": "Maryland",
+        "rationale": "Ang Maryland ay isa sa orihinal na 13 kolonya."
+      },
+      {
+        "text": "Virginia",
+        "rationale": "Ang Virginia ay isa sa orihinal na 13 kolonya."
+      },
+      {
+        "text": "Hilagang Carolina",
+        "rationale": "Ang Hilagang Carolina ay isa sa orihinal na 13 kolonya."
+      },
+      {
+        "text": "Timog Carolina",
+        "rationale": "Ang Timog Carolina ay isa sa orihinal na 13 kolonya."
+      },
+      {
+        "text": "Georgia",
+        "rationale": "Ang Georgia ay isa sa orihinal na 13 kolonya."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Florida, California, Texas, Alaska",
+        "rationale": "Ang Florida ay sumali sa Unyon bilang ika-27 estado noong 1845, hindi orihinal na kolonya. Sumali ang California bilang ika-31 estado noong 1850. Sumali ang Texas bilang ika-28 estado noong 1845. Sumali ang Alaska bilang ika-49 estado noong 1959, matagal na pagkatapos ng orihinal na 13 kolonya."
+      },
+      {
+        "text": "Ohio, Kentucky, Vermont, Tennessee",
+        "rationale": "Sumali ang Ohio sa Unyon bilang ika-17 estado noong 1803, pagkatapos ng orihinal na 13. Ang Kentucky ay naging ika-15 estado noong 1792. Ang Vermont ay naging ika-14 estado noong 1791. Ang Tennessee ay naging ika-16 estado noong 1796. Lahat ay sumali pagkatapos ng orihinal na 13 kolonya."
+      },
+      {
+        "text": "Hawaii, Nevada, Colorado, Utah",
+        "rationale": "Sumali ang Hawaii bilang ika-50 estado noong 1959. Sumali ang Nevada bilang ika-36 estado noong 1864. Sumali ang Colorado bilang ika-38 estado noong 1876. Sumali ang Utah bilang ika-45 estado noong 1896. Wala sa mga ito ang kabilang sa orihinal na 13 kolonya na itinatag bago ang kalayaan."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Ano ang nangyari sa Kumbensiyong Pansaligang Batas?",
+    "correctAnswers": [
+      {
+        "text": "Isinulat ang Konstitusyon.",
+        "rationale": "Idinaos ang Kumbensiyong Pansaligang Batas upang lumikha ng bagong balangkas ng pamahalaan, na nagresulta sa Konstitusyon ng U.S."
+      },
+      {
+        "text": "Ang mga Founding Fathers ang sumulat ng Konstitusyon.",
+        "rationale": "Nagtipon ang mga Founding Fathers sa Kumbensiyong Pansaligang Batas upang isulat ang Konstitusyon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Isinulat ang Deklarasyon ng Kalayaan.",
+        "rationale": "Ang Deklarasyon ng Kalayaan ay isinulat 11 taon na ang nakalipas, sa Kongreso Continental noong 1776."
+      },
+      {
+        "text": "Nagsimula ang Digmaang Rebolusyonaryo.",
+        "rationale": "Nagsimula ang Digmaang Rebolusyonaryo noong 1775 at natapos na bago ang Kumbensiyong Pansaligang Batas (1787)."
+      },
+      {
+        "text": "Nahalal si George Washington bilang Pangulo.",
+        "rationale": "Si George Washington ay nahalal bilang unang Pangulo noong 1789, sa ilalim ng Konstitusyon, matapos ang Kumbensiyon."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Kailan naisulat ang Konstitusyon?",
+    "correctAnswers": [
+      {
+        "text": "1787",
+        "rationale": "Ang Konstitusyon ay isinulat sa Constitutional Convention sa Philadelphia noong 1787."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "1776",
+        "rationale": "1776 ang taon na pinagtibay ang Deklarasyon ng Kalayaan."
+      },
+      {
+        "text": "1865",
+        "rationale": "1865 ang taon na natapos ang Digmaang Sibil at naratipikahan ang Ika-13 na Amyenda na nag-alis ng pang-aalipin."
+      },
+      {
+        "text": "1789",
+        "rationale": "1789 ang taon na naging epektibo ang Konstitusyon at opisyal na nabuo ang pamahalaan ng U.S."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Sinusuportahan ng The Federalist Papers ang pagpasa ng Konstitusyon ng U.S. Magbigay ng isa sa mga manunulat.",
+    "correctAnswers": [
+      {
+        "text": "(James) Madison",
+        "rationale": "Si James Madison ay isa sa tatlong may-akda ng The Federalist Papers."
+      },
+      {
+        "text": "(Alexander) Hamilton",
+        "rationale": "Si Alexander Hamilton ay isa sa tatlong may-akda ng The Federalist Papers."
+      },
+      {
+        "text": "(John) Jay",
+        "rationale": "Si John Jay ay isa sa tatlong may-akda ng The Federalist Papers."
+      },
+      {
+        "text": "Publius",
+        "rationale": "Ang Publius ang ginamit na sagisag-panulat nina Madison, Hamilton, at Jay sa pagsusulat ng The Federalist Papers."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Thomas Jefferson, George Washington, John Hancock",
+        "rationale": "Si Jefferson ay isang Anti-Federalist na tumutol sa mga argumento ng The Federalist Papers. Bagaman malakas na tagasuporta si Washington ng Konstitusyon, hindi siya isa sa mga may-akda. Kilala si John Hancock bilang unang lumagda sa Declaration of Independence."
+      },
+      {
+        "text": "Benjamin Franklin, Samuel Adams, Patrick Henry",
+        "rationale": "Si Franklin ay isang tagasuporta ng Konstitusyon ngunit hindi siya sumulat ng The Federalist Papers. Sina Adams at Henry ay mga Anti-Federalist na tumutol sa Konstitusyon at hindi magsusulat ng mga papel na sumusuporta dito."
+      },
+      {
+        "text": "Thomas Paine, John Adams, Benedict Arnold",
+        "rationale": "Si Paine ay sumulat ng 'Common Sense' at iba pang rebolusyonaryong polyeto ngunit hindi ng The Federalist Papers. Si John Adams ay nasa ibang bansa noong panahong ito at hindi nakibahagi sa pagsulat ng mga papel na ito. Si Benedict Arnold ay isang traydor noong Digmaang Rebolusyonaryo."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Sa anong bagay kilala si Benjamin Franklin?",
+    "correctAnswers": [
+      {
+        "text": "diplomat ng U.S.",
+        "rationale": "Naglingkod si Benjamin Franklin bilang diplomat sa Pransiya noong Rebolusyonaryong Digmaan."
+      },
+      {
+        "text": "pinakamatandang miyembro ng Constitutional Convention",
+        "rationale": "Sa edad na 81, si Franklin ang pinakamatandang delegado sa Constitutional Convention."
+      },
+      {
+        "text": "unang Postmaster General ng U.S.",
+        "rationale": "Itinalaga si Franklin bilang unang Postmaster General sa ilalim ng Continental Congress."
+      },
+      {
+        "text": "manunulat ng \"Poor Richard's Almanac\"",
+        "rationale": "Inilathala ni Franklin ang \"Poor Richard's Almanac\" na naglalaman ng mga pagtataya ng panahon, mga payong pang-bahay, at mga salawikain."
+      },
+      {
+        "text": "nagsimula ng mga unang libreng aklatan",
+        "rationale": "Itinatag ni Franklin ang unang subscription library sa Amerika, na naging modelo ng mga libreng pampublikong aklatan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "unang Pangulo ng Estados Unidos, sumulat ng Deklarasyon ng Kalayaan, Heneral ng Hukbong Kontinental",
+        "rationale": "Ang unang Pangulo ay si George Washington, hindi si Benjamin Franklin. Ang pangunahing may-akda ng Deklarasyon ng Kalayaan ay si Thomas Jefferson, hindi si Franklin. Ang Heneral ng Hukbong Kontinental ay si George Washington, hindi si Franklin."
+      },
+      {
+        "text": "imbento ng telepono, nagtatag ng Harvard University, sumulat ng Konstitusyon",
+        "rationale": "Ang telepono ay naimbento ni Alexander Graham Bell, hindi ni Benjamin Franklin. Itinatag ang Harvard University noong 1636, matagal bago ang panahon ni Franklin. Bagaman nakilahok si Franklin sa Constitutional Convention, si James Madison ang itinuturing na pangunahing may-akda ng Konstitusyon."
+      },
+      {
+        "text": "natuklasan ang Amerika, naging unang Punong Mahistrado ng Korte Suprema, pinamunuan ang Boston Tea Party",
+        "rationale": "Natuklasan ang Amerika ni Christopher Columbus at matagal nang nanirahan doon ang mga katutubo. Ang unang Punong Mahistrado ay si John Jay, hindi si Franklin. Ang Boston Tea Party ay inorganisa ni Samuel Adams at ng Sons of Liberty, hindi si Franklin."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Sino ang \"Ama ng Ating Bansa\"?",
+    "correctAnswers": [
+      {
+        "text": "(George) Washington",
+        "rationale": "Siya ay tinatawag na \"Ama ng Kanyang Bansa\" dahil sa kanyang pamumuno sa Digmaang Rebolusyonaryo at sa pagtatatag ng bagong bansa."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Abraham Lincoln",
+        "rationale": "Kilala si Lincoln bilang ang \"Dakilang Tagapagpalaya\" at ang pangulong nagpanatili ng Unyon."
+      },
+      {
+        "text": "Thomas Jefferson",
+        "rationale": "Si Jefferson ang may-akda ng Deklarasyon ng Kalayaan at ang ikatlong Pangulo."
+      },
+      {
+        "text": "Benjamin Franklin",
+        "rationale": "Si Franklin ay isang mahusay na diplomat, imbentor, at isa sa mga Founding Fathers."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Sino ang unang Pangulo?",
+    "correctAnswers": [
+      {
+        "text": "(George) Washington",
+        "rationale": "Si George Washington ang unang Pangulo ng Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "John Adams",
+        "rationale": "Si John Adams ang unang Pangalawang Pangulo at pangalawang Pangulo."
+      },
+      {
+        "text": "Thomas Jefferson",
+        "rationale": "Si Thomas Jefferson ang ikatlong Pangulo."
+      },
+      {
+        "text": "Alexander Hamilton",
+        "rationale": "Si Alexander Hamilton ang unang Kalihim ng Pananalapi ngunit hindi kailanman naging Pangulo."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Anong teritoryo ang binili ng Estados Unidos mula sa Pransya noong 1803?",
+    "correctAnswers": [
+      {
+        "text": "ang Teritoryo ng Louisiana",
+        "rationale": "Ang Pagbili ng Louisiana ay nagdoble sa laki ng Estados Unidos."
+      },
+      {
+        "text": "Louisiana",
+        "rationale": "Ang Teritoryo ng Louisiana ay binili mula sa Pransya noong 1803."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Alaska",
+        "rationale": "Ang Alaska ay binili mula sa Russia, hindi mula sa Pransya, noong 1867."
+      },
+      {
+        "text": "Florida",
+        "rationale": "Ang Florida ay ipinasa ng Spain noong 1819."
+      },
+      {
+        "text": "Texas",
+        "rationale": "Ang Texas ay inannekso noong 1845 matapos maging isang malayang republika."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Magbanggit ng isang digmaan na nilabanan ng Estados Unidos noong 1800s.",
+    "correctAnswers": [
+      {
+        "text": "Digmaan ng 1812",
+        "rationale": "Ang Digmaan ng 1812 ay nilabanan ng Estados Unidos at Britanya."
+      },
+      {
+        "text": "Digmaang Mexicano-Amerikano",
+        "rationale": "Ang Digmaang Mexicano-Amerikano ay naganap mula 1846 hanggang 1848."
+      },
+      {
+        "text": "Digmaang Sibil",
+        "rationale": "Ang Digmaang Sibil ng Amerika ay naganap mula 1861 hanggang 1865."
+      },
+      {
+        "text": "Digmaang Espanyol-Amerikano",
+        "rationale": "Ang Digmaang Espanyol-Amerikano ay naganap noong 1898."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Digmaang Rebolusyonaryo, Unang Digmaang Pandaigdig, Ikalawang Digmaang Pandaigdig, Digmaang Koreano",
+        "rationale": "Ang Digmaang Rebolusyonaryo ay naganap noong 1700s (1775-1783), hindi noong 1800s. Ang Unang Digmaang Pandaigdig ay naganap noong 1900s (1914-1918). Ang Ikalawang Digmaang Pandaigdig ay naganap noong 1900s (1939-1945). Ang Digmaang Koreano ay naganap noong 1900s (1950-1953). Wala sa mga digmaang ito ang naganap noong 1800s."
+      },
+      {
+        "text": "Digmaang Vietnam, Digmaang Golpo, Digmaang Iraq, Digmaang Afghanistan",
+        "rationale": "Ang Digmaang Vietnam ay naganap noong 1900s (1955-1975). Ang Digmaang Golpo ay naganap noong 1900s (1991). Nagsimula ang Digmaang Iraq noong 2003. Nagsimula ang Digmaang Afghanistan noong 2001. Lahat ng mga labang ito ay naganap matapos ang 1800s."
+      },
+      {
+        "text": "Digmaang Pranses at Indio, Digmaang Hari Philip, Pag-aaklas ni Bacon, Digmaang Pontiac",
+        "rationale": "Ang Digmaang Pranses at Indio ay naganap noong 1700s (1754-1763). Ang Digmaang Hari Philip ay naganap noong 1600s (1675-1676). Naganap ang Pag-aaklas ni Bacon noong 1676. Ang Digmaang Pontiac ay naganap noong 1760s. Lahat ng mga labang ito ay naganap bago ang 1800s."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Pangalanan ang digmaan sa U.S. sa pagitan ng Hilaga at Timog.",
+    "correctAnswers": [
+      {
+        "text": "ang Digmaang Sibil",
+        "rationale": "Ang Digmaang Sibil ay nilabanan sa pagitan ng mga estado sa Hilaga at Timog dahil sa mga isyung gaya ng pagka-alipin at karapatan ng estado."
+      },
+      {
+        "text": "ang Digmaan sa pagitan ng mga Estado",
+        "rationale": "Ito ay isang terminong karaniwang ginamit sa mga estadong timog."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang Digmaang Rebolusyonaryo, ang Digmaan ng 1812",
+        "rationale": "Ang Digmaang Rebolusyonaryo ay nilabanan sa pagitan ng mga kolonya ng Amerika at ng Gran Britanya, hindi sa pagitan ng Hilaga at Timog. Ang Digmaan ng 1812 ay nilabanan sa pagitan ng Estados Unidos at ng Gran Britanya, hindi isang panloob na labanan."
+      },
+      {
+        "text": "Unang Digmaang Pandaigdig, Ikalawang Digmaang Pandaigdig",
+        "rationale": "Ang Unang Digmaang Pandaigdig ay isang pandaigdigang labanan na kinasasangkutan ng maraming bansa, hindi isang digmaan sa pagitan ng Hilaga at Timog. Ang Ikalawang Digmaang Pandaigdig ay isang pandaigdigang labanan sa pagitan ng mga Alyado, kabilang ang U.S., at mga kapangyarihan ng Axis, hindi isang panloob na digmaang Amerikano."
+      },
+      {
+        "text": "ang Digmaang Amerikano-Mexicano, ang Digmaang Espanyol-Amerikano",
+        "rationale": "Ang Digmaang Amerikano-Mexicano ay nilabanan sa pagitan ng Estados Unidos at Mexico, hindi sa pagitan ng Hilaga at Timog. Ang Digmaang Espanyol-Amerikano ay nilabanan sa pagitan ng Estados Unidos at Espanya, hindi isang panloob na labanan sa pagitan ng mga rehiyon."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Banggitin ang isang problema na humantong sa Digmaang Sibil.",
+    "correctAnswers": [
+      {
+        "text": "pagkaalipin",
+        "rationale": "Ang pagkakaroon ng pagkaalipin ang pinakapangunahing at sentrong dahilan ng alitan sa pagitan ng Hilaga at Timog."
+      },
+      {
+        "text": "mga dahilan sa ekonomiya",
+        "rationale": "May malalaking pagkakaiba at alitan sa ekonomiya sa pagitan ng industriyal na Hilaga at agrikultural na Timog."
+      },
+      {
+        "text": "mga karapatan ng mga estado",
+        "rationale": "Nagkaroon ng malaking debate tungkol sa karapatan ng mga estado na magpasya sa kanilang sariling usapin laban sa kapangyarihan ng pamahalaang pederal."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "digmaan laban sa Inglatera, pagkakaibang panrelihiyon, mga pagtatalo tungkol sa langis",
+        "rationale": "Ang labanan laban sa Inglatera ay naging sanhi ng Rebolusyonaryong Digmaan at Digmaan ng 1812, hindi ng Digmaang Sibil. Bagama’t naging salik ang relihiyon, hindi ito pangunahing sanhi ng Digmaang Sibil. Ang malakihang industriya ng langis sa U.S. ay umunlad pagkatapos ng Digmaang Sibil, kaya’t ang mga pagtatalo tungkol sa langis ay hindi naging sanhi."
+      },
+      {
+        "text": "pagpapalawak ng teritoryo, mga isyu sa imigrasyon, mga pagtatalo sa kalakalan sa ibang bansa",
+        "rationale": "Bagama’t pinagtalunan ang pagpapalawak ng teritoryo, ang pangunahing isyu ay kung papayagan ba ang pagkaalipin sa mga bagong teritoryo. Hindi pangunahing sanhi ang imigrasyon ng Digmaang Sibil. Ang mga pagtatalo sa kalakalan sa ibang bansa ay hindi malaking salik na nagdulot ng Digmaang Sibil."
+      },
+      {
+        "text": "mga pagtatalo tungkol sa ginto, mga alitan sa Katutubong Amerikano, mga hindi pagkakasundo tungkol sa Konstitusyon",
+        "rationale": "Ang mga pagtuklas ng ginto ay nangyari pangunahin sa Kanluran at hindi naging pangunahing sanhi ng alitan sa pagitan ng Hilaga at Timog. Ang mga alitan sa Katutubong Amerikano ay nagpapatuloy ngunit hindi naging sanhi ng Digmaang Sibil. Mayroon mang mga hindi pagkakasundo tungkol sa Konstitusyon, ngunit nakatuon ito sa pagkaalipin at karapatan ng mga estado."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Ano ang isang mahalagang bagay na ginawa ni Abraham Lincoln?",
+    "correctAnswers": [
+      {
+        "text": "pinalaya ang mga alipin (Proklamasyon ng Emansipasyon)",
+        "rationale": "Sa panahon ng digmaan, inilabas niya ang Proklamasyon ng Emansipasyon na nagpalaya sa mga alipin sa Konpederasyon."
+      },
+      {
+        "text": "iniligtas (o pinanatili) ang Unyon",
+        "rationale": "Pinigilan niya ang paghihiwalay ng Timog at pinanatili ang Estados Unidos bilang isang bansa."
+      },
+      {
+        "text": "pinamunuan ang Estados Unidos sa panahon ng Digmaang Sibil",
+        "rationale": "Pinamunuan niya ang Unyon bilang pangulo sa pinakamalaking krisis ng bansa, ang Digmaang Sibil."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "sumulat ng Deklarasyon ng Kalayaan, naging unang pangulo, nagbigay ng karapatang bumoto sa kababaihan",
+        "rationale": "Ang Deklarasyon ng Kalayaan ay isinulat ni Thomas Jefferson, hindi ni Abraham Lincoln. Ang unang pangulo ay si George Washington, hindi si Lincoln. Ang karapatang bumoto ng mga kababaihan ay nakamit sa ika-19 na susog noong 1920, matagal matapos mamatay si Lincoln noong 1865."
+      },
+      {
+        "text": "itinatag ang Partido Republikano, itinayo ang transcontinental na riles, nadiskubre ang kuryente",
+        "rationale": "Bagama't si Lincoln ay isang Republikano, ang partido ay naitatag noong 1854 bago ang kanyang pagkapangulo. Ang transcontinental na riles ay itinayo ng mga pribadong kumpanya na may suporta ng pamahalaan, hindi direktang ni Lincoln. Ang kuryente ay natuklasan at pinag-aralan ng mga siyentipiko tulad ni Benjamin Franklin, hindi ni Lincoln."
+      },
+      {
+        "text": "sumulat ng Konstitusyon, naging Mahistrado ng Korte Suprema, imbento ang telepono",
+        "rationale": "Ang Konstitusyon ay pangunahing isinulat ni James Madison at iba pang mga tagapagtatag, hindi ni Lincoln. Hindi kailanman naging Mahistrado ng Korte Suprema si Lincoln; siya ay naging pangulo. Ang telepono ay naimbento ni Alexander Graham Bell noong 1876, matapos ang pagkamatay ni Lincoln."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Ano ang ginawa ng Proklamasyon ng Emansipasyon?",
+    "correctAnswers": [
+      {
+        "text": "pinalaya ang mga alipin",
+        "rationale": "Ang Proklamasyon ng Emansipasyon ay nagdeklara ng kalayaan para sa mga inalipin."
+      },
+      {
+        "text": "pinalaya ang mga alipin sa Confederacy",
+        "rationale": "Partikular, pinalaya nito ang mga alipin sa mga estadong naghimagsik (Confederacy)."
+      },
+      {
+        "text": "pinalaya ang mga alipin sa mga estadong Confederate",
+        "rationale": "Ang proklamasyon ay inilapat sa mga alipin sa mga estadong humiwalay sa Unyon."
+      },
+      {
+        "text": "pinalaya ang mga alipin sa karamihan ng mga estadong Timog",
+        "rationale": "Pinalaya nito ang mga alipin sa mga estadong rebelde sa Timog noong Digmaang Sibil."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "pinalaya ang lahat ng alipin, idineklara ang kalayaan mula sa Britanya",
+        "rationale": "Sa teknikal na paraan, hindi pinalaya ng Proklamasyon ng Emansipasyon ang mga alipin sa mga border states na nanatili sa Unyon; ang Ika-13 na Amyenda ang tumapos sa prosesong iyon. Ang deklarasyon ng kalayaan mula sa Britanya ay ginawa ng Deklarasyon ng Kalayaan noong 1776, hindi ng Proklamasyon ng Emansipasyon."
+      },
+      {
+        "text": "nagbigay ng karapatan sa kababaihan na bumoto, tinapos ang Digmaang Sibil",
+        "rationale": "Ang karapatang bumoto ng kababaihan ay nakamit sa pamamagitan ng Ika-19 na Amyenda noong 1920, hindi ng Proklamasyon ng Emansipasyon. Habang ang Proklamasyon ng Emansipasyon ay inilabas noong Digmaang Sibil, hindi nito tinapos ang digmaan; nagpatuloy ang digmaan hanggang 1865."
+      },
+      {
+        "text": "itinatag ang Konstitusyon, nilikha ang Bill of Rights",
+        "rationale": "Itinatag ang Konstitusyon noong 1787, matagal bago ang Proklamasyon ng Emansipasyon noong 1863. Ang Bill of Rights ay nilikha bilang unang sampung amyenda sa Konstitusyon noong 1791, na mas maaga rin kaysa sa Proklamasyon ng Emansipasyon."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Ano ang ginawa ni Susan B. Anthony?",
+    "correctAnswers": [
+      {
+        "text": "lumaban para sa karapatan ng kababaihan",
+        "rationale": "Isa siyang mahalagang pinuno sa kilusan para sa karapatang bumoto ng kababaihan."
+      },
+      {
+        "text": "lumaban para sa mga karapatang sibil",
+        "rationale": "Ang karapatan ng kababaihan ay bahagi ng mas malawak na kilusan para sa mga karapatang sibil."
+      },
+      {
+        "text": "lumaban para sa karapatan ng kababaihan na bumoto",
+        "rationale": "Isa siyang pinuno sa kilusan upang matiyak ang karapatan ng kababaihan na bumoto."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang unang babae na nahalal sa Senado, naging nars noong Digmaang Sibil",
+        "rationale": "Nagtalaga siya ng buong buhay niya para sa karapatan ng kababaihan na bumoto ngunit hindi na siya nabuhay upang makita itong mangyari. Ang tanyag na nars mula sa panahon ng Digmaang Sibil ay si Clara Barton, na nagtatag ng American Red Cross, hindi si Susan B. Anthony."
+      },
+      {
+        "text": "lumagda sa Proklamasyon ng Emansipasyon, naging unang babaeng Pangulo",
+        "rationale": "Ang Proklamasyon ng Emansipasyon ay isang utos na ipinatupad ni Pangulong Abraham Lincoln, hindi ni Susan B. Anthony. Wala pang naging babaeng Pangulo sa kasaysayan ng U.S., at nabuhay si Anthony noong ika-19 na siglo kung saan hindi pa makakaboto ang mga kababaihan."
+      },
+      {
+        "text": "nagtatag ng American Red Cross, sumulat ng Deklarasyon ng Kalayaan",
+        "rationale": "Ang American Red Cross ay itinatag ni Clara Barton, hindi ni Susan B. Anthony. Ang Deklarasyon ng Kalayaan ay isinulat nina Thomas Jefferson at iba pang founding fathers noong 1776, matagal bago ipinanganak si Anthony noong 1820."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Banggitin ang isang digmaan na nilahukan ng Estados Unidos noong 1900s.",
+    "correctAnswers": [
+      {
+        "text": "Unang Digmaang Pandaigdig",
+        "rationale": "Pumasok ang Estados Unidos sa digmaan noong 1917."
+      },
+      {
+        "text": "Ikalawang Digmaang Pandaigdig",
+        "rationale": "Pumasok ang Estados Unidos sa digmaan matapos ang pag-atake sa Pearl Harbor noong 1941."
+      },
+      {
+        "text": "Digmaang Koreano",
+        "rationale": "Nagsimula ang digmaang ito noong 1950."
+      },
+      {
+        "text": "Digmaang Vietnam",
+        "rationale": "Nangyari ang digmaang ito noong 1960s at 1970s."
+      },
+      {
+        "text": "Digmaang Golpo (Persian)",
+        "rationale": "Nangyari ang digmaang ito noong 1991."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Digmaang Sibil, Rebolusyonaryong Digmaan, Digmaang Mexicano-Amerikano, Digmaan ng 1812, Digmaang Espanyol-Amerikano",
+        "rationale": "Ang Digmaang Sibil ay nangyari noong 1800s (1861-1865), hindi 1900s. Ang Rebolusyonaryong Digmaan ay noong 1700s (1775-1783). Ang Digmaang Mexicano-Amerikano ay noong 1800s (1846-1848). Ang Digmaan ng 1812 ay naganap noong unang bahagi ng 1800s. Ang Digmaang Espanyol-Amerikano ay noong 1898, teknikal na 1800s."
+      },
+      {
+        "text": "Digmaang Pranses at Indio, Digmaan ni Haring Philip, Pag-aalsa ni Bacon, Pag-aalsa ni Shays, Pag-aalsa ng Whisky",
+        "rationale": "Ang Digmaang Pranses at Indio ay naganap noong 1750s-1760s. Ang Digmaan ni Haring Philip ay noong 1670s. Ang Pag-aalsa ni Bacon ay noong 1676. Ang Pag-aalsa ni Shays ay noong 1780s. Ang Pag-aalsa ng Whisky ay noong 1790s. Lahat ng mga labang ito ay bago pa ang 1900s."
+      },
+      {
+        "text": "Mga Digmaang Napoleonic, Digmaang Crimean, Digmaang Franco-Prussian, Mga Digmaang Boer, Digmaang Ruso-Hapones",
+        "rationale": "Ang mga labang ito ay hindi mga digmaan ng ika-20 siglo na nilahukan ng Estados Unidos. Karamihan ay naganap bago ang 1900 (Napoleonic, Crimean, Franco-Prussian, Boer). Ang Digmaang Ruso-Hapones (1904-1905) ay nasa ika-20 siglo, ngunit hindi lumahok bilang belligérante ang Estados Unidos."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Sino ang Pangulo noong Unang Digmaang Pandaigdig?",
+    "correctAnswers": [
+      {
+        "text": "(Woodrow) Wilson",
+        "rationale": "Si Woodrow Wilson ang pangulo na namuno sa Estados Unidos noong Unang Digmaang Pandaigdig."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Franklin Roosevelt",
+        "rationale": "Si Franklin Roosevelt ang pangulo noong Ikalawang Digmaang Pandaigdig."
+      },
+      {
+        "text": "Abraham Lincoln",
+        "rationale": "Si Abraham Lincoln ang pangulo noong Digmaang Sibil."
+      },
+      {
+        "text": "Theodore Roosevelt",
+        "rationale": "Si Theodore Roosevelt ay naging pangulo bago ang Unang Digmaang Pandaigdig."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Sino ang Pangulo noong panahon ng Dakilang Depresyon at Ikalawang Digmaang Pandaigdig?",
+    "correctAnswers": [
+      {
+        "text": "(Franklin) Roosevelt",
+        "rationale": "Pinamunuan ni Franklin D. Roosevelt ang bansa sa dalawang pambansang krisis na ito."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Woodrow Wilson",
+        "rationale": "Si Woodrow Wilson ang Pangulo noong Unang Digmaang Pandaigdig."
+      },
+      {
+        "text": "Herbert Hoover",
+        "rationale": "Si Herbert Hoover ang Pangulo nang magsimula ang Dakilang Depresyon."
+      },
+      {
+        "text": "Harry Truman",
+        "rationale": "Si Harry Truman ang Pangulong nagtapos sa Ikalawang Digmaang Pandaigdig matapos mamatay si Roosevelt."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Sino ang nilabanan ng Estados Unidos sa Ikalawang Digmaang Pandaigdig?",
+    "correctAnswers": [
+      {
+        "text": "Japan, Alemanya, at Italya",
+        "rationale": "Ang tatlong bansang ito ang bumuo ng mga Kapangyarihan ng Axis."
+      },
+      {
+        "text": "Japan",
+        "rationale": "Ang Japan ay isang pangunahing kapangyarihan ng Axis na nilabanan ng U.S."
+      },
+      {
+        "text": "Alemanya",
+        "rationale": "Ang Alemanya ay isang pangunahing kapangyarihan ng Axis na nilabanan ng U.S."
+      },
+      {
+        "text": "Italya",
+        "rationale": "Ang Italya ay isang kapangyarihan ng Axis na nilabanan ng U.S."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ang Unyong Sobyet",
+        "rationale": "Ang Unyong Sobyet ay kakampi ng Estados Unidos noong Ikalawang Digmaang Pandaigdig, hindi kalaban."
+      },
+      {
+        "text": "Gran Bretaña",
+        "rationale": "Ang Gran Bretaña ay isang pangunahing kakampi ng Estados Unidos noong Ikalawang Digmaang Pandaigdig, hindi kalaban."
+      },
+      {
+        "text": "Pransya",
+        "rationale": "Ang Pransya ay pinalaya ng Estados Unidos at ng mga kakampi nito noong Ikalawang Digmaang Pandaigdig, hindi kalaban."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Bago siya naging pangulo, si Eisenhower ay isang heneral. Saang digmaan siya lumahok?",
+    "correctAnswers": [
+      {
+        "text": "Ikalawang Digmaang Pandaigdig",
+        "rationale": "Si Dwight D. Eisenhower ang Punong Kumander ng Allied Expeditionary Force sa Europa noong Ikalawang Digmaang Pandaigdig."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Unang Digmaang Pandaigdig",
+        "rationale": "Nagsilbi si Eisenhower sa loob ng Estados Unidos noong Unang Digmaang Pandaigdig."
+      },
+      {
+        "text": "Digmaang Sibil",
+        "rationale": "Naganap ang Digmaang Sibil bago ipanganak si Eisenhower."
+      },
+      {
+        "text": "Digmaang Vietnam",
+        "rationale": "Ang Digmaang Vietnam ay lumala matapos ang pagkapangulo ni Eisenhower."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Sa panahon ng Cold War, ano ang pangunahing alalahanin ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "komunismo",
+        "rationale": "Pagkatapos ng Ikalawang Digmaang Pandaigdig, ang pangunahing layunin ng patakarang panlabas ng U.S. ay pigilan ang pagkalat ng komunismo na pinamunuan ng Unyong Sobyet."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "pagbabago ng klima",
+        "rationale": "Ang pagbabago ng klima ay kamakailan lamang naging isang malaking alalahanin sa pandaigdig."
+      },
+      {
+        "text": "kolonyalismo",
+        "rationale": "Bagama’t ang Cold War ay naganap kasabay ng panahon ng dekolonisasyon, ang pangunahing alalahanin ng U.S. ay komunismo."
+      },
+      {
+        "text": "Ang Dakilang Depresyon",
+        "rationale": "Ang Dakilang Depresyon ang pangunahing isyu noong dekada 1930, bago ang Cold War."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Anong kilusan ang nagtangkang wakasan ang diskriminasyong lahi?",
+    "correctAnswers": [
+      {
+        "text": "kilusang karapatang sibil",
+        "rationale": "Ang kilusang karapatang sibil noong dekada 1950 at 1960 ay nagsikap na wakasan ang legal at panlipunang diskriminasyon laban sa mga Aprikano-Amerikano."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "kilusang pagpipigil sa alak",
+        "rationale": "Ang kilusang pagpipigil sa alak ay isang kilusang panlipunan upang ipagbawal ang pag-inom ng alak."
+      },
+      {
+        "text": "kilusan para sa karapatang bumoto ng kababaihan",
+        "rationale": "Ang kilusan para sa karapatang bumoto ng kababaihan ay nakatuon sa pagkakaroon ng karapatang bumoto para sa mga babae."
+      },
+      {
+        "text": "kilusang kontra-digmaan",
+        "rationale": "Ang kilusang kontra-digmaan ay nakatuon sa pagtutol sa isang tiyak na digmaan, partikular ang Digmaang Vietnam."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Ano ang ginawa ni Martin Luther King, Jr.?",
+    "correctAnswers": [
+      {
+        "text": "lumaban para sa mga karapatang sibil",
+        "rationale": "Siya ay isang tanyag na lider ng kilusang karapatang sibil na lumaban sa diskriminasyon sa lahi sa pamamagitan ng mapayapang paglaban."
+      },
+      {
+        "text": "nagtrabaho para sa pagkakapantay-pantay ng lahat ng Amerikano",
+        "rationale": "Ang kanyang layunin ay lumikha ng isang lipunan kung saan ang mga tao ng lahat ng lahi ay pantay na tinatrato."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "siya ang unang Black na Pangulo, naging senador ng U.S.",
+        "rationale": "Ang unang Black na Pangulo ng Estados Unidos ay si Barack Obama, hindi si Martin Luther King, Jr. Si Martin Luther King, Jr. ay isang ministro at aktibista, hindi isang halal na opisyal tulad ng isang senador ng U.S."
+      },
+      {
+        "text": "lumaban para palayain ang mga alipin, itinatag ang NAACP",
+        "rationale": "Ang laban upang palayain ang mga alipin ay naganap mga 100 taon bago ang kanyang panahon, noong panahon ng Digmaang Sibil. Ang NAACP ay itinatag noong 1909 nina W.E.B. Du Bois at iba pa, bago ipanganak si King noong 1929."
+      },
+      {
+        "text": "naging Mahistrado ng Korte Suprema, nag-imbento ng telepono",
+        "rationale": "Si Martin Luther King, Jr. ay hindi kailanman naging Mahistrado ng Korte Suprema; siya ay isang lider ng karapatang sibil at ministro. Ang telepono ay naimbento ni Alexander Graham Bell noong 1876, matagal bago ipinanganak si King."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Anong mahalagang pangyayari ang naganap noong Setyembre 11, 2001, sa Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Inatake ng mga terorista ang Estados Unidos",
+        "rationale": "Sa araw na ito, dinukot ng mga teroristang al-Qaeda ang mga eroplano at inatake ang World Trade Center, Pentagon, at iba pang lugar."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Inatake ang Pearl Harbor",
+        "rationale": "Ang pag-atake sa Pearl Harbor ay naganap noong Disyembre 7, 1941, na nagdala sa U.S. sa Ikalawang Digmaang Pandaigdig."
+      },
+      {
+        "text": "Bumagsak ang stock market",
+        "rationale": "Ang malaking pagbagsak ng stock market na nagpasimula ng Great Depression ay noong 1929."
+      },
+      {
+        "text": "Nagsimula ang Digmaan sa Iraq",
+        "rationale": "Nagsimula ang Digmaan sa Iraq noong 2003, matapos ang mga pag-atake noong 9/11."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Magbanggit ng isang tribo ng American Indian sa Estados Unidos.",
+    "correctAnswers": [
+      {
+        "text": "Cherokee",
+        "rationale": "Ang mga Cherokee ay isang tribo ng Native American na orihinal na mula sa timog-silangang Estados Unidos."
+      },
+      {
+        "text": "Navajo",
+        "rationale": "Ang mga Navajo ay isang tribo ng Native American mula sa timog-kanlurang Estados Unidos."
+      },
+      {
+        "text": "Sioux",
+        "rationale": "Ang Sioux ay isang tribo ng Native American mula sa rehiyon ng Great Plains."
+      },
+      {
+        "text": "Chippewa",
+        "rationale": "Ang Chippewa (Ojibwe) ay isang tribo ng Native American mula sa rehiyon ng Great Lakes."
+      },
+      {
+        "text": "Choctaw",
+        "rationale": "Ang Choctaw ay isang tribo ng Native American na orihinal na mula sa timog-silangang Estados Unidos."
+      },
+      {
+        "text": "Pueblo",
+        "rationale": "Ang mga Pueblo ay mga tribo ng Native American mula sa timog-kanlurang Estados Unidos."
+      },
+      {
+        "text": "Apache",
+        "rationale": "Ang mga Apache ay isang tribo ng Native American mula sa timog-kanlurang Estados Unidos."
+      },
+      {
+        "text": "Iroquois",
+        "rationale": "Ang mga Iroquois ay isang kapisanan ng mga tribo ng Native American mula sa hilagang-silangang Estados Unidos."
+      },
+      {
+        "text": "Creek",
+        "rationale": "Ang Creek (Muscogee) ay isang tribo ng Native American mula sa timog-silangang Estados Unidos."
+      },
+      {
+        "text": "Blackfeet",
+        "rationale": "Ang Blackfeet ay isang tribo ng Native American mula sa Hilagang Great Plains."
+      },
+      {
+        "text": "Seminole",
+        "rationale": "Ang Seminole ay isang tribo ng Native American mula sa Florida."
+      },
+      {
+        "text": "Cheyenne",
+        "rationale": "Ang Cheyenne ay isang tribo ng Native American mula sa Great Plains."
+      },
+      {
+        "text": "Arawak",
+        "rationale": "Ang Arawak ay mga katutubong tao ng Caribbean at Timog Amerika."
+      },
+      {
+        "text": "Shawnee",
+        "rationale": "Ang Shawnee ay isang tribo ng Native American na orihinal mula sa lambak ng Ohio."
+      },
+      {
+        "text": "Mohegan",
+        "rationale": "Ang Mohegan ay isang tribo ng Native American mula sa Connecticut."
+      },
+      {
+        "text": "Huron",
+        "rationale": "Ang Huron (Wyandot) ay isang tribo ng Native American mula sa rehiyon ng Great Lakes."
+      },
+      {
+        "text": "Oneida",
+        "rationale": "Ang Oneida ay isang tribo ng Native American at bahagi ng Confederacy ng Iroquois."
+      },
+      {
+        "text": "Lakota",
+        "rationale": "Ang Lakota ay isang tribo ng Native American at bahagi ng bansa ng Sioux."
+      },
+      {
+        "text": "Crow",
+        "rationale": "Ang Crow ay isang tribo ng Native American mula sa Hilagang Great Plains."
+      },
+      {
+        "text": "Teton",
+        "rationale": "Ang Teton ay isang sangay ng tribo ng Lakota Sioux."
+      },
+      {
+        "text": "Hopi",
+        "rationale": "Ang Hopi ay isang tribo ng Native American mula sa Arizona."
+      },
+      {
+        "text": "Inuit",
+        "rationale": "Ang Inuit ay mga katutubong tao mula sa Alaska at mga rehiyong Arktiko."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Inca, Aztec, Maya, Olmec",
+        "rationale": "Ang Inca ay isang kabihasnan na pangunahing matatagpuan sa Timog Amerika, tulad ng Peru. Ang Aztec ay isang kabihasnan na matatagpuan sa rehiyon ng kasalukuyang Mexico. Ang Maya ay isang kabihasnan na matatagpuan sa Gitnang Amerika. Ang Olmec ay isang sinaunang kabihasnan sa Mexico. Wala sa mga ito ang tribo ng American Indian sa kasalukuyang Estados Unidos."
+      },
+      {
+        "text": "Zulu, Maasai, Yoruba, Bantu",
+        "rationale": "Ang mga Zulu ay isang tao mula sa South Africa. Ang mga Maasai ay mula sa Silangang Africa (Kenya at Tanzania). Ang mga Yoruba ay mula sa Kanlurang Africa (Nigeria). Ang mga Bantu ay isang malaking pangkat ng mga tao mula sa sub-Saharan Africa. Wala sa mga ito ang tribo ng American Indian mula sa Estados Unidos."
+      },
+      {
+        "text": "Celtico, Viking, Saxon, Norman",
+        "rationale": "Ang mga Celt ay sinaunang tao mula sa Europa. Ang mga Viking ay mula sa Scandinavia. Ang mga Saxon ay mga taong Germanic na nanirahan sa Inglatera. Ang mga Norman ay mula sa hilagang Pransiya. Wala sa mga ito ang tribo ng American Indian na katutubo ng Estados Unidos."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Pangalanan ang isa sa dalawang pinakamahabang ilog sa Estados Unidos.",
+    "correctAnswers": [
+      {
+        "text": "Missouri (Ilog)",
+        "rationale": "Ang Ilog Missouri ang pinakamahabang ilog sa Estados Unidos."
+      },
+      {
+        "text": "Mississippi (Ilog)",
+        "rationale": "Ang Ilog Mississippi ang pangalawang pinakamahabang ilog sa Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nile (Ilog), Amazon (Ilog)",
+        "rationale": "Ang Ilog Nile ang pinakamahabang ilog sa mundo, nasa Africa at hindi sa Estados Unidos. Ang Ilog Amazon ay nasa South America, hindi sa Estados Unidos."
+      },
+      {
+        "text": "Colorado (Ilog), Rio Grande (Ilog)",
+        "rationale": "Ang Ilog Colorado ay isang pangunahing ilog sa timog-kanlurang U.S., ngunit hindi ito kabilang sa dalawang pinakamahabang ilog. Ang Rio Grande ay bahagi ng hangganan sa Mexico ngunit hindi rin kabilang sa dalawang pinakamahabang."
+      },
+      {
+        "text": "Ohio (Ilog), Columbia (Ilog)",
+        "rationale": "Ang Ilog Ohio ay pangunahing tributaryo ng Mississippi ngunit hindi kabilang sa dalawang pinakamahabang ilog. Ang Ilog Columbia ay dumadaloy sa Pacific Northwest ngunit hindi rin kabilang sa dalawang pinakamahabang."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Anong karagatan ang nasa Kanlurang Baybayin ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Pasipiko (Karagatan)",
+        "rationale": "Ang California, Oregon, at Washington ay nasa Karagatang Pasipiko."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Atlantiko (Karagatan)",
+        "rationale": "Ang Karagatang Atlantiko ay nasa Silangang Baybayin ng Estados Unidos."
+      },
+      {
+        "text": "Indian (Karagatan)",
+        "rationale": "Ang Karagatang Indian ay hindi katabi ng Estados Unidos."
+      },
+      {
+        "text": "Arctic (Karagatan)",
+        "rationale": "Ang Karagatang Arctic ay katabi ng hilagang baybayin ng Alaska."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Anong karagatan ang nasa silangang baybayin ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Atlantiko (Karagatan)",
+        "rationale": "Ang New York, Florida, at Maine ay nasa karagatang Atlantiko."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pasipiko (Karagatan)",
+        "rationale": "Ang Karagatang Pasipiko ay nasa kanlurang baybayin ng Estados Unidos."
+      },
+      {
+        "text": "Golpo ng Mexico",
+        "rationale": "Ang Golpo ng Mexico ay nasa timog-silangang baybayin ng Estados Unidos."
+      },
+      {
+        "text": "Mediteraneo (Dagat)",
+        "rationale": "Ang Dagat Mediteraneo ay matatagpuan sa pagitan ng Europa at Africa."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Magbanggit ng isang teritoryo ng U.S.",
+    "correctAnswers": [
+      {
+        "text": "Puerto Rico",
+        "rationale": "Ang Puerto Rico ay isang hindi inkorporadong teritoryo ng U.S. sa Caribbean."
+      },
+      {
+        "text": "Guam",
+        "rationale": "Ang Guam ay isang teritoryo ng U.S. sa Karagatang Pasipiko."
+      },
+      {
+        "text": "U.S. Virgin Islands",
+        "rationale": "Ang U.S. Virgin Islands ay isang pangkat ng mga isla sa Caribbean at isang teritoryo ng U.S."
+      },
+      {
+        "text": "American Samoa",
+        "rationale": "Ang American Samoa ay isang teritoryo ng U.S. sa Timog Pasipiko."
+      },
+      {
+        "text": "Hilagang Mariana Islands",
+        "rationale": "Ang Northern Mariana Islands ay isang commonwealth ng U.S. sa Karagatang Pasipiko."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Hawaii, Alaska, California, Texas, Florida",
+        "rationale": "Ang Hawaii ay ang ika-50 estado ng U.S., hindi isang teritoryo. Ang Alaska ay ang ika-49 na estado, hindi isang teritoryo. Ang California ay isang estado na sumali sa Union noong 1850. Ang Texas ay isang estado na sumali noong 1845. Ang Florida ay isang estado na sumali noong 1845. Lahat ng ito ay mga estado, hindi teritoryo."
+      },
+      {
+        "text": "Pilipinas, Cuba, Panama, Mexico, Canada",
+        "rationale": "Ang Pilipinas ay dating teritoryo ng U.S. ngunit naging isang malayang bansa noong 1946. Ang Cuba ay isang malayang bansa at hindi kailanman naging teritoryo ng U.S. Ang Panama ay isang malayang bansa, bagaman kinontrol ng U.S. ang Panama Canal Zone. Ang Mexico ay isang malayang bansa. Ang Canada ay isang malayang bansa."
+      },
+      {
+        "text": "Japan, South Korea, Germany, United Kingdom, Australia",
+        "rationale": "Ang Japan ay isang malayang bansa na nasakop ng U.S. matapos ang WWII ngunit hindi kailanman naging teritoryo. Ang South Korea ay isang malayang bansa na may presensya ng militar ng U.S. ngunit hindi teritoryo. Ang Germany ay nasakop matapos ang WWII ngunit hindi kailanman naging teritoryo ng U.S. Ang United Kingdom ay isang malayang bansa at dating kapangyarihang kolonyal. Ang Australia ay isang malayang bansa at hindi kailanman naging teritoryo ng U.S."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Sabihin ang isang estado na katabi ng Canada.",
+    "correctAnswers": [
+      {
+        "text": "Washington",
+        "rationale": "Ang Washington ay may hangganan sa lalawigan ng British Columbia sa Canada."
+      },
+      {
+        "text": "Alaska",
+        "rationale": "Ang Alaska ay may hangganan sa Yukon at British Columbia ng Canada."
+      },
+      {
+        "text": "New York",
+        "rationale": "Ang New York ay may hangganan sa mga lalawigan ng Ontario at Quebec sa Canada."
+      },
+      {
+        "text": "Montana",
+        "rationale": "Ang Montana ay may mahabang hangganan sa mga lalawigan ng British Columbia, Alberta, at Saskatchewan sa Canada."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Oregon, California, Nevada, Utah",
+        "rationale": "Ang Oregon ay nasa timog ng Washington state at hindi katabi ng Canada. Ang California ay katabi ng Mexico, hindi ng Canada. Ang Nevada ay isang panloob na estado sa kanluran na hindi katabi ng Canada. Ang Utah ay isang panloob na estado ng U.S. na walang hangganan sa Canada."
+      },
+      {
+        "text": "Colorado, Arizona, New Mexico, Texas",
+        "rationale": "Ang Colorado ay isang panloob na estado sa loob ng U.S. Ang Arizona ay katabi ng Mexico, hindi ng Canada. Ang New Mexico ay katabi ng Mexico, hindi ng Canada. Ang Texas ay katabi ng Mexico, hindi ng Canada. Wala sa mga estadong ito sa timog-kanluran ang katabi ng Canada."
+      },
+      {
+        "text": "Florida, Georgia, South Carolina, North Carolina",
+        "rationale": "Ang Florida ay nasa timog-silangan ng U.S. at katabi ng Karagatang Atlantiko at Golpo ng Mexico. Ang Georgia ay nasa timog-silangan ng U.S. Ang South Carolina at North Carolina ay nasa silangang baybayin ng Atlantiko. Lahat ng mga estadong ito sa timog-silangan ay malayo sa hangganan ng Canada."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Sabihin ang isang estado na hangganan ng Mexico.",
+    "correctAnswers": [
+      {
+        "text": "California",
+        "rationale": "Ang California ay may hangganan sa Mexico sa timog na bahagi nito."
+      },
+      {
+        "text": "Arizona",
+        "rationale": "Ang Arizona ay may malaking bahagi ng hangganan nito sa timog na tumatawid sa Mexico."
+      },
+      {
+        "text": "New Mexico",
+        "rationale": "Ang New Mexico ay may hangganan sa Mexico sa timog."
+      },
+      {
+        "text": "Texas",
+        "rationale": "Ang Texas ang may pinakamahabang hangganan sa Mexico sa lahat ng estado ng U.S."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nevada, Utah, Colorado, Oklahoma",
+        "rationale": "Ang Nevada ay nasa silangan ng California at Arizona at hindi hangganan ng Mexico. Ang Utah ay isang landlocked na estado sa hilaga ng Arizona. Ang Colorado ay isang landlocked na estado sa loob ng U.S. Ang Oklahoma ay nasa timog gitna ng U.S. ngunit hindi hangganan ng Mexico. Wala sa mga estadong ito ang may hangganan sa Mexico."
+      },
+      {
+        "text": "Florida, Louisiana, Mississippi, Alabama",
+        "rationale": "Ang Florida ay nasa kabilang panig ng Golpo ng Mexico mula sa Mexico ngunit hindi nagbabahagi ng hangganang lupa. Ang Louisiana ay hangganan ng Golpo ng Mexico ngunit hindi direkta sa Mexico. Ang Mississippi ay nasa baybayin ng Golpo ngunit hindi hangganan ng Mexico. Ang Alabama ay nasa baybayin ng Golpo ngunit hindi hangganan ng Mexico. Ang mga estadong Gulf na ito ay nahihiwalay sa Mexico ng tubig."
+      },
+      {
+        "text": "Washington, Oregon, Idaho, Montana",
+        "rationale": "Ang Washington ay hangganan ng Canada, hindi Mexico. Ang Oregon ay nasa baybayin ng Pasipiko ngunit nasa hilaga ng California. Ang Idaho ay isang landlocked na estado sa hilagang-kanluran. Ang Montana ay hangganan ng Canada, hindi Mexico. Ang lahat ng estadong ito ay nasa hilaga o hilagang-kanluran ng U.S., malayo sa hangganan ng Mexico."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Ano ang kabisera ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Washington, D.C.",
+        "rationale": "Ang D.C. ay nangangahulugang Distrito ng Columbia."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Lungsod ng New York",
+        "rationale": "Ang New York ang pinakamalaking lungsod sa U.S. at ito ang unang kabisera, ngunit hindi na ito ang kasalukuyang kabisera."
+      },
+      {
+        "text": "Philadelphia",
+        "rationale": "Ang Philadelphia ay isang makasaysayang lungsod kung saan nilagdaan ang Deklarasyon at Konstitusyon, at ito rin ay naging dating kabisera."
+      },
+      {
+        "text": "Estado ng Washington",
+        "rationale": "Ang Estado ng Washington ay isang estado sa Pacific Northwest, at iba ito sa kabisera na Washington, D.C."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Saan matatagpuan ang Estatwa ng Kalayaan?",
+    "correctAnswers": [
+      {
+        "text": "New York (Dagat-dagatan)",
+        "rationale": "Ang Estatwa ng Kalayaan ay nasa New York Harbor."
+      },
+      {
+        "text": "Isla ng Kalayaan",
+        "rationale": "Partikular, nasa Isla ng Kalayaan sa New York Harbor ito."
+      },
+      {
+        "text": "New Jersey",
+        "rationale": "Ang Isla ng Kalayaan ay teknikal na nasa tubig ng New Jersey, ngunit pinamamahalaan ng New York."
+      },
+      {
+        "text": "malapit sa Lungsod ng New York",
+        "rationale": "Ang Estatwa ng Kalayaan ay nasa tabi ng Lungsod ng New York sa dagat-dagatan."
+      },
+      {
+        "text": "sa Ilog Hudson",
+        "rationale": "Ang estatwa ay matatagpuan kung saan nagtatagpo ang Ilog Hudson at ang New York Harbor."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Washington D.C., Philadelphia",
+        "rationale": "Ang Estatwa ng Kalayaan ay wala sa Washington, D.C., na siyang kabisera ng bansa. Wala rin ito sa Philadelphia, ang pinagmulan ng kalayaan ng Amerika."
+      },
+      {
+        "text": "Puerto ng Boston, Look ng San Francisco",
+        "rationale": "Ang Estatwa ng Kalayaan ay wala sa Puerto ng Boston o sa Look ng San Francisco. Ito ay nasa New York Harbor."
+      },
+      {
+        "text": "Los Angeles, Chicago",
+        "rationale": "Ang Estatwa ng Kalayaan ay wala sa Los Angeles o Chicago. Nasa New York Harbor ito."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Bakit may 13 guhit ang watawat?",
+    "correctAnswers": [
+      {
+        "text": "dahil mayroong 13 orihinal na kolonya",
+        "rationale": "Ang 13 guhit ay kumakatawan sa 13 orihinal na kolonya na nagdeklara ng kalayaan."
+      },
+      {
+        "text": "dahil sa 13 orihinal na estado",
+        "rationale": "Ang 13 guhit ay kumakatawan sa 13 orihinal na estado na bumuo ng Unyon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "para sa 13 lumagda sa Deklarasyon",
+        "rationale": "Mayroong 56 lumagda sa Deklarasyon ng Kalayaan."
+      },
+      {
+        "text": "para sa unang 13 artikulo ng Konstitusyon",
+        "rationale": "Ang Konstitusyon ay orihinal na may pitong artikulo."
+      },
+      {
+        "text": "dahil 13 ay isang maswerteng numero",
+        "rationale": "Ang bilang ng mga guhit ay batay sa makasaysayang katotohanan, hindi sa swerte."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Bakit may 50 bituin ang watawat?",
+    "correctAnswers": [
+      {
+        "text": "dahil may 50 estado",
+        "rationale": "Ang bawat bituin ay kumakatawan sa isa sa mga estado ng Unyon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "dahil mayroong 50 orihinal na kolonya",
+        "rationale": "Mayroong 13 orihinal na kolonya."
+      },
+      {
+        "text": "dahil nagkaroon ng 50 pangulo",
+        "rationale": "Ang bilang ng mga bituin ay hindi kaugnay ng bilang ng mga pangulo."
+      },
+      {
+        "text": "dahil nagkaroon ng mga digmaan sa 50 estado",
+        "rationale": "Ang mga bituin ay kumakatawan sa mga estado, hindi sa mga digmaan."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Ano ang pangalan ng pambansang awit?",
+    "correctAnswers": [
+      {
+        "text": "Ang Star-Spangled Banner",
+        "rationale": "Ang mga liriko ay mula sa isang tula na isinulat ni Francis Scott Key noong Digmaan ng 1812."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "America the Beautiful",
+        "rationale": "Ang \"America the Beautiful\" ay isang tanyag na makabayang awit, ngunit hindi ito ang pambansang awit."
+      },
+      {
+        "text": "My Country 'Tis of Thee",
+        "rationale": "Ang \"My Country, 'Tis of Thee\" ay isang makabayang awit, ngunit hindi ito ang pambansang awit."
+      },
+      {
+        "text": "God Bless America",
+        "rationale": "Ang \"God Bless America\" ay isang tanyag na makabayang awit, ngunit hindi ito ang pambansang awit."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Kailan natin ipinagdiriwang ang Araw ng Kalayaan?",
+    "correctAnswers": [
+      {
+        "text": "Hulyo 4",
+        "rationale": "Ito ay ginugunita ang pagpapatibay ng Deklarasyon ng Kalayaan noong Hulyo 4, 1776."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Enero 1",
+        "rationale": "Ang Enero 1 ay Bagong Taon."
+      },
+      {
+        "text": "ang huling Lunes ng Mayo",
+        "rationale": "Ito ay Araw ng Paggunita, na nagbibigay parangal sa mga sundalong namatay sa serbisyo militar."
+      },
+      {
+        "text": "ang ika-apat na Huwebes ng Nobyembre",
+        "rationale": "Ito ay Araw ng Pasasalamat."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Banggitin ang dalawang pambansang holiday sa U.S.",
+    "correctAnswers": [
+      {
+        "text": "Bagong Taon",
+        "rationale": "Ipinagdiriwang ang simula ng bagong taon tuwing Enero 1."
+      },
+      {
+        "text": "Araw ni Martin Luther King, Jr.",
+        "rationale": "Ginugunita ang pinuno ng karapatang sibil na si Martin Luther King, Jr."
+      },
+      {
+        "text": "Araw ng mga Pangulo",
+        "rationale": "Ipinagdiriwang ang kaarawan nina George Washington at Abraham Lincoln."
+      },
+      {
+        "text": "Araw ng mga Bayani",
+        "rationale": "Parangal sa mga namatay habang naglilingkod sa militar ng U.S."
+      },
+      {
+        "text": "Araw ng Kalayaan",
+        "rationale": "Ipinagdiriwang ang paglagda ng Deklarasyon ng Kalayaan noong 1776."
+      },
+      {
+        "text": "Araw ng Paggawa",
+        "rationale": "Ginugunita ang mga manggagawang Amerikano at kilusang paggawa."
+      },
+      {
+        "text": "Araw ni Columbus",
+        "rationale": "Ginugunita ang pagdating ni Christopher Columbus sa Amerika."
+      },
+      {
+        "text": "Araw ng mga Beterano",
+        "rationale": "Pagkilala sa lahat ng mga beteranong militar ng U.S."
+      },
+      {
+        "text": "Araw ng Pasasalamat",
+        "rationale": "Araw ng pasasalamat para sa ani at mga biyaya ng nakaraang taon."
+      },
+      {
+        "text": "Pasko",
+        "rationale": "Ipinagdiriwang ang kapanganakan ni Hesus at malawakang ipinagdiriwang sa U.S."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Araw ng mga Puso, Halloween, April Fool's Day, Araw ni San Patricio",
+        "rationale": "Ang Araw ng mga Puso ay malawak na ipinagdiriwang ngunit hindi ito isang pederal na holiday. Ang Halloween ay malawak na ipinagdiriwang ngunit hindi ito isang pederal na holiday. Ang Araw ng mga Loko ay hindi isang pampublikong holiday. Ang Araw ni San Patricio ay ipinagdiriwang ngunit hindi ito isang pederal na holiday. Wala sa mga ito ang opisyal na pambansang holiday ng U.S."
+      },
+      {
+        "text": "Araw ng mga Ina, Araw ng mga Ama, Pasko ng Pagkabuhay, Araw ng Groundhog",
+        "rationale": "Ipinagdiriwang ang Araw ng mga Ina ngunit hindi ito isang pederal na holiday. Ipinagdiriwang ang Araw ng mga Ama ngunit hindi ito isang pederal na holiday. Ang Pasko ng Pagkabuhay ay isang relihiyosong holiday ngunit hindi isang pederal na holiday. Ang Araw ng Groundhog ay inoobserbahan ngunit hindi ito isang pederal na holiday. Ang mga ito ay kultural o relihiyosong pagdiriwang, hindi pambansang holiday."
+      },
+      {
+        "text": "Black Friday, Linggo ng Super Bowl, Araw ng Buwis, Araw ng Halalan",
+        "rationale": "Ang Black Friday ay isang araw ng pamimili ngunit hindi isang pederal na holiday. Ang Linggo ng Super Bowl ay isang tanyag na kaganapan ngunit hindi isang pederal na holiday. Ang Araw ng Buwis (Abril 15) ay isang deadline ngunit hindi isang holiday. Ang Araw ng Halalan ay mahalaga ngunit hindi ito isang pederal na holiday sa karamihan ng mga estado. Wala sa mga ito ang opisyal na pambansang holiday ng U.S."
+      }
+    ]
+  }
+]

@@ -128,17 +128,17 @@
       "title": "학습",
       "subtitle": "지식 기반을 구축하세요",
       "allQuestions": "모든 문제",
-      "allQuestionsSubtitle": "100개 문제 모두 보기",
+      "allQuestionsSubtitle": "128개 문제 모두 보기 (2025)",
       "storyMode": "스토리 모드",
       "storyModeSubtitle": "미국 모험 이야기 ★",
       "audioLearning": "운전 중 학습",
       "audioLearningSubtitle": "운전하면서 학습하기"
     },
     "practiceTests": {
-      "title": "연습 시험",
-      "subtitle": "지식 확인 및 약점 파악",
+      "title": "연습",
+      "subtitle": "플래시카드 연습 모드",
       "flashcardMode": "플래시카드 모드",
-      "flashcardModeSubtitle": "100문제를 효과적으로 모두 암기",
+      "flashcardModeSubtitle": "128문제를 효과적으로 모두 암기 (2025)",
       "practiceTest": "연습 시험",
       "practiceTestSubtitle": "무작위 10문제",
       "practiceTestVoice": "연습 시험 (음성)",
@@ -148,6 +148,10 @@
       "customTest": "맞춤 시험",
       "customTestSubtitle": "주제와 문제 수 선택"
     },
+    "test": {
+      "title": "테스트",
+      "subtitle": "테스트로 실력 확인하기"
+    },
     "aiMockInterview": {
       "title": "AI 모의 면접",
       "subtitle": "말하기 실력 연습",
@@ -155,8 +159,8 @@
       "aiInterviewSubtitle": "음성 인식 기반 AI 면접 연습",
       "standardInterview": "표준 면접",
       "standardInterviewSubtitle": "AI 기반 면접 연습",
-      "deepDiveInterview": "심화 면접",
-      "deepDiveInterviewSubtitle": "AI 후속 질문",
+      "deepDiveInterview": "학습 분석",
+      "deepDiveInterviewSubtitle": "진도 분석 및 학습 추천",
       "n400Practice": "N-400 연습",
       "n400PracticeSubtitle": "선서 및 개인 질문"
     },
@@ -276,17 +280,17 @@
       "title": "퀴즈 모드",
       "subtitle": "객관식 문제로 연습하기",
       "sequential": "순차 플래시카드",
-      "sequentialSubtitle": "100개 문제를 순서대로 이중 언어로 학습",
+      "sequentialSubtitle": "128개 문제를 순서대로 이중 언어로 학습 (2025)",
       "random": "랜덤 플래시카드",
       "randomSubtitle": "문제를 무작위 순서로 다양하게 연습"
     },
     "subjectiveMode": {
-      "title": "주관식 모드",
-      "subtitle": "답이 숨겨진 문제로 학습하기",
-      "sequential": "순차 주관식",
-      "sequentialSubtitle": "100개 문제를 순서대로 답안 숨김 모드로 학습",
-      "random": "랜덤 주관식",
-      "randomSubtitle": "문제를 무작위 순서로 답안 숨김 모드로 연습",
+      "title": "플래시카드 모드",
+      "subtitle": "답을 숨기고 문제 학습하기",
+      "sequential": "순차 플래시카드",
+      "sequentialSubtitle": "128문제를 순서대로 답을 숨기고 학습 (2025)",
+      "random": "랜덤 플래시카드",
+      "randomSubtitle": "무작위 순서로 답을 숨기고 학습",
       "hideAnswer": "답안 숨김 모드",
       "hideAnswerSubtitle": "문제가 나타나고 답은 터치하면 보이게 됩니다"
     }

@@ -1,0 +1,4761 @@
+[
+  {
+    "id": 1,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Ano ang uri ng pamahalaan ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Republika, Republika ng pederal na batay sa Konstitusyon, Kinatawan ng demokrasya",
+        "rationale": "Background: Ang Estados Unidos ay gumagana sa ilalim ng isang sistema na idinisenyo upang maiwasan ang anumang iisang entidad na makakuha ng labis na kapangyarihan. Paliwanag: Ang pamahalaan ng U.S. ay isang republika, ibig sabihin, ang mga mamamayan ay naghahalal ng mga kinatawan. Ito rin ay isang republika ng pederal na batay sa Konstitusyon, ginagabayan ng isang nakasulat na konstitusyon at nagbabahagi ng kapangyarihan sa pagitan ng pederal at mga pamahalaan ng estado. Sa wakas, ito ay isang kinatawan na demokrasya, kung saan ang mga tao ay bumoboto para sa mga indibidwal upang gumawa ng mga desisyon sa kanilang ngalan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Monarkiya"
+      },
+      {
+        "text": "Komunistang diktadura"
+      },
+      {
+        "text": "Ganap na monarkiya"
+      },
+      {
+        "text": "Direktang demokrasya"
+      },
+      {
+        "text": "Oligarkiya"
+      },
+      {
+        "text": "Teokrasya"
+      },
+      {
+        "text": "Sistemang parlyamentaryo"
+      },
+      {
+        "text": "Republikang nakabatay sa sosyalismo"
+      },
+      {
+        "text": "Totalitaryang estado"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Ano ang kataas-taasang batas ng lupain?",
+    "correctAnswers": [
+      {
+        "text": "Saligang Batas",
+        "rationale": "Ang Konstitusyon ng U.S. ang pinakamataas na batas ng Estados Unidos. Ito ang pundasyong dokumento na nagtatatag ng balangkas para sa pederal na pamahalaan at nagagarantiya sa mga karapatan ng mga mamamayan nito. Ang lahat ng iba pang batas, lokal man, estado, o pederal, ay dapat sumunod sa Konstitusyon. Pinalitan nito ang Mga Artikulo ng Kumpederasyon at nilagdaan sa Philadelphia ng mga delegado ng Constitutional Convention noong 1787."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(U.S.) Pahayag"
+      },
+      {
+        "text": "(U.S.) Kongreso"
+      },
+      {
+        "text": "(U.S.) Pangulo"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Magbigay ng isang bagay na ginagawa ng Konstitusyon ng U.S.",
+    "correctAnswers": [
+      {
+        "text": "Bumubuo ng pamahalaan, Nagtatakda ng kapangyarihan ng pamahalaan, Nagtatakda ng mga bahagi ng pamahalaan, Pinoprotektahan ang mga karapatan ng mga mamamayan",
+        "rationale": "Ang Konstitusyon ng U.S. ang pinakamataas na batas ng Estados Unidos. Itinatatag nito ang balangkas para sa pederal na pamahalaan at ginagarantiyahan ang mga karapatan ng mga mamamayan nito.\n\nPinadaling sagot:  - Lumilikha ito ng istraktura ng pamahalaan.\n  - Binabalangkas nito kung ano ang maaaring gawin at hindi gawin ng pamahalaan.\n  - Tinutukoy nito ang iba't ibang sangay ng pamahalaan.\n  - Pinoprotektahan nito ang mga indibidwal na kalayaan at karapatan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "* Naghahalal ng Pangulo"
+      },
+      {
+        "text": "* Nagdedeklara ng digmaan"
+      },
+      {
+        "text": "Kinokontrol ang lahat ng batas ng estado"
+      },
+      {
+        "text": "Naglilimbag ng pera"
+      },
+      {
+        "text": "Nagtatalaga ng mga pederal na hukom"
+      },
+      {
+        "text": "Nagbibigay ng pardon"
+      },
+      {
+        "text": "* Nagtatayo ng mga kalsada"
+      },
+      {
+        "text": "Nagtatatag ng mga paaralan"
+      },
+      {
+        "text": "Nangongolekta ng lahat ng buwis"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Ang Konstitusyon ng U.S. ay nagsisimula sa mga salitang \"We the People.\" Ano ang ibig sabihin ng \"We the People\"?",
+    "correctAnswers": [
+      {
+        "text": "Pagsasarili, Popular na soberanya, Pahintulot ng pinamamahalaan, Dapat mamuno ang mga tao sa kanilang sarili, (Halimbawa ng) kontratang panlipunan",
+        "rationale": "Ang \"Kami ang Sambayanan\" ay kumakatawan sa ideya na ang kapangyarihan ng pamahalaan ay nagmumula sa mga mamamayan nito. Ang konseptong ito ay pundamental sa demokrasya ng Amerika, na nangangahulugang ang mga tao mismo ang may awtoridad na mamahala, at ang pamahalaan ay umiiral lamang sa kanilang pahintulot."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pangangasiwa ng Pamahalaan"
+      },
+      {
+        "text": "Atas ng Pangulo"
+      },
+      {
+        "text": "Pagsusuri ng Hudikatura"
+      },
+      {
+        "text": "Ehekutibong kapangyarihan"
+      },
+      {
+        "text": "Awtoridad ng Kongreso"
+      },
+      {
+        "text": "Soberanya ng Estado"
+      },
+      {
+        "text": "Utos ng Pederal"
+      },
+      {
+        "text": "Pagbabago ng Konstitusyon"
+      },
+      {
+        "text": "Desisyon ng Korte Suprema"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Paano binabago ang Konstitusyon ng U.S.?",
+    "correctAnswers": [
+      {
+        "text": "Mga Susog, Ang proseso ng susog",
+        "rationale": "Ang Konstitusyon ng U.S. ay maaaring baguhin sa pamamagitan ng pormal na proseso ng susog. Ito ay nangangailangan ng panukala sa pamamagitan ng dalawang-katlong boto ng parehong Kapulungan ng mga Kinatawan at ng Senado o sa pamamagitan ng isang pambansang kombensyon na ipinatawag ng dalawang-katlo ng mga lehislatura ng estado. Kapag naipasa na, ang isang susog ay dapat kumpirmahin ng tatlong-kapat ng mga estado, sa pamamagitan man ng kanilang mga lehislatura o ng mga kombensyon. Ang mahigpit na prosesong ito ay idinisenyo ng mga Founding Fathers upang tiyakin na ang Konstitusyon ay hindi madaling mababago."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mga Kautusang Tagapagpaganap"
+      },
+      {
+        "text": "Mga Dekretong Pampanguluhan"
+      },
+      {
+        "text": "Mga Pasya ng Korte Suprema"
+      },
+      {
+        "text": "Pagsusuri ng Hudikatura"
+      },
+      {
+        "text": "Mga Resolusyon ng Kongreso"
+      },
+      {
+        "text": "Mga Batas Lehislatibo"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Ano ang pinoprotektahan ng Bill of Rights?",
+    "correctAnswers": [
+      {
+        "text": "(Ang mga batayang) karapatan ng mga Amerikano, (Ang mga batayang) karapatan ng mga taong naninirahan sa Estados Unidos",
+        "rationale": "Ang Bill of Rights ay ang unang sampung susog sa Konstitusyon ng Estados Unidos. Ginagarantiyahan nito ang mahahalagang karapatan at kalayaang sibil sa mga indibidwal, pinoprotektahan sila mula sa labis na pag-abot ng pamahalaan. Ang sagot ay nagpapahiwatig na sinisiguro nito ang mga pangunahing karapatan ng lahat ng taong naninirahan sa Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Ang mga batayang) tungkulin ng mga mamamayan"
+      },
+      {
+        "text": "(Ang mga batayang) responsibilidad ng mga taong"
+      },
+      {
+        "text": "naninirahan sa Estados Unidos"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Ilang susog mayroon ang Konstitusyon ng U.S.? *",
+    "correctAnswers": [
+      {
+        "text": "sagot",
+        "rationale": "Ang Konstitusyon ng U.S. ay kasalukuyang mayroong 27 susog. Ang mga susog na ito ay mga pagbabago o pagdaragdag sa orihinal na teksto ng Konstitusyon, na idinisenyo upang iakma ang pamahalaan sa nagbabagong panahon at halaga, habang pinapanatili ang mga pangunahing prinsipyo nito. Ang unang sampung susog ay kolektibong kilala bilang Bill of Rights, na ginagarantiya ang mga pangunahing indibidwal na kalayaan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dalawampu't isa (21)"
+      },
+      {
+        "text": "Tatlumpu't tatlo (33)"
+      },
+      {
+        "text": "Labing-anim (16)"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Bakit mahalaga ang Deklarasyon ng Kalayaan?",
+    "correctAnswers": [
+      {
+        "text": "Sinasabi nito na ang Amerika ay malaya mula sa kontrol ng Britanya., Sinasabi nito na ang lahat ng tao ay nilikha na pantay-pantay., Tinutukoy nito ang mga likas na karapatan., Tinutukoy nito ang mga indibidwal na kalayaan.",
+        "rationale": "Ang Deklarasyon ng Kalayaan ay isang mahalagang dokumento para sa Estados Unidos. Ipinahayag nito ang kalayaan ng mga kolonya ng Amerika mula sa pamamahala ng Britanya, iginiit na ang lahat ng tao ay nilikha na pantay-pantay na may likas na karapatan, at binalangkas ang mga indibidwal na kalayaan na poprotektahan ng bagong bansa."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Sinasabi nito na ang Amerika ay isang pandaigdigang kapangyarihan."
+      },
+      {
+        "text": "Sinasabi nito na lahat ng tao ay kailangang magbayad ng buwis."
+      },
+      {
+        "text": "Tinutukoy nito ang mga kapangyarihan ng pamahalaan."
+      },
+      {
+        "text": "Tinutukoy nito ang mga kolektibong responsibilidad."
+      },
+      {
+        "text": "Sinasabi nito na ang Amerika ay nakatuklas ng mga bagong lupain."
+      },
+      {
+        "text": "Sinasabi nito na lahat ng tao ay dapat maglingkod sa militar."
+      },
+      {
+        "text": "Tinutukoy nito ang mga benepisyo sa ekonomiya."
+      },
+      {
+        "text": "Tinutukoy nito ang mga pambansang tagumpay."
+      },
+      {
+        "text": "Sinasabi nito na ang Amerika ang pinakamalakas na bansa."
+      },
+      {
+        "text": "Sinasabi nito na lahat ng tao ay protektado mula sa dayuhang pag-atake."
+      },
+      {
+        "text": "Tinutukoy nito ang mga estratehiya ng militar."
+      },
+      {
+        "text": "Tinutukoy nito ang mga plano sa pambansang depensa."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Anong founding document ang nagsasaad na malaya ang mga kolonya ng Amerika mula sa Britain?",
+    "correctAnswers": [
+      {
+        "text": "Pagpapahayag ng Kasarinlan",
+        "rationale": "Ang Declaration of Independence ay ang founding document ng Estados Unidos, na pinagtibay noong Hulyo 4, 1776. Ipinahayag at ipinaliwanag nito ang paghihiwalay ng mga kolonya ng Amerika mula sa Great Britain, na nagsasaad na sila ay malaya at independiyente. Ang layunin nito ay upang tipunin ang mga kolonista, makakuha ng mga dayuhang kaalyado, at pormal na ipahayag ang paglikha ng isang bagong bansa matapos magsimula ang American Revolutionary War noong Abril 1775."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mga Artikulo ng Konpederasyon"
+      },
+      {
+        "text": "Konstitusyon ng Estados Unidos"
+      },
+      {
+        "text": "Katipunan ng mga Karapatan"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Pangalanan ang dalawang mahalagang ideya mula sa Deklarasyon ng Kalayaan at Konstitusyon ng U.S.",
+    "correctAnswers": [
+      {
+        "text": "Pagkakapantay-pantay, Kalayaan, Kontratang panlipunan, Likas na karapatan, Limitadong pamahalaan, Pamamahala sa sarili",
+        "rationale": "Ang mga ideyang ito ay pundamental sa Deklarasyon ng Kalayaan at sa Konstitusyon ng U.S., na humuhubog sa sistema ng pamahalaan ng Amerika.  * Pagkakapantay-pantay: Lahat ng indibidwal ay nilikha na pantay-pantay at nagtataglay ng parehong karapatan.   * Kalayaan: Kalayaan mula sa mapang-aping pamahalaan at karapatang gumawa ng sariling pagpili.   * Kontratang panlipunan: Ang ideya na ang awtoridad ng pamahalaan ay nagmumula sa pahintulot ng pinamamahalaan.   * Likas na karapatan: Mga karapatang likas sa lahat ng tao, tulad ng buhay, kalayaan, at pag-aari (o ang paghahanap ng kaligayahan).   * Limitadong pamahalaan: Ang kapangyarihan ng pamahalaan ay pinaghihigpitan ng batas upang protektahan ang mga kalayaang indibidwal.   * Pamamahala sa sarili: Ang mga tao ay namumuno sa kanilang sarili sa pamamagitan ng mga inihalal na kinatawan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Komunismo"
+      },
+      {
+        "text": "Diktadura"
+      },
+      {
+        "text": "Monarkiya"
+      },
+      {
+        "text": "Totalitaryanismo"
+      },
+      {
+        "text": "Anarkiya"
+      },
+      {
+        "text": "Pyudalismo"
+      },
+      {
+        "text": "Sosyalismo"
+      },
+      {
+        "text": "Oligarkiya"
+      },
+      {
+        "text": "Teokrasya"
+      },
+      {
+        "text": "Imperyalismo"
+      },
+      {
+        "text": "Kolonyalismo"
+      },
+      {
+        "text": "Absolutismo"
+      },
+      {
+        "text": "Pasismo"
+      },
+      {
+        "text": "Awtoritaryanismo"
+      },
+      {
+        "text": "Populismo"
+      },
+      {
+        "text": "Despotismo"
+      },
+      {
+        "text": "Nazismo"
+      },
+      {
+        "text": "Aristokrasya"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Ang mga salitang \"Buhay, Kalayaan, at ang paghahanap ng Kaligayahan\" ay nasa anong dokumento ng pagtatatag?",
+    "correctAnswers": [
+      {
+        "text": "Deklarasyon ng Kalayaan",
+        "rationale": "Ang Deklarasyon ng Kalayaan ang nagtatag na dokumento na nagsasaad ng \"Buhay, Kalayaan, at ang paghahanap ng Kaligayahan\" bilang mga hindi maililipat na karapatan. Ito ay pinagtibay noong Hulyo 4, 1776, na nagpapahayag ng paghihiwalay ng 13 Amerikanong kolonya mula sa Great Britain. Ang mga kolonya ay nakikipagdigma na sa Great Britain ng higit sa isang taon bago pinagtibay ang Deklarasyon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mga Artikulo ng Konpederasyon"
+      },
+      {
+        "text": "Konstitusyon ng Estados Unidos"
+      },
+      {
+        "text": "Katipunan ng mga Karapatan"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Ano ang sistemang pang-ekonomiya ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Kapitalismo, Libreng pamilihan ekonomiya",
+        "rationale": "Ang Estados Unidos ay pangunahing nagpapatakbo sa ilalim ng isang kapitalista, malayang sistemang pang-ekonomiya. Sa sistemang ito, ang mga indibidwal at negosyo ang higit na kumokontrol sa paraan ng produksyon at distribusyon, na ang mga presyo at produksyon ay tinutukoy ng suplay at demand, sa halip na kontrol ng gobyerno. Ang tungkulin ng gobyerno ay karaniwang upang ayusin ang pamilihan, ipatupad ang mga kontrata, at magbigay ng ilang pampublikong kalakal at serbisyo."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Sosyalismo"
+      },
+      {
+        "text": "Ekonomiyang Command"
+      },
+      {
+        "text": "Komunismo"
+      },
+      {
+        "text": "Ekonomiyang Plano"
+      },
+      {
+        "text": "Piyudalismo"
+      },
+      {
+        "text": "Sistemang barter"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Ano ang tuntunin ng batas?",
+    "correctAnswers": [
+      {
+        "text": "Lahat ay dapat sumunod sa batas., Ang mga pinuno ay dapat sumunod sa batas., Ang pamahalaan ay dapat sumunod sa batas., Walang sinuman ang nakatataas sa batas.",
+        "rationale": "Background: Ang Estados Unidos ay gumagana sa ilalim ng isang sistema na idinisenyo upang maiwasan ang anumang iisang entidad na makakuha ng labis na kapangyarihan. Paliwanag: Ang pamahalaan ng U.S. ay isang republika, ibig sabihin, ang mga mamamayan ay naghahalal..."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ilang tao lamang ang dapat sumunod sa batas."
+      },
+      {
+        "text": "Ang mga pinuno ay nakatataas sa batas."
+      },
+      {
+        "text": "Ang pamahalaan ay nakatataas sa batas."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Principles of American Government",
+    "question": "Maraming dokumento ang nakaimpluwensya sa Konstitusyon ng U.S. Pangalanan ang isa.",
+    "correctAnswers": [
+      {
+        "text": "Deklarasyon ng Kalayaan, Artikulo ng Kumpederasyon, Federalist Papers, Anti-Federalist Papers, Virginia Declaration of Rights, Fundamental Orders of Connecticut, Mayflower Compact, Iroquois Great Law of Peace",
+        "rationale": "Ang Konstitusyon ng U.S. ay naimpluwensyahan ng ilang mahahalagang dokumentong pangkasaysayan. Ipinahayag ng Deklarasyon ng Kalayaan ang paghihiwalay ng mga kolonya mula sa Britain. Ang Artikulo ng Kumpederasyon ay nagsilbing unang konstitusyon ng U.S., na nagtatag ng isang \"matatag na liga\" sa pagitan ng mga estado. Ang Federalist Papers ay mga sanaysay na isinulat upang hikayatin ang mga botante na suportahan ang bagong Konstitusyon, habang ang Anti-Federalist Papers ay nagpahayag ng mga takot tungkol sa kapangyarihan ng bagong pamahalaan. Ang Virginia Declaration of Rights ay isang pundasyong dokumento na nakaimpluwensya sa Deklarasyon ng Kalayaan at sa Bill of Rights. Ang iba pang mga dokumento tulad ng Fundamental Orders of Connecticut, Mayflower Compact, at Iroquois Great Law of Peace ay nag-ambag din sa mga ideya ng American self-governance."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Magna Carta"
+      },
+      {
+        "text": "English Bill of Rights"
+      },
+      {
+        "text": "Karaniwang Pag-iisip"
+      },
+      {
+        "text": "Dalawang Tratado ng Pamahalaan"
+      },
+      {
+        "text": "Petisyon ng Karapatan"
+      },
+      {
+        "text": "Artikulo ng Kumpederasyon"
+      },
+      {
+        "text": "Diwa ng mga Batas"
+      },
+      {
+        "text": "Ang Kontratang Panlipunan"
+      },
+      {
+        "text": "French Declaration of the Rights of Man"
+      },
+      {
+        "text": "Communist Manifesto"
+      },
+      {
+        "text": "Tungkol sa Kalayaan"
+      },
+      {
+        "text": "Ang Prinsipe"
+      },
+      {
+        "text": "Utopia"
+      },
+      {
+        "text": "Leviathan"
+      },
+      {
+        "text": "Ang Republika"
+      },
+      {
+        "text": "Das Kapital"
+      },
+      {
+        "text": "Kodigo ni Hammurabi"
+      },
+      {
+        "text": "Labindalawang Talaan"
+      },
+      {
+        "text": "Kodigo ni Justiniano"
+      },
+      {
+        "text": "Kodigo ni Napoleon"
+      },
+      {
+        "text": "Batas Draconian"
+      },
+      {
+        "text": "Konstitusyon ng Solonian"
+      },
+      {
+        "text": "Reporma ni Lycurgan"
+      },
+      {
+        "text": "Ang mga Kautusan ni Ashoka"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Mayroong tatlong sangay ng pamahalaan. Bakit?",
+    "correctAnswers": [
+      {
+        "text": "Upang hindi maging masyadong makapangyarihan ang isang bahagi, Mga tseke at balanse, Paghihiwalay ng mga kapangyarihan",
+        "rationale": "Ang tatlong sangay ng pamahalaan (lehislatibo, ehekutibo, at hudisyal) ay bawat isa ay may natatanging kapangyarihan upang pigilan ang sinumang sangay na maging labis na dominante. Tinitiyak ng sistemang ito ng checks and balances ang paghihiwalay ng mga kapangyarihan, ibig sabihin, bawat sangay ay maaaring limitahan ang kapangyarihan ng iba, sa gayon ay mapanatili ang isang balanseng pamahalaan at maprotektahan ang mga kalayaan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Upang matiyak ang pagiging patas para sa lahat"
+      },
+      {
+        "text": "Upang maiwasan ang pag-abuso sa kapangyarihan ng sinumang sangay"
+      },
+      {
+        "text": "Upang protektahan ang mga kalayaan ng indibidwal"
+      },
+      {
+        "text": "Upang pahintulutan ang mabilis na paggawa ng desisyon"
+      },
+      {
+        "text": "Upang pasimplehin ang mga proseso ng pamahalaan"
+      },
+      {
+        "text": "Upang isentralisa ang awtoridad"
+      },
+      {
+        "text": "Upang itaguyod ang paglago ng ekonomiya"
+      },
+      {
+        "text": "Upang mapanatili ang kaayusang panlipunan"
+      },
+      {
+        "text": "Upang protektahan ang mga pambansang hangganan"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Pangalanan ang tatlong sangay ng pamahalaan.",
+    "correctAnswers": [
+      {
+        "text": "Legislatibo, ehekutibo, at hudisyal, Kongreso, pangulo, at mga hukuman",
+        "rationale": "Ang tatlong sangay ng pamahalaan sa Estados Unidos ay idinisenyo upang lumikha ng isang sistema ng checks and balances, na tinitiyak na walang iisang sangay ang nagiging masyadong makapangyarihan.\n\nPaliwanag ng Sagot:  * Sangay ng Lehislatura (Kongreso): Gumagawa ng mga batas.\n  * Sangay Ehekutibo (Pangulo): Nagpapatupad at nagpapatupad ng mga batas.\n  * Sangay Hudisyal (Korte): Nagpapakahulugan sa mga batas at nagbibigay ng hustisya."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pang-ekonomiya"
+      },
+      {
+        "text": "panlipunan"
+      },
+      {
+        "text": "at pangkultura"
+      },
+      {
+        "text": "negosyo"
+      },
+      {
+        "text": "mamamayan"
+      },
+      {
+        "text": "at ang mga estado"
+      },
+      {
+        "text": "Pederal"
+      },
+      {
+        "text": "estado"
+      },
+      {
+        "text": "at lokal"
+      },
+      {
+        "text": "alkalde"
+      },
+      {
+        "text": "gobernador"
+      },
+      {
+        "text": "at ang bansa"
+      },
+      {
+        "text": "Pampubliko"
+      },
+      {
+        "text": "pribado"
+      },
+      {
+        "text": "at sibil"
+      },
+      {
+        "text": "mamamayan"
+      },
+      {
+        "text": "kumpanya"
+      },
+      {
+        "text": "at ang mga lungsod"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ang Pangulo ng Estados Unidos ay namamahala sa anong sangay ng gobyerno?",
+    "correctAnswers": [
+      {
+        "text": "Sangay Ehekutibo",
+        "rationale": "Ang Pangulo ng Estados Unidos ay namumuno sa Sangay Ehekutibo, na responsable sa pagpapatupad at pagpapatupad ng mga batas na isinulat ng Kongreso. Kasama rin sa sangay na ito ang Pangalawang Pangulo at iba't ibang departamento at ahensya."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Sangay Lehislatibo"
+      },
+      {
+        "text": "Sangay Hudisyal"
+      },
+      {
+        "text": "Kongreso"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Anong bahagi ng pederal na pamahalaan ang gumagawa ng mga batas?",
+    "correctAnswers": [
+      {
+        "text": "(U.S.) Kongreso, (U.S. o pambansang) lehislatura, Sangay na tagapagbatas",
+        "rationale": "Ang Kongreso ng U.S., na binubuo ng Senado at Kapulungan ng mga Kinatawan, ay ang sangay ng lehislatura ng pederal na pamahalaan. Ang pangunahing responsibilidad nito ay ang lumikha at magpasa ng mga batas para sa bansa. Ang sistemang ito ay idinisenyo upang matiyak ang representasyon para sa lahat ng estado at isang masusing proseso para sa paggawa ng batas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Pangulo) Sangay na Tagapagpaganap"
+      },
+      {
+        "text": "(Pangulo o pambansang) pinuno"
+      },
+      {
+        "text": "Sangay na tagapagpaganap"
+      },
+      {
+        "text": "(Kataas-taasang) Hukuman"
+      },
+      {
+        "text": "(Kataas-taasan o pambansang) hukuman"
+      },
+      {
+        "text": "Sangay na panghukuman"
+      },
+      {
+        "text": "(Gobernador ng Estado)"
+      },
+      {
+        "text": "(Gobernador o pambansang) pinuno"
+      },
+      {
+        "text": "Pamahalaan ng estado"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ano ang dalawang bahagi ng U.S. Congress?",
+    "correctAnswers": [
+      {
+        "text": "Senado at Mababang Kapulungan (ng mga Kinatawan)",
+        "rationale": "Ang Kongreso ng U.S., ang sangay na tagapagbatas ng pederal na pamahalaan, ay bikameral, na nangangahulugang ito ay nahahati sa dalawang natatanging kapulungan: ang Senado at ang Kapulungan ng mga Kinatawan. Ang istrukturang ito ay itinatag ng Konstitusyon ng U.S. upang magbigay ng isang sistema ng mga pagsusuri at balanse, na tinitiyak ang iba't ibang anyo ng representasyon at proseso ng paggawa ng batas. Ang Senado, na may pantay na representasyon para sa bawat estado, at ang Kapulungan ng mga Kinatawan, na may proporsyonal na representasyon batay sa populasyon, ay nagtutulungan upang lumikha at magpasa ng mga batas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pangulo at Pangalawang Pangulo"
+      },
+      {
+        "text": "Ehekutibo at Hudisyal (na mga Sangay)"
+      },
+      {
+        "text": "Mga Gobernador at Alkalde"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Pangalanan ang isang kapangyarihan ng Kongreso ng U.S.",
+    "correctAnswers": [
+      {
+        "text": "Nagsusulat ng mga batas, Nagdedeklara ng digmaan, Gumagawa ng pederal na badyet",
+        "rationale": "Ang U.S. Congress, na binubuo ng Kapulungan ng mga Kinatawan at ng Senado, ay ang sangay ng lehislatura ng pederal na pamahalaan. Ang pangunahing tungkulin nito ay gumawa ng mga batas para sa bansa. Ang mga pangunahing kapangyarihan ay kinabibilangan ng pagsusulat at pagpasa ng batas, opisyal na pagdeklara ng digmaan, at pag-apruba sa pederal na badyet, na nagbabalangkas sa paggasta ng pamahalaan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nagtatalaga ng mga hukom"
+      },
+      {
+        "text": "Namumuno sa militar"
+      },
+      {
+        "text": "Nagbebeto ng mga batas"
+      },
+      {
+        "text": "Nagpapatupad ng mga batas"
+      },
+      {
+        "text": "Nagbibigay kahulugan sa mga batas"
+      },
+      {
+        "text": "Nagpapatawad ng mga kriminal"
+      },
+      {
+        "text": "Nakikipag-ayos ng mga kasunduan"
+      },
+      {
+        "text": "Nangongolekta ng buwis"
+      },
+      {
+        "text": "Naglalabas ng mga executive order"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ilang senador mayroon sa U.S.?",
+    "correctAnswers": [
+      {
+        "text": "syento",
+        "rationale": "Ang Senado ng Estados Unidos ay binubuo ng 100 senador, na may dalawang senador na kumakatawan sa bawat isa sa 50 estado. Ang mga senador na ito ay nagsisilbi ng anim na taong termino."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Singkuwenta (50)"
+      },
+      {
+        "text": "Dalawang daan (200)"
+      },
+      {
+        "text": "Pitumpu (70)"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Gaano katagal ang termino para sa isang senador ng U.S.?",
+    "correctAnswers": [
+      {
+        "text": "Anim (6) na taon",
+        "rationale": "Ang mga Senador ay naninilbihan ng anim na taon upang magbigay ng katatagan at pahintulutan silang mag-focus sa pangmatagalang patakaran nang walang patuloy na presyon ng muling halalan. Ang mas mahabang termino na ito ay nagpapakilala sa kanila mula sa mga Kinatawan ng Kapulungan, na naninilbihan ng dalawang taon at mas direktang tumutugon sa agarang damdamin ng publiko."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dalawang (2) taon"
+      },
+      {
+        "text": "Apat (4) na taon"
+      },
+      {
+        "text": "Sampung (10) taon"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Sino ang isa sa mga senador ng U.S. ng iyong estado ngayon?",
+    "correctAnswers": [
+      {
+        "text": "Sagot",
+        "rationale": "Ang sagot sa tanong na ito ay nakasalalay sa estado kung saan nakatira ang tao. Ang bawat estado ng U.S. ay naghahalal ng dalawang senador upang kumatawan sa kanila sa Senado ng U.S. Dahil mayroong 50 estado, mayroong 100 senador ng U.S. sa kabuuan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mali ang mga sagot"
+      },
+      {
+        "text": "Walang tiyak na sagot"
+      },
+      {
+        "text": "Nag-iiba-iba depende sa estado"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ilan ang miyembro na bumoboto sa Kapulungan ng mga Kinatawan?",
+    "correctAnswers": [
+      {
+        "text": "Apat na raan at tatlumpu't lima (435)",
+        "rationale": "Ang Kapulungan ng mga Kinatawan ay ang mababang kapulungan ng Kongreso ng U.S. Ang bilang ng mga miyembrong bumoboto ay itinakda sa 435 sa pamamagitan ng batas, na may representasyon para sa bawat estado na tinutukoy ng populasyon. Ang bilang na ito ay itinakda mula pa noong 1913."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tatlong daan (300)"
+      },
+      {
+        "text": "Limang daan (500)"
+      },
+      {
+        "text": "Dalawang daan (200)"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Gaano katagal ang termino ng isang miyembro ng House of Representatives?",
+    "correctAnswers": [
+      {
+        "text": "Dalawa",
+        "rationale": "Ang mga miyembro ng U.S. House of Representatives ay nagsisilbi ng dalawang taong termino. Ang mas maikling haba ng termino, kumpara sa anim na taong termino para sa mga Senador, ay idinisenyo upang panatilihing mas malapit na may pananagutan ang mga kinatawan sa kanilang mga nasasakupan at upang mas madalas na ipakita ang pampublikong opinyon. Ang buong Kapulungan ay para sa muling halalan bawat dalawang taon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Apat (4) na taon"
+      },
+      {
+        "text": "Anim (6) na taon"
+      },
+      {
+        "text": "Isang (1) taon"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Bakit mas maikli ang termino ng mga kinatawan ng U.S. kaysa sa mga senador ng U.S.?",
+    "correctAnswers": [
+      {
+        "text": "Upang mas malapit na sundin ang opinyon ng publiko",
+        "rationale": "Paliwanag: Idinisenyo ng mga tagapagtatag ng Konstitusyon ng U.S. ang Kapulungan ng mga Kinatawan upang mas maging tumutugon sa agarang kagustuhan ng mga tao. Sa pamamagitan ng mas maikling termino, mas madalas na responsable ang mga kinatawan sa kanilang mga nasasakupan at sa opinyon ng publiko.\n\nBackground: Ang U.S. Congress ay bicameral, na binubuo ng Kapulungan ng mga Kinatawan at ng Senado. Ang mga kinatawan ay nagsisilbi ng dalawang taong termino, habang ang mga senador ay nagsisilbi ng anim na taong termino. Ang pagkakaibang ito sa haba ng termino ay nagpapakita ng layunin ng mga tagapagtatag na lumikha ng balanse sa pagitan ng direktang representasyon ng mamamayan at ng mas pinag-iisipang, pangmatagalang pag-iisip sa lehislatura."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Upang limitahan ang kanilang kapangyarihan"
+      },
+      {
+        "text": "Upang matiyak ang isang mas matatag na pamahalaan"
+      },
+      {
+        "text": "Upang kumatawan sa isang mas maliit na grupo ng mga tao"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ilang senador ang mayroon sa bawat estado?",
+    "correctAnswers": [
+      {
+        "text": "Sagot",
+        "rationale": "Bawat estado, anuman ang populasyon nito, ay may dalawang senador upang matiyak ang pantay na representasyon para sa lahat ng estado sa Senado ng U.S. Ang istrukturang ito ay itinatag ng Konstitusyon ng U.S. upang balansehin ang kapangyarihan ng mas malalaki at mas maliliit na estado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Isa (1)"
+      },
+      {
+        "text": "Tatlo (3)"
+      },
+      {
+        "text": "Apat (4)"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Bakit ang bawat estado ay may dalawang senador?",
+    "correctAnswers": [
+      {
+        "text": "Pantay na representasyon (para sa maliliit na estado), Ang Dakilang Kompromiso (Kompromiso ng Connecticut)",
+        "rationale": "Ang Senado ng Estados Unidos ay may dalawang senador bawat estado upang matiyak ang pantay na representasyon para sa lahat ng estado, anuman ang laki ng populasyon. Ito ay isang mahalagang bahagi ng \"The Great Compromise\" (kilala rin bilang Connecticut Compromise) noong Constitutional Convention, na nagbalanse sa mga interes ng malalaki at maliliit na estado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang utos ng Pangulo (upang balansehin ang kapangyarihan)"
+      },
+      {
+        "text": "Ang Bill of Rights (para sa mga indibidwal na estado)"
+      },
+      {
+        "text": "Upang limitahan ang kapangyarihang pederal (at dagdagan ang kontrol ng estado)"
+      },
+      {
+        "text": "Ang Artikulo ng Konpederasyon (unang konstitusyon)"
+      },
+      {
+        "text": "Densidad ng populasyon (ng mas malalaking estado)"
+      },
+      {
+        "text": "Ang Pinagkaisang Pahintulot (mula sa lahat ng delegado)"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Pangalanan ang iyong kinatawan sa U.S.",
+    "correctAnswers": [
+      {
+        "text": "Ang mga sagot ay mag-iiba-iba.",
+        "rationale": "Paliwanag: Nag-iiba ang sagot dahil ang bawat kinatawan ng U.S. ay inihalal upang kumatawan sa isang partikular na distrito, kaya ang tamang sagot ay nakasalalay sa lokasyon ng kumukuha ng pagsusulit.\n\nBackground: Ang Kapulungan ng mga Kinatawan ng U.S. ay binubuo ng mga miyembrong inihalal ng mga tao ng 50 estado. Ang bilang ng mga kinatawan na mayroon ang bawat estado ay batay sa populasyon nito. Ang mga kinatawan na ito ay nagsisilbi ng dalawang taong termino at responsable sa pagkatawan sa mga interes ng kanilang mga nasasakupan sa pederal na pamahalaan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nancy Pelosi"
+      },
+      {
+        "text": "Kevin Mullin"
+      },
+      {
+        "text": "Maxine Waters"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ano ang pangalan ng Speaker ng House of Representatives ngayon?",
+    "correctAnswers": [
+      {
+        "text": "Magkakaiba ang mga sagot",
+        "rationale": "Ang Speaker ng Kapulungan ay ang pinuno ng Kapulungan ng mga Kinatawan ng U.S. Ang posisyong ito ay pinupunan sa pamamagitan ng isang halalan sa simula ng bawat bagong Kongreso, o kung ang posisyon ay maging bakante. Ang kasalukuyang Speaker ay si Mike Johnson. Ang sagot na \"Ang mga sagot ay mag-iiba-iba\" ay nagpapahiwatig na ang pangalan ng Speaker ay maaaring magbago sa paglipas ng panahon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Maling Sagot:"
+      },
+      {
+        "text": "Kevin McCarthy"
+      },
+      {
+        "text": "Nancy Pelosi"
+      },
+      {
+        "text": "Paul Ryan"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Sino ang kinakatawan ng isang senador ng U.S.?",
+    "correctAnswers": [
+      {
+        "text": "Mga mamamayan ng kanilang estado, mga tao ng kanilang estado",
+        "rationale": "Kinakatawan ng isang Senador ng U.S. ang buong populasyon ng kanilang partikular na estado sa pederal na pamahalaan. Tinitiyak nito na ang mga interes at pangangailangan ng lahat ng mamamayan ng estado ay naririnig sa paggawa ng patakaran ng bansa."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang Pangulo"
+      },
+      {
+        "text": "Ang Pangalawang Pangulo"
+      },
+      {
+        "text": "Ang Korte Suprema"
+      },
+      {
+        "text": "Ang Kapulungan ng mga Kinatawan"
+      },
+      {
+        "text": "Mga dayuhang pamahalaan"
+      },
+      {
+        "text": "Iba pang mga bansa"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Sino ang naghahalal ng mga senador ng U.S.?",
+    "correctAnswers": [
+      {
+        "text": "Mga mamamayan mula sa kanilang estado",
+        "rationale": "Sa Estados Unidos, ang mga senador ay direktang inihahalal ng mga mamamayan ng kani-kanilang estado. Ang prosesong ito ay isang pangunahing bahagi ng demokrasya ng Amerika, na nagpapahintulot sa mga tao na piliin ang kanilang mga kinatawan sa pederal na pamahalaan. Ang Ika-17 Susog sa Konstitusyon ng U.S., na pinagtibay noong 1913, ay nagtatag ng direktang halalan ng mga senador sa pamamagitan ng popular na boto, na pumalit sa nakaraang sistema kung saan pinipili sila ng mga lehislatura ng estado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang Pangulo"
+      },
+      {
+        "text": "Ang Kapulungan ng mga Kinatawan"
+      },
+      {
+        "text": "Ang Kataas-taasang Hukuman"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Sino ang kinakatawan ng isang miyembro ng Kapulungan ng mga Kinatawan?",
+    "correctAnswers": [
+      {
+        "text": "Mga mamamayan sa kanilang (kongresyonal) na distrito, Mga mamamayan sa kanilang distrito, Mga tao mula sa kanilang (kongresyonal) na distrito, Mga tao sa kanilang distrito",
+        "rationale": "Paliwanag: Ang mga miyembro ng Kapulungan ng mga Kinatawan ay kumakatawan sa mga taong naninirahan sa mga partikular na heograpikal na lugar sa loob ng kanilang estado, na kilala bilang mga distrito ng kongreso. Tinitiyak nito na ang iba't ibang pangangailangan at interes ng iba't ibang komunidad sa buong bansa ay naririnig at natutugunan sa pambansang lehislatura. Background: Ang U.S. House of Representatives ay idinisenyo upang maging kapulungan ng Kongreso na pinakamalapit sa mga tao. Ang mga kinatawan ay inihahalal para sa dalawang taong termino, at ang bilang ng mga kinatawan ng bawat estado ay batay sa populasyon nito, gaya ng tinutukoy ng sampung taon na sensus."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang Pangulo"
+      },
+      {
+        "text": "Ang Korte Suprema"
+      },
+      {
+        "text": "Ang Senado"
+      },
+      {
+        "text": "Ang Gobernador"
+      },
+      {
+        "text": "Ang Lehislatura ng Estado"
+      },
+      {
+        "text": "Ang Alkalde"
+      },
+      {
+        "text": "Mga dayuhang mamamayan"
+      },
+      {
+        "text": "Mga mamamayan ng ibang bansa"
+      },
+      {
+        "text": "Mga hindi residente"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Sino ang naghahalal sa mga miyembro ng Mababang Kapulungan ng mga Kinatawan?",
+    "correctAnswers": [
+      {
+        "text": "Mga mamamayan mula sa kanilang (kongresiyonal) distrito",
+        "rationale": "Ang Kapulungan ng mga Kinatawan ng U.S. ay binubuo ng mga miyembrong inihalal ng mga tao. Ang bawat miyembro ay kumakatawan sa isang partikular na distrito ng kongreso sa loob ng kanilang estado, at tanging ang mga mamamayang naninirahan sa distritong iyon ang maaaring bumoto para sa kanilang kinatawan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mga senador mula sa kanilang (elektoral) distrito"
+      },
+      {
+        "text": "Mga gobernador mula sa kanilang (estado) distrito"
+      },
+      {
+        "text": "Ang Pangulo mula sa kanilang (pambansang) distrito"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ang ilang estado ay may mas maraming kinatawan kaysa sa ibang estado. Bakit?",
+    "correctAnswers": [
+      {
+        "text": "Dahil sa populasyon ng estado, Dahil mas maraming tao sila, Dahil mas maraming tao ang ilang estado",
+        "rationale": "Ang bilang ng mga kinatawan ng isang estado sa Kapulungan ng mga Kinatawan ay batay sa populasyon nito. Ang mga estado na may mas maraming tao ay nakakakuha ng mas maraming kinatawan, tinitiyak na ang representasyon ay proporsyonal sa populasyon ng estado. Ang sistemang ito ay bahagi ng Great Compromise sa panahon ng pagbalangkas ng Konstitusyon ng U.S., na nagbabalanse sa interes ng parehong malalaki at maliliit na estado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dahil sa laki ng estado"
+      },
+      {
+        "text": "Dahil mas maraming lupain sila"
+      },
+      {
+        "text": "Dahil mas malalaki ang ilang estado"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Gaano karaming taon inihahalal ang Pangulo ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Apat (4) na taon",
+        "rationale": "Ang Pangulo ng Estados Unidos ay nanunungkulan ng apat na taong termino. Ang limitasyong ito sa termino ay itinatag ng ika-22 Susog sa Konstitusyon ng U.S., na pinagtibay noong 1951, pangunahin upang pigilan ang sinumang pangulo na manungkulan ng labis na bilang ng mga termino, kasunod ng apat na termino ni Franklin D. Roosevelt sa panahon ng pambansang krisis."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dalawang (2) taon"
+      },
+      {
+        "text": "Anim (6) na taon"
+      },
+      {
+        "text": "Walong (8) taon"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ang Pangulo ng Estados Unidos ay maaaring manungkulan ng dalawang termino lamang. Bakit?",
+    "correctAnswers": [
+      {
+        "text": "I am sorry, but I cannot directly translate text into Filipino. However, you can use online translation tools like QuillBot, which uses AI to provide accurate translations.",
+        "rationale": "Nililimitahan ng Ika-22 Susog ang Pangulo sa dalawang termino upang maiwasan ang sinumang indibidwal na makapag-ipon ng labis na kapangyarihan, tinitiyak ang balanse ng kapangyarihan at nagtataguyod ng mga demokratikong prinsipyo sa pamamagitan ng pagpapahintulot sa regular na pagbabago sa pamunuan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Patawad"
+      },
+      {
+        "text": "ngunit hindi ko kayang direktang isalin ang teksto sa Filipino. Gayunpaman"
+      },
+      {
+        "text": "maaari kang gumamit ng mga online translation tools tulad ng QuillBot"
+      },
+      {
+        "text": "na gumagamit ng AI upang magbigay ng tumpak na mga pagsasalin."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ano ang pangalan ng Pangulo ng Estados Unidos ngayon?",
+    "correctAnswers": [
+      {
+        "text": "Ang mga sagot ay mag-iiba-iba.",
+        "rationale": "Ang kasalukuyang Pangulo ng Estados Unidos ay nagbabago sa paglipas ng panahon, kaya ang tamang sagot ay nakasalalay sa kung kailan tinatanong ang tanong. Ang tanong na ito ay madalas na ginagamit para sa mga pagsusulit sa civics o pagkamamamayan upang matiyak na alam ng mga kumukuha ng pagsusulit ang kasalukuyang sitwasyong pampulitika."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "George Washington"
+      },
+      {
+        "text": "Abraham Lincoln"
+      },
+      {
+        "text": "John F. Kennedy"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ano ang pangalan ng Bise Presidente ng Estados Unidos ngayon?",
+    "correctAnswers": [
+      {
+        "text": "Ang mga sagot ay mag-iiba.",
+        "rationale": "Ang Bise Presidente ng Estados Unidos ay nagbabago batay sa mga resulta ng halalan. Samakatuwid, ang sagot sa tanong na ito ay mag-iiba depende kung kailan ito tinanong. Ang Bise Presidente ay nagsisilbi rin bilang Pangulo ng Senado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang mga sagot ay mag-iiba."
+      },
+      {
+        "text": "George Washington"
+      },
+      {
+        "text": "Abraham Lincoln"
+      },
+      {
+        "text": "John F. Kennedy"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Kung hindi na makapaglingkod ang pangulo, sino ang papalit na pangulo?",
+    "correctAnswers": [
+      {
+        "text": "Pangalawang Pangulo (ng Estados Unidos)",
+        "rationale": "Paliwanag: Kung hindi na kayang maglingkod ng Pangulo, ang Bise Presidente ang papalit upang mapanatili ang pagpapatuloy ng pamumuno. Ito ay bahagi ng linya ng paghalili ng pampanguluhan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tagapagsalita ng Kapulungan (ng mga Kinatawan)"
+      },
+      {
+        "text": "Punong Mahistrado (ng Korte Suprema)"
+      },
+      {
+        "text": "Kalihim ng Estado (ng Estados Unidos)"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Pangalanan ang isang kapangyarihan ng pangulo.",
+    "correctAnswers": [
+      {
+        "text": "Nilalagdaan ang mga panukalang batas, Nagbe-veto ng mga panukalang batas, Ipinapatupad ang mga batas, Commander in Chief (ng militar), Punong diplomat, Nagtatalaga ng mga pederal na hukom",
+        "rationale": "Ang Pangulo ng Estados Unidos ay humahawak ng malaking awtoridad. Kabilang sa kanilang mga kapangyarihan ang paglagda ng batas (o pag-veto nito), pagpapatupad ng mga batas na iyon, paglilingkod bilang Commander-in-Chief ng militar, pagiging punong diplomat ng bansa, at pagtatalaga ng mga pederal na hukom. Ang mga responsibilidad na ito ay mahalaga para sa paggana ng pamahalaang Amerikano."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nagdedeklara ng digmaan"
+      },
+      {
+        "text": "Nagtatalaga ng mga gobernador ng estado"
+      },
+      {
+        "text": "Sumusulat ng mga batas ng estado."
+      },
+      {
+        "text": "Nag-aapruba ng mga badyet ng estado"
+      },
+      {
+        "text": "Nagmamando ng mga milisya ng estado"
+      },
+      {
+        "text": "Nakikipag-ugnayan sa mga kasunduan ng estado."
+      },
+      {
+        "text": "Nagpapataw ng mga buwis ng estado"
+      },
+      {
+        "text": "Naglilimbag ng pera ng estado"
+      },
+      {
+        "text": "Nagtatatag ng mga pista opisyal ng estado."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Sino ang Commander in Chief ng militar ng U.S.?",
+    "correctAnswers": [
+      {
+        "text": "Ang Pangulo (ng Estados Unidos)",
+        "rationale": "Ang Pangulo ng Estados Unidos ang humahawak ng titulong Commander in Chief, na nangangahulugang siya ang kataas-taasang pinuno ng lahat ng puwersa ng militar ng U.S. Ang papel na ito ay nakasaad sa Konstitusyon ng U.S., na nagtatatag ng kontrol ng sibilyan sa militar upang matiyak na ang kapangyarihan ng militar ay sumasailalim sa demokratikong pamahalaan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang Tagapagsalita (ng Kapulungan)"
+      },
+      {
+        "text": "Ang Punong Mahistrado (ng Korte Suprema)"
+      },
+      {
+        "text": "Ang Pangalawang Pangulo (ng Estados Unidos)"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Sino ang lumagda ng mga panukalang batas upang maging ganap na batas?",
+    "correctAnswers": [
+      {
+        "text": "name of your U.S. Representative",
+        "rationale": "Ginagampanan ng Pangulo ng Estados Unidos ang isang mahalagang papel sa proseso ng paggawa ng batas. Matapos makapasa ang isang panukalang batas sa parehong Kapulungan ng mga Kinatawan at Senado, ipinapadala ito sa Pangulo. Pagkatapos ay maaaring pirmahan ng Pangulo ang panukalang batas upang maging batas, i-veto ito (tanggihan ito), o hayaan itong maging batas nang walang pirma. Ang pirma ng pangulo ang huling hakbang sa pagpapatupad ng isang panukalang batas upang maging batas, na ginagawang maipatutupad ito sa buong bansa."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang Pangalawang Pangulo (ng Estados Unidos)"
+      },
+      {
+        "text": "Ang Ispiker (ng Kapulungan)"
+      },
+      {
+        "text": "Ang Punong Mahistrado (ng Korte Suprema)"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Sino ang nagbebeto ng mga panukalang batas? *",
+    "correctAnswers": [
+      {
+        "text": "Ang Pangulo (ng Estados Unidos)",
+        "rationale": "Paliwanag: May kapangyarihan ang Pangulo na tanggihan ang mga panukalang batas na ipinasa ng Kongreso, na pumipigil sa mga ito na maging batas.\nBackground: Ang kapangyarihang ito ay isang mahalagang bahagi ng sistema ng checks and balances sa pamahalaan ng U.S., na idinisenyo upang matiyak na walang iisang sangay ang nagiging masyadong makapangyarihan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang Ispiker (ng Mababang Kapulungan)"
+      },
+      {
+        "text": "Ang Punong Mahistrado (ng Korte Suprema)"
+      },
+      {
+        "text": "Ang Pangalawang Pangulo (ng Estados Unidos)"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Sino ang humirang ng mga pederal na hukom?",
+    "correctAnswers": [
+      {
+        "text": "Ang Pangulo (ng Estados Unidos)",
+        "rationale": "Ang Pangulo ng Estados Unidos ang nagtatalaga ng mga pederal na hukom. Ito ay bahagi ng sistema ng checks and balances, kung saan ang Sangay ng Ehekutibo (Pangulo) ang nagmumungkahi ng mga hukom, at ang Sangay ng Lehislatibo (Senado) ang nagpapatunay sa mga nominasyong ito. Tinitiyak nito na walang iisang sangay ang nagkakaroon ng labis na kapangyarihan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang Punong Mahistrado (ng Kataas-taasang Hukuman)"
+      },
+      {
+        "text": "Ang Senado (ng Estados Unidos)"
+      },
+      {
+        "text": "Ang Ispiker (ng Kapulungan ng mga Kinatawan)"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ang sangay na tagapagpaganap ay may maraming bahagi. Pangalanan ang isa.",
+    "correctAnswers": [
+      {
+        "text": "name of one of your U.S. Senators",
+        "rationale": "Ang sangay na tagapagpaganap ay may pananagutan sa pagpapatupad at pagpapatupad ng mga batas na isinulat ng Kongreso. Ang Pangulo ng Estados Unidos ang pinuno ng sangay na tagapagpaganap. Tinutulungan ng Gabinete at mga pederal na departamento at ahensya ang Pangulo na isagawa ang mga tungkuling ito."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Korte Suprema (ng Estados Unidos)"
+      },
+      {
+        "text": "Kongreso"
+      },
+      {
+        "text": "mga lehislatura at ahensya ng Estado"
+      },
+      {
+        "text": "Tagapagsalita (ng Kapulungan)"
+      },
+      {
+        "text": "Senado"
+      },
+      {
+        "text": "mga lokal na departamento at ahensya"
+      },
+      {
+        "text": "Punong Mahistrado (ng Korte Suprema)"
+      },
+      {
+        "text": "Kapulungan ng mga Kinatawan"
+      },
+      {
+        "text": "mga departamento at ahensya ng Kondado"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ano ang ginagawa ng Gabinete ng Pangulo?",
+    "correctAnswers": [
+      {
+        "text": "name of your state",
+        "rationale": "Ang Gabinete ng Pangulo ay binubuo ng mga pinuno ng mga executive department, na pinili ng Pangulo, at ang kanilang pangunahing tungkulin ay payuhan ang Pangulo sa mga bagay na may kaugnayan sa kani-kanilang mga departamento at mas malawak na pambansang isyu. Ang advisory body na ito ay tumutulong sa Pangulo na makagawa ng matalinong mga desisyon at magpatupad ng mga patakaran."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pag-apruba ng mga batas (mula sa Kongreso)"
+      },
+      {
+        "text": "Paghirang ng mga Hukom ng Korte Suprema (para sa bansa)"
+      },
+      {
+        "text": "Pag-uutos sa militar (ng bansa)"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ano ang dalawang posisyon sa antas Gabinete?",
+    "correctAnswers": [
+      {
+        "text": "name of the capital of your state",
+        "rationale": "Ang Gabinete ng Estados Unidos ay binubuo ng mga pinaka-senior na itinalagang opisyal ng sangay na ehekutibo ng pederal na pamahalaan. Ang papel ng Gabinete ay payuhan ang Pangulo sa anumang paksa na maaaring kailanganin niya na may kaugnayan sa mga tungkulin ng kani-kanilang mga opisina. Ang mga posisyong ito ay madalas na tinutukoy bilang \"antas-Gabinete\" dahil ang mga humahawak nito ay itinuturing na bahagi ng panloob na bilog ng mga tagapayo ng Pangulo."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Chief of Staff"
+      },
+      {
+        "text": "Press Secretary"
+      },
+      {
+        "text": "Ambassador to the United Nations: Pinuno ng Staff"
+      },
+      {
+        "text": "Kalihim ng Pamamahayag"
+      },
+      {
+        "text": "Ambasador sa United Nations"
+      },
+      {
+        "text": "Federal Reserve Chairman"
+      },
+      {
+        "text": "Supreme Court Justice"
+      },
+      {
+        "text": "Speaker of the House: Tagapangulo ng Federal Reserve"
+      },
+      {
+        "text": "Mahistrado ng Korte Suprema"
+      },
+      {
+        "text": "Ispiker ng Kapulungan"
+      },
+      {
+        "text": "Director of the FBI"
+      },
+      {
+        "text": "Commissioner of the IRS"
+      },
+      {
+        "text": "Postmaster General: Direktor ng FBI"
+      },
+      {
+        "text": "Komisyoner ng IRS"
+      },
+      {
+        "text": "Postmaster General"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Bakit mahalaga ang Electoral College?",
+    "correctAnswers": [
+      {
+        "text": "Nagpapasya ito kung sino ang nahalal na presidente., Nagbibigay ito ng kompromiso sa pagitan ng popular na halalan ng presidente at pagpili ng kongreso.",
+        "rationale": "Ang Electoral College ay isang sistema na itinatag ng Konstitusyon ng U.S. para sa hindi direktang pagpili ng presidente at bise presidente. Bawat estado ay binibigyan ng bilang ng mga boto ng elektoral batay sa kabuuang bilang ng mga kinatawan nito sa Kongreso (House + Senate). Kapag bumoto ang mga mamamayan sa isang halalan ng pampanguluhan, technically, bumoboto sila para sa isang grupo ng mga elektor na nangakong susuporta sa isang partikular na kandidato. Mahalaga ang Electoral College sa dalawang pangunahing dahilan: 1. Ito ang nagpapasya kung sino ang nahalal na presidente, dahil ang isang kandidato ay dapat manalo ng mayorya ng mga boto ng elektoral (270 sa 538) upang mahalal. 2. Ito ay kumakatawan sa isang kompromiso sa pamamagitan ng pagbabalanse ng kalooban ng popular na boto sa representasyon ng mga estado, partikular ang mga may mas maliliit na populasyon. Tinitiyak nito na ang mga kandidato ay nangangailangan ng malawak na suporta sa iba't ibang rehiyon at hindi lamang sa mga lugar na may mataas na populasyon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pinapayagan nito ang mga estado na bumoto sa mga susog."
+      },
+      {
+        "text": "Tinitiyak nito na ang mas maliliit na estado ay may mas kaunting kapangyarihan kaysa sa mas malalaking estado."
+      },
+      {
+        "text": "Tinutukoy nito ang bilang ng mga kinatawan na nakukuha ng bawat estado."
+      },
+      {
+        "text": "Responsable ito sa pag-apruba ng mga paghirang ng presidente."
+      },
+      {
+        "text": "Ito ay isang advisory body sa Korte Suprema."
+      },
+      {
+        "text": "Itinatag ito upang limitahan ang kapangyarihan ng pederal na pamahalaan."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ano ang isang bahagi ng sangay ng hudikatura?",
+    "correctAnswers": [
+      {
+        "text": "Kataas-taasang Hukuman, Mga Hukuman ng Pederal",
+        "rationale": "Ang sangay ng hudikatura ay responsable sa pagpapakahulugan ng mga batas ng Estados Unidos at paglutas ng mga legal na hindi pagkakaunawaan. Binubuo ito ng Korte Suprema, na siyang pinakamataas na korte sa bansa, at mga pederal na korte, na humahawak sa mga kaso na kinasasangkutan ng pederal na batas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Sangay ng Lehislatibo"
+      },
+      {
+        "text": "Sangay ng Ehekutibo"
+      },
+      {
+        "text": "Gabinete ng Pangulo"
+      },
+      {
+        "text": "Mga Gobernador ng Estado"
+      },
+      {
+        "text": "Kapulungan ng mga Kinatawan"
+      },
+      {
+        "text": "Senado"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ano ang ginagawa ng hudisyal na sangay?",
+    "correctAnswers": [
+      {
+        "text": "Sinusuri ang mga batas, nagpapaliwanag ng mga batas, nagreresolba ng mga hindi pagkakasundo (pagtatalo) tungkol sa batas, nagpapasya kung ang isang batas ay labag sa Konstitusyon (ng U.S.)",
+        "rationale": "Ang Sangay ng Hudikatura ay responsable para sa pagbibigay-kahulugan sa mga batas ng Estados Unidos at para sa paglutas ng mga legal na alitan. Tinitiyak nito na ang mga batas ay inilalapat nang patas at na sumusunod sila sa Konstitusyon ng U.S. Ang mga pangunahing tungkulin nito ay kinabibilangan ng: pagsusuri ng mga batas, pagpapaliwanag kung ano ang ibig sabihin ng mga batas, pag-aayos ng mga hindi pagkakasundo tungkol sa mga batas, at pagpapasya kung ang isang batas ay lumalabag sa Konstitusyon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nagpapatupad ng mga batas"
+      },
+      {
+        "text": "Gumagawa ng mga batas"
+      },
+      {
+        "text": "Nagtatalaga ng mga hukom (sa Korte Suprema)"
+      },
+      {
+        "text": "Nagdedeklara ng digmaan."
+      },
+      {
+        "text": "Naghalal ng Pangulo"
+      },
+      {
+        "text": "Nangongolekta ng mga buwis"
+      },
+      {
+        "text": "Namamahala sa militar (at depensa)"
+      },
+      {
+        "text": "Nagpipirma ng mga kasunduan."
+      },
+      {
+        "text": "Nakikipag-ayos sa ibang mga bansa"
+      },
+      {
+        "text": "Naglilimbag ng pera"
+      },
+      {
+        "text": "Nagbibigay ng pampublikong edukasyon"
+      },
+      {
+        "text": "Nagreregula ng kalakalan."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ano ang pinakamataas na korte sa Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Kataas-taasang Hukuman",
+        "rationale": "Ang Korte Suprema ang pinakamataas na korte sa Estados Unidos at ang huling tagapagpasya ng batas. Itinatag ito ng Judiciary Act of 1789 na may anim na hukom, at kasalukuyang binubuo ng isang Punong Mahistrado at walong Katuwang na Mahistrado. Ang mga hukom na ito ay itinalaga ng Pangulo, kinumpirma ng Senado, at karaniwang nanunungkulan habambuhay. Ang Korte ay may kapangyarihan ng judicial review, na nagpapahintulot dito na bigyang-kahulugan ang Konstitusyon at suriin ang mga batas ng Kongreso."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Hukuman ng Distrito"
+      },
+      {
+        "text": "Hukuman ng Sirkito"
+      },
+      {
+        "text": "Hukuman ng Apela"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ilang upuan ang mayroon sa Korte Suprema?",
+    "correctAnswers": [
+      {
+        "text": "Siyam",
+        "rationale": "Ang Korte Suprema ng Estados Unidos ay binubuo ng isang Punong Mahistrado at walong Associate Justice, para sa kabuuang siyam na miyembro. Ang bilang na ito ay itinakda mula pa noong 1869. Ang mga hukom ay nominado ng Pangulo at kinumpirma ng Senado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pito"
+      },
+      {
+        "text": "Walo"
+      },
+      {
+        "text": "Sampu"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ilan sa mga Mahistrado ng Korte Suprema ang karaniwang kinakailangan upang magpasya sa isang kaso?",
+    "correctAnswers": [
+      {
+        "text": "Lima",
+        "rationale": "Nagpapasya ang Korte Suprema sa mga kaso sa pamamagitan ng mayorya ng boto, at kinakailangan ang quorum ng anim na Mahistrado upang magpasya sa isang kaso. Samakatuwid, kung hindi bababa sa lima sa siyam na Mahistrado ang sumasang-ayon, ang kanilang pananaw ang mangingibabaw."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dalawa (2)"
+      },
+      {
+        "text": "Apat (4)"
+      },
+      {
+        "text": "Anim (6)"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Gaano katagal nagsisilbi ang mga hukom ng Korte Suprema?",
+    "correctAnswers": [
+      {
+        "text": "Habambuhay, Habambuhay na appointment, Hanggang sa pagreretiro",
+        "rationale": "Ang mga mahistrado ng Korte Suprema sa Estados Unidos ay nanunungkulan habambuhay, o hanggang sa magpasya silang magretiro, magbitiw, o matanggal sa pamamagitan ng proseso ng impeachment. Ang panghabambuhay na panunungkulan na ito ay idinisenyo upang matiyak ang kanilang kalayaan mula sa panggigipit ng pulitika, na nagpapahintulot sa kanila na gumawa ng mga desisyon batay lamang sa batas nang walang takot na mawala ang kanilang mga trabaho."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Para sa) 2 taon"
+      },
+      {
+        "text": "2-taong termino"
+      },
+      {
+        "text": "(Hanggang) sa susunod na halalan"
+      },
+      {
+        "text": "(Para sa) 4 na taon"
+      },
+      {
+        "text": "4-na-taong termino"
+      },
+      {
+        "text": "(Hanggang) sa bagong pangulo"
+      },
+      {
+        "text": "(Para sa) 6 na taon"
+      },
+      {
+        "text": "6-na-taong termino"
+      },
+      {
+        "text": "(Hanggang) sa muling halalan"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ang mga mahistrado ng Korte Suprema ay naglilingkod habambuhay. Bakit?",
+    "correctAnswers": [
+      {
+        "text": "Upang maging malaya (sa pulitika), Upang limitahan ang impluwensya ng labas (pampulitika)",
+        "rationale": "Ang mga mahistrado ng Korte Suprema ay binibigyan ng habambuhay na panunungkulan upang matiyak na ang kanilang mga desisyon ay nakabatay lamang sa mga legal na prinsipyo, malaya sa pampulitikang panggigipit o sa pangangailangang mangampanya para sa muling halalan. Nakakatulong ang kalayaan na ito upang mapanatili ang isang hindi partisanong hudikatura."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Upang maging umaasa (sa pulitika)"
+      },
+      {
+        "text": "Upang dagdagan ang impluwensya ng labas (pampulitika)"
+      },
+      {
+        "text": "Upang sundin ang mga partidong pampulitika"
+      },
+      {
+        "text": "Upang balewalain ang pampublikong opinyon"
+      },
+      {
+        "text": "Upang maglingkod nang maikling termino"
+      },
+      {
+        "text": "Upang maimpluwensyahan (ng pulitika)"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Sino ang Punong Mahistrado ng Estados Unidos ngayon?",
+    "correctAnswers": [
+      {
+        "text": "Sagot",
+        "rationale": "Ang Punong Mahistrado ng Estados Unidos ay si John Roberts. Ang sagot ay nag-iiba-iba dahil ang posisyon ay hawak habang-buhay, at ang kasalukuyang Punong Mahistrado ay maaaring magbago dahil sa pagreretiro, pagbibitiw, o pagkamatay."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Sonia Sotomayor"
+      },
+      {
+        "text": "Elena Kagan"
+      },
+      {
+        "text": "Amy Coney Barrett"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Pangalanan ang isang kapangyarihan na para lamang sa pederal na pamahalaan.",
+    "correctAnswers": [
+      {
+        "text": "Mag-imprenta ng perang papel, Mag-mint ng barya, Magdeklara ng digmaan, Gumawa ng hukbo, Gumawa ng mga kasunduan, Magtakda ng patakarang panlabas",
+        "rationale": "Ang pederal na pamahalaan sa Estados Unidos ay may mga tiyak na kapangyarihan na hindi ibinabahagi sa mga pamahalaan ng estado. Ang mga ito ay tinatawag na enumerated powers, ibig sabihin, hayagang nakalista ang mga ito sa Konstitusyon. Halimbawa, ang pederal na pamahalaan lamang ang maaaring:  * Mag-imprenta ng pera at magmint ng mga barya: Tinitiyak nito ang isang pare-parehong salapi sa buong bansa.   * Magdeklara ng digmaan, lumikha ng hukbo, at gumawa ng mga kasunduan: Mahalaga ang mga ito para sa pambansang depensa at patakarang panlabas.   * Magtakda ng patakarang panlabas: Nagbibigay-daan ito sa US na kumilos bilang isang solong entity sa internasyonal na relasyon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Magbigay ng lisensya sa pagmamaneho"
+      },
+      {
+        "text": "Magbigay ng pagtuturo at edukasyon"
+      },
+      {
+        "text": "Magbigay ng proteksyon (pulis)"
+      },
+      {
+        "text": "Magpataw ng buwis sa mga tao"
+      },
+      {
+        "text": "Magdeklara ng digmaan"
+      },
+      {
+        "text": "Gumawa ng hukbo"
+      },
+      {
+        "text": "Gumawa ng mga kasunduan"
+      },
+      {
+        "text": "Magtakda ng patakarang panlabas"
+      },
+      {
+        "text": "Magbigay ng mga departamento ng pulisya at bumbero"
+      },
+      {
+        "text": "Magbigay ng lisensya sa pagmamaneho"
+      },
+      {
+        "text": "Magbenta ng lisensya sa pangangaso"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Pangalanan ang isang kapangyarihan na para lamang sa mga estado.",
+    "correctAnswers": [
+      {
+        "text": "Magbigay ng pag-aaral at edukasyon, Magbigay ng proteksyon (pulis), Magbigay ng kaligtasan (kagawaran ng bumbero), Magbigay ng lisensya sa pagmamaneho, Aprubahan ang paggamit ng zoning at lupa",
+        "rationale": "Sa sistemang Amerikano ng pamahalaan, ang mga kapangyarihan ay hinahati sa pagitan ng pederal (pambansa) na pamahalaan at mga pamahalaan ng estado. Ang ilang mga kapangyarihan ay eksklusibo para sa mga estado. Kabilang dito ang pagtatatag ng mga lokal na pamahalaan, pagtatayo ng mga paaralan, pagbibigay ng mga lisensya, at pagbibigay ng mga serbisyo ng pulisya at bumbero. Ang mga kapangyarihang ito ay nagpapahintulot sa mga estado na tugunan ang mga tiyak na pangangailangan ng kanilang mga residente."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Maglimbag ng pera"
+      },
+      {
+        "text": "Magpahayag ng giyera"
+      },
+      {
+        "text": "Lumikha ng hukbo o hukbong-dagat"
+      },
+      {
+        "text": "Gumawa ng mga kasunduan"
+      },
+      {
+        "text": "Makipag-giyeera"
+      },
+      {
+        "text": "Magpiko o maglimbag ng pera"
+      },
+      {
+        "text": "Mag-regulate ng komersyo"
+      },
+      {
+        "text": "Magtatag ng mga post office"
+      },
+      {
+        "text": "Magbigay ng mga patente at copyright"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Ano ang layunin ng ika-10 Susog?",
+    "correctAnswers": [
+      {
+        "text": "(Sinasabi nito na ang) mga kapangyarihang hindi ibinigay sa pederal na pamahalaan ay sa mga estado o sa mga tao.",
+        "rationale": "Ang Ika-10 Susog ay nagpapatibay sa prinsipyo ng pederalismo, na nangangahulugang ang mga kapangyarihang hindi partikular na ibinigay sa pederal na pamahalaan ng Konstitusyon, o hindi ipinagbabawal sa mga estado, ay nakareserba para sa mga estado, o para sa mga tao. Tinitiyak nito ang balanse ng kapangyarihan sa pagitan ng pederal at mga pamahalaan ng estado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Sinasabi nito na ang) mga kapangyarihang hindi ibinigay sa pederal na pamahalaan ay sa Presidente o sa Korte Suprema."
+      },
+      {
+        "text": "(Sinasabi nito na ang) mga kapangyarihang hindi ibinigay sa pederal na pamahalaan ay sa mga lungsod o sa militar."
+      },
+      {
+        "text": "(Sinasabi nito na ang) mga kapangyarihang hindi ibinigay sa pederal na pamahalaan ay sa UN o sa ibang mga bansa."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "System of Government",
+    "question": "Sino ang gobernador ng iyong estado ngayon?",
+    "correctAnswers": [
+      {
+        "text": "Sagot",
+        "rationale": "Ang sagot sa \"Sino ang gobernador ng iyong estado ngayon?\" ay mag-iiba-iba dahil bawat isa sa 50 estado sa Estados Unidos ay may sariling gobernador. Ang mga gobernador ay ang mga punong ehekutibo ng kani-kanilang estado at responsable sa pagpapatupad ng mga batas ng estado at pangangasiwa sa sangay ehekutibo ng pamahalaan ng estado. Ang kanilang mga partikular na tungkulin at kapangyarihan ay maaaring magkaiba-iba sa bawat estado, ngunit karaniwang kasama rito ang paglagda ng mga panukalang batas, pagmumungkahi ng mga badyet, at pagmamando sa National Guard ng estado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Sarah Chen - Mali"
+      },
+      {
+        "text": "David Rodriguez - Mali"
+      },
+      {
+        "text": "Emily White - Mali"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Rights and Responsibilities",
+    "question": "Ano ang kabisera ng iyong estado?",
+    "correctAnswers": [
+      {
+        "text": "Ang mga sagot ay mag-iiba-iba.",
+        "rationale": "Background: Sa Estados Unidos, ang bawat estado ay may sariling kabisera, kung saan matatagpuan ang pamahalaan ng estado. Paliwanag: Nag-iiba-iba ang sagot dahil mayroong 50 iba't ibang estado, at bawat tao ay magbibigay ng kabisera ng kanilang partikular na estado."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "George Washington"
+      },
+      {
+        "text": "Abraham Lincoln"
+      },
+      {
+        "text": "John F. Kennedy"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Rights and Responsibilities",
+    "question": "Mayroong apat na susog sa Konstitusyon ng U.S. tungkol sa kung sino ang maaaring bumoto. Ilarawan ang isa sa mga ito.",
+    "correctAnswers": [
+      {
+        "text": "Mga mamamayan na labingwalong (18) taong gulang pataas (makakaboto)., Hindi mo kailangang magbayad (ng buwis sa botohan) upang makaboto., Sinumang mamamayan ay maaaring bumoto. (Ang mga babae at lalaki ay maaaring bumoto.), Isang lalaking mamamayan ng anumang lahi (ay maaaring bumoto).",
+        "rationale": "Ang Ika-15, Ika-19, Ika-24, at Ika-26 na Susog ay nagpalawak ng mga karapatan sa pagboto sa U.S. upang isama ang mga mamamayan anuman ang lahi, kasarian, o kakayahang magbayad ng buwis sa botohan, at ibinaba ang edad ng pagboto sa 18. Bawat susog ay unti-unting nagpalawak kung sino ang maaaring lumahok sa demokratikong proseso."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tanging mga mamamayan na 21 taong gulang o mas matanda ang maaaring bumoto."
+      },
+      {
+        "text": "Kailangan mong magbayad ng buwis (sa botohan) upang makaboto."
+      },
+      {
+        "text": "Tanging mga lalaking mamamayan lamang ang maaaring bumoto."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Rights and Responsibilities",
+    "question": "Sino ang maaaring bumoto sa pederal na halalan, tumakbo para sa pederal na katungkulan, at maglingkod sa hurado sa Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Mga Mamamayan, Mga Mamamayan ng Estados Unidos, Mga mamamayang U.S.",
+        "rationale": "Paliwanag: Ang mga mamamayan lamang ng Estados Unidos ang binibigyan ng mga karapatan at responsibilidad na bumoto sa pederal na halalan, tumakbo para sa pederal na katungkulan, at maglingkod sa hurado.\nBackground: Ang mga karapatan at responsibilidad na ito ay mahalaga sa sistemang demokratiko ng Amerika at inilaan para sa mga mamamayan upang matiyak ang kanilang direktang paglahok at representasyon sa pamahalaan at sa sistema ng hustisya."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mga Permanenteng Residente"
+      },
+      {
+        "text": "Legal na Permanenteng Residente"
+      },
+      {
+        "text": "May Hawak ng Green Card"
+      },
+      {
+        "text": "Mga Hindi Mamamayan"
+      },
+      {
+        "text": "Mga Dayuhang Nasyonal"
+      },
+      {
+        "text": "May Hawak ng Visa"
+      },
+      {
+        "text": "Mga Menor de Edad"
+      },
+      {
+        "text": "Mga Bata"
+      },
+      {
+        "text": "Wala pang 18 Taong Gulang"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Rights and Responsibilities",
+    "question": "Ano ang tatlong karapatan ng bawat isa na naninirahan sa Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Kalayaan sa pagpapahayag, Kalayaan sa pagsasalita, Kalayaan sa pagtitipon, Kalayaan na magpetisyon sa pamahalaan, Kalayaan sa relihiyon, Karapatang magdala ng armas",
+        "rationale": "Background: Ginagarantiyahan ng Konstitusyon ng Estados Unidos ang ilang pangunahing karapatan sa lahat ng indibidwal na naninirahan sa bansa. Ang mga karapatang ito ay madalas na tinutukoy bilang mga kalayaang sibil at pinoprotektahan ng batas. Paliwanag ng mga Sagot: Ito ay mga halimbawa ng mga pangunahing kalayaan na mayroon ang mga indibidwal sa U.S., na nagpapahintulot sa kanila na ipahayag ang kanilang sarili, magtipon nang mapayapa, magsagawa ng kanilang relihiyon, at humingi ng pagbabago sa pamahalaan. Ang karapatan na magdala ng armas ay isa ring karapatang protektado ng konstitusyon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Maling Sagot:"
+      },
+      {
+        "text": "Kalayaan sa pagmamaneho"
+      },
+      {
+        "text": "Kalayaan sa pagtatayo"
+      },
+      {
+        "text": "Kalayaan sa paglalakbay"
+      },
+      {
+        "text": "Karapatang magkaroon ng sasakyan"
+      },
+      {
+        "text": "Karapatang magkaroon ng trabaho"
+      },
+      {
+        "text": "Karapatang manirahan kahit saan"
+      },
+      {
+        "text": "Kalayaan sa pagboto"
+      },
+      {
+        "text": "Kalayaan sa edukasyon"
+      },
+      {
+        "text": "Kalayaan sa pangangalaga ng kalusugan"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Rights and Responsibilities",
+    "question": "Sa ano tayo nagpapakita ng katapatan kapag sinasabi natin ang Panunumpa ng Katapatan?",
+    "correctAnswers": [
+      {
+        "text": "Ang Estados Unidos, Ang bandila",
+        "rationale": "Background: Ang Panunumpa ng Katapatan ay isang pangako ng katapatan sa Estados Unidos.\nPaliwanag: Kapag sinasabi natin ang Panunumpa ng Katapatan, ipinapakita natin ang ating katapatan sa Estados Unidos bilang isang bansa at sa bandila nito, na sumisimbolo sa bansa at sa mga halaga nito."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang Saligang Batas"
+      },
+      {
+        "text": "Ang Pangulo"
+      },
+      {
+        "text": "Ang White House"
+      },
+      {
+        "text": "Kongreso"
+      },
+      {
+        "text": "Ang Korte Suprema"
+      },
+      {
+        "text": "Ang mga estado"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Rights and Responsibilities",
+    "question": "Pangalanan ang dalawang pangako na ginagawa ng mga bagong mamamayan sa Panunumpa ng Katapatan.",
+    "correctAnswers": [
+      {
+        "text": "Ibigay ang katapatan sa ibang bansa, Ipagtanggol ang Konstitusyon (ng U.S.), Sundin ang mga batas ng Estados Unidos, Manilbihan sa militar (kung kinakailangan), Manilbihan (tumulong, gumawa ng mahahalagang gawain para) sa bansa (kung kinakailangan), Maging tapat sa Estados Unidos",
+        "rationale": "Kapag ang mga bagong mamamayan ay nanunumpa ng Katapatan, gumagawa sila ng mahahalagang pangako upang ipakita ang kanilang pangako sa Estados Unidos. Kasama sa mga pangakong ito ang pagtalikod sa katapatan sa ibang mga bansa, pagtataguyod sa Konstitusyon ng U.S., pagsunod sa mga batas, at pagiging handa na maglingkod sa bansa kung kinakailangan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Bumoto sa halalan"
+      },
+      {
+        "text": "Huwag sundin ang Konstitusyon (ng U.S.)"
+      },
+      {
+        "text": "Balewalain ang mga batas ng Estados Unidos"
+      },
+      {
+        "text": "Tumangging maglingkod sa militar (kung kinakailangan)"
+      },
+      {
+        "text": "Iwasan ang paglilingkod (pagtulong"
+      },
+      {
+        "text": "paggawa ng mahahalagang gawain para) sa bansa (kung kinakailangan)"
+      },
+      {
+        "text": "Maging taksil sa Estados Unidos"
+      },
+      {
+        "text": "Panatilihin ang katapatan sa ibang bansa"
+      },
+      {
+        "text": "Huwag ipagtanggol ang Konstitusyon (ng U.S.)"
+      },
+      {
+        "text": "Huwag sundin ang mga batas ng Estados Unidos"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Rights and Responsibilities",
+    "question": "Paano maging mamamayan ng Estados Unidos ang mga tao?",
+    "correctAnswers": [
+      {
+        "text": "Maging ipinanganak sa Estados Unidos, sa ilalim ng mga kondisyon na itinakda ng ika-14 na Susog, Maging naturalized, Magmula ng pagkamamamayan (sa ilalim ng mga kondisyon na itinakda ng Kongreso)",
+        "rationale": "Maging ipinanganak sa Estados Unidos, sa ilalim ng mga kondisyon na itinakda ng ika-14 na Susog, Maging naturalized, Magmula ng pagkamamamayan (sa ilalim ng mga kondisyon na itinakda ng Kongreso)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Sumapi sa militar (at maglingkod sa itinakdang panahon)"
+      },
+      {
+        "text": "Magpakasal sa isang mamamayan ng Estados Unidos"
+      },
+      {
+        "text": "Manalo sa lotto (para sa permanenteng paninirahan)"
+      },
+      {
+        "text": "Bumili ng ari-arian sa Estados Unidos"
+      },
+      {
+        "text": "Magkaroon ng negosyo"
+      },
+      {
+        "text": "Magkaroon ng kamag-anak (na mamamayan)"
+      },
+      {
+        "text": "Bumoto sa pederal na halalan"
+      },
+      {
+        "text": "Magbayad ng buwis (sa loob ng ilang taon)"
+      },
+      {
+        "text": "Pumasok sa isang unibersidad sa Estados Unidos (at magtapos)"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Rights and Responsibilities",
+    "question": "Ano ang dalawang halimbawa ng civic participation sa Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Bumoto, Tumakbo sa halalan, Sumali sa isang partidong pampulitika, Tumulong sa isang kampanya, Sumali sa isang civic group, Sumali sa isang community group, Ibigay ang iyong opinyon sa isang inihalal na opisyal (tungkol sa isang isyu), Makipag-ugnayan sa mga inihalal na opisyal, Suportahan o tutulan ang isang isyu o patakaran, Sumulat sa isang pahayagan",
+        "rationale": "Ang paglahok ng mamamayan ay tumutukoy sa mga paraan kung paano nakikipag-ugnayan ang mga mamamayan sa kanilang mga komunidad at pamahalaan. Dalawang karaniwang halimbawa ay ang pagboto sa halalan at ang pagsali sa isang partidong pampulitika upang suportahan ang mga partikular na kandidato o patakaran."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Magbayad ng buwis"
+      },
+      {
+        "text": "Sumunod sa batas trapiko"
+      },
+      {
+        "text": "Maglingkod sa hurado"
+      },
+      {
+        "text": "Igalang ang paniniwala ng iba"
+      },
+      {
+        "text": "Magboluntaryo sa komunidad"
+      },
+      {
+        "text": "Regular na pumasok sa paaralan"
+      },
+      {
+        "text": "Sundin ang mga batas"
+      },
+      {
+        "text": "Regular na mag-ehersisyo"
+      },
+      {
+        "text": "Mag-recycle ng mga basurang materyales"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Rights and Responsibilities",
+    "question": "Generating formulas is not supported. Please use the Gemini side panel instead.",
+    "correctAnswers": [
+      {
+        "text": "Bumoto, Magbayad ng buwis, Sumunod sa batas, Maglingkod sa militar, Tumakbo para sa katungkulan, Magtrabaho para sa lokal, estado, o pederal na pamahalaan",
+        "rationale": "Ang paglilingkod sa iyong bansa ay nangangahulugang aktibong pakikilahok sa mga responsibilidad ng pagkamamamayan upang matulungan ang bansa at ang mga tao nito. Kabilang dito ang mga tungkuling sibiko tulad ng pagboto at pagsunod sa mga batas, gayundin ang mas direktang paglilingkod tulad ng paglahok sa militar o pagtatrabaho para sa gobyerno."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Huwag bumoto"
+      },
+      {
+        "text": "Huwag magbayad ng buwis"
+      },
+      {
+        "text": "Hindi pagsunod sa batas"
+      },
+      {
+        "text": "Huwag maglingkod sa militar"
+      },
+      {
+        "text": "Huwag tumakbo para sa katungkulan"
+      },
+      {
+        "text": "Huwag magtrabaho para sa gobyerno"
+      },
+      {
+        "text": "Balewalain ang mga batas"
+      },
+      {
+        "text": "umiwas sa buwis"
+      },
+      {
+        "text": "Kawalang-galang sa awtoridad"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "category": "Pamahalaan ng Amerika",
+    "subcategory": "Rights and Responsibilities",
+    "question": "Bakit mahalaga na magbayad ng buwis sa pederal?",
+    "correctAnswers": [
+      {
+        "text": "Ito ay kinakailangan ng batas, Lahat ng tao ay nagbabayad upang pondohan ang pederal na pamahalaan, Kinakailangan ng (U.S.) Konstitusyon (ika-16 na Susog), Tungkulin ng mamamayan",
+        "rationale": "Ang pagbabayad ng pederal na buwis ay isang civic duty at isang legal na kinakailangan sa Estados Unidos, tulad ng ipinag-uutos ng batas at ng ika-16 na Susog ng Konstitusyon ng U.S. Ang mga buwis na ito ay nagpopondo sa pederal na pamahalaan at sa mga operasyon nito."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Hindi kinakailangan ng batas"
+      },
+      {
+        "text": "Lahat ng tao ay nagbabayad para sa benepisyo"
+      },
+      {
+        "text": "Hindi kinakailangan ng (U.S.) Konstitusyon (Unang Susog)"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Rights and Responsibilities",
+    "question": "Mahalaga para sa lahat ng lalaki na may edad 18 hanggang 25 na magparehistro para sa Selective Service. Magbigay ng isang dahilan kung bakit.",
+    "correctAnswers": [
+      {
+        "text": "Kinakailangan ng batas, Tungkulin ng mamamayan, Ginagawang patas ang draft, kung kailangan",
+        "rationale": "Ang Selective Service System ay nangangailangan ng halos lahat ng lalaking mamamayan ng U.S. at mga lalaking imigrante na naninirahan sa U.S. na may edad na 18-25 taong gulang na magparehistro. Mahalaga ang pagpaparehistro na ito dahil ito ay ipinag-uutos ng batas, itinuturing na tungkulin ng mamamayan, at nakakatulong upang matiyak ang isang patas at makatarungang proseso ng draft kung kinakailangan ng pambansang emerhensiya."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Iwasan ang buwis"
+      },
+      {
+        "text": "Makakuha ng libreng edukasyon"
+      },
+      {
+        "text": "Maglakbay sa mundo"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Ang mga kolonyalista ay dumating sa Amerika sa maraming dahilan. Pangalanan ang isa.",
+    "correctAnswers": [
+      {
+        "text": "Kalayaan, Kalayaang pampulitika, Kalayaan sa relihiyon, Oportunidad pang-ekonomiya, Takas sa pag-uusig",
+        "rationale": "Ang mga kolonyalista ay dumating sa Amerika na naghahanap ng mas mabuting buhay. Ang kanilang mga dahilan ay kasama ang: Kalayaan: Ang kakayahang mamuhay at sumamba ayon sa kanilang pinili nang walang pag-uusig. Kalayaang Pampulitika: Ang pagnanais para sa pamamahala sa sarili at kalayaan mula sa mapang-aping pamamahala. Kalayaan sa Relihiyon: Upang makatakas sa pag-uusig sa relihiyon at malayang maisagawa ang kanilang pananampalataya. Oportunidad Pang-ekonomiya: Ang pagkakataong magkaroon ng lupa, makahanap ng trabaho, at mapabuti ang kanilang kalagayang pinansyal. Takas sa Pag-uusig: Upang tumakas mula sa iba't ibang uri ng hirap at kawalang-katarungan sa kanilang mga sariling bansa."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mataas na buwis"
+      },
+      {
+        "text": "pamamahala ng Britanya"
+      },
+      {
+        "text": "kakulangan ng lupa"
+      },
+      {
+        "text": "Pakikipagsapalaran"
+      },
+      {
+        "text": "Ginto"
+      },
+      {
+        "text": "Bagong ruta ng kalakalan"
+      },
+      {
+        "text": "Paggalugad"
+      },
+      {
+        "text": "Agham na pagtuklas"
+      },
+      {
+        "text": "Pagpapalaganap ng demokrasya"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Sino ang nanirahan sa Amerika bago dumating ang mga Europeo?",
+    "correctAnswers": [
+      {
+        "text": "Mga Katutubong Amerikano, Katutubong Amerikano",
+        "rationale": "Mga Katutubong Amerikano, na kilala rin bilang mga Native American, ang mga orihinal na naninirahan sa Amerika sa loob ng libu-libong taon bago nagsimula ang kolonisasyon ng Europa noong huling bahagi ng ika-15 siglo. Binuo nila ang iba't ibang kultura, wika, at lipunan sa buong kontinente."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mga Europeo"
+      },
+      {
+        "text": "Mananakop"
+      },
+      {
+        "text": "Mga Aprikano"
+      },
+      {
+        "text": "Asyano"
+      },
+      {
+        "text": "Mga Viking"
+      },
+      {
+        "text": "Manggalugad"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Anong grupo ng mga tao ang kinukuha at ibinebenta bilang mga alipin?",
+    "correctAnswers": [
+      {
+        "text": "name of your state governor",
+        "rationale": "Sapilitang inalis ang mga Aprikano mula sa kanilang mga tahanan at dinala sa buong Karagatang Atlantiko upang ibenta bilang mga alipin, pangunahin upang magtrabaho sa mga plantasyon sa Amerika. Ang brutal na sistemang ito, na kilala bilang transatlantic slave trade, ay tumagal nang maraming siglo at nagdulot ng matinding pagdurusa at pagsasamantala sa milyun-milyong tao."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mga Europeo"
+      },
+      {
+        "text": "Tao mula sa Europa"
+      },
+      {
+        "text": "Mga Asyano"
+      },
+      {
+        "text": "Tao mula sa Asya"
+      },
+      {
+        "text": "Mga Katutubong Amerikano"
+      },
+      {
+        "text": "Tao mula sa Amerika"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Anong digmaan ang nilabanan ng mga Amerikano upang makamit ang kalayaan mula sa Britanya?",
+    "correctAnswers": [
+      {
+        "text": "Rebolusyong Amerikano, Digmaang Rebolusyonaryo ng Amerika, Digmaan para sa Kalayaan ng Amerika",
+        "rationale": "Ang Rebolusyong Amerikano (1775-1783) ay isang digmaan na ipinaglaban ng 13 kolonya ng Amerika laban sa Great Britain upang makamit ang kalayaan. Ang mga kolonista, na hindi masaya sa pamamahala at buwis ng Britanya, ay nagdeklara ng kalayaan at, sa tulong ng France, tinalo ang mga Briton, na bumuo sa Estados Unidos ng Amerika."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pandaigdigang Digmaan (II)"
+      },
+      {
+        "text": "Ikalawang Digmaang Pandaigdig"
+      },
+      {
+        "text": "Digmaan para sa Pandaigdigang Supremasiya"
+      },
+      {
+        "text": "Digmaang Sibil"
+      },
+      {
+        "text": "Digmaang Sibil ng Amerika"
+      },
+      {
+        "text": "Digmaan para sa Kalayaan ng Timog"
+      },
+      {
+        "text": "Digmaang Mehikano-Amerikano"
+      },
+      {
+        "text": "Digmaan sa Hangganan"
+      },
+      {
+        "text": "Digmaan para sa Paglawak ng Teritoryo"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Pangalanan ang isang dahilan kung bakit idineklara ng mga Amerikano ang kalayaan mula sa Britain.",
+    "correctAnswers": [
+      {
+        "text": "Mataas na buwis, Pagbubuwis nang walang representasyon, Ang mga sundalong British ay nanatili sa mga bahay ng mga Amerikano (boarding, quartering), Wala silang pamamahala sa sarili, Boston Massacre, Boston Tea Party (Tea Act), Stamp Act, Sugar Act, Townshend Acts, Intolerable (Coercive) Acts",
+        "rationale": "Ang mga kolonya ng Amerika ay nagpahayag ng kalayaan mula sa Britain dahil sa iba't ibang hinaing. Kabilang sa mga pangunahing dahilan ang \"pagbubuwis nang walang representasyon,\" ibig sabihin, sila ay binubuwisan ng British Parliament ngunit walang inihalal na kinatawan doon, na humantong sa mataas na buwis tulad ng Stamp Act at Sugar Act. Ang mga sundalong British ay naninirahan din sa mga tahanan ng Amerikano nang walang pahintulot. Ang mga kaganapan tulad ng Boston Massacre at Boston Tea Party ay lalo pang nagpaalab sa hangarin para sa pamamahala sa sarili."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mababang buwis"
+      },
+      {
+        "text": "Representasyon na may pagbubuwis"
+      },
+      {
+        "text": "Ang mga sundalong British ay nagtayo ng mga bahay ng mga Amerikano (konstruksyon"
+      },
+      {
+        "text": "pagtatayo)"
+      },
+      {
+        "text": "Sila ay may pamamahala sa sarili"
+      },
+      {
+        "text": "Boston Tea Party (Tea Act)"
+      },
+      {
+        "text": "Stamp Act"
+      },
+      {
+        "text": "Sugar Act"
+      },
+      {
+        "text": "Townshend Acts"
+      },
+      {
+        "text": "Intolerable (Coercive) Acts"
+      },
+      {
+        "text": "Walang buwis"
+      },
+      {
+        "text": "Maraming representasyon"
+      },
+      {
+        "text": "Ang mga sundalong British ay umalis sa mga bahay ng mga Amerikano (pagbakante"
+      },
+      {
+        "text": "paglipat)"
+      },
+      {
+        "text": "Sila ay may pamamahala sa sarili"
+      },
+      {
+        "text": "Boston Massacre"
+      },
+      {
+        "text": "Boston Tea Party (Tea Act)"
+      },
+      {
+        "text": "Stamp Act"
+      },
+      {
+        "text": "Sugar Act"
+      },
+      {
+        "text": "Townshend Acts"
+      },
+      {
+        "text": "Intolerable (Coercive) Acts"
+      },
+      {
+        "text": "Ilang buwis"
+      },
+      {
+        "text": "Pagbubuwis na may representasyon"
+      },
+      {
+        "text": "Ang mga sundalong British ay nagluto sa mga bahay ng mga Amerikano (pagkain"
+      },
+      {
+        "text": "pagluluto)"
+      },
+      {
+        "text": "Sila ay may pamamahala sa sarili"
+      },
+      {
+        "text": "Boston Tea Party (Tea Act)"
+      },
+      {
+        "text": "Stamp Act"
+      },
+      {
+        "text": "Sugar Act"
+      },
+      {
+        "text": "Townshend Acts"
+      },
+      {
+        "text": "Intolerable (Coercive) Acts"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Sino ang sumulat ng Pagpapahayag ng Kalayaan?",
+    "correctAnswers": [
+      {
+        "text": "Thomas Jefferson",
+        "rationale": "Si Thomas Jefferson ang pangunahing sumulat ng Pagpapahayag ng Kalayaan, isang mahalagang dokumento sa kasaysayan ng Amerika na nagpahayag ng kalayaan ng labintatlong kolonya ng Amerika mula sa Great Britain. Siya ay isang pangunahing pigura sa Rebolusyong Amerikano at kalaunan ay naging ikatlong Pangulo ng Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Benjamin) Franklin: Hindi siya ang pangunahing sumulat."
+      },
+      {
+        "text": "(George) Washington: Hindi siya ang pangulo noong panahong iyon."
+      },
+      {
+        "text": "(John) Adams: Hindi siya ang sumulat ng Pagpapahayag ng Kalayaan."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Kailan pinagtibay ang Deklarasyon ng Kalayaan?",
+    "correctAnswers": [
+      {
+        "text": "Hulyo 4, 1776",
+        "rationale": "Ang Deklarasyon ng Kalayaan ay isang pahayag na pinagtibay ng Ikalawang Kontinental na Kongreso na nagpupulong sa Pennsylvania State House sa Philadelphia noong Hulyo 4, 1776. Inihayag nito na ang labintatlong kolonya ng Amerika, na noo'y nakikipagdigma sa Great Britain, ay itinuturing ang kanilang sarili bilang labintatlong bagong independiyenteng soberanong estado, at hindi na sa ilalim ng pamamahala ng Britanya."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Setyembre 17"
+      },
+      {
+        "text": "1787"
+      },
+      {
+        "text": "Disyembre 15"
+      },
+      {
+        "text": "1791"
+      },
+      {
+        "text": "Nobyembre 11"
+      },
+      {
+        "text": "1620"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Ang Rebolusyong Amerikano ay nagkaroon ng maraming mahahalagang kaganapan. Pangalanan ang isa.",
+    "correctAnswers": [
+      {
+        "text": "(Labanan sa) Bunker Hill, Deklarasyon ng Kalayaan, Washington Crossing the Delaware (Labanan sa Trenton), (Labanan sa) Saratoga, Valley Forge (Kampo), (Labanan sa) Yorktown (Pagsuko ng Britanya sa Yorktown)",
+        "rationale": "Ang Rebolusyong Amerikano ay isang digmaan na ipinaglaban para sa kalayaan mula sa Great Britain. Kabilang sa mga pangunahing kaganapan ay:  * **Labanan sa Bunker Hill:** Maagang labanan na nagpakita ng pagiging matatag ng mga kolonya.\n  * **Deklarasyon ng Kalayaan:** Pormal na pahayag ng paghihiwalay mula sa pamamahala ng Britanya.\n  * **Pagtawid ni Washington sa Delaware (Labanan sa Trenton):** Isang sorpresang pag-atake na nagpataas ng moral ng mga Amerikano.\n  * **Labanan sa Saratoga:** Isang pagbabago na nagdala ng suporta ng Pransya.\n  * **Valley Forge (Kampo):** Kampo sa taglamig kung saan hinarap ng Continental Army ang mahihirap na kondisyon ngunit nag-organisa muli.\n  * **Labanan sa Yorktown:** Ang mapagpasyang labanan na humantong sa pagsuko ng Britanya."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Labanan sa) Gettysburg"
+      },
+      {
+        "text": "Pag-atake sa Pearl Harbor"
+      },
+      {
+        "text": "(Labanan sa) Antietam"
+      },
+      {
+        "text": "(Boston) Tea Party"
+      },
+      {
+        "text": "Proklamasyon ng Emansipasyon"
+      },
+      {
+        "text": "Batas ng Karapatang Sibil"
+      },
+      {
+        "text": "(Pagbili ng) Louisiana"
+      },
+      {
+        "text": "Ekspedisyon ni Lewis at Clark"
+      },
+      {
+        "text": "Kanal ng Panama"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Mayroong 13 orihinal na estado. Pangalanan ang lima.",
+    "correctAnswers": [
+      {
+        "text": "New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina, Georgia",
+        "rationale": "Background: Ang Estados Unidos ay nagpapatakbo sa ilalim ng isang sistema na idinisenyo upang maiwasan ang sinumang entidad na magkaroon ng labis na kapangyarihan.\nPaliwanag: Ang pamahalaan ng US ay isang republika, na nangangahulugang ang mga mamamayan ay naghahalal ng mga kinatawan. Ito rin ay isang pederal na republika na batay sa konstitusyon, na ginagabayan ng isang nakasulat na konstitusyon at nagbabahagi ng kapangyarihan sa pagitan ng mga pamahalaang pederal at estado. Sa wakas, ito ay isang kinatawan ng demokrasya, kung saan ang mga tao ay bumoboto para sa mga indibidwal upang gumawa ng mga desisyon sa kanilang ngalan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mali: Ang Florida"
+      },
+      {
+        "text": "California"
+      },
+      {
+        "text": "Texas"
+      },
+      {
+        "text": "Illinois"
+      },
+      {
+        "text": "at Ohio ay hindi kabilang sa orihinal na labintatlong estado."
+      },
+      {
+        "text": "Gayundin"
+      },
+      {
+        "text": "ang Washington"
+      },
+      {
+        "text": "Oregon"
+      },
+      {
+        "text": "Nevada"
+      },
+      {
+        "text": "Arizona"
+      },
+      {
+        "text": "at Utah ay hindi kasama."
+      },
+      {
+        "text": "Pati na rin ang Colorado"
+      },
+      {
+        "text": "Kansas"
+      },
+      {
+        "text": "Missouri"
+      },
+      {
+        "text": "Arkansas"
+      },
+      {
+        "text": "at Louisiana ay hindi rin."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Anong dokumento ng pagtatatag ang isinulat noong 1787?",
+    "correctAnswers": [
+      {
+        "text": "(U.S.) Saligang Batas",
+        "rationale": "Ang Konstitusyon ng U.S. ang pinakamataas na batas ng Estados Unidos. Isinulat noong 1787, itinatag nito ang balangkas para sa pederal na pamahalaan at ginagarantiya ang mga karapatan ng mga mamamayan. Binabalangkas nito ang mga kapangyarihan ng mga sangay ng lehislatibo, ehekutibo, at hudikatura, at binago sa paglipas ng panahon upang umangkop sa mga nagbabagong pangangailangan ng bansa."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Batas ng mga Karapatan)"
+      },
+      {
+        "text": "(Pagpapahayag ng Kalayaan)"
+      },
+      {
+        "text": "(Mga Artikulo ng Konfederasyon)"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Sinusuportahan ng The Federalist Papers ang pagpasa ng Konstitusyon ng U.S. Pangalanan ang isa sa mga sumulat.",
+    "correctAnswers": [
+      {
+        "text": "(James) Madison, (Alexander) Hamilton, (John) Jay, Publius",
+        "rationale": "Ang Federalist Papers ay isang serye ng 85 sanaysay na isinulat nina James Madison, Alexander Hamilton, at John Jay upang isulong ang pagpapatibay ng Konstitusyon ng Estados Unidos. Ipinaliwanag at ipinagtanggol ng mga sanaysay na ito ang bagong binuong Konstitusyon, na nangangatwiran para sa isang malakas na pederal na pamahalaan upang matiyak ang katatagan at protektahan ang mga indibidwal na kalayaan. Si Publius ang sagisag-panulat na ginamit ng tatlong manunulat na ito."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Thomas) Jefferson"
+      },
+      {
+        "text": "(Benjamin) Franklin"
+      },
+      {
+        "text": "(George) Washington"
+      },
+      {
+        "text": "Common Sense"
+      },
+      {
+        "text": "(John) Adams"
+      },
+      {
+        "text": "(Paul) Revere"
+      },
+      {
+        "text": "(Samuel) Adams"
+      },
+      {
+        "text": "The Crisis"
+      },
+      {
+        "text": "(Patrick) Henry"
+      },
+      {
+        "text": "(Thomas) Paine"
+      },
+      {
+        "text": "(Alexander) Hamilton"
+      },
+      {
+        "text": "The Rights of Man"
+      },
+      {
+        "text": "(Thomas) Jefferson"
+      },
+      {
+        "text": "(Benjamin) Franklin"
+      },
+      {
+        "text": "(George) Washington"
+      },
+      {
+        "text": "Karaniwang Kaalaman"
+      },
+      {
+        "text": "(John) Adams"
+      },
+      {
+        "text": "(Paul) Revere"
+      },
+      {
+        "text": "(Samuel) Adams"
+      },
+      {
+        "text": "Ang Krisis"
+      },
+      {
+        "text": "(Patrick) Henry"
+      },
+      {
+        "text": "(Thomas) Paine"
+      },
+      {
+        "text": "(Alexander) Hamilton"
+      },
+      {
+        "text": "Ang Mga Karapatan ng Tao"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Bakit mahalaga ang Federalist Papers?",
+    "correctAnswers": [
+      {
+        "text": "Tumulong sila sa mga tao na maunawaan ang (Konstitusyon ng U.S.)., Sinusuportahan nila ang pagpasa ng (Konstitusyon ng U.S.).",
+        "rationale": "Ang Federalist Papers ay isang serye ng mga sanaysay na isinulat upang hikayatin ang mga tao na pagtibayin ang Konstitusyon ng U.S. Ipinaliwanag nila kung paano gagana ang bagong gobyerno at kung bakit mahalaga na aprubahan ang Konstitusyon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tinulungan nila ang mga tao na maunawaan ang (U.S.) Declaration of Independence."
+      },
+      {
+        "text": "Sinusuportahan nila ang pagpasa ng (U.S.) Articles of Confederation."
+      },
+      {
+        "text": "Tinulungan nila ang mga tao na maunawaan ang (U.S.) Bill of Rights."
+      },
+      {
+        "text": "Sinusuportahan nila ang pagpasa ng (U.S.) Emancipation Proclamation."
+      },
+      {
+        "text": "Tinulungan nila ang mga tao na maunawaan ang (U.S.) Compromise of 1850."
+      },
+      {
+        "text": "Sinusuportahan nila ang pagpasa ng (U.S.) Kansas-Nebraska Act."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Si Benjamin Franklin ay sikat sa maraming bagay. Pangalanan ang isa.",
+    "correctAnswers": [
+      {
+        "text": "Itinatag ang mga unang libreng pampublikong aklatan, Unang Postmaster General ng Estados Unidos, Tumulong sa pagsulat ng Deklarasyon ng Kalayaan, Imbentor, diplomat ng U.S.",
+        "rationale": "Si Benjamin Franklin ay isang kilalang Amerikanong polimata na aktibo bilang isang manunulat, siyentista, imbentor, estadista, diplomat, printer, publisher, at pilosopong pampulitika. Kilala siya sa kanyang maraming kontribusyon sa lipunang Amerikano at sa kanyang papel sa pagtatatag ng Estados Unidos. Mga Sagot: * Itinatag ang mga unang libreng pampublikong aklatan: Itinatag ni Franklin ang Library Company of Philadelphia noong 1731, na ginagawang accessible ang mga libro sa publiko. * Unang Postmaster General ng Estados Unidos: Ni-organisa niya ang sistema ng koreo, ginagawa itong mas mahusay. * Tumulong sa pagsusulat ng Deklarasyon ng Kalayaan: Si Franklin ay isa sa limang miyembro ng komite na nagdraft ng pundasyong dokumentong ito. * Imbentor: Kabilang sa kanyang mga imbensyon ang lightning rod, bifocal glasses, at ang Franklin stove. * Diplomat ng U.S.: Malaki ang kanyang papel sa pagtiyak ng suporta ng Pransya para sa Rebolusyonaryong Digmaan ng Amerika."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Isinulat ang \"Common Sense\""
+      },
+      {
+        "text": "Nakipag-ayos sa Louisiana Purchase"
+      },
+      {
+        "text": "Pinamunuan ang Continental Army"
+      },
+      {
+        "text": "Natuklasan ang kuryente"
+      },
+      {
+        "text": "Na imbento ang telepono"
+      },
+      {
+        "text": "Unang Pangulo ng Estados Unidos"
+      },
+      {
+        "text": "Nilagdaan ang Konstitusyon"
+      },
+      {
+        "text": "Nagsulat ng Bill of Rights"
+      },
+      {
+        "text": "Komandante ng USS Constitution"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "mga tanong",
+    "correctAnswers": [
+      {
+        "text": "\"Ama ng Ating Bansa\", Unang pangulo ng Estados Unidos, Heneral ng Continental Army, Pangulo ng Constitutional Convention",
+        "rationale": "George Washington ay isang mahalagang pigura sa kasaysayan ng Amerika, na namuno sa Continental Army sa tagumpay noong Revolutionary War at naging unang Pangulo ng Estados Unidos. Madalas siyang tinatawag na \"Ama ng Ating Bansa\" dahil sa kanyang mahalagang papel sa pagtatatag ng bansa. Pinamunuan din niya ang Constitutional Convention, na bumalangkas sa Konstitusyon ng U.S."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "\"Unang naglayag patungo sa Amerika\""
+      },
+      {
+        "text": "Lumagda sa Deklarasyon ng Kalayaan"
+      },
+      {
+        "text": "Sumulat ng Konstitusyon"
+      },
+      {
+        "text": "Namuno sa Boston Tea Party"
+      },
+      {
+        "text": "\"Tagapagtatag ng New York City\""
+      },
+      {
+        "text": "Ikatlong pangulo ng Estados Unidos"
+      },
+      {
+        "text": "Heneral ng Union Army"
+      },
+      {
+        "text": "Pangulo ng Louisiana Purchase"
+      },
+      {
+        "text": "\"Nakadiskubre ng Elektrisidad\""
+      },
+      {
+        "text": "Ikalawang pangulo ng Estados Unidos"
+      },
+      {
+        "text": "May-akda ng Bill of Rights"
+      },
+      {
+        "text": "Gobernador ng California"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Si Thomas Jefferson ay sikat sa maraming bagay. Pangalanan ang isa.",
+    "correctAnswers": [
+      {
+        "text": "Manunulat ng Deklarasyon ng Kalayaan, Ikatlong pangulo ng Estados Unidos, Dinoble ang laki ng Estados Unidos (Louisiana Purchase), Unang Kalihim ng Estado, Nagtatag ng Unibersidad ng Virginia, Manunulat ng Batas ng Virginia tungkol sa Kalayaan sa Relihiyon",
+        "rationale": "Si Thomas Jefferson ay isang pangunahing personalidad sa maagang kasaysayan ng Amerika, na naglingkod bilang ikatlong Pangulo ng U.S. at ang pangunahing may-akda ng Deklarasyon ng Kalayaan, isang pundasyong dokumento para sa Estados Unidos. Ang kanyang pagkapangulo ay kilala sa Louisiana Purchase, na malaki ang pagpapalawak sa teritoryo ng bansa. Nagkaroon din siya ng mga tungkulin bilang unang Kalihim ng Estado, itinatag ang Unibersidad ng Virginia, at ipinagtanggol ang kalayaan sa relihiyon sa pamamagitan ng Virginia Statute for Religious Freedom."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Unang pangulo ng Estados Unidos"
+      },
+      {
+        "text": "Nagsulat ng Proklamasyon ng Emansipasyon"
+      },
+      {
+        "text": "Nag-imbento ng bombilya"
+      },
+      {
+        "text": "Namuno sa Hukbong Kontinental"
+      },
+      {
+        "text": "Lumagda sa Konstitusyon"
+      },
+      {
+        "text": "Nakatuklas ng Amerika"
+      },
+      {
+        "text": "Sumulat ng Bill of Rights"
+      },
+      {
+        "text": "Ikaapat na pangulo ng Estados Unidos"
+      },
+      {
+        "text": "Bumili ng Alaska"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Colonial Period and Independence",
+    "question": "Si James Madison ay sikat sa maraming bagay. Pangalanan ang isa.",
+    "correctAnswers": [
+      {
+        "text": "\"Ama ng Konstitusyon\", Ikaapat na pangulo ng Estados Unidos, Pangulo noong Digmaan ng 1812, Isa sa mga manunulat ng Federalist Papers",
+        "rationale": "James Madison ay isang pangunahing tao sa unang bahagi ng kasaysayan ng Amerika, madalas na tinatawag na \"Ama ng Konstitusyon\" para sa kanyang mahalagang papel sa pagbalangkas ng Konstitusyon ng U.S. Naglingkod din siya bilang ikaapat na Pangulo noong Digmaan ng 1812 at kasamang sumulat ng maimpluwensyang Federalist Papers."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "\"May-akda ng Deklarasyon ng Kalayaan\""
+      },
+      {
+        "text": "Pangalawang pangulo ng Estados Unidos"
+      },
+      {
+        "text": "Pangulo noong Digmaang Sibil"
+      },
+      {
+        "text": "Isa sa mga lumagda sa Konstitusyon"
+      },
+      {
+        "text": "\"Tagapagtatag ng United Nations\""
+      },
+      {
+        "text": "Ikatlong pangulo ng Estados Unidos"
+      },
+      {
+        "text": "Pangulo noong Unang Digmaang Pandaigdig"
+      },
+      {
+        "text": "Isa sa mga may-akda ng Bill of Rights"
+      },
+      {
+        "text": "\"Tagapagpalaya ng mga Alipin\""
+      },
+      {
+        "text": "Unang pangulo ng Estados Unidos"
+      },
+      {
+        "text": "Pangulo noong Rebolusyonaryong Digmaan"
+      },
+      {
+        "text": "Isa sa mga tagalikha ng Articles of Confederation"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "1800s",
+    "question": "Si Alexander Hamilton ay bantog sa maraming bagay. Pangalanan ang isa.",
+    "correctAnswers": [
+      {
+        "text": "Unang Kalihim ng Treasury, Isa sa mga manunulat ng Federalist Papers, Tumulong sa pagtatatag ng First Bank of the United States, Aide ni Heneral George Washington, Miyembro ng Continental Congress",
+        "rationale": "Si Alexander Hamilton ay isang pangunahing pigura sa maagang kasaysayan ng Amerika, na nagsilbing unang Kalihim ng Treasury. Siya ay naging instrumento sa pagtatatag ng sistema ng pananalapi ng bansa, kabilang ang First Bank of the United States. Malaki rin ang kanyang papel sa pagtataguyod ng Konstitusyon sa pamamagitan ng kanyang mga kontribusyon sa The Federalist Papers."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Unang Pangulo ng Estados Unidos"
+      },
+      {
+        "text": "Sumulat ng Deklarasyon ng Kalayaan"
+      },
+      {
+        "text": "Nag-imbento ng bumbilya"
+      },
+      {
+        "text": "Pinuno ng Hukbong Kumpederado"
+      },
+      {
+        "text": "Tumulong sa pagtatatag ng National Park Service"
+      },
+      {
+        "text": "Lumagda sa Proklamasyon ng Emansipasyon"
+      },
+      {
+        "text": "Aide kay Pangulong Abraham Lincoln"
+      },
+      {
+        "text": "Miyembro ng Korte Suprema"
+      },
+      {
+        "text": "Lumaban sa Digmaan ng 1812"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "1800s",
+    "question": "Anong teritoryo ang binili ng Estados Unidos mula sa France noong 1803?",
+    "correctAnswers": [
+      {
+        "text": "Teritoryo ng Louisiana, Louisiana",
+        "rationale": "Ang Louisiana Purchase ay isang malaking kasunduan sa lupa noong 1803 kung saan binili ng Estados Unidos ang humigit-kumulang 827,000 milya kuwadrado ng teritoryo mula sa France sa halagang humigit-kumulang $15 milyon. Ang pagkuha na ito, na epektibong nagdoble sa laki ng batang Estados Unidos, ay isang mahalagang sandali sa kasaysayan ng Amerika, na nagbibigay daan sa paglawak pakanluran sa buong kontinente."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Teritoryo ng Florida"
+      },
+      {
+        "text": "Florida"
+      },
+      {
+        "text": "Teritoryo ng Texas"
+      },
+      {
+        "text": "Texas"
+      },
+      {
+        "text": "Teritoryo ng Alaska"
+      },
+      {
+        "text": "Alaska"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "1800s",
+    "question": "Pangalanan ang isang digmaan na nilabanan ng Estados Unidos noong 1800s.",
+    "correctAnswers": [
+      {
+        "text": "Digmaan ng 1812, Digmaang Mexicano-Amerikano, Digmaang Sibil, Digmaang Espanyol-Amerikano",
+        "rationale": "Ang Estados Unidos ay kasangkot sa ilang mahahalagang salungatan noong 1800s. Ang Digmaan ng 1812 ay nilabanan laban sa Gran Britanya. Ang Digmaang Mexicano-Amerikano ay nagresulta sa malaking pagkuha ng teritoryo para sa U.S. Ang Digmaang Sibil ay isang salungatan sa pagitan ng Hilaga at Timog na mga estado sa mga isyu kabilang ang pagkaalipin. Ang Digmaang Espanyol-Amerikano ay nagmarka ng pagtatapos ng kolonisasyon ng Espanya sa Amerika at ang pagbangon ng U.S. bilang isang pandaigdigang kapangyarihan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Digmaang Koreano"
+      },
+      {
+        "text": "Digmaan sa Vietnam"
+      },
+      {
+        "text": "Digmaan sa Gulpo ng Persia"
+      },
+      {
+        "text": "Ikalawang Digmaang Pandaigdig"
+      },
+      {
+        "text": "Rebolusyong Amerikano"
+      },
+      {
+        "text": "Digmaang Pranses at Indian"
+      },
+      {
+        "text": "Unang Digmaang Pandaigdig"
+      },
+      {
+        "text": "Cold War"
+      },
+      {
+        "text": "Kilusan para sa Karapatang Sibil"
+      },
+      {
+        "text": "Great Depression"
+      },
+      {
+        "text": "Roaring Twenties"
+      },
+      {
+        "text": "Rebolusyong Industriyal"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "1800s",
+    "question": "Pangalanan ang digmaan sa U.S. sa pagitan ng Hilaga at Timog.",
+    "correctAnswers": [
+      {
+        "text": "Ang Digmaang Sibil",
+        "rationale": "Ang Digmaang Sibil ay isang digmaan na nilabanan sa Estados Unidos mula 1861 hanggang 1865 sa pagitan ng mga estado sa Hilaga (Union) at mga estado sa Timog (Confederacy). Ang pangunahing sanhi ay ang pagtatalo tungkol sa pagkaalipin, mga karapatan ng estado, at mga pagkakaiba sa ekonomiya."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang Digmaang Mehikano"
+      },
+      {
+        "text": "Ang Digmaang Koreano"
+      },
+      {
+        "text": "Ang Digmaang Vietnam"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "1800s",
+    "question": "Maraming mahahalagang kaganapan sa Digmaang Sibil. Magbigay ng isa.",
+    "correctAnswers": [
+      {
+        "text": "(Labanan ng) Fort Sumter, Proklamasyon ng Emansipasyon, (Labanan ng) Vicksburg, (Labanan ng) Gettysburg, Pagmartsa ni Sherman, (Pagsuko sa) Appomattox, (Labanan ng) Antietam/Sharpsburg, Pinatay si Lincoln.",
+        "rationale": "Ang Digmaang Sibil ay isang salungatan sa Estados Unidos mula 1861 hanggang 1865 sa pagitan ng Union (mga estadong Hilaga) at ng Confederacy (mga estadong Timog). Pangunahin itong ipinaglaban dahil sa isyu ng pang-aalipin at mga karapatan ng mga estado.\n\nNarito ang ilang mahahalagang kaganapan:  * Fort Sumter: Dito naganap ang mga unang putok ng Digmaang Sibil.\n  * Proklamasyon ng Emansipasyon: Isang utos ng pangulo ni Abraham Lincoln na nagdeklara na ang karamihan sa mga inalipin sa mga estadong Confederate ay malaya.\n  * Vicksburg: Isang malaking tagumpay ng Union na nagbigay sa kanila ng kontrol sa Ilog Mississippi.\n  * Gettysburg: Isang mahalagang tagumpay ng Union na nagmarka ng isang pagbabago sa digmaan.\n  * Pagmartsa ni Sherman: Isang mapanirang kampanyang militar na pinangunahan ni Union General William Tecumseh Sherman sa Georgia at sa Carolinas.\n  * Appomattox: Ang lugar kung saan sumuko si Confederate General Robert E. Lee kay Union General Ulysses S. Grant, na epektibong nagtapos sa Digmaang Sibil.\n  * Antietam/Sharpsburg: Ang pinakamadugong iisang-araw na labanan sa kasaysayan ng Amerika.\n  * Pinatay si Lincoln: Pinatay si Pangulong Abraham Lincoln pagkatapos ng digmaan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Pag-atake sa) Pearl Harbor"
+      },
+      {
+        "text": "Boston Tea Party"
+      },
+      {
+        "text": "Deklarasyon ng Kalayaan"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "1800s",
+    "question": "Si Abraham Lincoln ay sikat sa maraming bagay. Pangalanan ang isa.",
+    "correctAnswers": [
+      {
+        "text": "Pinalaya ang mga alipin (Proklamasyon ng Emansipasyon), Iniligtas (o pinanatili) ang Unyon, Pinamunuan ang Estados Unidos noong Digmaang Sibil, Ika-16 na pangulo ng Estados Unidos, Nagbigay ng Gettysburg Address",
+        "rationale": "Si Abraham Lincoln ang ika-16 na Pangulo ng U.S. na namuno sa bansa noong Digmaang Sibil, nagpanatili sa Unyon, at naglabas ng Emancipation Proclamation upang palayain ang mga alipin. Nagbigay rin siya ng tanyag na Gettysburg Address."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Itinatag ang Estados Unidos (Kumbensiyon sa Konstitusyon)"
+      },
+      {
+        "text": "Isinulat ang Deklarasyon ng Kalayaan"
+      },
+      {
+        "text": "Naglingkod bilang unang pangulo ng Estados Unidos"
+      },
+      {
+        "text": "Pinamunuan ang mga kolonista noong Rebolusyong Amerikano"
+      },
+      {
+        "text": "Nakipag-ayos sa Louisiana Purchase."
+      },
+      {
+        "text": "Nilagdaan ang Bill of Rights (Unang Susog)"
+      },
+      {
+        "text": "Inimbento ang bombilya"
+      },
+      {
+        "text": "Inusisa ang American West (Lewis at Clark Expedition)"
+      },
+      {
+        "text": "Binili ang Alaska mula sa Russia"
+      },
+      {
+        "text": "Ibinigay ang talumpating \"I Have a Dream\"."
+      },
+      {
+        "text": "Isinulat ang \"Common Sense\" (Rebolusyonaryong Pamphlet)"
+      },
+      {
+        "text": "Inalis ang pang-aalipin (Ika-13 Susog)"
+      },
+      {
+        "text": "Ipinaglaban ang karapatan ng kababaihan na bumoto"
+      },
+      {
+        "text": "Itinatag ang National Park Service"
+      },
+      {
+        "text": "Pinangasiwaan ang pagtatayo ng Panama Canal."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "1800s",
+    "question": "Ano ang ginawa ng Emancipation Proclamation?",
+    "correctAnswers": [
+      {
+        "text": "name of your state capital",
+        "rationale": "Ang Proklamasyon ng Emansipasyon, na inilabas ni Pangulong Abraham Lincoln noong American Civil War, ay nagpahayag na ang karamihan sa mga alipin sa mga estadong Confederate ay malaya. Bagaman hindi nito kaagad pinalaya ang lahat ng alipin, ito ay isang mahalagang hakbang tungo sa pagpawi ng pang-aalipin sa Estados Unidos at binago ang likas na katangian ng digmaan upang maging tungkol din sa kalayaan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Itinatag ang Konstitusyon"
+      },
+      {
+        "text": "Iginawad sa kababaihan ang karapatang bumoto"
+      },
+      {
+        "text": "Tinapos ang Digmaang Sibil"
+      },
+      {
+        "text": "Idineklara ang kalayaan mula sa Britanya"
+      },
+      {
+        "text": "Nilikha ang Bill of Rights"
+      },
+      {
+        "text": "Binuo ang Korte Suprema"
+      },
+      {
+        "text": "Pinrotektahan ang kalayaan sa relihiyon"
+      },
+      {
+        "text": "Ginarantiyahan ang kalayaan sa pagsasalita"
+      },
+      {
+        "text": "Nagbigay ng unibersal na pangangalagang pangkalusugan"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "1800s",
+    "question": "Anong digmaan sa U.S. ang nagtapos ng pang-aalipin?",
+    "correctAnswers": [
+      {
+        "text": "Ang Digmaang Sibil",
+        "rationale": "Ang Digmaang Sibil, na nilabanan mula 1861-1865, ay isang salungatan sa pagitan ng Estados Unidos at 11 estado sa Timog na humiwalay mula sa Unyon, pangunahin dahil sa isyu ng pang-aalipin. Ang tagumpay ng Unyon ay epektibong nagtapos ng pang-aalipin sa U.S."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang Digmaang Rebolusyonaryo"
+      },
+      {
+        "text": "Ang Digmaan ng 1812"
+      },
+      {
+        "text": "Ang Digmaang Mexican-American"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "1800s",
+    "question": "Anong susog ang nagsasaad na ang lahat ng taong ipinanganak o naturalisado sa Estados Unidos, at sakop ng hurisdiksyon nito, ay mamamayan ng U.S.?",
+    "correctAnswers": [
+      {
+        "text": "Ika-14 na Susog",
+        "rationale": "Ang Ika-14 na Susog, na pinagtibay noong Hulyo 9, 1868, ay isang mahalagang bahagi ng Konstitusyon ng U.S. Ang unang seksyon nito ay nagpapahayag na ang lahat ng taong ipinanganak o naturalisado sa Estados Unidos, at sakop ng hurisdiksyon nito, ay mamamayan ng U.S., at ginagarantiya nito ang pantay na proteksyon ng mga batas sa lahat ng mamamayan, kabilang ang mga dating alipin. Ang susog na ito ay sentro ng maraming mahahalagang desisyon ng Korte Suprema, na nagtatatag ng mga karapatang sibil at pantay na pagtrato sa ilalim ng batas."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ika-10 Susog"
+      },
+      {
+        "text": "Ika-12 Susog"
+      },
+      {
+        "text": "Ika-19 Susog"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "1800s",
+    "question": "Kailan nakuha ng lahat ng kalalakihan ang karapatang bumoto?",
+    "correctAnswers": [
+      {
+        "text": "Pagkatapos ng Digmaang Sibil, Sa Panahon ng Rekonstruksyon, (Sa pamamagitan ng) ika-15 Susog, 1870",
+        "rationale": "Pagkatapos ng Digmaang Sibil, ang ika-15 Susog sa Konstitusyon ng Estados Unidos ay pinagtibay noong 1870, na nagbibigay sa lahat ng kalalakihan, anuman ang lahi, ng karapatang bumoto. Ang panahong ito, na kilala bilang Rekonstruksyon, ay naglalayong muling itayo ang Timog at isama ang mga dating inalipin na tao sa lipunan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Bago ang Digmaang Sibil"
+      },
+      {
+        "text": "Sa Panahon ng Antebellum"
+      },
+      {
+        "text": "(Sa pamamagitan ng) ika-10 Susog"
+      },
+      {
+        "text": "1850"
+      },
+      {
+        "text": "Bago ang Great Depression"
+      },
+      {
+        "text": "Sa Panahon ng Manifest Destiny"
+      },
+      {
+        "text": "(Sa pamamagitan ng) ika-13 Susog"
+      },
+      {
+        "text": "1920"
+      },
+      {
+        "text": "Pagkatapos ng Unang Digmaang Pandaigdig"
+      },
+      {
+        "text": "Sa Panahon ng Roaring Twenties"
+      },
+      {
+        "text": "(Sa pamamagitan ng) ika-19 Susog"
+      },
+      {
+        "text": "1900"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Pangalanan ang isang pinuno ng kilusan para sa karapatan ng kababaihan noong ika-19 na siglo.",
+    "correctAnswers": [
+      {
+        "text": "Sagot",
+        "rationale": "Ang kilusan para sa karapatan ng kababaihan noong 1800s ay nakatuon sa pagkamit ng pantay na karapatan para sa mga kababaihan, kabilang ang karapatang bumoto. Sina Susan B. Anthony at Elizabeth Cady Stanton ay mga kilalang personalidad na nagtatag ng mga organisasyon tulad ng American Equal Rights Association at National Woman Suffrage Association. Kabilang sa iba pang mahahalagang pinuno sina Sojourner Truth, Harriet Tubman, Lucretia Mott, at Lucy Stone, na nagtaguyod para sa karapatan ng kababaihan na bumoto at iba pang karapatan, madalas na bumubuo ng mga alyansa sa kilusang abolisyonista."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Narito ang ilang personalidad na hindi kabilang sa kilusan para sa karapatan ng kababaihan noong ika-19 na siglo"
+      },
+      {
+        "text": "bagaman silang lahat ay mga indibidwal na may natatanging ambag sa lipunan:"
+      },
+      {
+        "text": "Sina Eleanor Roosevelt"
+      },
+      {
+        "text": "Rosa Parks"
+      },
+      {
+        "text": "Amelia Earhart"
+      },
+      {
+        "text": "at iba pa ay nabuhay sa ibang panahon o may ibang adbokasiya. Hindi rin kabilang ang mga kilalang mang-aawit at artista na nabanggit."
+      },
+      {
+        "text": "Sa halip"
+      },
+      {
+        "text": "ang mga nabanggit sa \"Wrong\" na listahan ay kumakatawan sa iba't ibang larangan at panahon"
+      },
+      {
+        "text": "maliban sa mga pangunahing pigura ng karapatan ng kababaihan noong ika-19 na siglo."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Magbigay ng pangalan ng isang digmaan na nilabanan ng Estados Unidos noong 1900s.",
+    "correctAnswers": [
+      {
+        "text": "I am sorry, I cannot translate text.",
+        "rationale": "Ang Estados Unidos ay nasangkot sa ilang malalaking digmaan noong ika-20 siglo. Ang mga salungatan na ito ay nagkaroon ng malaking epekto sa pulitika ng mundo at sa lipunan ng Amerika."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ikinalulungkot ko"
+      },
+      {
+        "text": "hindi ko maisasalin ang teksto."
+      },
+      {
+        "text": "Dahil hindi ito ang aking kakayahan."
+      },
+      {
+        "text": "Mangyaring magbigay ng tamang salita."
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Bakit sumali ang Estados Unidos sa Unang Digmaang Pandaigdig?",
+    "correctAnswers": [
+      {
+        "text": "Dahil inatake ng Germany ang mga barko ng U.S. (sibilyan), Upang suportahan ang Allied Powers (England, France, Italy, at Russia), Upang salungatin ang Central Powers (Germany, Austria-Hungary, Ottoman Empire, at Bulgaria)",
+        "rationale": "Ang Estados Unidos ay pumasok sa Unang Digmaang Pandaigdig dahil sa walang limitasyong digmaang submarino ng Alemanya, na kinabibilangan ng mga pag-atake sa mga barko ng sibilyan ng U.S., at upang suportahan ang Allied Powers habang tinututulan ang Central Powers.\n\nBackground: Noong 1917, ipinagpatuloy ng Alemanya ang walang limitasyong digmaang submarino, nilulubog ang mga barko ng U.S. tulad ng Aztec, na lubhang nagpagalit sa publiko ng Amerika at kay Pangulong Wilson. Ito, kasama ang pagnanais na suportahan ang mga pwersa ng Allied at salungatin ang Central Powers, ang nagtulak sa U.S. na magdeklara ng digmaan laban sa Alemanya."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dahil inatake ng Japan ang mga base ng U.S. (pandagat)"
+      },
+      {
+        "text": "Upang maiwasan ang pagkalat ng komunismo (sa Silangang Europa at Asya)"
+      },
+      {
+        "text": "Upang magtatag ng pandaigdigang kapayapaan (sa pamamagitan ng isang bagong pandaigdigang organisasyon)"
+      },
+      {
+        "text": "Upang makakuha ng mga bagong teritoryong kolonyal (sa Africa at Asya)"
+      },
+      {
+        "text": "Upang gumanti sa mga pagbabawal sa ekonomiya (na ipinataw ng mga kapangyarihang Europeo)"
+      },
+      {
+        "text": "Upang ipalaganap ang demokrasya (sa buong mundo)"
+      },
+      {
+        "text": "Dahil sinalakay ng Mexico ang mga bayan sa hangganan ng U.S."
+      },
+      {
+        "text": "Upang makakuha ng mahahalagang likas na yaman (langis"
+      },
+      {
+        "text": "goma"
+      },
+      {
+        "text": "at mineral)"
+      },
+      {
+        "text": "Upang suportahan ang Axis Powers (Germany"
+      },
+      {
+        "text": "Italy"
+      },
+      {
+        "text": "at Japan)"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Kailan nakuha ng lahat ng kababaihan ang karapatang bumoto?",
+    "correctAnswers": [
+      {
+        "text": "1920, Pagkatapos ng Unang Digmaang Pandaigdig, (Sa pamamagitan ng) ika-19 na Susog",
+        "rationale": "Ang ika-19 na Susog sa Konstitusyon ng U.S. ay nagbigay sa kababaihan ng karapatang bumoto. Ang mahalagang tagumpay na ito, na pinagtibay noong 1920, ay bunga ng mga dekada ng adbokasiya ng kilusang sumusuporta sa karapatan ng kababaihan na bumoto, na lalong tumindi pagkatapos ng Unang Digmaang Pandaigdig."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "1945"
+      },
+      {
+        "text": "Pagkatapos ng Ikalawang Digmaang Pandaigdig"
+      },
+      {
+        "text": "(Sa pamamagitan ng) ika-20 Susog"
+      },
+      {
+        "text": "1900"
+      },
+      {
+        "text": "Bago ang Unang Digmaang Pandaigdig"
+      },
+      {
+        "text": "(Sa pamamagitan ng) ika-18 Susog"
+      },
+      {
+        "text": "1970"
+      },
+      {
+        "text": "Habang nagaganap ang Digmaang Vietnam"
+      },
+      {
+        "text": "(Sa pamamagitan ng) ika-21 Susog"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Ano ang Great Depression?",
+    "correctAnswers": [
+      {
+        "text": "Pinakamahabang paghina ng ekonomiya sa modernong kasaysayan",
+        "rationale": "Ang Great Depression ay isang matinding pandaigdigang depresyong pang-ekonomiya na naganap halos noong 1930s. Ito ang pinakamahaba at pinakamalawak na pagbagsak ng ekonomiya sa modernong kasaysayan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Pinakamaikling pag-unlad ng ekonomiya noong sinaunang panahon"
+      },
+      {
+        "text": "Pinakamalaking iskandal pampulitika sa kamakailang kasaysayan"
+      },
+      {
+        "text": "Pinakamabilis na pagsulong ng teknolohiya sa kasaysayan ng sangkatauhan"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Kailan nagsimula ang Great Depression?",
+    "correctAnswers": [
+      {
+        "text": "Ang Dakilang Pagbagsak (1929), Pagbagsak ng pamilihan ng sapi noong 1929",
+        "rationale": "Nagsimula ang Great Depression sa pagbagsak ng stock market noong Oktubre 1929, na kilala bilang Great Crash, na nagdulot ng matinding pagbagsak ng ekonomiya sa buong mundo."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ang Dakilang Resesyon (1939)"
+      },
+      {
+        "text": "Pagbagsak ng ekonomiya noong 1939"
+      },
+      {
+        "text": "Ang Pamilihan ng Bula (1919)"
+      },
+      {
+        "text": "Pagbagsak ng pananalapi noong 1919"
+      },
+      {
+        "text": "Ang Krisis sa Pagbabangko (1909)"
+      },
+      {
+        "text": "Pagbagsak ng kredito noong 1909"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Sino ang naging presidente noong Great Depression at Ikalawang Digmaang Pandaigdig?",
+    "correctAnswers": [
+      {
+        "text": "(Franklin) Roosevelt",
+        "rationale": "Franklin Delano Roosevelt ay nagsilbi bilang ika-32 Pangulo ng Estados Unidos mula 1933 hanggang 1945. Kilala siya sa kanyang pamumuno sa bansa sa panahon ng Great Depression sa pamamagitan ng kanyang mga programa ng New Deal at sa kanyang pamumuno noong Ikalawang Digmaang Pandaigdig."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Herbert) Hoover"
+      },
+      {
+        "text": "(Harry) Truman"
+      },
+      {
+        "text": "(Woodrow) Wilson"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Bakit sumali ang Estados Unidos sa Ikalawang Digmaang Pandaigdig?",
+    "correctAnswers": [
+      {
+        "text": "(Pagbomba sa) Pearl Harbor, Inatake ng Hapon ang Pearl Harbor, Upang suportahan ang Allied Powers (England, France, at Russia), Upang salungatin ang Axis Powers (Germany, Italy, at Japan)",
+        "rationale": "Ang Estados Unidos ay sumali sa Ikalawang Digmaang Pandaigdig dahil sa sorpresang pag-atake sa Pearl Harbor ng Japan, na nagtulak sa bansa na opisyal na sumali sa Allied Powers (England, France, at Russia) at aktibong labanan ang Axis Powers (Germany, Italy, at Japan)."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Pagbomba sa) New York"
+      },
+      {
+        "text": "Inatake ng Aleman ang New York"
+      },
+      {
+        "text": "Upang suportahan ang Central Powers (Germany"
+      },
+      {
+        "text": "Austria-Hungary"
+      },
+      {
+        "text": "at Ottoman Empire)"
+      },
+      {
+        "text": "Upang salungatin ang Allied Powers (England"
+      },
+      {
+        "text": "France"
+      },
+      {
+        "text": "at Russia)"
+      },
+      {
+        "text": "(Pagpatay kay) Archduke Franz Ferdinand"
+      },
+      {
+        "text": "Inatake ng mga Serbiano ang Austria-Hungary"
+      },
+      {
+        "text": "Upang suportahan ang Axis Powers (Germany"
+      },
+      {
+        "text": "Italy"
+      },
+      {
+        "text": "at Japan)"
+      },
+      {
+        "text": "Upang salungatin ang Allied Powers (England"
+      },
+      {
+        "text": "France"
+      },
+      {
+        "text": "at Russia)"
+      },
+      {
+        "text": "(Paglubog ng) Lusitania"
+      },
+      {
+        "text": "Inatake ng mga U-boat ng Aleman ang mga barkong pampasahero"
+      },
+      {
+        "text": "Upang suportahan ang Allied Powers (Germany"
+      },
+      {
+        "text": "Italy"
+      },
+      {
+        "text": "at Japan)"
+      },
+      {
+        "text": "Upang salungatin ang Axis Powers (England"
+      },
+      {
+        "text": "France"
+      },
+      {
+        "text": "at Russia)"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Si Dwight Eisenhower ay sikat sa maraming bagay. Pangalanan ang isa.",
+    "correctAnswers": [
+      {
+        "text": "Heneral noong Ikalawang Digmaang Pandaigdig, Pangulo sa pagtatapos ng (habang) Digmaang Koreano, ika-34 na pangulo ng Estados Unidos, Nilagdaan ang Federal-Aid Highway Act of 1956 (Nilikha ang Interstate System)",
+        "rationale": "Si Dwight D. Eisenhower ay isang mahalagang pigura sa kasaysayan ng Amerika, una bilang isang Supreme Commander ng Allied Expeditionary Force sa World War II, na namuno sa D-Day invasion. Nang maglaon, siya ay naging ika-34 na Pangulo ng U.S., kilala sa pagtatapos ng Korean War at pagtatatag ng Interstate Highway System."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Unang Pangulo ng Estados Unidos"
+      },
+      {
+        "text": "Sinulat ang Deklarasyon ng Kalayaan"
+      },
+      {
+        "text": "Pinamunuan ang Kilusang Karapatang Sibil"
+      },
+      {
+        "text": "Pinamunuan ang Rebolusyong Amerikano"
+      },
+      {
+        "text": "Inimbento ang bombilya"
+      },
+      {
+        "text": "Naglingkod bilang Bise Presidente (noong) Cold War"
+      },
+      {
+        "text": "Awtor ng Emancipation Proclamation"
+      },
+      {
+        "text": "Itinatag ang United Nations"
+      },
+      {
+        "text": "ika-40 pangulo ng Estados Unidos"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Sino ang pangunahing karibal ng Estados Unidos noong Cold War?",
+    "correctAnswers": [
+      {
+        "text": "Unión Soviética, USSR, Russia",
+        "rationale": "Paliwanag: Ang Soviet Union (kilala rin bilang USSR o Russia) ang pangunahing pampulitika at ideolohikal na kalaban ng Estados Unidos noong Cold War.\n\nBackground: Ang Cold War ay isang panahon ng tensyon sa geopolitical sa pagitan ng Estados Unidos at ng mga kaalyado nito at ng Soviet Union at ng mga satellite state nito, na tumagal mula sa pagtatapos ng World War II noong kalagitnaan ng 1940s hanggang sa pagbagsak ng Soviet Union noong 1991. Ito ay nailalarawan sa pamamagitan ng isang karera sa armas, mga proxy war, at isang pakikibaka para sa pandaigdigang impluwensya, ngunit walang direktang malakihang labanang militar sa pagitan ng dalawang superpowers."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Alemanya"
+      },
+      {
+        "text": "Pransiya"
+      },
+      {
+        "text": "UK"
+      },
+      {
+        "text": "Tsina"
+      },
+      {
+        "text": "Hapon"
+      },
+      {
+        "text": "Italya"
+      },
+      {
+        "text": "Canada"
+      },
+      {
+        "text": "Mexico"
+      },
+      {
+        "text": "Brazil"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Noong Cold War, ano ang isa sa mga pangunahing alalahanin ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Komunismo, digmaang nukleyar",
+        "rationale": "Noong Cold War, ang pangunahing alalahanin ng U.S. ay ang pagkalat ng Komunismo, isang ideolohiyang pampulitika kung saan kontrolado ng estado ang ekonomiya at lipunan, na nakita nilang banta sa demokrasya at kapitalismo. Malalim din ang kanilang pagkabahala sa digmaang nukleyar, na kinakatakutan ang isang mapaminsalang labanan sa Soviet Union, lalo na sa pagbuo ng mga atomic bomb at intercontinental ballistic missiles."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Sosyalismo"
+      },
+      {
+        "text": "Pagbagsak ng Ekonomiya"
+      },
+      {
+        "text": "Kolonyalismo"
+      },
+      {
+        "text": "Kaguluhang Sibil"
+      },
+      {
+        "text": "Isolasyonismo"
+      },
+      {
+        "text": "Digmaang Pandaigdig"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Bakit sumali ang Estados Unidos sa Korean War?",
+    "correctAnswers": [
+      {
+        "text": "Upang pigilan ang pagkalat ng komunismo",
+        "rationale": "The Korean War (1950-1953) was a conflict between North Korea (supported by China and the Soviet Union) and South Korea (supported by the United Nations, primarily the United States). The US intervened to prevent North Korea's communist government from taking over South Korea, as part of its broader Cold War policy of containing communism globally."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Upang itaguyod ang demokrasya"
+      },
+      {
+        "text": "Upang makakuha ng mga bagong teritoryo"
+      },
+      {
+        "text": "Upang suportahan ang Unyong Sobyetiko"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Bakit sumali ang Estados Unidos sa Digmaang Vietnam?",
+    "correctAnswers": [
+      {
+        "text": "Upang ihinto ang pagkalat ng komunismo",
+        "rationale": "Pumasok ang Estados Unidos sa Digmaang Vietnam pangunahin upang pigilan ang pagkalat ng komunismo sa Timog-silangang Asya, isang patakaran na kilala bilang \"teorya ng domino.\" Ang teoryang ito ay nagsasaad na kung ang isang bansa sa isang rehiyon ay bumagsak sa komunismo, ang iba ay susunod. Nakita ng US ang labanan sa Vietnam bilang isang kritikal na labanan sa mas malawak na Cold War laban sa Unyong Sobyet at Tsina."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Upang makakuha ng mga bagong teritoryo"
+      },
+      {
+        "text": "Upang magtatag ng isang bagong pamahalaan"
+      },
+      {
+        "text": "Upang protektahan ang mga interes sa ekonomiya nito"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Ano ang ginawa ng kilusang karapatang sibil?",
+    "correctAnswers": [
+      {
+        "text": "Lumaban upang wakasan ang diskriminasyon sa lahi",
+        "rationale": "Ang Kilusang Karapatang Sibil ay isang pakikibaka para sa katarungang panlipunan na naganap pangunahin noong 1950s at 1960s para sa mga Black American upang makakuha ng pantay na karapatan sa ilalim ng batas sa Estados Unidos. Ang pangunahing layunin nito ay wakasan ang diskriminasyon at paghihiwalay ng lahi."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nakipaglaban upang wakasan ang paghihiwalay ng lahi"
+      },
+      {
+        "text": "Nakipaglaban para sa karapatang bumoto ng kababaihan"
+      },
+      {
+        "text": "Nakipaglaban laban sa pagkakapantay-pantay ng ekonomiya"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Si Martin Luther King, Jr. ay sikat sa maraming bagay. Pangalanan ang isa. *",
+    "correctAnswers": [
+      {
+        "text": "Lumaban para sa karapatang sibil, Nagtrabaho para sa pagkakapantay-pantay ng lahat ng Amerikano, Nagtrabaho upang matiyak na ang mga tao ay \"hindi huhusgahan sa kulay ng kanilang balat, kundi sa nilalaman ng kanilang karakter\"",
+        "rationale": "Si Martin Luther King, Jr. ay isang lider sa American Civil Rights Movement. Ipinaglaban niya ang pantay na karapatan at ang pagwawakas ng diskriminasyon laban sa mga African American, na sikat na nagpahayag ng kanyang pag-asa na ang mga tao ay huhusgahan batay sa kanilang karakter, hindi sa kulay ng kanilang balat."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Naging unang African American presidente"
+      },
+      {
+        "text": "Isinulat ang Deklarasyon ng Kalayaan"
+      },
+      {
+        "text": "Naimbento ang bumbilya"
+      },
+      {
+        "text": "Natuklasan ang America"
+      },
+      {
+        "text": "Pinamunuan ang Boston Tea Party"
+      },
+      {
+        "text": "Lumagda sa Emancipation Proclamation"
+      },
+      {
+        "text": "Lumaban sa Digmaang Sibil"
+      },
+      {
+        "text": "Nagtatag ng Red Cross"
+      },
+      {
+        "text": "Naging heneral sa Rebolusyonaryong Digmaan"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Bakit sumali ang Estados Unidos sa Digmaan sa Gulpo ng Persia?",
+    "correctAnswers": [
+      {
+        "text": "Upang puwersahin ang militar ng Iraq mula sa Kuwait",
+        "rationale": "Ang Estados Unidos ay nakialam sa Digmaan sa Gulpo ng Persia upang palayain ang Kuwait matapos ang pagsalakay ng Iraq noong Agosto 1990. Malawakang kinondena ng pandaigdigang komunidad ang pagsalakay, at ang US, na nangunguna sa isang koalisyon ng mga puwersa, ay naglunsad ng Operation Desert Storm upang paalisin ang mga tropang Iraqi mula sa Kuwait."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Upang protektahan ang suplay ng langis"
+      },
+      {
+        "text": "Upang palayain ang Kuwait mula sa pananakop ng Iraq"
+      },
+      {
+        "text": "Upang magtatag ng demokrasya sa Gitnang Silangan"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Anong malaking pangyayari ang naganap noong Setyembre 11, 2001 sa Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Inatake ng mga terorista ang Estados Unidos, Sinakop ng mga terorista ang dalawang eroplano at ibinagsak ang mga ito sa World Trade Center sa New York City, Sinakop ng mga terorista ang isang eroplano at ibinagsak sa Pentagon sa Arlington, Virginia, Sinakop ng mga terorista ang isang eroplano na orihinal na nakatutok sa Washington, D.C., at ibinagsak sa isang bukid sa Pennsylvania",
+        "rationale": "Noong Setyembre 11, 2001, isang serye ng apat na sabay-sabay na pag-atake ng terorista ng Islamic teroristang grupo na al-Qaeda laban sa Estados Unidos ay nagresulta sa pagbagsak ng mga tore ng World Trade Center sa New York City at malubhang pinsala sa Pentagon sa Arlington, Virginia. Isang ikaapat na eroplano, na pinaniniwalaang patungo sa Washington D.C., ay bumagsak sa isang field sa Pennsylvania matapos subukan ng mga pasahero at tripulante na muling kontrolin ito."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Inatake ng mga terorista ang Twin Towers."
+      },
+      {
+        "text": "Ibinagsak ng mga terorista ang eroplano sa White House at Capitol Building."
+      },
+      {
+        "text": "Ginamit ng mga terorista ang mga bomba upang salakayin ang mga pangunahing lungsod."
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Pangalanan ang isang labanang militar ng U.S. pagkatapos ng pag-atake noong Setyembre 11, 2001.",
+    "correctAnswers": [
+      {
+        "text": "(Global) Digmaan Laban sa Terorismo, Digmaan sa Afghanistan, Digmaan sa Iraq",
+        "rationale": "Ang mga pag-atake noong Setyembre 11, 2001 ang nagtulak sa Estados Unidos na maglunsad ng mga operasyong militar, kabilang ang Global War on Terror, na sumasaklaw sa Digmaan sa Afghanistan at ang Digmaan sa Iraq, upang labanan ang terorismo at mga kaugnay na rehimen."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Sibil) Digmaang Koreano"
+      },
+      {
+        "text": "Digmaan sa Vietnam"
+      },
+      {
+        "text": "Ikalawang Digmaang Pandaigdig"
+      },
+      {
+        "text": "(Disyerto) Gulpo ng Persia"
+      },
+      {
+        "text": "Digmaan sa Europa"
+      },
+      {
+        "text": "Digmaan sa Cuba"
+      },
+      {
+        "text": "(Malamig) Karera sa Kalawakan"
+      },
+      {
+        "text": "Digmaan sa Russia"
+      },
+      {
+        "text": "Digmaan sa Berlin"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "category": "Kasaysayan ng Amerika",
+    "subcategory": "Recent American History",
+    "question": "Pangalanan ang isang tribong American Indian sa Estados Unidos.",
+    "correctAnswers": [
+      {
+        "text": "Apache, Blackfeet, Cayuga, Cherokee, Cheyenne, Chippewa, Choctaw, Creek, Crow, Hopi, Huron, Inupiat, Lakota, Mohawk, Mohegan, Navajo, Oneida, Onondaga, Pueblo, Seminole, Seneca, Shawnee, Sioux, Teton, Tuscarora",
+        "rationale": "Ito ang ilan sa maraming pederal na kinikilalang tribo ng American Indian sa Estados Unidos. Ang mga tribong ito ay kumakatawan sa magkakaibang kultura, wika, at kasaysayan, at sila ay mga soberanong bansa na may sariling pamahalaan at tradisyon."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mga Estado: Alaska"
+      },
+      {
+        "text": "Georgia"
+      },
+      {
+        "text": "Hawaii"
+      },
+      {
+        "text": "Idaho"
+      },
+      {
+        "text": "Illinois"
+      },
+      {
+        "text": "Indiana"
+      },
+      {
+        "text": "Iowa"
+      },
+      {
+        "text": "Kansas"
+      },
+      {
+        "text": "Kentucky"
+      },
+      {
+        "text": "Louisiana"
+      },
+      {
+        "text": "Maine"
+      },
+      {
+        "text": "Maryland"
+      },
+      {
+        "text": "Massachusetts"
+      },
+      {
+        "text": "Michigan"
+      },
+      {
+        "text": "Minnesota"
+      },
+      {
+        "text": "Mississippi"
+      },
+      {
+        "text": "Missouri"
+      },
+      {
+        "text": "Montana"
+      },
+      {
+        "text": "Nebraska"
+      },
+      {
+        "text": "Nevada"
+      },
+      {
+        "text": "New Hampshire"
+      },
+      {
+        "text": "New Jersey"
+      },
+      {
+        "text": "New Mexico"
+      },
+      {
+        "text": "New York"
+      },
+      {
+        "text": "North Carolina"
+      },
+      {
+        "text": "Mga Prutas: Mansanas"
+      },
+      {
+        "text": "Saging"
+      },
+      {
+        "text": "Cherry"
+      },
+      {
+        "text": "Date"
+      },
+      {
+        "text": "Elderberry"
+      },
+      {
+        "text": "Igos"
+      },
+      {
+        "text": "Ubas"
+      },
+      {
+        "text": "Honeydew"
+      },
+      {
+        "text": "Indian fig"
+      },
+      {
+        "text": "Jackfruit"
+      },
+      {
+        "text": "Kiwi"
+      },
+      {
+        "text": "Lemon"
+      },
+      {
+        "text": "Mangga"
+      },
+      {
+        "text": "Nectarine"
+      },
+      {
+        "text": "Orange"
+      },
+      {
+        "text": "Papaya"
+      },
+      {
+        "text": "Quince"
+      },
+      {
+        "text": "Raspberry"
+      },
+      {
+        "text": "Strawberry"
+      },
+      {
+        "text": "Tangerine"
+      },
+      {
+        "text": "Ugly fruit"
+      },
+      {
+        "text": "Vanilla bean"
+      },
+      {
+        "text": "Watermelon"
+      },
+      {
+        "text": "Xigua"
+      },
+      {
+        "text": "Yellow passionfruit"
+      },
+      {
+        "text": "Mga Astrolohiya at Planeta: Aries"
+      },
+      {
+        "text": "Taurus"
+      },
+      {
+        "text": "Gemini"
+      },
+      {
+        "text": "Cancer"
+      },
+      {
+        "text": "Leo"
+      },
+      {
+        "text": "Virgo"
+      },
+      {
+        "text": "Libra"
+      },
+      {
+        "text": "Scorpio"
+      },
+      {
+        "text": "Sagittarius"
+      },
+      {
+        "text": "Capricorn"
+      },
+      {
+        "text": "Aquarius"
+      },
+      {
+        "text": "Pisces"
+      },
+      {
+        "text": "Araw"
+      },
+      {
+        "text": "Buwan"
+      },
+      {
+        "text": "Mercury"
+      },
+      {
+        "text": "Venus"
+      },
+      {
+        "text": "Mars"
+      },
+      {
+        "text": "Jupiter"
+      },
+      {
+        "text": "Saturn"
+      },
+      {
+        "text": "Uranus"
+      },
+      {
+        "text": "Neptune"
+      },
+      {
+        "text": "Pluto"
+      },
+      {
+        "text": "Earth"
+      },
+      {
+        "text": "Comet"
+      },
+      {
+        "text": "Asteroid"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "category": "Mga Simbolo at Pista",
+    "subcategory": "Recent American History",
+    "question": "Pangalanan ang isang halimbawa ng isang American innovation.",
+    "correctAnswers": [
+      {
+        "text": "Bombilya, Sasakyan (mga kotse, internal combustion engine), Mga gusali, Eroplano, Assembly line, Paglapag sa buwan, Integrated circuit (IC)",
+        "rationale": "Ang Estados Unidos ay may mayamang kasaysayan ng inobasyon, na nagdulot ng maraming imbensyon na malaki ang epekto sa mundo. Ipinapakita ng mga inobasyong ito ang katalinuhan ng mga Amerikano at ang kanilang ambag sa pandaigdigang pag-unlad. Narito ang ilang pangunahing halimbawa:  * Bombilya: Inimbento ni Thomas Edison, binago nito ang pag-iilaw at pinalawig ang mga oras ng pagiging produktibo.\n  * Sasakyan (mga kotse, internal combustion engine): Pinangunahan ng mga pigura tulad ni Henry Ford, binago nito ang transportasyon at pagmamanupaktura.\n  * Mga gusali: Pinangunahan ng mga arkitekto at inhinyero ng Amerika ang pagbuo ng mga matataas na gusaling ito, na nagbabago sa mga tanawin ng lunsod.\n  * Eroplano: Inimbento ng magkapatid na Wright, binuksan nito ang panahon ng paglalakbay sa himpapawid.\n  * Assembly line: Binuo ni Henry Ford, malaki nitong pinataas ang kahusayan sa pagmamanupaktura.\n  * Paglapag sa buwan: Isang napakalaking tagumpay ng programa ng Apollo, na nagpapakita ng husay ng Amerika sa agham at inhinyero.\n  * Integrated circuit (IC): Isang pundasyong imbensyon ng elektronikong edad, na nagpapagana sa pagbuo ng mga computer at modernong teknolohiya."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mga Piramide"
+      },
+      {
+        "text": "Great Wall ng Tsina (sinaunang istrukturang panlaban)"
+      },
+      {
+        "text": "Colosseum"
+      },
+      {
+        "text": "Imprenta"
+      },
+      {
+        "text": "Compass"
+      },
+      {
+        "text": "Pulbura"
+      },
+      {
+        "text": "Silk Road (ruta ng kalakalan)"
+      },
+      {
+        "text": "Mga uri ng movable type"
+      },
+      {
+        "text": "Papel (materyal sa pagsusulat)"
+      },
+      {
+        "text": "Porselana"
+      },
+      {
+        "text": "Rockets"
+      },
+      {
+        "text": "Abacus"
+      },
+      {
+        "text": "Astrolabe"
+      },
+      {
+        "text": "Seismograph (earthquake detector)"
+      },
+      {
+        "text": "Ziggurat"
+      },
+      {
+        "text": "Parthenon (sinaunang templo ng Griyego)"
+      },
+      {
+        "text": "Aqueduct"
+      },
+      {
+        "text": "Stirrup"
+      },
+      {
+        "text": "Wheelbarrow"
+      },
+      {
+        "text": "Water mill"
+      },
+      {
+        "text": "Sundial (device na nagsasabi ng oras)"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "category": "Mga Simbolo at Pista",
+    "subcategory": "Symbols",
+    "question": "Ano ang kabisera ng Estados Unidos?",
+    "correctAnswers": [
+      {
+        "text": "Washington, D.C.",
+        "rationale": "Ang Washington, D.C. ang kabisera ng Estados Unidos. Ito ay isang pederal na distrito, hindi bahagi ng alinmang estado, na itinatag upang maging sentro ng pamahalaan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "New York"
+      },
+      {
+        "text": "N.Y."
+      },
+      {
+        "text": "Los Angeles"
+      },
+      {
+        "text": "C.A."
+      },
+      {
+        "text": "Chicago"
+      },
+      {
+        "text": "I.L."
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "category": "Mga Simbolo at Pista",
+    "subcategory": "Symbols",
+    "question": "Nasaan ang Statue of Liberty?",
+    "correctAnswers": [
+      {
+        "text": "Sagot",
+        "rationale": "Lokasyon: Ang Statue of Liberty ay matatagpuan sa New York Harbor, partikular sa Liberty Island. Ito ay isang sikat na simbolo ng kalayaan at demokrasya, na regalo ng France sa Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mali:"
+      },
+      {
+        "text": "Los Angeles (Beach)"
+      },
+      {
+        "text": "Hollywood Hills"
+      },
+      {
+        "text": "Chicago (Loop)"
+      },
+      {
+        "text": "Millennium Park"
+      },
+      {
+        "text": "Boston (Harbor)"
+      },
+      {
+        "text": "Freedom Trail"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "category": "Mga Simbolo at Pista",
+    "subcategory": "Symbols",
+    "question": "Bakit may 13 guhit ang watawat?",
+    "correctAnswers": [
+      {
+        "text": "(Dahil mayroong) 13 orihinal na kolonya, (Dahil ang mga guhit ay) kumakatawan sa mga orihinal na kolonya",
+        "rationale": "Ang 13 guhit sa watawat ay kumakatawan sa orihinal na 13 kolonya ng Britanya na nagpahayag ng kalayaan at bumuo sa Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Dahil mayroong) 13 founding fathers"
+      },
+      {
+        "text": "(Dahil ang mga guhit ay) kumakatawan sa 13 kabutihan"
+      },
+      {
+        "text": "(Dahil mayroong) 13 estado sa unyon."
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "category": "Mga Simbolo at Pista",
+    "subcategory": "Symbols",
+    "question": "Bakit may 50 bituin ang bandila?",
+    "correctAnswers": [
+      {
+        "text": "(Dahil mayroong) isang bituin para sa bawat estado, (Dahil) ang bawat bituin ay kumakatawan sa isang estado, (Dahil mayroong) 50 estado",
+        "rationale": "Ang watawat ng Amerika ay may 50 bituin dahil ang bawat bituin ay kumakatawan sa isa sa 50 estado ng Estados Unidos ng Amerika. Tinitiyak ng disenyong ito na ang bawat estado ay sinasagisag sa pambansang watawat."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(Dahil ito ay) isang bituin para sa bawat guhit"
+      },
+      {
+        "text": "(Dahil) ang bawat bituin ay kumakatawan sa isang kulay"
+      },
+      {
+        "text": "(Dahil mayroong) 50 guhit."
+      },
+      {
+        "text": "(Dahil mayroong) isang bituin para sa bawat orihinal na kolonya"
+      },
+      {
+        "text": "(Dahil) ang bawat bituin ay kumakatawan sa isang presidente"
+      },
+      {
+        "text": "(Dahil mayroong) 50 kulay."
+      },
+      {
+        "text": "(Dahil mayroong) isang bituin para sa bawat makasaysayang kaganapan"
+      },
+      {
+        "text": "(Dahil) ang bawat bituin ay kumakatawan sa isang tagumpay ng militar"
+      },
+      {
+        "text": "(Dahil mayroong) 50 susog."
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "category": "Mga Simbolo at Pista",
+    "subcategory": "Symbols",
+    "question": "Ano ang pangalan ng pambansang awit?",
+    "correctAnswers": [
+      {
+        "text": "Ang Pambansang Awit",
+        "rationale": "Ang The Star-Spangled Banner ang pambansang awit ng Estados Unidos. Ang mga liriko nito ay nagmula sa \"Defence of Fort M'Henry\", isang tula na isinulat ni Francis Scott Key noong 1814 matapos masaksihan ang pambobomba sa Fort McHenry sa Baltimore noong Digmaan ng 1812."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Oh Kay Ganda America"
+      },
+      {
+        "text": "Pagpalain ng Diyos ang America"
+      },
+      {
+        "text": "Aking Bansa"
+      },
+      {
+        "text": "Ito ay Sa Iyo"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "category": "Mga Simbolo at Pista",
+    "subcategory": "Holidays",
+    "question": "Ang unang motto ng Bansa ay \"E Pluribus Unum.\" Ano ang ibig sabihin niyan?",
+    "correctAnswers": [
+      {
+        "text": "Marami, isa, Lahat tayo ay nagiging isa",
+        "rationale": "Ang pariralang \"E Pluribus Unum\" ay Latin para sa \"Mula sa marami, isa.\" Ito ang motto na pinagtibay ng Dakilang Selyo ng Estados Unidos noong 1782. Ang mottong ito ay sumisimbolo sa pagkakaisa ng mga indibidwal na estado sa isang nagkakaisang bansa. Ang ideya ay bagama't maraming estado, nagsasama-sama sila upang bumuo ng isang bansa."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mula sa marami"
+      },
+      {
+        "text": "patungo sa isa"
+      },
+      {
+        "text": "Tayong lahat ay iisa"
+      },
+      {
+        "text": "Isang bansa"
+      },
+      {
+        "text": "sa ilalim ng Diyos"
+      },
+      {
+        "text": "hindi nahahati"
+      },
+      {
+        "text": "Para sa mga tao"
+      },
+      {
+        "text": "ng mga tao"
+      },
+      {
+        "text": "mula sa mga tao"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "category": "Mga Simbolo at Pista",
+    "subcategory": "Holidays",
+    "question": "Ano ang Araw ng Kalayaan?",
+    "correctAnswers": [
+      {
+        "text": "Araw ng Kalayaan ng Estados Unidos, Kaarawan ng Bansa",
+        "rationale": "Ang Araw ng Kalayaan ay isang holiday sa U.S. na ipinagdiriwang taun-taon tuwing Hulyo 4. Ito ay nagpapaalala sa pagpapatibay ng Deklarasyon ng Kalayaan noong Hulyo 4, 1776, na nagpahayag ng kalayaan ng bansa mula sa Great Britain. Madalas itong tinutukoy bilang kaarawan ng Amerika at ipinagdiriwang na may mga paputok, parada, at iba pang kasiyahan."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Isang holiday upang ipagdiwang ang Konstitusyon ng U.S. (ratipikasyon)"
+      },
+      {
+        "text": "Ang pagtatatag ng bansa"
+      },
+      {
+        "text": "Isang holiday upang ipagdiwang ang mga beterano ng U.S. (ng lahat ng digmaan)"
+      },
+      {
+        "text": "Araw ng mga bayani ng bansa"
+      },
+      {
+        "text": "Isang holiday upang ipagdiwang ang mga pangulo ng U.S. (Washington"
+      },
+      {
+        "text": "Lincoln)"
+      },
+      {
+        "text": "Ang mga pinuno ng bansa"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "category": "Mga Simbolo at Pista",
+    "subcategory": "Holidays",
+    "question": "Pangalanan ang tatlong pambansang holiday ng U.S.",
+    "correctAnswers": [
+      {
+        "text": "Bagong Taon, Araw ni Martin Luther King, Jr., Araw ng mga Pangulo (Kaarawan ni Washington), Araw ng Paggunita, Juneteenth, Araw ng Kalayaan, Araw ng Paggawa, Araw ni Columbus, Araw ng mga Beterano, Araw ng Pasasalamat, Araw ng Pasko",
+        "rationale": "Ang Estados Unidos ay nagmamasid ng maraming pambansang holiday sa buong taon, nagdiriwang ng iba't ibang makasaysayang kaganapan, personalidad, at tradisyon ng kultura. Ang mga araw na ito ay madalas na minarkahan ng pagsasara ng mga tanggapan ng pederal, bangko, at paaralan, na nagpapahintulot sa mga tao ng oras para sa paggunita, pagdiriwang, o pagpapahinga. Ang listahan na ibinigay ay naglalaman ng marami sa mga malawak na kinikilalang holiday na ito."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Araw ng mga Nagsisinungaling"
+      },
+      {
+        "text": "Araw ng mga Puso"
+      },
+      {
+        "text": "Halloween"
+      },
+      {
+        "text": "Araw ni San Patricio"
+      },
+      {
+        "text": "Araw ng mga Ina"
+      },
+      {
+        "text": "Araw ng mga Ama"
+      },
+      {
+        "text": "Araw ng Watawat"
+      },
+      {
+        "text": "Araw ng Halalan"
+      },
+      {
+        "text": "Araw ng Groundhog"
+      },
+      {
+        "text": "Araw ng Sweetest"
+      },
+      {
+        "text": "Araw ng Pearl Harbor"
+      },
+      {
+        "text": "Araw ng Bastille"
+      },
+      {
+        "text": "Araw ng Canada"
+      },
+      {
+        "text": "Araw ng Australia"
+      },
+      {
+        "text": "Gabi ni Guy Fawkes"
+      },
+      {
+        "text": "Araw ng Boxing"
+      },
+      {
+        "text": "Kwanzaa"
+      },
+      {
+        "text": "Diwali"
+      },
+      {
+        "text": "Eid al-Fitr"
+      },
+      {
+        "text": "Rosh Hashanah"
+      },
+      {
+        "text": "Chinese New Year"
+      },
+      {
+        "text": "Bisperas ng Bagong Taon"
+      },
+      {
+        "text": "Araw ng Puno"
+      },
+      {
+        "text": "Araw ng Lupa"
+      },
+      {
+        "text": "Pambansang Araw ng Alagang Hayop"
+      },
+      {
+        "text": "Pambansang Araw ng Donut"
+      },
+      {
+        "text": "Araw ng Pi"
+      },
+      {
+        "text": "Araw ng Pakikipag-usap na Parang Pirata"
+      },
+      {
+        "text": "Araw ng Star Wars"
+      },
+      {
+        "text": "Pambansang Araw ng Waffle"
+      },
+      {
+        "text": "Araw ng Pancake"
+      },
+      {
+        "text": "Pambansang Araw ng Kape"
+      },
+      {
+        "text": "Pambansang Araw ng Pizza"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "category": "Mga Simbolo at Pista",
+    "subcategory": "Holidays",
+    "question": "Ano ang Araw ng Pag-alaala?",
+    "correctAnswers": [
+      {
+        "text": "Araw ng Kagitingan",
+        "rationale": "Ang Araw ng Pag-alaala ay isang pederal na holiday sa Estados Unidos na ipinagdiriwang tuwing huling Lunes ng Mayo. Ito ay isang araw ng pag-alaala para sa mga namatay sa serbisyo militar para sa Estados Unidos."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Isang holiday upang ipagdiwang ang paglagda ng Deklarasyon ng Kalayaan"
+      },
+      {
+        "text": "Isang araw para alalahanin ang mga naglingkod sa sandatahang lakas at nakabalik sa tahanan"
+      },
+      {
+        "text": "Isang pagdiriwang ng pagtatapos ng Ikalawang Digmaang Pandaigdig"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "category": "Mga Simbolo at Pista",
+    "subcategory": "Holidays",
+    "question": "Ano ang Araw ng mga Beterano?",
+    "correctAnswers": [
+      {
+        "text": "Isang holiday upang parangalan ang mga tao sa (U.S.) militar, Isang holiday upang parangalan ang mga taong naglingkod (sa militar ng U.S.)",
+        "rationale": "Ang Araw ng mga Beterano ay isang holiday sa U.S. tuwing Nobyembre 11 na nagbibigay-pugay sa lahat ng naglingkod sa militar ng U.S. Orihinal na tinawag na Armistice Day, ito ay nagmarka ng pagtatapos ng Unang Digmaang Pandaigdig."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Isang holiday upang parangalan ang mga taong nagtatrabaho (sa gobyerno ng U.S.)"
+      },
+      {
+        "text": "Isang holiday upang parangalan ang mga taong bumoboto (sa eleksyon ng U.S.)"
+      },
+      {
+        "text": "Isang holiday upang parangalan ang mga taong nagtuturo (sa mga paaralan ng U.S.)"
+      }
+    ]
+  }
+]

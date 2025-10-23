@@ -320,8 +320,8 @@ const FlashcardMode = ({ navigation, route }) => {
       }
     }
 
-    // 주도 관련 질문 (ID: 44)
-    if (question.id === 44 && isCorrect) {
+    // 주도 관련 질문 (ID: 62) - 128문제 기준
+    if (question.id === 62 && isCorrect) {
       const capital = LocationManager.getStateCapital(state);
       if (capital && capital !== 'Answers will vary') {
         return {

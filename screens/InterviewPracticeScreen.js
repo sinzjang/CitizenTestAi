@@ -110,49 +110,43 @@ const InterviewPracticeScreen = ({ navigation }) => {
       id: 2,
       title: t('menu.practiceTests.title'),
       subtitle: t('menu.practiceTests.subtitle'),
-      icon: 'clipboard-outline',
+      icon: 'layers-outline',
       color: '#FF9800',
       subItems: [
-        { id: '2-1', title: t('menu.practiceTests.flashcardMode'), subtitle: t('menu.practiceTests.flashcardModeSubtitle'), screen: 'FlashcardModeSelection', isPremium: false },
-        { id: '2-2', title: t('menu.practiceTests.practiceTest'), subtitle: t('menu.practiceTests.practiceTestSubtitle'), screen: 'PracticeTest', isPremium: true },
-        { id: '2-3', title: t('menu.practiceTests.practiceTestVoice'), subtitle: t('menu.practiceTests.practiceTestVoiceSubtitle'), screen: 'PracticeTestVoice', isPremium: true },
-        { id: '2-4', title: t('menu.practiceTests.weaknessTest'), subtitle: t('menu.practiceTests.weaknessTestSubtitle'), screen: 'WeaknessTest', isPremium: true },
-        { id: '2-5', title: t('menu.practiceTests.customTest'), subtitle: t('menu.practiceTests.customTestSubtitle'), screen: 'CustomTest', isPremium: true }
+        { id: '2-1', title: t('menu.practiceTests.flashcardMode'), subtitle: t('menu.practiceTests.flashcardModeSubtitle'), screen: 'FlashcardModeSelection', isPremium: false }
       ]
     },
     {
       id: 3,
+      title: t('menu.test.title'),
+      subtitle: t('menu.test.subtitle'),
+      icon: 'clipboard-outline',
+      color: '#E91E63',
+      subItems: [
+        { id: '3-1', title: t('menu.practiceTests.practiceTest'), subtitle: t('menu.practiceTests.practiceTestSubtitle'), screen: 'PracticeTest', isPremium: true },
+        { id: '3-2', title: t('menu.practiceTests.weaknessTest'), subtitle: t('menu.practiceTests.weaknessTestSubtitle'), screen: 'WeaknessTest', isPremium: true }
+      ]
+    },
+    {
+      id: 4,
       title: t('menu.aiMockInterview.title'),
       subtitle: t('menu.aiMockInterview.subtitle'),
       icon: 'mic-outline',
       color: '#2196F3',
       subItems: [
-        { id: '3-1', title: t('menu.aiMockInterview.aiInterview'), subtitle: t('menu.aiMockInterview.aiInterviewSubtitle'), screen: 'AIChat', isPremium: true },
-        { id: '3-2', title: t('menu.aiMockInterview.deepDiveInterview'), subtitle: t('menu.aiMockInterview.deepDiveInterviewSubtitle'), screen: 'DeepInterview', isPremium: true },
-        // N-400 Practice 항목은 요청에 따라 임시 비노출 처리
-        // { id: '3-3', title: t('menu.aiMockInterview.n400Practice'), subtitle: t('menu.aiMockInterview.n400PracticeSubtitle'), screen: 'N400Practice', isPremium: true }
+        { id: '4-1', title: t('menu.aiMockInterview.aiInterview'), subtitle: t('menu.aiMockInterview.aiInterviewSubtitle'), screen: 'AIChat', isPremium: true },
+        { id: '4-2', title: t('menu.aiMockInterview.deepDiveInterview'), subtitle: t('menu.aiMockInterview.deepDiveInterviewSubtitle'), screen: 'DeepInterview', isPremium: true }
       ]
     },
     {
-      id: 4,
+      id: 5,
       title: t('menu.myProgress.title'),
       subtitle: t('menu.myProgress.subtitle'),
       icon: 'analytics-outline',
       color: '#9C27B0',
       subItems: [
-        { id: '4-1', title: t('menu.myProgress.progressDashboard'), subtitle: t('menu.myProgress.progressDashboardSubtitle'), screen: 'MyProgress', isPremium: false },
-        { id: '4-2', title: t('menu.myProgress.aiTutorAdvice'), subtitle: t('menu.myProgress.aiTutorAdviceSubtitle'), screen: 'AITutorAdvice', isPremium: true }
-      ]
-    },
-    {
-      id: 5,
-      title: t('menu.sections.resources.title'),
-      subtitle: t('menu.sections.resources.subtitle'),
-      icon: 'information-circle-outline',
-      color: '#607D8B',
-      subItems: [
-        { id: '5-1', title: t('menu.sections.resources.updatedInfo'), subtitle: t('menu.sections.resources.updatedInfoSubtitle'), screen: 'UpdatedInfo', isPremium: false },
-        { id: '5-2', title: t('menu.sections.resources.officialLinks'), subtitle: t('menu.sections.resources.officialLinksSubtitle'), screen: 'OfficialLinks', isPremium: false }
+        { id: '5-1', title: t('menu.myProgress.progressDashboard'), subtitle: t('menu.myProgress.progressDashboardSubtitle'), screen: 'MyProgress', isPremium: false },
+        { id: '5-2', title: t('menu.myProgress.aiTutorAdvice'), subtitle: t('menu.myProgress.aiTutorAdviceSubtitle'), screen: 'AITutorAdvice', isPremium: true }
       ]
     }
   ];

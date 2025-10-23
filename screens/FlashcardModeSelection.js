@@ -10,9 +10,12 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { t, addLanguageChangeListener, removeLanguageChangeListener } from '../utils/i18n';
+import { PremiumGate } from '../components/PremiumGate';
+import { SubscriptionManager } from '../utils/subscriptionManager';
 
 const FlashcardModeSelection = ({ navigation }) => {
   const [currentLanguage, setCurrentLanguage] = useState('en');
+  const [isPremium, setIsPremium] = useState(true); // 임시: 개발/테스트용 프리미엄 활성화
 
   useEffect(() => {
     // 언어 변경 리스너 등록
@@ -22,47 +25,30 @@ const FlashcardModeSelection = ({ navigation }) => {
     
     addLanguageChangeListener(handleLanguageChange);
     
+    // 프리미엄 상태 확인
+    checkPremiumStatus();
+    
     // 컴포넌트 언마운트 시 리스너 제거
     return () => {
       removeLanguageChangeListener(handleLanguageChange);
     };
   }, []);
 
+  const checkPremiumStatus = async () => {
+    const premiumStatus = await SubscriptionManager.checkSubscriptionStatus();
+    setIsPremium(premiumStatus);
+  };
+
   const flashcardOptions = [
     {
       id: 1,
-      title: t('flashcardSelection.quizMode.title'),
-      subtitle: t('flashcardSelection.quizMode.subtitle'),
-      icon: 'help-circle-outline',
-      color: '#2E86AB',
-      subOptions: [
-        {
-          id: '1-1',
-          title: t('flashcardSelection.quizMode.sequential'),
-          subtitle: t('flashcardSelection.quizMode.sequentialSubtitle'),
-          icon: 'list-outline',
-          screen: 'FlashcardMode',
-          params: { mode: 'sequential' }
-        },
-        {
-          id: '1-2',
-          title: t('flashcardSelection.quizMode.random'),
-          subtitle: t('flashcardSelection.quizMode.randomSubtitle'),
-          icon: 'shuffle-outline',
-          screen: 'FlashcardMode',
-          params: { mode: 'random' }
-        }
-      ]
-    },
-    {
-      id: 2,
       title: t('flashcardSelection.subjectiveMode.title'),
       subtitle: t('flashcardSelection.subjectiveMode.subtitle'),
       icon: 'eye-off-outline',
       color: '#28a745',
       subOptions: [
         {
-          id: '2-1',
+          id: '1-1',
           title: t('flashcardSelection.subjectiveMode.sequential'),
           subtitle: t('flashcardSelection.subjectiveMode.sequentialSubtitle'),
           icon: 'list-outline',
@@ -70,33 +56,82 @@ const FlashcardModeSelection = ({ navigation }) => {
           params: { mode: 'sequential' }
         },
         {
-          id: '2-2',
+          id: '1-2',
           title: t('flashcardSelection.subjectiveMode.random'),
           subtitle: t('flashcardSelection.subjectiveMode.randomSubtitle'),
           icon: 'shuffle-outline',
           screen: 'FlashcardSubjectiveMode',
-          params: { mode: 'random' }
+          params: { mode: 'random' },
+          isPremium: true
+        }
+      ]
+    },
+    {
+      id: 2,
+      title: t('flashcardSelection.quizMode.title'),
+      subtitle: t('flashcardSelection.quizMode.subtitle'),
+      icon: 'help-circle-outline',
+      color: '#2E86AB',
+      subOptions: [
+        {
+          id: '2-1',
+          title: t('flashcardSelection.quizMode.sequential'),
+          subtitle: t('flashcardSelection.quizMode.sequentialSubtitle'),
+          icon: 'list-outline',
+          screen: 'FlashcardMode',
+          params: { mode: 'sequential' }
+        },
+        {
+          id: '2-2',
+          title: t('flashcardSelection.quizMode.random'),
+          subtitle: t('flashcardSelection.quizMode.randomSubtitle'),
+          icon: 'shuffle-outline',
+          screen: 'FlashcardMode',
+          params: { mode: 'random' },
+          isPremium: true
         }
       ]
     }
   ];
 
-  const handleOptionPress = (screen, params = {}) => {
-    navigation.navigate(screen, params);
+  const handleOptionPress = (subOption) => {
+    // 프리미엄 기능 체크
+    if (subOption.isPremium && !isPremium) {
+      PremiumGate.checkAccess(
+        subOption.screen,
+        () => {
+          // 프리미엄 사용자인 경우 실행
+          navigation.navigate(subOption.screen, subOption.params);
+        },
+        navigation
+      );
+      return;
+    }
+    
+    // 무료 기능 또는 프리미엄 사용자인 경우
+    navigation.navigate(subOption.screen, subOption.params);
   };
 
   const renderSubOption = (subOption, parentColor) => (
     <TouchableOpacity
       key={subOption.id}
       style={[styles.subOptionCard, { borderLeftColor: parentColor }]}
-      onPress={() => handleOptionPress(subOption.screen, subOption.params)}
+      onPress={() => handleOptionPress(subOption)}
     >
       <View style={styles.subOptionContent}>
         <View style={[styles.subOptionIcon, { backgroundColor: parentColor + '20' }]}>
           <Ionicons name={subOption.icon} size={24} color={parentColor} />
         </View>
         <View style={styles.subOptionText}>
-          <Text style={styles.subOptionTitle}>{subOption.title}</Text>
+          <View style={styles.titleRow}>
+            <Text style={styles.subOptionTitle}>{subOption.title}</Text>
+            {subOption.isPremium && !isPremium && (
+              <View style={styles.premiumBadge}>
+                <Ionicons name="star" size={12} color="#FFD700" />
+                <Text style={styles.premiumText}>Premium</Text>
+              </View>
+            )}
+          </View>
           <Text style={styles.subOptionSubtitle}>{subOption.subtitle}</Text>
         </View>
         <Ionicons name="chevron-forward" size={20} color="#ccc" />
@@ -285,11 +320,32 @@ const styles = StyleSheet.create({
   subOptionText: {
     flex: 1,
   },
+  titleRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: 2,
+  },
   subOptionTitle: {
     fontSize: 16,
     fontWeight: '600',
     color: '#333',
-    marginBottom: 2,
+  },
+  premiumBadge: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#FFF9E6',
+    paddingHorizontal: 6,
+    paddingVertical: 2,
+    borderRadius: 10,
+    marginLeft: 8,
+    borderWidth: 1,
+    borderColor: '#FFD700',
+  },
+  premiumText: {
+    fontSize: 10,
+    fontWeight: '600',
+    color: '#B8860B',
+    marginLeft: 2,
   },
   subOptionSubtitle: {
     fontSize: 13,

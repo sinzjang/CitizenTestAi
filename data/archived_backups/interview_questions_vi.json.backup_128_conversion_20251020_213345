@@ -1,0 +1,2782 @@
+[
+  {
+    "id": 1,
+    "question": "Luật tối cao của đất nước là gì?",
+    "correctAnswers": [
+      {
+        "text": "Hiến pháp",
+        "rationale": "Hiến pháp là luật cơ bản và tối cao của chính phủ Hoa Kỳ."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tuyên ngôn Độc lập"
+      },
+      {
+        "text": "Tuyên ngôn Nhân quyền"
+      },
+      {
+        "text": "Các bài viết của Liên bang"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Hiến pháp làm gì?",
+    "correctAnswers": [
+      {
+        "text": "thiết lập chính phủ",
+        "rationale": "Một trong những chức năng chính của Hiến pháp là thiết lập và định nghĩa chính phủ."
+      },
+      {
+        "text": "định nghĩa chính phủ",
+        "rationale": "Hiến pháp quy định quyền hạn và trách nhiệm của từng nhánh chính phủ."
+      },
+      {
+        "text": "bảo vệ các quyền cơ bản của người Mỹ",
+        "rationale": "Một số tu chính án, bao gồm Tuyên ngôn Nhân quyền, bảo vệ các quyền cơ bản của công dân."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "bầu Tổng thống, làm luật, thu thuế"
+      },
+      {
+        "text": "thực thi luật pháp, chỉ huy quân đội, đàm phán các hiệp ước"
+      },
+      {
+        "text": "giải thích luật pháp, giải quyết tranh chấp, xem xét các vụ án"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Ý tưởng về tự trị nằm trong ba từ đầu tiên của Hiến pháp. Những từ đó là gì?",
+    "correctAnswers": [
+      {
+        "text": "Chúng tôi, Nhân dân",
+        "rationale": "Những từ này tượng trưng cho quyền lực của chính phủ xuất phát từ nhân dân."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Bốn mươi năm và"
+      },
+      {
+        "text": "Quốc hội sẽ ban hành"
+      },
+      {
+        "text": "Tôi tuyên thệ trung thành"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Sửa đổi là gì?",
+    "correctAnswers": [
+      {
+        "text": "một sự thay đổi",
+        "rationale": "Sửa đổi là một thay đổi đối với Hiến pháp."
+      },
+      {
+        "text": "một bổ sung",
+        "rationale": "Sửa đổi là một bổ sung vào Hiến pháp."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "một luật mới, một phán quyết của Tòa án Tối cao"
+      },
+      {
+        "text": "một hiệp ước, một thỏa thuận hành pháp"
+      },
+      {
+        "text": "một luật tiểu bang, một quy định liên bang"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Chúng ta gọi mười tu chính án đầu tiên của Hiến pháp là gì?",
+    "correctAnswers": [
+      {
+        "text": "Tuyên ngôn Nhân quyền",
+        "rationale": "Mười tu chính án này đảm bảo các quyền và tự do cá nhân cốt lõi."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tuyên ngôn Độc lập"
+      },
+      {
+        "text": "Các bài viết của Liên bang"
+      },
+      {
+        "text": "Tuyên ngôn Giải phóng Nô lệ"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Quyền hoặc tự do nào từ Tu chính án thứ nhất?",
+    "correctAnswers": [
+      {
+        "text": "tự do tôn giáo",
+        "rationale": "Tu chính án thứ nhất cấm chính phủ can thiệp vào việc lựa chọn tôn giáo của cá nhân."
+      },
+      {
+        "text": "tự do ngôn luận",
+        "rationale": "Tu chính án thứ nhất cấm chính phủ đàn áp bất công sự biểu đạt cá nhân."
+      },
+      {
+        "text": "tự do hội họp",
+        "rationale": "Mọi người có quyền tụ tập một cách hòa bình và chia sẻ ý kiến của mình."
+      },
+      {
+        "text": "tự do báo chí",
+        "rationale": "Đây là quyền in ấn và phân phối thông tin mà không bị kiểm duyệt trước bởi chính phủ."
+      },
+      {
+        "text": "quyền kiến nghị chính phủ",
+        "rationale": "Công dân có quyền yêu cầu thay đổi chính sách của chính phủ."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "quyền bầu cử, quyền mang vũ khí, quyền được xét xử đúng thủ tục, quyền được bảo vệ bình đẳng, quyền riêng tư"
+      },
+      {
+        "text": "quyền được xét xử bởi bồi thẩm đoàn, quyền chống tự buộc tội, quyền có luật sư, quyền được xét xử nhanh chóng, quyền đối chất nhân chứng"
+      },
+      {
+        "text": "quyền đi lại giữa các bang, quyền kết hôn, quyền làm việc, quyền được giáo dục, quyền được chăm sóc sức khỏe"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Hiến pháp có bao nhiêu tu chính án?",
+    "correctAnswers": [
+      {
+        "text": "Hai mươi bảy (27)",
+        "rationale": "Sau Tuyên ngôn Nhân quyền năm 1791, đã thêm 17 điều nữa, tổng cộng là 27."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Mười (10)"
+      },
+      {
+        "text": "Năm mươi (50)"
+      },
+      {
+        "text": "Mười ba (13)"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Tuyên ngôn Độc lập đã làm gì?",
+    "correctAnswers": [
+      {
+        "text": "tuyên bố độc lập của chúng ta (khỏi Vương quốc Anh)",
+        "rationale": "Tuyên bố với thế giới rằng các thuộc địa không còn dưới sự cai trị của Anh nữa."
+      },
+      {
+        "text": "công bố độc lập của chúng ta (khỏi Vương quốc Anh)",
+        "rationale": "Chính thức công bố rằng các thuộc địa đã độc lập khỏi Vương quốc Anh."
+      },
+      {
+        "text": "nói rằng Hoa Kỳ là tự do (khỏi Vương quốc Anh)",
+        "rationale": "Cho thấy các thuộc địa là tự do và không còn chịu thẩm quyền của Anh nữa."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "trao cho phụ nữ quyền bầu cử"
+      },
+      {
+        "text": "giải phóng nô lệ"
+      },
+      {
+        "text": "tạo ra Hiến pháp"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Hai quyền nào được nêu trong Tuyên ngôn Độc lập?",
+    "correctAnswers": [
+      {
+        "text": "quyền sống",
+        "rationale": "Quyền sống là một trong ba quyền bất khả xâm phạm được nêu trong Tuyên ngôn Độc lập."
+      },
+      {
+        "text": "tự do",
+        "rationale": "Tự do là một trong ba quyền bất khả xâm phạm được nêu trong Tuyên ngôn Độc lập."
+      },
+      {
+        "text": "quyền mưu cầu hạnh phúc",
+        "rationale": "Quyền mưu cầu hạnh phúc là một trong ba quyền bất khả xâm phạm được nêu trong Tuyên ngôn Độc lập."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "tự do ngôn luận và tôn giáo"
+      },
+      {
+        "text": "quyền bầu cử và ứng cử"
+      },
+      {
+        "text": "quyền sở hữu tài sản và được giáo dục"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Tự do tôn giáo là gì?",
+    "correctAnswers": [
+      {
+        "text": "Bạn có thể theo bất kỳ tôn giáo nào hoặc không theo tôn giáo nào",
+        "rationale": "Hoa Kỳ không có quốc giáo và chính phủ không thể can thiệp vào lựa chọn của cá nhân."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Bạn chỉ có thể theo đạo Cơ Đốc"
+      },
+      {
+        "text": "Bạn phải theo một tôn giáo được chính phủ phê duyệt"
+      },
+      {
+        "text": "Bạn phải nộp thuế cho các hoạt động tôn giáo của mình"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Hệ thống kinh tế ở Hoa Kỳ là gì?",
+    "correctAnswers": [
+      {
+        "text": "nền kinh tế tư bản",
+        "rationale": "Hoa Kỳ hoạt động theo nền kinh tế tư bản, dựa trên quyền sở hữu tư nhân và thị trường tự do."
+      },
+      {
+        "text": "nền kinh tế thị trường",
+        "rationale": "Nền kinh tế thị trường, nơi giá cả được quyết định bởi cung và cầu, cũng mô tả hệ thống kinh tế Hoa Kỳ."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "nền kinh tế xã hội chủ nghĩa, nền kinh tế cộng sản"
+      },
+      {
+        "text": "nền kinh tế trọng thương, nền kinh tế phong kiến"
+      },
+      {
+        "text": "nền kinh tế chỉ huy, nền kinh tế kế hoạch"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "\"Nguyên tắc pháp quyền\" là gì?",
+    "correctAnswers": [
+      {
+        "text": "Mọi người phải tuân theo pháp luật",
+        "rationale": "Nguyên tắc pháp quyền là nguyên tắc mọi người đều chịu sự quản lý và trách nhiệm trước pháp luật, bất kể địa vị."
+      },
+      {
+        "text": "Các nhà lãnh đạo phải tuân thủ pháp luật",
+        "rationale": "Các nhà lãnh đạo chính phủ, bao gồm Tổng thống, cũng phải tuân theo pháp quyền."
+      },
+      {
+        "text": "Không ai đứng trên pháp luật",
+        "rationale": "Câu nói này tóm tắt rõ nhất nguyên tắc cốt lõi của pháp quyền."
+      },
+      {
+        "text": "Chính phủ phải tuân thủ pháp luật",
+        "rationale": "Chính phủ cũng bị ràng buộc bởi pháp luật và không thể hành động ngoài thẩm quyền hợp pháp."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Luật luôn thay đổi, Tổng thống làm luật, mọi luật đều công bằng"
+      },
+      {
+        "text": "Chỉ công dân tuân theo luật, luật áp dụng khác nhau đối với người giàu, quan chức chính phủ được miễn luật"
+      },
+      {
+        "text": "Luật chỉ là gợi ý, mọi người có thể chọn luật nào để tuân theo, luật chỉ áp dụng trong trường hợp khẩn cấp"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Nêu tên một nhánh hoặc bộ phận của chính phủ.",
+    "correctAnswers": [
+      {
+        "text": "Quốc hội (lập pháp)",
+        "rationale": "Quốc hội là nhánh lập pháp, cơ quan làm luật."
+      },
+      {
+        "text": "Tổng thống (hành pháp)",
+        "rationale": "Tổng thống là người đứng đầu nhánh hành pháp, thực thi pháp luật."
+      },
+      {
+        "text": "tòa án (tư pháp)",
+        "rationale": "Tòa án là nhánh tư pháp, giải thích và áp dụng luật pháp."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "các bang, quân đội, cảnh sát"
+      },
+      {
+        "text": "nội các, thượng viện, hạ viện"
+      },
+      {
+        "text": "FBI, CIA, Tòa án Tối cao"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Điều gì ngăn một nhánh của chính phủ trở nên quá quyền lực?",
+    "correctAnswers": [
+      {
+        "text": "kiểm soát và cân bằng",
+        "rationale": "Đây là hệ thống trong đó mỗi nhánh có thể xem xét và hạn chế quyền lực của các nhánh khác."
+      },
+      {
+        "text": "phân quyền",
+        "rationale": "Đây là nguyên tắc phân chia quyền lực nhà nước giữa lập pháp, hành pháp và tư pháp."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "pháp quyền, chế độ liên bang"
+      },
+      {
+        "text": "giới hạn nhiệm kỳ, bầu cử"
+      },
+      {
+        "text": "Tuyên ngôn Nhân quyền, luận tội"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Ai chịu trách nhiệm về nhánh hành pháp?",
+    "correctAnswers": [
+      {
+        "text": "Tổng thống",
+        "rationale": "Tổng thống là người đứng đầu nhánh hành pháp."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Chủ tịch Hạ viện"
+      },
+      {
+        "text": "Chánh án Tòa án Tối cao"
+      },
+      {
+        "text": "Ngoại trưởng"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Ai làm luật liên bang?",
+    "correctAnswers": [
+      {
+        "text": "Quốc hội",
+        "rationale": "Luật liên bang được Quốc hội (Thượng viện và Hạ viện) thông qua."
+      },
+      {
+        "text": "Thượng viện và Hạ viện",
+        "rationale": "Quốc hội bao gồm Thượng viện và Hạ viện, cùng nhau làm luật liên bang."
+      },
+      {
+        "text": "cơ quan lập pháp (Hoa Kỳ hoặc quốc gia)",
+        "rationale": "Cơ quan lập pháp của Hoa Kỳ, tức là Quốc hội, có quyền lập hiến để ban hành luật liên bang."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tổng thống"
+      },
+      {
+        "text": "Tòa án Tối cao"
+      },
+      {
+        "text": "cơ quan lập pháp tiểu bang"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Hai bộ phận của Quốc hội Hoa Kỳ là gì?",
+    "correctAnswers": [
+      {
+        "text": "Thượng viện và Hạ viện (Hạ nghị viện)",
+        "rationale": "Quốc hội Hoa Kỳ là cơ quan lập pháp lưỡng viện gồm Thượng viện và Hạ viện."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tổng thống và Nội các"
+      },
+      {
+        "text": "các tòa án liên bang và tiểu bang"
+      },
+      {
+        "text": "Đảng Dân chủ và Đảng Cộng hòa"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Có bao nhiêu thượng nghị sĩ ở Hoa Kỳ?",
+    "correctAnswers": [
+      {
+        "text": "Một trăm (100)",
+        "rationale": "Mỗi trong 50 bang có hai thượng nghị sĩ, tổng cộng 100."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Bốn trăm ba mươi lăm (435)"
+      },
+      {
+        "text": "Năm mươi (50)"
+      },
+      {
+        "text": "Chín (9)"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Chúng ta bầu một Thượng nghị sĩ Hoa Kỳ với nhiệm kỳ bao nhiêu năm?",
+    "correctAnswers": [
+      {
+        "text": "Sáu (6)",
+        "rationale": "Nhiệm kỳ của một Thượng nghị sĩ Hoa Kỳ là sáu năm."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Hai (2)"
+      },
+      {
+        "text": "Bốn (4)"
+      },
+      {
+        "text": "Tám (8)"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Ai là một trong những Thượng nghị sĩ Hoa Kỳ hiện tại của bang bạn?",
+    "correctAnswers": [
+      {
+        "text": "Câu trả lời có thể khác nhau",
+        "rationale": "Câu trả lời cho câu hỏi này phụ thuộc vào bang bạn đang sống. Bạn nên kiểm tra senate.gov."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tên của Thống đốc"
+      },
+      {
+        "text": "Tên của Dân biểu"
+      },
+      {
+        "text": "Tên của Tổng thống"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Hạ viện có bao nhiêu thành viên có quyền bỏ phiếu?",
+    "correctAnswers": [
+      {
+        "text": "Bốn trăm ba mươi lăm (435)",
+        "rationale": "Số lượng đại biểu dựa trên dân số của mỗi bang."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Một trăm (100)"
+      },
+      {
+        "text": "Năm mươi (50)"
+      },
+      {
+        "text": "Năm trăm ba mươi tám (538)"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Chúng ta bầu một Hạ nghị sĩ Hoa Kỳ cho bao nhiêu năm?",
+    "correctAnswers": [
+      {
+        "text": "Hai (2)",
+        "rationale": "Nhiệm kỳ của một Hạ nghị sĩ Hoa Kỳ là hai năm."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Bốn (4)"
+      },
+      {
+        "text": "Sáu (6)"
+      },
+      {
+        "text": "Suốt đời"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Nêu tên Hạ nghị sĩ Hoa Kỳ của bạn.",
+    "correctAnswers": [
+      {
+        "text": "Câu trả lời sẽ khác nhau",
+        "rationale": "Câu trả lời cho câu hỏi này phụ thuộc vào khu vực bầu cử quốc hội của bạn. Bạn nên kiểm tra house.gov."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tên của Thượng nghị sĩ"
+      },
+      {
+        "text": "Tên của Thống đốc"
+      },
+      {
+        "text": "Tên của Thị trưởng"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Thượng nghị sĩ Hoa Kỳ đại diện cho ai?",
+    "correctAnswers": [
+      {
+        "text": "tất cả người dân của bang",
+        "rationale": "Các Thượng nghị sĩ đại diện cho lợi ích của toàn bộ tiểu bang của họ, không chỉ một khu vực cụ thể."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "chỉ đảng chính trị của họ"
+      },
+      {
+        "text": "chỉ thành phố nơi họ sống"
+      },
+      {
+        "text": "Tổng thống"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Tại sao một số bang có nhiều đại biểu hơn các bang khác?",
+    "correctAnswers": [
+      {
+        "text": "(vì) dân số của bang",
+        "rationale": "Số lượng đại biểu được phân bổ dựa trên dân số của từng bang, được xác định qua cuộc điều tra dân số mỗi 10 năm."
+      },
+      {
+        "text": "(vì) họ có nhiều người hơn",
+        "rationale": "Các bang có dân số lớn hơn được phân bổ nhiều đại biểu hơn."
+      },
+      {
+        "text": "(vì) một số bang có nhiều người hơn",
+        "rationale": "Việc phân bổ ghế dành nhiều ghế hơn cho các bang có đông dân."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "(vì) diện tích đất của bang"
+      },
+      {
+        "text": "(vì) sự giàu có của bang"
+      },
+      {
+        "text": "vì thời điểm bang được thành lập"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Chúng ta bầu tổng thống cho bao nhiêu năm?",
+    "correctAnswers": [
+      {
+        "text": "Bốn (4)",
+        "rationale": "Nhiệm kỳ của tổng thống là bốn năm."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Hai (2)"
+      },
+      {
+        "text": "Sáu (6)"
+      },
+      {
+        "text": "Năm (5)"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Vào tháng mấy chúng ta bầu Tổng thống?",
+    "correctAnswers": [
+      {
+        "text": "Tháng Mười Một",
+        "rationale": "Cuộc bầu cử tổng thống Hoa Kỳ được tổ chức bốn năm một lần vào thứ Ba sau ngày thứ Hai đầu tiên của tháng Mười Một."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tháng Một"
+      },
+      {
+        "text": "Tháng Bảy"
+      },
+      {
+        "text": "Tháng Mười"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Tên của Tổng thống Hoa Kỳ hiện tại là gì?",
+    "correctAnswers": [
+      {
+        "text": "Donald J. Trump",
+        "rationale": "(Tính đến tháng 7 năm 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "JD Vance"
+      },
+      {
+        "text": "Mike Johnson"
+      },
+      {
+        "text": "Joe Biden"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Tên của Phó Tổng thống Hoa Kỳ hiện tại là gì?",
+    "correctAnswers": [
+      {
+        "text": "JD Vance",
+        "rationale": "(Tính đến tháng 7 năm 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Donald J. Trump"
+      },
+      {
+        "text": "Kamala Harris"
+      },
+      {
+        "text": "John Roberts"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Nếu Tổng thống không thể tiếp tục phục vụ, ai sẽ trở thành Tổng thống?",
+    "correctAnswers": [
+      {
+        "text": "Phó Tổng thống",
+        "rationale": "Phó Tổng thống sẽ kế nhiệm chức Tổng thống nếu Tổng thống không thể tiếp tục phục vụ."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Chủ tịch Hạ viện"
+      },
+      {
+        "text": "Chánh án Tòa án Tối cao"
+      },
+      {
+        "text": "Ngoại trưởng"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Nếu cả Tổng thống và Phó Tổng thống đều không thể phục vụ, ai sẽ trở thành Tổng thống?",
+    "correctAnswers": [
+      {
+        "text": "Chủ tịch Hạ viện",
+        "rationale": "Chủ tịch Hạ viện đứng thứ ba trong thứ tự kế vị tổng thống."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ngoại trưởng"
+      },
+      {
+        "text": "Chánh án Tòa án Tối cao"
+      },
+      {
+        "text": "Chủ tịch tạm quyền Thượng viện"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Ai là Tổng tư lệnh của quân đội?",
+    "correctAnswers": [
+      {
+        "text": "Tổng thống",
+        "rationale": "Tổng thống giữ quyền tối cao đối với lực lượng vũ trang Hoa Kỳ với tư cách là Tổng tư lệnh."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Bộ trưởng Quốc phòng"
+      },
+      {
+        "text": "Chủ tịch Hội đồng Tham mưu trưởng Liên quân"
+      },
+      {
+        "text": "Phó tổng thống"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Ai ký vào các dự luật để chúng trở thành luật?",
+    "correctAnswers": [
+      {
+        "text": "Tổng thống",
+        "rationale": "Dự luật được Quốc hội thông qua phải được Tổng thống ký thì mới trở thành luật."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Chủ tịch Hạ viện"
+      },
+      {
+        "text": "Phó Tổng thống"
+      },
+      {
+        "text": "Chánh án Tòa án Tối cao"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Ai phủ quyết các dự luật?",
+    "correctAnswers": [
+      {
+        "text": "Tổng thống",
+        "rationale": "Tổng thống có quyền phủ quyết các dự luật được Quốc hội thông qua."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Quốc hội"
+      },
+      {
+        "text": "Tòa án Tối cao"
+      },
+      {
+        "text": "Thống đốc"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Nội các của Tổng thống làm gì?",
+    "correctAnswers": [
+      {
+        "text": "tư vấn cho Tổng thống",
+        "rationale": "Nội các, bao gồm các lãnh đạo của các bộ hành pháp, cung cấp lời khuyên chuyên môn cho Tổng thống."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "làm luật"
+      },
+      {
+        "text": "bầu Tổng thống"
+      },
+      {
+        "text": "tuyên chiến"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Hai vị trí cấp nội các nào?",
+    "correctAnswers": [
+      {
+        "text": "Bộ trưởng Ngoại giao",
+        "rationale": "Bộ trưởng Ngoại giao là một thành viên quan trọng của nội các, phụ trách chính sách đối ngoại."
+      },
+      {
+        "text": "Bộ trưởng Tài chính",
+        "rationale": "Bộ trưởng Tài chính chịu trách nhiệm về chính sách tài chính và kinh tế của quốc gia."
+      },
+      {
+        "text": "Bộ trưởng Quốc phòng",
+        "rationale": "Bộ trưởng Quốc phòng giám sát chính sách quân sự và quốc phòng."
+      },
+      {
+        "text": "Tổng chưởng lý",
+        "rationale": "Tổng chưởng lý là người đứng đầu Bộ Tư pháp và là quan chức thực thi pháp luật cao nhất."
+      },
+      {
+        "text": "Bộ trưởng Nông nghiệp",
+        "rationale": "Bộ trưởng Nông nghiệp giám sát nông nghiệp, an toàn thực phẩm và các chính sách phát triển nông thôn."
+      },
+      {
+        "text": "Bộ trưởng Thương mại",
+        "rationale": "Bộ trưởng Thương mại thúc đẩy tăng trưởng kinh tế và thương mại."
+      },
+      {
+        "text": "Bộ trưởng Giáo dục",
+        "rationale": "Bộ trưởng Giáo dục giám sát chính sách và chương trình giáo dục liên bang."
+      },
+      {
+        "text": "Bộ trưởng Năng lượng",
+        "rationale": "Bộ trưởng Năng lượng quản lý chính sách năng lượng và an ninh hạt nhân."
+      },
+      {
+        "text": "Bộ trưởng Y tế và Dịch vụ Nhân sinh",
+        "rationale": "Bộ trưởng Y tế và Dịch vụ Nhân sinh giám sát các chương trình y tế và phúc lợi."
+      },
+      {
+        "text": "Bộ trưởng An ninh Nội địa",
+        "rationale": "Bộ trưởng An ninh Nội địa bảo vệ quốc gia khỏi các mối đe dọa an ninh."
+      },
+      {
+        "text": "Bộ trưởng Nhà ở và Phát triển Đô thị",
+        "rationale": "Bộ trưởng Nhà ở và Phát triển Đô thị giám sát các chính sách về nhà ở và phát triển đô thị."
+      },
+      {
+        "text": "Bộ trưởng Nội vụ",
+        "rationale": "Bộ trưởng Nội vụ quản lý đất công và tài nguyên thiên nhiên."
+      },
+      {
+        "text": "Bộ trưởng Lao động",
+        "rationale": "Bộ trưởng Lao động giám sát an toàn lao động và quan hệ lao động."
+      },
+      {
+        "text": "Bộ trưởng Giao thông vận tải",
+        "rationale": "Bộ trưởng Giao thông vận tải giám sát cơ sở hạ tầng giao thông và an toàn."
+      },
+      {
+        "text": "Bộ trưởng Cựu chiến binh",
+        "rationale": "Bộ trưởng Cựu chiến binh cung cấp dịch vụ cho các cựu quân nhân."
+      },
+      {
+        "text": "Phó Tổng thống",
+        "rationale": "Phó Tổng thống cũng được coi là một vị trí cấp nội các."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Chánh án, Chủ tịch Hạ viện, Lãnh đạo phe đa số Thượng viện, Lãnh đạo phe thiểu số Hạ viện"
+      },
+      {
+        "text": "Chủ tịch Cục Dự trữ Liên bang, Thẩm phán Tòa án Tối cao, Thượng nghị sĩ Hoa Kỳ, Hạ nghị sĩ Hoa Kỳ"
+      },
+      {
+        "text": "Thống đốc bang, Thị trưởng, Ủy viên quận, Nghị viên hội đồng thành phố"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Ngành tư pháp làm gì?",
+    "correctAnswers": [
+      {
+        "text": "xem xét luật pháp",
+        "rationale": "Ngành tư pháp xem xét luật pháp để đảm bảo chúng hợp hiến."
+      },
+      {
+        "text": "giải thích luật pháp",
+        "rationale": "Ngành tư pháp diễn giải ý nghĩa của luật pháp và áp dụng vào các vụ việc cụ thể."
+      },
+      {
+        "text": "giải quyết tranh chấp",
+        "rationale": "Nó giải quyết các tranh chấp pháp lý bằng cách đưa ra phán quyết."
+      },
+      {
+        "text": "quyết định xem một đạo luật có vi phạm Hiến pháp hay không",
+        "rationale": "Ngành tư pháp có quyền xem xét tư pháp để xác định luật có hợp hiến hay không."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "ban hành luật, thực thi luật, cố vấn cho Tổng thống"
+      },
+      {
+        "text": "thu thuế, in tiền, điều tiết thương mại"
+      },
+      {
+        "text": "chỉ huy quân đội, đàm phán các hiệp ước, bổ nhiệm các đại sứ"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Tòa án cao nhất ở Hoa Kỳ là gì?",
+    "correctAnswers": [
+      {
+        "text": "Tòa án Tối cao",
+        "rationale": "Tòa án Tối cao là tòa án cao nhất trong hệ thống tư pháp Hoa Kỳ."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tòa án Tối cao của tiểu bang"
+      },
+      {
+        "text": "tòa phúc thẩm"
+      },
+      {
+        "text": "Tòa án Công lý Quốc tế"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Có bao nhiêu thẩm phán trong Tòa án Tối cao?",
+    "correctAnswers": [
+      {
+        "text": "Chín (9)",
+        "rationale": "Tòa án Tối cao gồm một Chánh án và tám Thẩm phán liên kết."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Bảy (7)"
+      },
+      {
+        "text": "Mười hai (12)"
+      },
+      {
+        "text": "Năm mươi (50)"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Hiện tại, ai là Chánh án Tòa án Tối cao Hoa Kỳ?",
+    "correctAnswers": [
+      {
+        "text": "John Roberts",
+        "rationale": "John G. Roberts, Jr. là Chánh án thứ 17 và đương nhiệm."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Clarence Thomas"
+      },
+      {
+        "text": "Merrick Garland"
+      },
+      {
+        "text": "Ruth Bader Ginsburg"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Theo Hiến pháp của chúng ta, một số quyền thuộc về chính phủ liên bang. Một quyền của chính phủ liên bang là gì?",
+    "correctAnswers": [
+      {
+        "text": "in tiền",
+        "rationale": "In tiền là quyền độc quyền của chính phủ liên bang."
+      },
+      {
+        "text": "tuyên chiến",
+        "rationale": "Tuyên chiến là quyền hạn của Quốc hội liên bang."
+      },
+      {
+        "text": "thành lập quân đội",
+        "rationale": "Việc thành lập và duy trì quân đội cho quốc phòng là vai trò của chính phủ liên bang."
+      },
+      {
+        "text": "ký kết hiệp ước",
+        "rationale": "Việc ký kết các hiệp ước chính thức với các quốc gia khác là quyền hạn của chính phủ liên bang."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "cấp bằng lái xe, cung cấp giáo dục, cung cấp bảo vệ (cảnh sát), điều chỉnh luật hôn nhân"
+      },
+      {
+        "text": "tổ chức bầu cử, thành lập tòa án địa phương, cấp giấy phép hành nghề, điều chỉnh thương mại nội bang"
+      },
+      {
+        "text": "quản lý tài nguyên thiên nhiên, thành lập các đô thị, điều chỉnh các doanh nghiệp địa phương, cung cấp sở cứu hỏa"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Theo Hiến pháp của chúng ta, một số quyền thuộc về các bang. Một quyền của các bang là gì?",
+    "correctAnswers": [
+      {
+        "text": "cung cấp giáo dục và trường học",
+        "rationale": "Chính sách giáo dục và hoạt động trường học chủ yếu là trách nhiệm của các bang."
+      },
+      {
+        "text": "cung cấp bảo vệ (cảnh sát)",
+        "rationale": "Duy trì trật tự công cộng bằng cách vận hành cảnh sát bang và địa phương là quyền lực của bang."
+      },
+      {
+        "text": "cấp bằng lái xe",
+        "rationale": "Mỗi bang đặt ra tiêu chuẩn và thủ tục riêng để cấp bằng lái xe."
+      },
+      {
+        "text": "cung cấp an toàn (sở cứu hỏa)",
+        "rationale": "Dịch vụ bảo vệ phòng cháy chữa cháy và an toàn thường do chính quyền bang và địa phương cung cấp."
+      },
+      {
+        "text": "phê duyệt quy hoạch và sử dụng đất",
+        "rationale": "Các bang có quyền điều chỉnh việc sử dụng đất và quy hoạch trong phạm vi lãnh thổ của mình."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "in tiền, tuyên chiến, ký kết hiệp ước"
+      },
+      {
+        "text": "điều tiết thương mại liên bang, thành lập bưu điện, đúc tiền"
+      },
+      {
+        "text": "thành lập quân đội, ban hành luật nhập cư, điều chỉnh thương mại nước ngoài"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Ai là thống đốc bang của bạn hiện tại?",
+    "correctAnswers": [
+      {
+        "text": "Câu trả lời sẽ khác nhau",
+        "rationale": "Câu trả lời cho câu hỏi này phụ thuộc vào tiểu bang bạn đang sống. Bạn nên kiểm tra tại usa.gov."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tên của thượng nghị sĩ"
+      },
+      {
+        "text": "Tên của thị trưởng"
+      },
+      {
+        "text": "Tên của tổng thống"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Thủ phủ của bang bạn là gì?",
+    "correctAnswers": [
+      {
+        "text": "Câu trả lời sẽ khác nhau",
+        "rationale": "Câu trả lời cho câu hỏi này phụ thuộc vào tiểu bang bạn đang sống."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Washington D.C."
+      },
+      {
+        "text": "Thành phố New York"
+      },
+      {
+        "text": "Los Angeles"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Hai đảng chính ở Hoa Kỳ là gì?",
+    "correctAnswers": [
+      {
+        "text": "Dân chủ và Cộng hòa",
+        "rationale": "Đảng Dân chủ và Đảng Cộng hòa là hai đảng chính chi phối chính trị Hoa Kỳ ngày nay."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Công đảng và Bảo thủ"
+      },
+      {
+        "text": "Tự do và Xanh"
+      },
+      {
+        "text": "Thượng viện và Hạ viện"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Tổng thống hiện tại thuộc đảng chính trị nào?",
+    "correctAnswers": [
+      {
+        "text": "Cộng hòa (Đảng)",
+        "rationale": "Tổng thống Donald Trump là thành viên của Đảng Cộng hòa. (Tính đến tháng 7 năm 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Dân chủ (Đảng)"
+      },
+      {
+        "text": "Độc lập"
+      },
+      {
+        "text": "Tự do (Đảng)"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Tên của Chủ tịch Hạ viện hiện tại là gì?",
+    "correctAnswers": [
+      {
+        "text": "Mike Johnson",
+        "rationale": "(Tính đến tháng 7 năm 2025)"
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nancy Pelosi"
+      },
+      {
+        "text": "Kevin McCarthy"
+      },
+      {
+        "text": "Chuck Schumer"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Có bốn tu chính án trong Hiến pháp quy định ai có thể bỏ phiếu. Hãy mô tả một trong số đó.",
+    "correctAnswers": [
+      {
+        "text": "Công dân từ mười tám (18) tuổi trở lên (có thể bỏ phiếu)",
+        "rationale": "Tu chính án thứ 26 đã hạ độ tuổi bỏ phiếu xuống 18."
+      },
+      {
+        "text": "Bạn không phải trả (thuế bầu cử) để bỏ phiếu",
+        "rationale": "Tu chính án thứ 24 đã bãi bỏ thuế bầu cử trong các cuộc bầu cử liên bang."
+      },
+      {
+        "text": "Bất kỳ công dân nào cũng có thể bỏ phiếu. (Phụ nữ và đàn ông đều có thể bỏ phiếu.)",
+        "rationale": "Tu chính án thứ 19 đã trao cho phụ nữ quyền bầu cử."
+      },
+      {
+        "text": "Nam giới thuộc bất kỳ chủng tộc nào (đều có thể bỏ phiếu)",
+        "rationale": "Tu chính án thứ 15 cấm phân biệt đối xử trong bầu cử dựa trên chủng tộc."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Thường trú nhân có thể bỏ phiếu, chỉ những người sở hữu tài sản mới được bỏ phiếu, chỉ những người trên 30 tuổi mới được bỏ phiếu, chỉ những người có bằng đại học mới được bỏ phiếu"
+      },
+      {
+        "text": "Chỉ những người đã kết hôn mới được bỏ phiếu, Chỉ những người có việc làm mới được bỏ phiếu, Chỉ các cựu chiến binh mới được bỏ phiếu, Chỉ những người sở hữu nhà mới được bỏ phiếu"
+      },
+      {
+        "text": "Chỉ những người nộp thuế mới được bỏ phiếu, Chỉ những người sinh ra tại Hoa Kỳ mới được bỏ phiếu, Chỉ những người nói tiếng Anh mới được bỏ phiếu, Chỉ những người không có tiền án mới được bỏ phiếu"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Trách nhiệm nào chỉ dành cho công dân Hoa Kỳ?",
+    "correctAnswers": [
+      {
+        "text": "tham gia bồi thẩm đoàn",
+        "rationale": "Nghĩa vụ làm bồi thẩm viên là một trách nhiệm quan trọng dành riêng cho công dân Hoa Kỳ."
+      },
+      {
+        "text": "bỏ phiếu trong một cuộc bầu cử liên bang",
+        "rationale": "Việc bỏ phiếu trong một cuộc bầu cử liên bang vừa là quyền vừa là trách nhiệm quan trọng của công dân."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "nộp thuế, tuân thủ pháp luật"
+      },
+      {
+        "text": "lấy bằng lái xe, đi học"
+      },
+      {
+        "text": "làm việc hợp pháp, tham gia cộng đồng"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Nêu một quyền chỉ dành cho công dân Hoa Kỳ.",
+    "correctAnswers": [
+      {
+        "text": "bỏ phiếu trong một cuộc bầu cử liên bang",
+        "rationale": "Quyền bỏ phiếu trong các cuộc bầu cử liên bang là quyền riêng của công dân."
+      },
+      {
+        "text": "ra tranh cử vào chức vụ liên bang",
+        "rationale": "Quyền ra tranh cử vào các chức vụ liên bang, như Tổng thống, Thượng nghị sĩ hoặc Hạ nghị sĩ, là dành riêng cho công dân."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "tự do tôn giáo, tự do ngôn luận"
+      },
+      {
+        "text": "quyền được xét xử đúng thủ tục, bảo vệ bình đẳng"
+      },
+      {
+        "text": "quyền có luật sư, bảo vệ khỏi việc khám xét vô lý"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Hai quyền của mọi người sống ở Hoa Kỳ là gì?",
+    "correctAnswers": [
+      {
+        "text": "tự do ngôn luận",
+        "rationale": "Mọi người ở Hoa Kỳ đều có quyền bày tỏ ý kiến của mình."
+      },
+      {
+        "text": "tự do phát biểu",
+        "rationale": "Mọi người ở Hoa Kỳ đều có quyền nói tự do."
+      },
+      {
+        "text": "quyền hội họp",
+        "rationale": "Mọi người ở Hoa Kỳ đều có quyền tụ họp một cách ôn hòa."
+      },
+      {
+        "text": "quyền kiến nghị chính phủ",
+        "rationale": "Mọi người ở Hoa Kỳ đều có quyền kiến nghị chính phủ giải quyết khiếu nại."
+      },
+      {
+        "text": "tự do tôn giáo",
+        "rationale": "Mọi người ở Hoa Kỳ đều có quyền theo bất kỳ tôn giáo nào hoặc không theo tôn giáo nào."
+      },
+      {
+        "text": "quyền mang vũ khí",
+        "rationale": "Tu chính án thứ hai bảo vệ quyền sở hữu và mang vũ khí."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "quyền bỏ phiếu trong cuộc bầu cử liên bang, quyền tranh cử vào chức vụ liên bang, quyền có hộ chiếu Mỹ, quyền phục vụ trong bồi thẩm đoàn"
+      },
+      {
+        "text": "quyền được hưởng trợ cấp an sinh xã hội, quyền được hưởng Medicare, quyền được hưởng trợ cấp thất nghiệp, quyền được làm việc liên bang"
+      },
+      {
+        "text": "quyền bảo lãnh cho gia đình nhập cư, quyền được bảo hộ ngoại giao ở nước ngoài, quyền trở về Hoa Kỳ, quyền giữ chức vụ liên bang"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Khi tuyên thệ trung thành, chúng ta thể hiện lòng trung thành với điều gì?",
+    "correctAnswers": [
+      {
+        "text": "Hoa Kỳ",
+        "rationale": "Lời tuyên thệ trung thành là sự thể hiện lòng trung thành với quốc gia Hoa Kỳ."
+      },
+      {
+        "text": "lá cờ",
+        "rationale": "Lá cờ tượng trưng cho Hoa Kỳ, nên tuyên thệ trung thành với nó nghĩa là thể hiện lòng trung thành với đất nước."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Tổng thống, Hiến pháp"
+      },
+      {
+        "text": "Quốc hội, Tòa án Tối cao"
+      },
+      {
+        "text": "tiểu bang của bạn, cộng đồng của bạn"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Lời hứa nào bạn đưa ra khi trở thành công dân Hoa Kỳ?",
+    "correctAnswers": [
+      {
+        "text": "tuân theo luật pháp của Hoa Kỳ",
+        "rationale": "Lời tuyên thệ trung thành bao gồm một lời hứa tuân thủ luật pháp Hoa Kỳ."
+      },
+      {
+        "text": "trung thành với Hoa Kỳ",
+        "rationale": "Đây là một phần cốt lõi của lời tuyên thệ trung thành."
+      },
+      {
+        "text": "phục vụ trong quân đội Hoa Kỳ (nếu cần)",
+        "rationale": "Đây là một lời hứa sẽ cầm vũ khí thay mặt quốc gia khi cần thiết."
+      },
+      {
+        "text": "từ bỏ lòng trung thành với các quốc gia khác",
+        "rationale": "Lời tuyên thệ trung thành bao gồm việc từ bỏ lòng trung thành với các quốc gia khác."
+      },
+      {
+        "text": "bảo vệ Hiến pháp và luật pháp Hoa Kỳ",
+        "rationale": "Các công dân mới hứa sẽ ủng hộ và bảo vệ Hiến pháp và pháp luật."
+      },
+      {
+        "text": "phục vụ (thực hiện công việc quan trọng cho) quốc gia (nếu cần)",
+        "rationale": "Công dân hứa sẽ thực hiện công việc quan trọng đối với quốc gia khi được yêu cầu."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "bỏ phiếu mỗi năm, luôn nói tiếng Anh, không bao giờ rời Hoa Kỳ"
+      },
+      {
+        "text": "nộp thuế cao hơn, phục vụ trong chính phủ, quyên góp từ thiện"
+      },
+      {
+        "text": "đổi tên, từ bỏ quốc tịch cũ, sống ở Mỹ mãi mãi"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Công dân phải bao nhiêu tuổi mới được bầu tổng thống?",
+    "correctAnswers": [
+      {
+        "text": "mười tám (18) tuổi trở lên",
+        "rationale": "Tu chính án thứ 26 quy định tuổi bầu cử quốc gia là 18."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "mười sáu (16) tuổi trở lên"
+      },
+      {
+        "text": "hai mốt (21) tuổi trở lên"
+      },
+      {
+        "text": "không có giới hạn độ tuổi"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Hai cách nào để người Mỹ có thể tham gia vào nền dân chủ của họ?",
+    "correctAnswers": [
+      {
+        "text": "bỏ phiếu",
+        "rationale": "Bỏ phiếu là cách cơ bản nhất để tham gia vào nền dân chủ."
+      },
+      {
+        "text": "tham gia một đảng chính trị",
+        "rationale": "Tham gia một đảng chính trị cho phép công dân ủng hộ những ứng viên và lý tưởng mà họ tin tưởng."
+      },
+      {
+        "text": "giúp đỡ trong một chiến dịch",
+        "rationale": "Tình nguyện cho các chiến dịch chính trị là một cách tích cực để tham gia vào tiến trình dân chủ."
+      },
+      {
+        "text": "tham gia một nhóm dân sự",
+        "rationale": "Các nhóm dân sự cho phép công dân cùng nhau giải quyết các vấn đề cộng đồng."
+      },
+      {
+        "text": "tham gia một nhóm cộng đồng",
+        "rationale": "Các nhóm cộng đồng giúp công dân giải quyết những mối quan tâm và vấn đề địa phương."
+      },
+      {
+        "text": "đưa ý kiến của bạn về một vấn đề cho một quan chức được bầu",
+        "rationale": "Liên hệ với các quan chức được bầu là một cách quan trọng để tiếng nói của bạn được lắng nghe."
+      },
+      {
+        "text": "gọi các Thượng nghị sĩ và Dân biểu",
+        "rationale": "Gọi cho các đại diện của bạn là một cách trực tiếp để tham gia vào nền dân chủ."
+      },
+      {
+        "text": "công khai ủng hộ hoặc phản đối một vấn đề hoặc chính sách",
+        "rationale": "Vận động công khai là một phương thức tham gia dân chủ quan trọng."
+      },
+      {
+        "text": "ra tranh cử",
+        "rationale": "Ứng cử là một trong những cách trực tiếp nhất để tham gia vào nền dân chủ."
+      },
+      {
+        "text": "viết cho một tờ báo",
+        "rationale": "Viết thư cho báo chí giúp bạn chia sẻ quan điểm của mình với cộng đồng."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "xem tin tức trên TV, treo cờ Mỹ, nộp thuế, đọc báo"
+      },
+      {
+        "text": "tham gia diễu hành, trưng bày biểu tượng yêu nước, tuân thủ luật pháp, tôn trọng quốc kỳ"
+      },
+      {
+        "text": "hát quốc ca, ăn mừng ngày lễ, mặc quần áo yêu nước, đăng trên mạng xã hội"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Ngày cuối cùng bạn có thể nộp tờ khai thuế thu nhập liên bang là khi nào?",
+    "correctAnswers": [
+      {
+        "text": "15 tháng 4",
+        "rationale": "Hạn chót nộp thuế thông thường là ngày 15 tháng 4. (Có thể gia hạn nếu rơi vào ngày cuối tuần hoặc ngày lễ)."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "1 tháng 1"
+      },
+      {
+        "text": "31 tháng 12"
+      },
+      {
+        "text": "4 tháng 7"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Kailan dapat magparehistro ang lahat ng lalaki para sa Selective Service?",
+    "correctAnswers": [
+      {
+        "text": "ở tuổi mười tám (18)",
+        "rationale": "Việc đăng ký phải diễn ra trong vòng 30 ngày sau khi đủ 18 tuổi."
+      },
+      {
+        "text": "từ mười tám (18) đến hai mươi sáu (26)",
+        "rationale": "Mặc dù nên đăng ký ở tuổi 18, nhưng vẫn có thể đăng ký đến tuổi 26."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "khi họ nhập ngũ, khi họ bỏ phiếu"
+      },
+      {
+        "text": "khi họ kết hôn, khi họ tốt nghiệp trung học"
+      },
+      {
+        "text": "khi họ tròn 21 tuổi, khi họ tròn 30 tuổi"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Một lý do mà những người định cư đến Mỹ là gì?",
+    "correctAnswers": [
+      {
+        "text": "tự do",
+        "rationale": "Nhiều người định cư đến Mỹ để tìm kiếm các hình thức tự do khác nhau."
+      },
+      {
+        "text": "tự do chính trị",
+        "rationale": "Một số người định cư đến Mỹ để tìm kiếm tự do chính trị nhiều hơn."
+      },
+      {
+        "text": "tự do tôn giáo",
+        "rationale": "Nhiều người định cư đến Mỹ để tự do thực hành tôn giáo của họ."
+      },
+      {
+        "text": "cơ hội kinh tế",
+        "rationale": "Nhiều người định cư đến Mỹ để tìm kiếm cơ hội kinh tế tốt hơn."
+      },
+      {
+        "text": "thực hành tôn giáo của họ",
+        "rationale": "Thực hành tôn giáo là một động lực chính đối với nhiều người định cư."
+      },
+      {
+        "text": "trốn thoát khỏi sự đàn áp",
+        "rationale": "Nhiều người định cư đã chạy trốn khỏi sự đàn áp ở quê hương của họ."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "phục vụ Vua Anh, đi nghỉ, chinh phục người Mỹ bản địa"
+      },
+      {
+        "text": "để thoát khỏi nghèo đói, để tìm vàng, để thiết lập các tuyến thương mại"
+      },
+      {
+        "text": "để truyền bá Cơ đốc giáo, để tuyên bố đất đai cho Tây Ban Nha, để tìm Hành lang Tây Bắc"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Ai đã sống ở châu Mỹ trước khi người châu Âu đến?",
+    "correctAnswers": [
+      {
+        "text": "Người da đỏ châu Mỹ",
+        "rationale": "Những người bản địa đã sống ở Châu Mỹ hàng ngàn năm trước khi người châu Âu đến."
+      },
+      {
+        "text": "Người Mỹ bản địa",
+        "rationale": "Một cách gọi khác chỉ các dân tộc bản địa đã sinh sống ở Châu Mỹ từ rất lâu trước khi người châu Âu đến."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Không ai, người châu Phi"
+      },
+      {
+        "text": "Người Viking, các nhà thám hiểm Trung Quốc"
+      },
+      {
+        "text": "Những kẻ chinh phục Tây Ban Nha, những người định cư Anh"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Nhóm người nào đã bị đưa đến Mỹ và bị bán làm nô lệ?",
+    "correctAnswers": [
+      {
+        "text": "Người châu Phi",
+        "rationale": "Người châu Phi đã bị cưỡng bức đưa đến Mỹ và bị bán làm nô lệ."
+      },
+      {
+        "text": "người từ châu Phi",
+        "rationale": "Người từ lục địa châu Phi đã bị bắt làm nô lệ và bị đưa đến Mỹ."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Người châu Âu"
+      },
+      {
+        "text": "Người da đỏ châu Mỹ"
+      },
+      {
+        "text": "Người châu Á"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Tại sao những người thuộc địa lại chiến đấu với người Anh?",
+    "correctAnswers": [
+      {
+        "text": "vì thuế cao (đánh thuế mà không có đại diện)",
+        "rationale": "Họ tức giận vì bị áp đặt thuế mà không có đại diện trong Quốc hội Anh."
+      },
+      {
+        "text": "vì quân đội Anh ở trong nhà của họ",
+        "rationale": "Đạo luật Quartering yêu cầu dân thuộc địa phải cho lính Anh ăn ở."
+      },
+      {
+        "text": "vì họ không có chính quyền tự trị",
+        "rationale": "Người dân thuộc địa muốn tự quản lý và thoát khỏi sự cai trị đơn phương của chính phủ Anh."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "vì họ muốn có một vị vua mới, vì họ muốn liên minh với Pháp, vì họ muốn bãi bỏ mọi loại thuế"
+      },
+      {
+        "text": "vì sự đàn áp tôn giáo, vì khó khăn kinh tế, vì tranh chấp lãnh thổ"
+      },
+      {
+        "text": "vì họ muốn độc lập ngay lập tức, vì họ ghét tất cả người Anh, vì họ muốn mở rộng về phía tây"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Ai đã viết Tuyên ngôn Độc lập?",
+    "correctAnswers": [
+      {
+        "text": "(Thomas) Jefferson",
+        "rationale": "Thomas Jefferson là tác giả chính của Tuyên ngôn Độc lập."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "George Washington"
+      },
+      {
+        "text": "Abraham Lincoln"
+      },
+      {
+        "text": "Benjamin Franklin"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Tuyên ngôn Độc lập được thông qua khi nào?",
+    "correctAnswers": [
+      {
+        "text": "Ngày 4 tháng 7, 1776",
+        "rationale": "Ngày này được kỷ niệm là Ngày Độc lập tại Hoa Kỳ."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ngày 17 tháng 9, 1787"
+      },
+      {
+        "text": "Ngày 12 tháng 10, 1492"
+      },
+      {
+        "text": "Ngày 19 tháng 4, 1775"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Có 13 tiểu bang ban đầu. Hãy kể tên ba tiểu bang.",
+    "correctAnswers": [
+      {
+        "text": "New Hampshire",
+        "rationale": "New Hampshire là một trong 13 thuộc địa ban đầu."
+      },
+      {
+        "text": "Massachusetts",
+        "rationale": "Massachusetts là một trong 13 thuộc địa ban đầu."
+      },
+      {
+        "text": "Rhode Island",
+        "rationale": "Rhode Island là một trong 13 thuộc địa ban đầu."
+      },
+      {
+        "text": "Connecticut",
+        "rationale": "Connecticut là một trong 13 thuộc địa ban đầu."
+      },
+      {
+        "text": "New York",
+        "rationale": "New York là một trong 13 thuộc địa ban đầu."
+      },
+      {
+        "text": "New Jersey",
+        "rationale": "New Jersey là một trong 13 thuộc địa ban đầu."
+      },
+      {
+        "text": "Pennsylvania",
+        "rationale": "Pennsylvania là một trong 13 thuộc địa ban đầu."
+      },
+      {
+        "text": "Delaware",
+        "rationale": "Delaware là một trong 13 thuộc địa ban đầu."
+      },
+      {
+        "text": "Maryland",
+        "rationale": "Maryland là một trong 13 thuộc địa ban đầu."
+      },
+      {
+        "text": "Virginia",
+        "rationale": "Virginia là một trong 13 thuộc địa ban đầu."
+      },
+      {
+        "text": "Bắc Carolina",
+        "rationale": "Bắc Carolina là một trong 13 thuộc địa ban đầu."
+      },
+      {
+        "text": "Nam Carolina",
+        "rationale": "Nam Carolina là một trong 13 thuộc địa ban đầu."
+      },
+      {
+        "text": "Georgia",
+        "rationale": "Georgia là một trong 13 thuộc địa ban đầu."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Florida, California, Texas, Alaska"
+      },
+      {
+        "text": "Ohio, Kentucky, Vermont, Tennessee"
+      },
+      {
+        "text": "Hawaii, Nevada, Colorado, Utah"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Điều gì đã xảy ra tại Hội nghị Hiến pháp?",
+    "correctAnswers": [
+      {
+        "text": "Hiến pháp đã được soạn thảo.",
+        "rationale": "Hội nghị Hiến pháp được tổ chức để tạo ra một khuôn khổ chính quyền mới, dẫn đến Hiến pháp Hoa Kỳ."
+      },
+      {
+        "text": "Các vị Cha Lập quốc đã soạn thảo Hiến pháp.",
+        "rationale": "Các vị Cha Lập quốc đã tập hợp tại Hội nghị Hiến pháp để soạn thảo Hiến pháp."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Bản Tuyên ngôn Độc lập đã được soạn thảo."
+      },
+      {
+        "text": "Cuộc Chiến tranh Cách mạng bắt đầu."
+      },
+      {
+        "text": "George Washington đã được bầu làm Tổng thống."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Hiến pháp được viết khi nào?",
+    "correctAnswers": [
+      {
+        "text": "1787",
+        "rationale": "Hiến pháp được viết tại Hội nghị Lập hiến ở Philadelphia vào năm 1787."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "1776"
+      },
+      {
+        "text": "1865"
+      },
+      {
+        "text": "1789"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Các bài viết Federalist Papers ủng hộ việc thông qua Hiến pháp Hoa Kỳ. Hãy nêu tên một trong những tác giả.",
+    "correctAnswers": [
+      {
+        "text": "(James) Madison",
+        "rationale": "James Madison là một trong ba tác giả của Federalist Papers."
+      },
+      {
+        "text": "(Alexander) Hamilton",
+        "rationale": "Alexander Hamilton là một trong ba tác giả của Federalist Papers."
+      },
+      {
+        "text": "(John) Jay",
+        "rationale": "John Jay là một trong ba tác giả của Federalist Papers."
+      },
+      {
+        "text": "Publius",
+        "rationale": "Publius là bút danh mà Madison, Hamilton và Jay sử dụng khi viết Federalist Papers."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Thomas Jefferson, George Washington, John Hancock"
+      },
+      {
+        "text": "Benjamin Franklin, Samuel Adams, Patrick Henry"
+      },
+      {
+        "text": "Thomas Paine, John Adams, Benedict Arnold"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Benjamin Franklin nổi tiếng về điều gì?",
+    "correctAnswers": [
+      {
+        "text": "nhà ngoại giao Hoa Kỳ",
+        "rationale": "Benjamin Franklin từng là nhà ngoại giao tại Pháp trong Chiến tranh Cách mạng."
+      },
+      {
+        "text": "thành viên lớn tuổi nhất của Hội nghị Lập hiến",
+        "rationale": "Ở tuổi 81, Franklin là đại biểu lớn tuổi nhất tại Hội nghị Lập hiến."
+      },
+      {
+        "text": "tổng giám đốc bưu điện đầu tiên của Hoa Kỳ",
+        "rationale": "Franklin được bổ nhiệm làm Tổng giám đốc Bưu điện đầu tiên dưới Quốc hội Lục địa."
+      },
+      {
+        "text": "tác giả của \"Poor Richard's Almanac\"",
+        "rationale": "Franklin đã xuất bản \"Poor Richard's Almanac\", bao gồm dự báo thời tiết, mẹo vặt gia đình và tục ngữ."
+      },
+      {
+        "text": "bắt đầu những thư viện miễn phí đầu tiên",
+        "rationale": "Franklin đã thành lập thư viện thuê bao đầu tiên ở Mỹ, sau này trở thành mô hình cho thư viện công cộng miễn phí."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "tổng thống đầu tiên của Hoa Kỳ, viết Tuyên ngôn Độc lập, tướng của Quân đội Lục địa"
+      },
+      {
+        "text": "phát minh ra điện thoại, thành lập Đại học Harvard, viết Hiến pháp"
+      },
+      {
+        "text": "khám phá ra Châu Mỹ, là Chánh án đầu tiên của Tòa án Tối cao, lãnh đạo Tiệc Trà Boston"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Ai là \"Cha của Đất Nước Chúng Ta\"?",
+    "correctAnswers": [
+      {
+        "text": "(George) Washington",
+        "rationale": "Ông được gọi là \"Cha của Đất Nước\" vì vai trò lãnh đạo trong Chiến tranh Cách mạng và vì đã thành lập quốc gia mới."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Abraham Lincoln"
+      },
+      {
+        "text": "Thomas Jefferson"
+      },
+      {
+        "text": "Benjamin Franklin"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Ai là tổng thống đầu tiên?",
+    "correctAnswers": [
+      {
+        "text": "(George) Washington",
+        "rationale": "George Washington là tổng thống đầu tiên của Hoa Kỳ."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "John Adams"
+      },
+      {
+        "text": "Thomas Jefferson"
+      },
+      {
+        "text": "Alexander Hamilton"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Hoa Kỳ đã mua lãnh thổ nào từ Pháp vào năm 1803?",
+    "correctAnswers": [
+      {
+        "text": "Lãnh thổ Louisiana",
+        "rationale": "Việc mua Louisiana đã làm gấp đôi diện tích của Hoa Kỳ."
+      },
+      {
+        "text": "Louisiana",
+        "rationale": "Lãnh thổ Louisiana đã được mua từ Pháp vào năm 1803."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Alaska"
+      },
+      {
+        "text": "Florida"
+      },
+      {
+        "text": "Texas"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Hãy nêu tên một cuộc chiến mà Hoa Kỳ tham gia trong những năm 1800.",
+    "correctAnswers": [
+      {
+        "text": "Chiến tranh năm 1812",
+        "rationale": "Chiến tranh năm 1812 diễn ra giữa Hoa Kỳ và Anh."
+      },
+      {
+        "text": "Chiến tranh Mỹ-Mexico",
+        "rationale": "Chiến tranh Mỹ-Mexico diễn ra từ năm 1846 đến 1848."
+      },
+      {
+        "text": "Nội chiến Hoa Kỳ",
+        "rationale": "Nội chiến Hoa Kỳ diễn ra từ năm 1861 đến 1865."
+      },
+      {
+        "text": "Chiến tranh Mỹ-Tây Ban Nha",
+        "rationale": "Chiến tranh Mỹ-Tây Ban Nha diễn ra vào năm 1898."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Chiến tranh giành độc lập, Chiến tranh thế giới thứ nhất, Chiến tranh thế giới thứ hai, Chiến tranh Triều Tiên"
+      },
+      {
+        "text": "Chiến tranh Việt Nam, Chiến tranh vùng Vịnh, Chiến tranh Iraq, Chiến tranh Afghanistan"
+      },
+      {
+        "text": "Chiến tranh Pháp-Ấn, Chiến tranh Vua Philip, Cuộc nổi dậy của Bacon, Chiến tranh Pontiac"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Hãy nêu tên cuộc chiến của Hoa Kỳ giữa miền Bắc và miền Nam.",
+    "correctAnswers": [
+      {
+        "text": "Cuộc Nội chiến",
+        "rationale": "Cuộc Nội chiến Hoa Kỳ diễn ra giữa các bang miền Bắc và miền Nam về các vấn đề như chế độ nô lệ và quyền của các bang."
+      },
+      {
+        "text": "Cuộc Chiến giữa các Tiểu bang",
+        "rationale": "Đây là một thuật ngữ thường được dùng ở các bang miền Nam."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Chiến tranh Cách mạng, Chiến tranh năm 1812"
+      },
+      {
+        "text": "Chiến tranh Thế giới thứ nhất, Chiến tranh Thế giới thứ hai"
+      },
+      {
+        "text": "Chiến tranh Mỹ-Mexico, Chiến tranh Mỹ-Tây Ban Nha"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Nêu một vấn đề đã dẫn đến Nội chiến.",
+    "correctAnswers": [
+      {
+        "text": "chế độ nô lệ",
+        "rationale": "Sự tồn tại của chế độ nô lệ là nguyên nhân cơ bản và trung tâm của xung đột giữa miền Bắc và miền Nam."
+      },
+      {
+        "text": "lý do kinh tế",
+        "rationale": "Có những khác biệt và xung đột kinh tế lớn giữa miền Bắc công nghiệp và miền Nam nông nghiệp."
+      },
+      {
+        "text": "quyền của các bang",
+        "rationale": "Có một cuộc tranh luận lớn về quyền của các bang quyết định vấn đề riêng của mình so với quyền lực của chính phủ liên bang."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "chiến tranh với Anh, khác biệt tôn giáo, tranh chấp về dầu mỏ"
+      },
+      {
+        "text": "mở rộng lãnh thổ, vấn đề nhập cư, tranh chấp thương mại quốc tế"
+      },
+      {
+        "text": "tranh chấp về vàng, xung đột với người Mỹ bản địa, bất đồng về Hiến pháp"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Một điều quan trọng mà Abraham Lincoln đã làm là gì?",
+    "correctAnswers": [
+      {
+        "text": "giải phóng nô lệ (Tuyên ngôn Giải phóng Nô lệ)",
+        "rationale": "Trong chiến tranh, ông ban hành Tuyên ngôn Giải phóng Nô lệ, giải phóng nô lệ ở Liên minh miền Nam."
+      },
+      {
+        "text": "cứu (hoặc duy trì) Liên bang",
+        "rationale": "Ông ngăn chặn sự ly khai của miền Nam và giữ cho Hoa Kỳ là một quốc gia thống nhất."
+      },
+      {
+        "text": "lãnh đạo Hoa Kỳ trong cuộc Nội chiến",
+        "rationale": "Ông lãnh đạo Liên bang với tư cách Tổng thống trong cuộc khủng hoảng lớn nhất của quốc gia, Nội chiến."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "viết Tuyên ngôn Độc lập, là tổng thống đầu tiên, trao quyền bầu cử cho phụ nữ"
+      },
+      {
+        "text": "thành lập Đảng Cộng hòa, xây dựng đường sắt xuyên lục địa, phát hiện ra điện"
+      },
+      {
+        "text": "viết Hiến pháp, là thẩm phán Tòa án Tối cao, phát minh ra điện thoại"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Tuyên ngôn Giải phóng đã làm gì?",
+    "correctAnswers": [
+      {
+        "text": "giải phóng nô lệ",
+        "rationale": "Tuyên ngôn Giải phóng tuyên bố tự do cho những người bị bắt làm nô lệ."
+      },
+      {
+        "text": "giải phóng nô lệ ở Liên minh miền Nam",
+        "rationale": "Cụ thể, nó giải phóng nô lệ ở các bang nổi loạn (Liên minh)."
+      },
+      {
+        "text": "giải phóng nô lệ ở các bang thuộc Liên minh miền Nam",
+        "rationale": "Tuyên ngôn áp dụng cho nô lệ ở các bang đã tách khỏi Liên bang."
+      },
+      {
+        "text": "giải phóng nô lệ ở hầu hết các bang miền Nam",
+        "rationale": "Nó giải phóng nô lệ ở các bang miền Nam nổi loạn trong Nội chiến."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "giải phóng tất cả nô lệ, tuyên bố độc lập khỏi Anh"
+      },
+      {
+        "text": "trao cho phụ nữ quyền bầu cử, chấm dứt Nội chiến"
+      },
+      {
+        "text": "thành lập Hiến pháp, tạo ra Tuyên ngôn Nhân quyền"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Susan B. Anthony đã làm gì?",
+    "correctAnswers": [
+      {
+        "text": "đấu tranh cho quyền phụ nữ",
+        "rationale": "Bà là một lãnh đạo then chốt trong phong trào đòi quyền bầu cử cho phụ nữ."
+      },
+      {
+        "text": "đấu tranh cho quyền dân sự",
+        "rationale": "Quyền của phụ nữ là một phần của phong trào dân quyền rộng lớn hơn."
+      },
+      {
+        "text": "đấu tranh cho quyền bầu cử của phụ nữ",
+        "rationale": "Bà là một lãnh đạo trong phong trào đòi quyền bầu cử cho phụ nữ."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "là người phụ nữ đầu tiên được bầu vào Thượng viện, là y tá trong Nội chiến"
+      },
+      {
+        "text": "ký Tuyên ngôn Giải phóng Nô lệ, là nữ Tổng thống đầu tiên"
+      },
+      {
+        "text": "thành lập Hội Chữ thập đỏ Hoa Kỳ, viết Tuyên ngôn Độc lập"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Kể tên một cuộc chiến mà Hoa Kỳ tham gia trong thế kỷ 20.",
+    "correctAnswers": [
+      {
+        "text": "Chiến tranh thế giới thứ nhất",
+        "rationale": "Hoa Kỳ tham gia chiến tranh năm 1917."
+      },
+      {
+        "text": "Chiến tranh thế giới thứ hai",
+        "rationale": "Hoa Kỳ tham gia chiến tranh sau cuộc tấn công Trân Châu Cảng năm 1941."
+      },
+      {
+        "text": "Chiến tranh Triều Tiên",
+        "rationale": "Cuộc chiến này bắt đầu vào năm 1950."
+      },
+      {
+        "text": "Chiến tranh Việt Nam",
+        "rationale": "Cuộc chiến này diễn ra trong những năm 1960 và 1970."
+      },
+      {
+        "text": "Chiến tranh vùng Vịnh (Ba Tư)",
+        "rationale": "Cuộc chiến này diễn ra năm 1991."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nội chiến, Chiến tranh giành độc lập, Chiến tranh Mỹ-Mexico, Chiến tranh 1812, Chiến tranh Mỹ-Tây Ban Nha"
+      },
+      {
+        "text": "Chiến tranh Pháp-Ấn, Chiến tranh của Vua Philip, Cuộc nổi dậy của Bacon, Cuộc nổi dậy của Shays, Cuộc nổi dậy Rượu Whisky"
+      },
+      {
+        "text": "Các cuộc chiến Napoléon, Chiến tranh Krym, Chiến tranh Pháp-Phổ, Chiến tranh Boer, Chiến tranh Nga-Nhật"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Ai là tổng thống trong Chiến tranh Thế giới thứ nhất?",
+    "correctAnswers": [
+      {
+        "text": "(Woodrow) Wilson",
+        "rationale": "Woodrow Wilson là tổng thống đã lãnh đạo Hoa Kỳ trong Chiến tranh Thế giới thứ nhất."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Franklin Roosevelt"
+      },
+      {
+        "text": "Abraham Lincoln"
+      },
+      {
+        "text": "Theodore Roosevelt"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Ai là tổng thống trong thời kỳ Đại khủng hoảng và Chiến tranh thế giới thứ hai?",
+    "correctAnswers": [
+      {
+        "text": "(Franklin) Roosevelt",
+        "rationale": "Franklin D. Roosevelt đã lãnh đạo đất nước vượt qua hai cuộc khủng hoảng quốc gia này."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Woodrow Wilson"
+      },
+      {
+        "text": "Herbert Hoover"
+      },
+      {
+        "text": "Harry Truman"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Hoa Kỳ đã chiến đấu với ai trong Thế chiến thứ hai?",
+    "correctAnswers": [
+      {
+        "text": "Nhật Bản, Đức và Ý",
+        "rationale": "Ba quốc gia này đã hình thành phe Trục."
+      },
+      {
+        "text": "Nhật Bản",
+        "rationale": "Nhật Bản là một cường quốc lớn thuộc phe Trục mà Hoa Kỳ đã chống lại."
+      },
+      {
+        "text": "Đức",
+        "rationale": "Đức là một cường quốc lớn thuộc phe Trục mà Hoa Kỳ đã chống lại."
+      },
+      {
+        "text": "Ý",
+        "rationale": "Ý là một cường quốc thuộc phe Trục mà Hoa Kỳ đã chống lại."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Liên Xô"
+      },
+      {
+        "text": "Vương quốc Anh"
+      },
+      {
+        "text": "Pháp"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Trước khi trở thành tổng thống, Eisenhower là một tướng. Ông đã tham gia cuộc chiến nào?",
+    "correctAnswers": [
+      {
+        "text": "Chiến tranh thế giới thứ hai",
+        "rationale": "Dwight D. Eisenhower là Tổng tư lệnh tối cao của Lực lượng viễn chinh Đồng minh tại châu Âu trong Chiến tranh thế giới thứ hai."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Chiến tranh thế giới thứ nhất"
+      },
+      {
+        "text": "Nội chiến"
+      },
+      {
+        "text": "Chiến tranh Việt Nam"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Trong Chiến tranh Lạnh, mối quan tâm chính của Hoa Kỳ là gì?",
+    "correctAnswers": [
+      {
+        "text": "Chủ nghĩa cộng sản",
+        "rationale": "Sau Thế chiến II, trọng tâm chính của chính sách đối ngoại Hoa Kỳ là ngăn chặn sự lan rộng của chủ nghĩa cộng sản do Liên Xô lãnh đạo."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "biến đổi khí hậu"
+      },
+      {
+        "text": "chủ nghĩa thực dân"
+      },
+      {
+        "text": "Đại khủng hoảng"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Phong trào nào đã cố gắng chấm dứt sự phân biệt chủng tộc?",
+    "correctAnswers": [
+      {
+        "text": "phong trào dân quyền",
+        "rationale": "Phong trào dân quyền những năm 1950 và 1960 đã đấu tranh để chấm dứt sự phân biệt pháp lý và xã hội đối với người Mỹ gốc Phi."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "phong trào tiết chế"
+      },
+      {
+        "text": "phong trào đòi quyền bầu cử của phụ nữ"
+      },
+      {
+        "text": "phong trào phản chiến"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Martin Luther King, Jr. đã làm gì?",
+    "correctAnswers": [
+      {
+        "text": "đấu tranh cho quyền công dân",
+        "rationale": "Ông là một nhà lãnh đạo mang tính biểu tượng của phong trào dân quyền, người đã đấu tranh chống lại sự phân biệt chủng tộc bằng phương pháp bất bạo động."
+      },
+      {
+        "text": "làm việc vì sự bình đẳng cho tất cả người Mỹ",
+        "rationale": "Mục tiêu của ông là xây dựng một xã hội nơi mọi người thuộc mọi chủng tộc đều được đối xử công bằng."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "là tổng thống da đen đầu tiên, là thượng nghị sĩ Hoa Kỳ"
+      },
+      {
+        "text": "đấu tranh để giải phóng nô lệ, sáng lập NAACP"
+      },
+      {
+        "text": "là thẩm phán Tòa án Tối cao, phát minh ra điện thoại"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Sự kiện lớn nào đã xảy ra ở Hoa Kỳ vào ngày 11 tháng 9 năm 2001?",
+    "correctAnswers": [
+      {
+        "text": "Những kẻ khủng bố đã tấn công Hoa Kỳ",
+        "rationale": "Vào ngày này, những kẻ khủng bố al-Qaeda đã cướp máy bay và tấn công Trung tâm Thương mại Thế giới, Lầu Năm Góc và các địa điểm khác."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Trân Châu Cảng bị tấn công"
+      },
+      {
+        "text": "Thị trường chứng khoán sụp đổ"
+      },
+      {
+        "text": "Cuộc chiến Iraq bắt đầu"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Hãy nêu tên một bộ lạc người da đỏ Mỹ ở Hoa Kỳ.",
+    "correctAnswers": [
+      {
+        "text": "Cherokee",
+        "rationale": "Người Cherokee là một bộ lạc bản địa châu Mỹ có nguồn gốc từ vùng đông nam Hoa Kỳ."
+      },
+      {
+        "text": "Navajo",
+        "rationale": "Người Navajo là một bộ lạc bản địa châu Mỹ đến từ vùng tây nam Hoa Kỳ."
+      },
+      {
+        "text": "Sioux",
+        "rationale": "Người Sioux là một bộ lạc bản địa châu Mỹ từ vùng Đại Bình nguyên."
+      },
+      {
+        "text": "Chippewa",
+        "rationale": "Người Chippewa (Ojibwe) là một bộ lạc bản địa châu Mỹ từ vùng Ngũ Đại Hồ."
+      },
+      {
+        "text": "Choctaw",
+        "rationale": "Người Choctaw là một bộ lạc bản địa châu Mỹ có nguồn gốc từ vùng đông nam Hoa Kỳ."
+      },
+      {
+        "text": "Pueblo",
+        "rationale": "Người Pueblo là những bộ lạc bản địa châu Mỹ đến từ vùng tây nam Hoa Kỳ."
+      },
+      {
+        "text": "Apache",
+        "rationale": "Người Apache là một bộ lạc bản địa châu Mỹ từ vùng tây nam Hoa Kỳ."
+      },
+      {
+        "text": "Iroquois",
+        "rationale": "Người Iroquois là một liên minh của các bộ lạc bản địa châu Mỹ từ vùng đông bắc Hoa Kỳ."
+      },
+      {
+        "text": "Creek",
+        "rationale": "Người Creek (Muscogee) là một bộ lạc bản địa châu Mỹ từ vùng đông nam Hoa Kỳ."
+      },
+      {
+        "text": "Blackfeet",
+        "rationale": "Người Blackfeet là một bộ lạc bản địa châu Mỹ từ vùng Đại Bình nguyên phía Bắc."
+      },
+      {
+        "text": "Seminole",
+        "rationale": "Người Seminole là một bộ lạc bản địa châu Mỹ từ Florida."
+      },
+      {
+        "text": "Cheyenne",
+        "rationale": "Người Cheyenne là một bộ lạc bản địa châu Mỹ từ vùng Đại Bình nguyên."
+      },
+      {
+        "text": "Arawak",
+        "rationale": "Người Arawak là dân tộc bản địa của vùng Caribê và Nam Mỹ."
+      },
+      {
+        "text": "Shawnee",
+        "rationale": "Người Shawnee là một bộ lạc bản địa châu Mỹ có nguồn gốc từ thung lũng sông Ohio."
+      },
+      {
+        "text": "Mohegan",
+        "rationale": "Người Mohegan là một bộ lạc bản địa châu Mỹ từ Connecticut."
+      },
+      {
+        "text": "Huron",
+        "rationale": "Người Huron (Wyandot) là một bộ lạc bản địa châu Mỹ từ vùng Ngũ Đại Hồ."
+      },
+      {
+        "text": "Oneida",
+        "rationale": "Người Oneida là một bộ lạc bản địa châu Mỹ và là một phần của liên minh Iroquois."
+      },
+      {
+        "text": "Lakota",
+        "rationale": "Người Lakota là một bộ lạc bản địa châu Mỹ và là một phần của dân tộc Sioux."
+      },
+      {
+        "text": "Crow",
+        "rationale": "Người Crow là một bộ lạc bản địa châu Mỹ từ vùng Đại Bình nguyên phía Bắc."
+      },
+      {
+        "text": "Teton",
+        "rationale": "Người Teton là một nhánh của bộ lạc Lakota Sioux."
+      },
+      {
+        "text": "Hopi",
+        "rationale": "Người Hopi là một bộ lạc bản địa châu Mỹ từ Arizona."
+      },
+      {
+        "text": "Inuit",
+        "rationale": "Người Inuit là dân tộc bản địa từ Alaska và các vùng Bắc Cực."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Inca, Aztec, Maya, Olmec"
+      },
+      {
+        "text": "Zulu, Maasai, Yoruba, Bantu"
+      },
+      {
+        "text": "Celtic, Viking, Saxon, Norman"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Hãy nêu tên một trong hai con sông dài nhất ở Hoa Kỳ.",
+    "correctAnswers": [
+      {
+        "text": "Sông Missouri",
+        "rationale": "Sông Missouri là con sông dài nhất ở Hoa Kỳ."
+      },
+      {
+        "text": "Sông Mississippi",
+        "rationale": "Sông Mississippi là con sông dài thứ hai ở Hoa Kỳ."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Sông Nile, Sông Amazon"
+      },
+      {
+        "text": "Sông Colorado, Sông Rio Grande"
+      },
+      {
+        "text": "Sông Ohio, Sông Columbia"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Đại dương nào nằm ở bờ Tây của Hoa Kỳ?",
+    "correctAnswers": [
+      {
+        "text": "Thái Bình Dương",
+        "rationale": "California, Oregon và Washington nằm ở Thái Bình Dương."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Đại Tây Dương"
+      },
+      {
+        "text": "Ấn Độ Dương"
+      },
+      {
+        "text": "Bắc Băng Dương"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Đại Tây Dương nào nằm ở bờ biển phía Đông của Hoa Kỳ?",
+    "correctAnswers": [
+      {
+        "text": "Đại Tây Dương",
+        "rationale": "New York, Florida và Maine nằm ở Đại Tây Dương."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Thái Bình Dương"
+      },
+      {
+        "text": "Vịnh Mexico"
+      },
+      {
+        "text": "Địa Trung Hải"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Kể tên một lãnh thổ của Hoa Kỳ.",
+    "correctAnswers": [
+      {
+        "text": "Puerto Rico",
+        "rationale": "Puerto Rico là một lãnh thổ chưa sáp nhập của Hoa Kỳ ở Caribe."
+      },
+      {
+        "text": "Guam",
+        "rationale": "Guam là một lãnh thổ của Hoa Kỳ ở Thái Bình Dương."
+      },
+      {
+        "text": "Quần đảo Virgin thuộc Hoa Kỳ",
+        "rationale": "Quần đảo Virgin thuộc Mỹ là một nhóm đảo ở Caribe và là lãnh thổ của Hoa Kỳ."
+      },
+      {
+        "text": "Samoa thuộc Mỹ",
+        "rationale": "Samoa thuộc Mỹ là một lãnh thổ của Hoa Kỳ ở Nam Thái Bình Dương."
+      },
+      {
+        "text": "Quần đảo Bắc Mariana",
+        "rationale": "Quần đảo Bắc Mariana là một cộng đồng chung của Hoa Kỳ ở Thái Bình Dương."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Hawaii, Alaska, California, Texas, Florida"
+      },
+      {
+        "text": "Philippines, Cuba, Panama, Mexico, Canada"
+      },
+      {
+        "text": "Nhật Bản, Hàn Quốc, Đức, Vương quốc Anh, Úc"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Hãy nêu một bang giáp biên giới với Canada.",
+    "correctAnswers": [
+      {
+        "text": "Washington",
+        "rationale": "Washington giáp tỉnh British Columbia của Canada."
+      },
+      {
+        "text": "Alaska",
+        "rationale": "Alaska giáp Yukon và British Columbia của Canada."
+      },
+      {
+        "text": "New York",
+        "rationale": "New York giáp các tỉnh Ontario và Quebec của Canada."
+      },
+      {
+        "text": "Montana",
+        "rationale": "Montana giáp các tỉnh British Columbia, Alberta và Saskatchewan của Canada."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Oregon, California, Nevada, Utah"
+      },
+      {
+        "text": "Colorado, Arizona, New Mexico, Texas"
+      },
+      {
+        "text": "Florida, Georgia, South Carolina, North Carolina"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Hãy nêu tên một bang giáp với Mexico.",
+    "correctAnswers": [
+      {
+        "text": "California",
+        "rationale": "California giáp biên giới phía nam với Mexico."
+      },
+      {
+        "text": "Arizona",
+        "rationale": "Arizona có một phần lớn biên giới phía nam giáp với Mexico."
+      },
+      {
+        "text": "New Mexico",
+        "rationale": "New Mexico giáp Mexico ở phía nam."
+      },
+      {
+        "text": "Texas",
+        "rationale": "Texas là bang có đường biên giới dài nhất với Mexico trong số các bang của Mỹ."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Nevada, Utah, Colorado, Oklahoma"
+      },
+      {
+        "text": "Florida, Louisiana, Mississippi, Alabama"
+      },
+      {
+        "text": "Washington, Oregon, Idaho, Montana"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Thủ đô của Hoa Kỳ là gì?",
+    "correctAnswers": [
+      {
+        "text": "Washington, D.C.",
+        "rationale": "D.C. là viết tắt của Quận Columbia."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Thành phố New York"
+      },
+      {
+        "text": "Philadelphia"
+      },
+      {
+        "text": "Bang Washington"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Tượng Nữ thần Tự do ở đâu?",
+    "correctAnswers": [
+      {
+        "text": "New York (Cảng)",
+        "rationale": "Tượng Nữ thần Tự do nằm ở cảng New York."
+      },
+      {
+        "text": "Đảo Liberty",
+        "rationale": "Cụ thể, nó nằm trên đảo Liberty trong cảng New York."
+      },
+      {
+        "text": "New Jersey",
+        "rationale": "Đảo Liberty về mặt kỹ thuật nằm trong vùng nước của New Jersey, nhưng được quản lý bởi New York."
+      },
+      {
+        "text": "gần Thành phố New York",
+        "rationale": "Tượng Nữ thần Tự do nằm gần Thành phố New York trong cảng."
+      },
+      {
+        "text": "trên sông Hudson",
+        "rationale": "Bức tượng nằm ở nơi sông Hudson gặp cảng New York."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Washington D.C., Philadelphia"
+      },
+      {
+        "text": "Cảng Boston, Vịnh San Francisco"
+      },
+      {
+        "text": "Los Angeles, Chicago"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Tại sao lá cờ có 13 sọc?",
+    "correctAnswers": [
+      {
+        "text": "vì có 13 thuộc địa ban đầu",
+        "rationale": "13 sọc đại diện cho 13 thuộc địa ban đầu đã tuyên bố độc lập."
+      },
+      {
+        "text": "vì 13 tiểu bang ban đầu",
+        "rationale": "13 sọc đại diện cho 13 tiểu bang ban đầu đã hình thành Liên bang."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "cho 13 người ký Tuyên ngôn Độc lập"
+      },
+      {
+        "text": "cho 13 điều đầu tiên của Hiến pháp"
+      },
+      {
+        "text": "vì 13 là con số may mắn"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Tại sao lá cờ có 50 ngôi sao?",
+    "correctAnswers": [
+      {
+        "text": "vì có 50 tiểu bang",
+        "rationale": "Mỗi ngôi sao đại diện cho một tiểu bang trong Liên bang."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "vì có 50 thuộc địa ban đầu"
+      },
+      {
+        "text": "vì đã có 50 tổng thống"
+      },
+      {
+        "text": "vì đã có chiến tranh ở 50 tiểu bang"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Tên của quốc ca là gì?",
+    "correctAnswers": [
+      {
+        "text": "Quốc ca \"The Star-Spangled Banner\"",
+        "rationale": "Lời bài hát xuất phát từ một bài thơ của Francis Scott Key trong Chiến tranh 1812."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "America the Beautiful"
+      },
+      {
+        "text": "\"My Country 'Tis of Thee\""
+      },
+      {
+        "text": "God Bless America"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Chúng ta kỷ niệm Ngày Độc lập khi nào?",
+    "correctAnswers": [
+      {
+        "text": "Ngày 4 tháng 7",
+        "rationale": "Điều này kỷ niệm việc thông qua Tuyên ngôn Độc lập vào ngày 4 tháng 7 năm 1776."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ngày 1 tháng 1"
+      },
+      {
+        "text": "thứ Hai cuối cùng của tháng Năm"
+      },
+      {
+        "text": "thứ Năm thứ tư của tháng Mười Một"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Kể tên hai ngày lễ quốc gia của Hoa Kỳ.",
+    "correctAnswers": [
+      {
+        "text": "Ngày đầu năm mới",
+        "rationale": "Ăn mừng năm mới bắt đầu vào ngày 1 tháng 1."
+      },
+      {
+        "text": "Ngày Martin Luther King, Jr.",
+        "rationale": "Tưởng nhớ lãnh đạo dân quyền Martin Luther King, Jr."
+      },
+      {
+        "text": "Ngày Tổng thống",
+        "rationale": "Kỷ niệm sinh nhật của George Washington và Abraham Lincoln."
+      },
+      {
+        "text": "Ngày Tưởng niệm",
+        "rationale": "Tưởng niệm những người hy sinh khi phục vụ trong quân đội Hoa Kỳ."
+      },
+      {
+        "text": "Ngày Độc lập",
+        "rationale": "Kỷ niệm việc thông qua Tuyên ngôn Độc lập năm 1776."
+      },
+      {
+        "text": "Ngày Lao động",
+        "rationale": "Tôn vinh người lao động Mỹ và phong trào lao động."
+      },
+      {
+        "text": "Ngày Columbus",
+        "rationale": "Kỷ niệm Christopher Columbus đến Châu Mỹ."
+      },
+      {
+        "text": "Ngày Cựu chiến binh",
+        "rationale": "Tôn vinh tất cả các cựu chiến binh Hoa Kỳ."
+      },
+      {
+        "text": "Lễ Tạ ơn",
+        "rationale": "Ngày tạ ơn cho mùa màng và phúc lành năm qua."
+      },
+      {
+        "text": "Giáng Sinh",
+        "rationale": "Kỷ niệm ngày sinh của Chúa Giê-su và được tổ chức rộng rãi ở Mỹ."
+      }
+    ],
+    "wrongAnswers": [
+      {
+        "text": "Ngày Lễ Tình nhân, Halloween, Cá Tháng Tư, Ngày Thánh Patrick"
+      },
+      {
+        "text": "Ngày của Mẹ, Ngày của Cha, Lễ Phục Sinh, Ngày Chuột Chũi"
+      },
+      {
+        "text": "Thứ Sáu Đen, Chủ nhật Super Bowl, Ngày Thuế, Ngày Bầu cử"
+      }
+    ]
+  }
+]
