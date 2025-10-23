@@ -69,12 +69,6 @@ export class SubscriptionManager {
   // 구독 상태 확인 (RevenueCat + 친구 권한 포함)
   static async checkSubscriptionStatus() {
     try {
-      // 임시: 개발/테스트용 프리미엄 활성화
-      console.log('[SubscriptionManager] 임시 프리미엄 활성화됨 (개발용)');
-      return true;
-      
-      // 원래 코드 (배포 시 위 2줄 제거하고 아래 코드 사용)
-      /*
       // 1. RevenueCat 구독 상태 확인
       const customerInfo = await Purchases.getCustomerInfo();
       const isPremiumSubscriber = customerInfo.entitlements.active['Premium'] !== undefined;
@@ -96,10 +90,9 @@ export class SubscriptionManager {
       
       console.log('[SubscriptionManager] 프리미엄 비활성화됨');
       return false;
-      */
     } catch (error) {
       console.error('[SubscriptionManager] 구독 상태 확인 실패:', error);
-      return true; // 오류 시에도 프리미엄 활성화 (개발용)
+      return false; // 오류 시 프리미엄 비활성화
     }
   }
 
