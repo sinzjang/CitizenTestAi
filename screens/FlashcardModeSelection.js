@@ -15,7 +15,7 @@ import { SubscriptionManager } from '../utils/subscriptionManager';
 
 const FlashcardModeSelection = ({ navigation }) => {
   const [currentLanguage, setCurrentLanguage] = useState('en');
-  const [isPremium, setIsPremium] = useState(true); // 임시: 개발/테스트용 프리미엄 활성화
+  const [isPremium, setIsPremium] = useState(false);
 
   useEffect(() => {
     // 언어 변경 리스너 등록

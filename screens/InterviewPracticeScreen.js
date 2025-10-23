@@ -19,7 +19,7 @@ import LocationSettingsModal from '../components/LocationSettingsModal';
 import { t, addLanguageChangeListener, removeLanguageChangeListener } from '../utils/i18n';
 
 const InterviewPracticeScreen = ({ navigation }) => {
-  const [isPremium, setIsPremium] = useState(true); // 임시: 개발/테스트용 프리미엄 활성화
+  const [isPremium, setIsPremium] = useState(false);
   const [showLocationModal, setShowLocationModal] = useState(false);
   const [locationInfo, setLocationInfo] = useState(null);
   const [currentLanguage, setCurrentLanguage] = useState('en');
