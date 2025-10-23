@@ -8,8 +8,84 @@
     "selectLanguageDescription": "Please select your preferred language to continue.",
     "canChangeInSettings": "You can change this later in settings."
   },
+  "interviewDate": {
+    "title": "Interview Date",
+    "subtitle": "When is your citizenship interview?",
+    "month": "Month",
+    "day": "Day",
+    "year": "Year",
+    "save": "Save",
+    "skip": "Skip",
+    "canUpdateLater": "You can update this later in Resources & Settings.",
+    "sectionTitle": "Interview Date",
+    "sectionDescription": "Set your citizenship interview date to track your preparation progress.",
+    "studyStartDate": "Study Start Date",
+    "currentDate": "Interview Date",
+    "notSet": "Not set"
+  },
+  "studyCalendar": {
+    "title": "Study Calendar",
+    "infoMessage": "You can set your interview date in Settings",
+    "dailyProgress": "Daily Progress",
+    "noActivity": "No study activity on this day",
+    "learn": "Learn",
+    "reviewFlashcard": "Review Flashcard",
+    "aiTutor": "AI Tutor",
+    "mockInterview": "Mock Interview",
+    "completed": "Completed",
+    "notStarted": "Not started",
+    "questions": "Questions",
+    "minutes": "Minutes",
+    "interview": "Interview",
+    "interviews": "Interviews",
+    "dailyGoals": {
+      "title": "Daily Goals",
+      "description": "Complete any ONE of these goals to earn your daily 🔥 stamp!",
+      "learn": "Learn",
+      "learnRequirement": "Open any learning mode",
+      "reviewFlashcard": "Review Flashcard",
+      "reviewRequirement": "Review 20+ flashcards",
+      "aiTutor": "AI Tutor",
+      "aiTutorRequirement": "Chat for 5+ minutes",
+      "mockInterview": "Mock Interview",
+      "mockInterviewRequirement": "Complete 1 interview",
+      "fireInfo": "Complete any goal to earn a 🔥 fire icon on that day",
+      "tapDateInfo": "Tap any date to view your detailed progress for that day",
+      "settingsInfo": "Set your interview date in Settings (tap ⚙️ icon)",
+      "gotIt": "Got it!"
+    },
+    "weekDays": {
+      "sun": "Sun",
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sat": "Sat"
+    }
+  },
+  "subscription": {
+    "statusTitle": "Subscription Status",
+    "statusDescription": "View your current subscription status and manage promo codes",
+    "status": "Status",
+    "expiresOn": "Expires on",
+    "daysRemaining": "Remaining",
+    "days": "days",
+    "enterPromoCode": "Enter Promo Code",
+    "promoCodeTitle": "Promo Code",
+    "promoCodeDescription": "Enter your promo code to activate premium features",
+    "redeem": "Redeem",
+    "success": "Success",
+    "error": "Error",
+    "redeemError": "Failed to redeem promo code. Please try again.",
+    "restoring": "Restoring Purchases",
+    "restoringMessage": "Checking for previous purchases...",
+    "restoreSuccess": "Your purchases have been restored successfully!",
+    "noActivePurchases": "No active purchases found.",
+    "restoreError": "Failed to restore purchases. Please try again."
+  },
   "resources": {
-    "title": "Language & Location Settings",
+    "title": "Settings",
     "locationInfo": "Location Information Settings",
     "locationInfoDescription": "Set up politician information for your area.",
     "setupLocation": "Set up Location",
@@ -95,6 +171,8 @@
     "autoLookupByZip": "Auto lookup by ZIP code ({zipCode})",
     "senateGovInfo": "You can use ZIP code auto lookup or check at senate.gov",
     "houseGovInfo": "You can use ZIP code auto lookup or check at house.gov",
+    "representative": "Representative",
+    "governor": "Governor",
     "additionalInfo": "Additional Information",
     "locationSetupModal": "Location Setup",
     "enterPoliticianInfo": "Please enter politician information for {stateName} state.",
@@ -121,6 +199,7 @@
   },
   "menu": {
     "resources": "Resources & Settings",
+    "settings": "Settings",
     "interviewPractice": "Interview Practice",
     "learn": {
       "title": "Learn",
@@ -148,7 +227,9 @@
     },
     "test": {
       "title": "Test",
-      "subtitle": "Check your knowledge with tests"
+      "subtitle": "Check your knowledge with tests",
+      "testAnalytics": "Test Analytics",
+      "testAnalyticsSubtitle": "View your test statistics and progress"
     },
     "aiMockInterview": {
       "title": "AI Mock Interview",
@@ -268,9 +349,9 @@
     "quizMode": {
       "title": "Quiz Mode",
       "subtitle": "Practice with multiple choice questions",
-      "sequential": "Sequential Flashcards",
+      "sequential": "Sequential Quiz",
       "sequentialSubtitle": "Study all 128 questions (2025) in order with bilingual support",
-      "random": "Random Flashcards",
+      "random": "Random Quiz",
       "randomSubtitle": "Study questions in random order for varied practice"
     },
     "subjectiveMode": {

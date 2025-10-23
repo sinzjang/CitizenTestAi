@@ -8,6 +8,77 @@
     "selectLanguageDescription": "Pakipili ang inyong gustong wika para magpatuloy.",
     "canChangeInSettings": "Pwede ninyong baguhin ito sa settings mamaya."
   },
+  "interviewDate": {
+    "title": "Petsa ng Interview",
+    "subtitle": "Kailan ang inyong citizenship interview?",
+    "month": "Buwan",
+    "day": "Araw",
+    "year": "Taon",
+    "save": "I-save",
+    "skip": "Laktawan",
+    "canUpdateLater": "Pwede ninyong i-update ito mamaya sa Resources & Settings.",
+    "sectionTitle": "Petsa ng Interview",
+    "sectionDescription": "I-set ang petsa ng inyong citizenship interview para ma-track ang inyong preparation progress.",
+    "studyStartDate": "Petsa ng Pagsisimula ng Pag-aaral",
+    "currentDate": "Petsa ng Interview",
+    "notSet": "Hindi pa naka-set"
+  },
+  "studyCalendar": {
+    "title": "Kalendaryo ng Pag-aaral",
+    "infoMessage": "Pwede ninyong i-set ang petsa ng interview sa Settings",
+    "dailyProgress": "Araw-araw na Progreso",
+    "noActivity": "Walang aktibidad sa pag-aaral sa araw na ito",
+    "learn": "Mag-aral",
+    "reviewFlashcard": "Mag-review ng Flashcard",
+    "aiTutor": "AI Tutor",
+    "mockInterview": "Mock Interview",
+    "completed": "Tapos na",
+    "notStarted": "Hindi pa nagsisimula",
+    "questions": "Tanong",
+    "minutes": "Minuto",
+    "interview": "Interview",
+    "interviews": "Interview",
+    "dailyGoals": {
+      "title": "Araw-araw na Layunin",
+      "description": "Kumpletuhin ang ISA sa mga layuning ito para makakuha ng inyong araw-araw na 🔥 stamp!",
+      "learn": "Mag-aral",
+      "learnRequirement": "Buksan ang kahit anong learning mode",
+      "reviewFlashcard": "Mag-review ng Flashcard",
+      "reviewRequirement": "Mag-review ng 20+ flashcard",
+      "aiTutor": "AI Tutor",
+      "aiTutorRequirement": "Mag-chat ng 5+ minuto",
+      "mockInterview": "Mock Interview",
+      "mockInterviewRequirement": "Kumpletuhin ang 1 interview",
+      "fireInfo": "Kumpletuhin ang kahit anong layunin para makakuha ng 🔥 icon sa araw na iyon",
+      "tapDateInfo": "I-tap ang kahit anong petsa para makita ang detalyadong progreso ng araw na iyon",
+      "settingsInfo": "I-set ang petsa ng interview sa Settings (i-tap ang ⚙️ icon)",
+      "gotIt": "Naintindihan ko!"
+    },
+    "weekDays": {
+      "sun": "Lin",
+      "mon": "Lun",
+      "tue": "Mar",
+      "wed": "Miy",
+      "thu": "Huw",
+      "fri": "Biy",
+      "sat": "Sab"
+    }
+  },
+  "subscription": {
+    "statusTitle": "Status ng Subscription",
+    "statusDescription": "Tingnan ang kasalukuyang status ng subscription at pamahalaan ang mga promo code",
+    "status": "Status",
+    "expiresOn": "Mag-expire sa",
+    "daysRemaining": "Natitira",
+    "days": "araw",
+    "enterPromoCode": "Ilagay ang Promo Code",
+    "promoCodeTitle": "Promo Code",
+    "promoCodeDescription": "Ilagay ang inyong promo code para i-activate ang premium features",
+    "redeem": "I-redeem",
+    "success": "Tagumpay",
+    "error": "Error",
+    "redeemError": "Hindi nai-redeem ang promo code. Pakisubukan ulit."
+  },
   "common": {
     "cancel": "Cancel",
     "confirm": "Confirm",
@@ -72,7 +143,9 @@
     },
     "test": {
       "title": "Pagsusulit",
-      "subtitle": "Suriin ang iyong kaalaman sa mga pagsusulit"
+      "subtitle": "Suriin ang iyong kaalaman sa mga pagsusulit",
+      "testAnalytics": "Pagsusuri ng Pagsusulit",
+      "testAnalyticsSubtitle": "Tingnan ang mga istatistika at pag-unlad ng pagsusulit"
     },
     "aiMockInterview": {
       "title": "AI Mock Interview",

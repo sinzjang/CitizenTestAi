@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, Image, StatusBar } from 'react-native';
-import { SafeAreaView } from 'react-native-safe-area-context';
+import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { theme } from '../styles/theme';
 import LanguageSelectionModal from '../components/LanguageSelectionModal';
+import InterviewDateModal from '../components/InterviewDateModal';
 import AdBanner from '../components/AdBanner';
 import { useInterstitialAd } from '../components/AdInterstitial';
 import AdFrequencyManager from '../utils/AdFrequencyManager';
@@ -11,7 +12,9 @@ import i18n, { t, getCurrentLanguage, addLanguageChangeListener, removeLanguageC
 // import mobileAds, { BannerAd, BannerAdSize, TestIds } from 'react-native-google-mobile-ads';
 
 const MainMenuScreen = ({ navigation }) => {
+  const insets = useSafeAreaInsets();
   const [showLanguageModal, setShowLanguageModal] = useState(false);
+  const [showInterviewDateModal, setShowInterviewDateModal] = useState(false);
   const [isI18nReady, setIsI18nReady] = useState(false);
   const [currentLanguage, setCurrentLanguage] = useState('en');
   
@@ -103,9 +106,39 @@ const MainMenuScreen = ({ navigation }) => {
       await AsyncStorage.setItem('@user_language', languageCode);
       
       console.log('언어 선택 완료 및 저장:', languageCode);
+      
+      // 인터뷰 날짜 설정 여부 확인
+      const interviewDateSet = await AsyncStorage.getItem('@interview_date_set');
+      if (!interviewDateSet) {
+        // 인터뷰 날짜 모달 표시
+        setTimeout(() => {
+          setShowInterviewDateModal(true);
+        }, 300);
+      }
     } catch (error) {
       console.error('언어 설정 저장 오류:', error);
       setShowLanguageModal(false); // 오류가 있어도 모달은 닫기
+    }
+  };
+
+  const handleInterviewDateSet = async (dateString) => {
+    try {
+      await AsyncStorage.setItem('@interview_date', dateString);
+      await AsyncStorage.setItem('@interview_date_set', 'true');
+      setShowInterviewDateModal(false);
+    } catch (error) {
+      console.error('인터뷰 날짜 저장 오류:', error);
+    }
+  };
+
+  const handleInterviewDateSkip = async () => {
+    try {
+      await AsyncStorage.setItem('@interview_date_set', 'true');
+      setShowInterviewDateModal(false);
+      console.log('인터뷰 날짜 건너뛰기');
+    } catch (error) {
+      console.error('인터뷰 날짜 건너뛰기 오류:', error);
+      setShowInterviewDateModal(false);
     }
   };
 
@@ -167,7 +200,7 @@ const MainMenuScreen = ({ navigation }) => {
           onPress={handleResources}
           activeOpacity={0.8}
         >
-          <Text style={styles.buttonText}>{i18n.t('menu.resources')}</Text>
+          <Text style={styles.buttonText}>{i18n.t('menu.settings')}</Text>
         </TouchableOpacity>
 
         <TouchableOpacity 
@@ -180,7 +213,7 @@ const MainMenuScreen = ({ navigation }) => {
       </View>
 
       {/* Disclaimer Section */}
-      <View style={styles.disclaimerContainer}>
+      <View style={[styles.disclaimerContainer, { paddingBottom: Math.max(insets.bottom, theme.spacing.sm) }]}>
         <Text style={styles.disclaimerText}>
           {i18n.t('disclaimer.text')}
         </Text>
@@ -191,6 +224,13 @@ const MainMenuScreen = ({ navigation }) => {
       <LanguageSelectionModal
         visible={showLanguageModal}
         onLanguageSelected={handleLanguageSelected}
+      />
+
+      {/* 인터뷰 날짜 선택 모달 */}
+      <InterviewDateModal
+        visible={showInterviewDateModal}
+        onDateSet={handleInterviewDateSet}
+        onSkip={handleInterviewDateSkip}
       />
     </SafeAreaView>
   );

@@ -26,6 +26,7 @@ import AudioMode from './screens/AudioMode';
 import DeepDiveInterview from './screens/DeepDiveInterview';
 import N400PracticeScreen from './screens/N400PracticeScreen';
 import ResourcesScreen from './screens/ResourcesScreen';
+import StudyCalendarScreen from './screens/StudyCalendarScreen';
 import SubscriptionScreen from './screens/SubscriptionScreen';
 import AdminScreen from './screens/AdminScreen';
 import mobileAds from 'react-native-google-mobile-ads';
@@ -97,6 +98,7 @@ export default function App() {
               <Stack.Screen name="Loading" component={LoadingScreen} />
               <Stack.Screen name="MainMenu" component={MainMenuScreen} />
               <Stack.Screen name="Resources" component={ResourcesScreen} />
+              <Stack.Screen name="StudyCalendar" component={StudyCalendarScreen} />
               <Stack.Screen name="InterviewPractice" component={InterviewPracticeScreen} />
               <Stack.Screen name="ListView" component={ListView} />
               <Stack.Screen name="StoryMode" component={StoryMode} />

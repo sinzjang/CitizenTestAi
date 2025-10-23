@@ -9,6 +9,8 @@ import {
   StatusBar
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { useFocusEffect } from '@react-navigation/native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { Ionicons } from '@expo/vector-icons';
 import { theme } from '../styles/theme';
 import { PremiumManager, PREMIUM_FEATURES } from '../utils/premiumManager';
@@ -23,11 +25,25 @@ const InterviewPracticeScreen = ({ navigation }) => {
   const [showLocationModal, setShowLocationModal] = useState(false);
   const [locationInfo, setLocationInfo] = useState(null);
   const [currentLanguage, setCurrentLanguage] = useState('en');
+  const [interviewDate, setInterviewDate] = useState(null);
+  const [studyStartDate, setStudyStartDate] = useState(null);
+  const [progressPercentage, setProgressPercentage] = useState(0);
 
   useEffect(() => {
     checkPremiumStatus();
     checkLocationSettings();
+    loadInterviewDate();
   }, []);
+
+  // 화면 포커스 시 인터뷰 날짜 새로고침
+  useFocusEffect(
+    React.useCallback(() => {
+      const refreshData = async () => {
+        await loadInterviewDate();
+      };
+      refreshData();
+    }, [])
+  );
 
   // 언어 변경 감지
   useEffect(() => {
@@ -41,6 +57,76 @@ const InterviewPracticeScreen = ({ navigation }) => {
       removeLanguageChangeListener(handleLanguageChange);
     };
   }, []);
+
+  const loadInterviewDate = async () => {
+    try {
+      const savedDate = await AsyncStorage.getItem('@interview_date');
+      const savedStartDate = await AsyncStorage.getItem('@study_start_date');
+      
+      if (savedDate) {
+        setInterviewDate(savedDate);
+        
+        // 시작 날짜가 없으면 오늘 날짜를 기본값으로 저장
+        let startDate = savedStartDate;
+        if (!savedStartDate) {
+          const today = new Date();
+          const todayString = `${(today.getMonth() + 1).toString().padStart(2, '0')}/${today.getDate().toString().padStart(2, '0')}/${today.getFullYear()}`;
+          await AsyncStorage.setItem('@study_start_date', todayString);
+          startDate = todayString;
+        }
+        
+        setStudyStartDate(startDate);
+        
+        // 프로그레스 계산
+        calculateProgress(startDate, savedDate);
+      }
+    } catch (error) {
+      console.error('인터뷰 날짜 로드 오류:', error);
+    }
+  };
+
+  const calculateProgress = (startDateString, interviewDateString) => {
+    try {
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+      
+      // MM/DD/YYYY 형식 파싱
+      const startParts = startDateString.split('/');
+      const start = new Date(parseInt(startParts[2]), parseInt(startParts[0]) - 1, parseInt(startParts[1]));
+      start.setHours(0, 0, 0, 0);
+      
+      const interviewParts = interviewDateString.split('/');
+      const interview = new Date(parseInt(interviewParts[2]), parseInt(interviewParts[0]) - 1, parseInt(interviewParts[1]));
+      interview.setHours(0, 0, 0, 0);
+      
+      // 총 일수와 경과 일수 계산
+      const totalDays = Math.ceil((interview - start) / (1000 * 60 * 60 * 24));
+      const daysPassed = Math.ceil((today - start) / (1000 * 60 * 60 * 24));
+      
+      // 진행률 계산 (0-100%)
+      let progress = 0;
+      if (totalDays > 0) {
+        progress = (daysPassed / totalDays) * 100;
+      }
+      
+      // 0-100 범위로 제한
+      progress = Math.min(Math.max(progress, 0), 100);
+      
+      setProgressPercentage(progress);
+      
+      console.log('Progress calculation:', {
+        start: start.toDateString(),
+        today: today.toDateString(),
+        interview: interview.toDateString(),
+        totalDays,
+        daysPassed,
+        progress: progress.toFixed(1) + '%'
+      });
+    } catch (error) {
+      console.error('프로그레스 계산 오류:', error);
+      setProgressPercentage(0);
+    }
+  };
 
   const checkLocationSettings = async () => {
     const userLocation = await LocationManager.getUserLocation();
@@ -124,7 +210,8 @@ const InterviewPracticeScreen = ({ navigation }) => {
       color: '#E91E63',
       subItems: [
         { id: '3-1', title: t('menu.practiceTests.practiceTest'), subtitle: t('menu.practiceTests.practiceTestSubtitle'), screen: 'PracticeTest', isPremium: true },
-        { id: '3-2', title: t('menu.practiceTests.weaknessTest'), subtitle: t('menu.practiceTests.weaknessTestSubtitle'), screen: 'WeaknessTest', isPremium: true }
+        { id: '3-2', title: t('menu.practiceTests.weaknessTest'), subtitle: t('menu.practiceTests.weaknessTestSubtitle'), screen: 'WeaknessTest', isPremium: true },
+        { id: '3-3', title: t('menu.test.testAnalytics'), subtitle: t('menu.test.testAnalyticsSubtitle'), screen: 'MyProgress', isPremium: false }
       ]
     },
     {
@@ -138,17 +225,6 @@ const InterviewPracticeScreen = ({ navigation }) => {
         { id: '4-2', title: t('menu.aiMockInterview.deepDiveInterview'), subtitle: t('menu.aiMockInterview.deepDiveInterviewSubtitle'), screen: 'DeepInterview', isPremium: true }
       ]
     },
-    {
-      id: 5,
-      title: t('menu.myProgress.title'),
-      subtitle: t('menu.myProgress.subtitle'),
-      icon: 'analytics-outline',
-      color: '#9C27B0',
-      subItems: [
-        { id: '5-1', title: t('menu.myProgress.progressDashboard'), subtitle: t('menu.myProgress.progressDashboardSubtitle'), screen: 'MyProgress', isPremium: false },
-        { id: '5-2', title: t('menu.myProgress.aiTutorAdvice'), subtitle: t('menu.myProgress.aiTutorAdviceSubtitle'), screen: 'AITutorAdvice', isPremium: true }
-      ]
-    }
   ];
 
   const [expandedSection, setExpandedSection] = React.useState(null);
@@ -304,6 +380,78 @@ const InterviewPracticeScreen = ({ navigation }) => {
             {t('interview.welcomeSubtitle')}
           </Text>
         </View>
+
+        {/* Interview Timeline Banner */}
+        {interviewDate && (
+          <TouchableOpacity 
+            style={styles.timelineBanner}
+            onPress={() => navigation.navigate('StudyCalendar')}
+            activeOpacity={0.7}
+          >
+            <Ionicons 
+              name="calendar-outline" 
+              size={16} 
+              color="#2E86AB" 
+              style={styles.calendarIcon}
+            />
+            <View style={styles.timelineContent}>
+              <View style={styles.timelineLabels}>
+                <Text style={styles.timelineLabel}>Start</Text>
+                <Text style={styles.timelineDays}>
+                  {(() => {
+                    const today = new Date();
+                    today.setHours(0, 0, 0, 0);
+                    
+                    // MM/DD/YYYY 형식 파싱
+                    const parts = interviewDate.split('/');
+                    const interview = new Date(parts[2], parts[0] - 1, parts[1]);
+                    interview.setHours(0, 0, 0, 0);
+                    
+                    const diffTime = interview - today;
+                    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+                    
+                    if (diffDays > 0) return `D - ${diffDays} days`;
+                    if (diffDays === 0) return 'D-Day!';
+                    return `D + ${Math.abs(diffDays)} days`;
+                  })()}
+                </Text>
+                <Text style={styles.timelineLabel}>Interview</Text>
+              </View>
+              <View style={styles.progressBarContainer}>
+                <View style={styles.progressBarBackground}>
+                  <View 
+                    style={[
+                      styles.progressBarFill,
+                      { width: `${progressPercentage}%` }
+                    ]}
+                  />
+                  <View style={styles.progressDot} />
+                </View>
+              </View>
+              <Text style={styles.motivationalQuote}>
+                {(() => {
+                  const today = new Date();
+                  today.setHours(0, 0, 0, 0);
+                  
+                  // MM/DD/YYYY 형식 파싱
+                  const parts = interviewDate.split('/');
+                  const interview = new Date(parts[2], parts[0] - 1, parts[1]);
+                  interview.setHours(0, 0, 0, 0);
+                  
+                  const diffTime = interview - today;
+                  const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+                  
+                  if (diffDays === 0) return "Today is the day! You've got this! 🎉";
+                  if (diffDays < 0) return "Keep practicing for future opportunities!";
+                  if (diffDays <= 7) return "Final stretch! Stay confident!";
+                  if (diffDays <= 14) return "Almost there! Review your weak areas.";
+                  if (diffDays <= 30) return "The big day is approaching. Keep it up!";
+                  return "Every practice brings you closer to success!";
+                })()}
+              </Text>
+            </View>
+          </TouchableOpacity>
+        )}
 
         {menuItems.map(renderMenuItem)}
 
@@ -489,6 +637,79 @@ const styles = StyleSheet.create({
     fontSize: 10,
     fontWeight: 'bold',
     color: '#FFFFFF',
+  },
+  timelineBanner: {
+    marginHorizontal: theme.spacing.lg,
+    marginVertical: theme.spacing.md,
+    backgroundColor: '#f8f9fa',
+    borderRadius: theme.borderRadius.lg,
+    padding: theme.spacing.lg,
+    borderWidth: 1,
+    borderColor: '#e9ecef',
+    ...theme.shadows.sm,
+    position: 'relative',
+  },
+  calendarIcon: {
+    position: 'absolute',
+    top: 8,
+    right: 8,
+    zIndex: 1,
+  },
+  timelineContent: {
+    alignItems: 'center',
+  },
+  timelineLabels: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    width: '100%',
+    marginBottom: theme.spacing.xs,
+  },
+  progressBarContainer: {
+    width: '100%',
+    marginBottom: theme.spacing.md,
+  },
+  progressBarBackground: {
+    width: '100%',
+    height: 8,
+    backgroundColor: '#e9ecef',
+    borderRadius: 4,
+    overflow: 'hidden',
+    position: 'relative',
+  },
+  progressBarFill: {
+    height: '100%',
+    backgroundColor: '#2E86AB',
+    borderRadius: 4,
+    position: 'relative',
+  },
+  progressDot: {
+    position: 'absolute',
+    right: 0,
+    top: -2,
+    width: 12,
+    height: 12,
+    borderRadius: 6,
+    backgroundColor: '#2E86AB',
+    borderWidth: 2,
+    borderColor: '#FFFFFF',
+  },
+  timelineLabel: {
+    fontSize: theme.typography.sizes.sm,
+    color: theme.colors.text.secondary,
+    fontWeight: theme.typography.weights.medium,
+  },
+  timelineDays: {
+    fontSize: theme.typography.sizes.md,
+    color: '#2E86AB',
+    fontWeight: theme.typography.weights.bold,
+  },
+  motivationalQuote: {
+    fontSize: theme.typography.sizes.sm,
+    color: theme.colors.text.primary,
+    textAlign: 'center',
+    fontStyle: 'italic',
+    marginTop: theme.spacing.xs,
+    lineHeight: 20,
   },
 });
 

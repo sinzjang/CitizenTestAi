@@ -8,6 +8,77 @@
     "selectLanguageDescription": "Veuillez sélectionner votre langue préférée pour continuer.",
     "canChangeInSettings": "Vous pouvez changer cela plus tard dans les paramètres."
   },
+  "interviewDate": {
+    "title": "Date d'Entretien",
+    "subtitle": "Quand est votre entretien de citoyenneté?",
+    "month": "Mois",
+    "day": "Jour",
+    "year": "Année",
+    "save": "Enregistrer",
+    "skip": "Passer",
+    "canUpdateLater": "Vous pouvez mettre à jour cela plus tard dans Ressources et Paramètres.",
+    "sectionTitle": "Date d'Entretien",
+    "sectionDescription": "Définissez la date de votre entretien de citoyenneté pour suivre vos progrès de préparation.",
+    "studyStartDate": "Date de Début d'Étude",
+    "currentDate": "Date d'Entretien",
+    "notSet": "Non défini"
+  },
+  "studyCalendar": {
+    "title": "Calendrier d'Étude",
+    "infoMessage": "Vous pouvez définir votre date d'entretien dans les Paramètres",
+    "dailyProgress": "Progrès Quotidien",
+    "noActivity": "Aucune activité d'étude ce jour-là",
+    "learn": "Apprendre",
+    "reviewFlashcard": "Réviser les Cartes",
+    "aiTutor": "Tuteur IA",
+    "mockInterview": "Entretien Simulé",
+    "completed": "Terminé",
+    "notStarted": "Non commencé",
+    "questions": "Questions",
+    "minutes": "Minutes",
+    "interview": "Entretien",
+    "interviews": "Entretiens",
+    "dailyGoals": {
+      "title": "Objectifs Quotidiens",
+      "description": "Complétez UN de ces objectifs pour gagner votre tampon quotidien 🔥!",
+      "learn": "Apprendre",
+      "learnRequirement": "Ouvrir n'importe quel mode d'apprentissage",
+      "reviewFlashcard": "Réviser les Cartes",
+      "reviewRequirement": "Réviser 20+ cartes",
+      "aiTutor": "Tuteur IA",
+      "aiTutorRequirement": "Discuter pendant 5+ minutes",
+      "mockInterview": "Entretien Simulé",
+      "mockInterviewRequirement": "Compléter 1 entretien",
+      "fireInfo": "Complétez n'importe quel objectif pour gagner une icône 🔥 ce jour-là",
+      "tapDateInfo": "Appuyez sur n'importe quelle date pour voir vos progrès détaillés de ce jour",
+      "settingsInfo": "Définissez votre date d'entretien dans les Paramètres (appuyez sur l'icône ⚙️)",
+      "gotIt": "Compris!"
+    },
+    "weekDays": {
+      "sun": "Dim",
+      "mon": "Lun",
+      "tue": "Mar",
+      "wed": "Mer",
+      "thu": "Jeu",
+      "fri": "Ven",
+      "sat": "Sam"
+    }
+  },
+  "subscription": {
+    "statusTitle": "Statut d'Abonnement",
+    "statusDescription": "Voir le statut actuel de votre abonnement et gérer les codes promotionnels",
+    "status": "Statut",
+    "expiresOn": "Expire le",
+    "daysRemaining": "Restant",
+    "days": "jours",
+    "enterPromoCode": "Entrer le Code Promo",
+    "promoCodeTitle": "Code Promo",
+    "promoCodeDescription": "Entrez votre code promo pour activer les fonctionnalités premium",
+    "redeem": "Échanger",
+    "success": "Succès",
+    "error": "Erreur",
+    "redeemError": "Échec de l'échange du code promo. Veuillez réessayer."
+  },
   "resources": {
     "title": "Paramètres de Langue et de Localisation",
     "locationInfo": "Paramètres d'Information de Localisation",
@@ -99,13 +170,15 @@
       "customTest": "Test personnalisé",
       "customTestSubtitle": "Choisir les thèmes et le nombre de questions"
     },
+    "test": {
+      "title": "Test",
+      "subtitle": "Vérifiez vos connaissances avec des tests",
+      "testAnalytics": "Analyse des Tests",
+      "testAnalyticsSubtitle": "Voir les statistiques et les progrès des tests"
+    },
     "practice": {
       "title": "Pratiquer",
       "subtitle": "Passez des entretiens simulés"
-    },
-    "test": {
-      "title": "Passer le Test",
-      "subtitle": "Testez vos connaissances"
     },
     "progress": {
       "title": "Progrès",

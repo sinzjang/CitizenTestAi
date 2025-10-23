@@ -112,32 +112,62 @@ const FlashcardModeSelection = ({ navigation }) => {
     navigation.navigate(subOption.screen, subOption.params);
   };
 
-  const renderSubOption = (subOption, parentColor) => (
-    <TouchableOpacity
-      key={subOption.id}
-      style={[styles.subOptionCard, { borderLeftColor: parentColor }]}
-      onPress={() => handleOptionPress(subOption)}
-    >
-      <View style={styles.subOptionContent}>
-        <View style={[styles.subOptionIcon, { backgroundColor: parentColor + '20' }]}>
-          <Ionicons name={subOption.icon} size={24} color={parentColor} />
-        </View>
-        <View style={styles.subOptionText}>
-          <View style={styles.titleRow}>
-            <Text style={styles.subOptionTitle}>{subOption.title}</Text>
-            {subOption.isPremium && !isPremium && (
-              <View style={styles.premiumBadge}>
-                <Ionicons name="star" size={12} color="#FFD700" />
-                <Text style={styles.premiumText}>Premium</Text>
-              </View>
-            )}
+  const renderSubOption = (subOption, parentColor) => {
+    const isLocked = subOption.isPremium && !isPremium;
+    
+    return (
+      <TouchableOpacity
+        key={subOption.id}
+        style={[
+          styles.subOptionCard, 
+          { borderLeftColor: isLocked ? '#ccc' : parentColor },
+          isLocked && styles.subOptionCardDisabled
+        ]}
+        onPress={() => handleOptionPress(subOption)}
+        activeOpacity={isLocked ? 0.5 : 0.7}
+      >
+        <View style={styles.subOptionContent}>
+          <View style={[
+            styles.subOptionIcon, 
+            { backgroundColor: isLocked ? '#e9ecef' : parentColor + '20' }
+          ]}>
+            <Ionicons 
+              name={subOption.icon} 
+              size={24} 
+              color={isLocked ? '#adb5bd' : parentColor} 
+            />
           </View>
-          <Text style={styles.subOptionSubtitle}>{subOption.subtitle}</Text>
+          <View style={styles.subOptionText}>
+            <View style={styles.titleRow}>
+              <Text style={[
+                styles.subOptionTitle,
+                isLocked && styles.subOptionTitleDisabled
+              ]}>
+                {subOption.title}
+              </Text>
+              {isLocked && (
+                <View style={styles.premiumBadge}>
+                  <Ionicons name="star" size={12} color="#FFD700" />
+                  <Text style={styles.premiumText}>Premium</Text>
+                </View>
+              )}
+            </View>
+            <Text style={[
+              styles.subOptionSubtitle,
+              isLocked && styles.subOptionSubtitleDisabled
+            ]}>
+              {subOption.subtitle}
+            </Text>
+          </View>
+          <Ionicons 
+            name={isLocked ? "lock-closed" : "chevron-forward"} 
+            size={20} 
+            color={isLocked ? "#adb5bd" : "#ccc"} 
+          />
         </View>
-        <Ionicons name="chevron-forward" size={20} color="#ccc" />
-      </View>
-    </TouchableOpacity>
-  );
+      </TouchableOpacity>
+    );
+  };
 
   const renderMainOption = (option) => (
     <View key={option.id} style={styles.mainOptionContainer}>
@@ -351,6 +381,16 @@ const styles = StyleSheet.create({
     fontSize: 13,
     color: '#666',
     lineHeight: 18,
+  },
+  subOptionCardDisabled: {
+    opacity: 0.6,
+    backgroundColor: '#f1f3f5',
+  },
+  subOptionTitleDisabled: {
+    color: '#adb5bd',
+  },
+  subOptionSubtitleDisabled: {
+    color: '#ced4da',
   },
 });
 

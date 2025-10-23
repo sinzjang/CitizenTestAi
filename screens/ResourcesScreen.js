@@ -11,11 +11,16 @@ import {
   TextInput
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { Ionicons } from '@expo/vector-icons';
 import { theme } from '../styles/theme';
 import LocationManager from '../utils/locationManager';
 import { t, getCurrentLanguage, setLanguage, getSupportedLanguages } from '../utils/i18n';
 import LocationSettingsModal from '../components/LocationSettingsModal';
+import InterviewDateModal from '../components/InterviewDateModal';
+import PromoCodeModal from '../components/PromoCodeModal';
+import { SubscriptionManager } from '../utils/subscriptionManager';
+import { PromoCodeManager } from '../utils/promoCodeManager';
 
 const ResourcesScreen = ({ navigation }) => {
   const [userLocation, setUserLocation] = useState(null);
@@ -28,11 +33,20 @@ const ResourcesScreen = ({ navigation }) => {
   const [showLanguageModal, setShowLanguageModal] = useState(false);
   const [supportedLanguages, setSupportedLanguages] = useState([]);
   const [showLocationModal, setShowLocationModal] = useState(false);
+  const [interviewDate, setInterviewDate] = useState(null);
+  const [studyStartDate, setStudyStartDate] = useState(null);
+  const [showInterviewDateEdit, setShowInterviewDateEdit] = useState(false);
+  const [showStudyStartDateEdit, setShowStudyStartDateEdit] = useState(false);
+  const [subscriptionDetails, setSubscriptionDetails] = useState(null);
+  const [showPromoCodeModal, setShowPromoCodeModal] = useState(false);
+  const [showUsageGuideModal, setShowUsageGuideModal] = useState(false);
 
   useEffect(() => {
     loadUserLocation();
     setStates(LocationManager.getStates());
     loadLanguageSettings();
+    loadInterviewDate();
+    loadSubscriptionDetails();
   }, []);
 
   const loadLanguageSettings = async () => {
@@ -49,6 +63,93 @@ const ResourcesScreen = ({ navigation }) => {
   const loadUserLocation = async () => {
     const location = await LocationManager.getUserLocation();
     setUserLocation(location);
+  };
+
+  const loadInterviewDate = async () => {
+    try {
+      const savedDate = await AsyncStorage.getItem('@interview_date');
+      const savedStartDate = await AsyncStorage.getItem('@study_start_date');
+      setInterviewDate(savedDate);
+      setStudyStartDate(savedStartDate);
+    } catch (error) {
+      console.error('인터뷰 날짜 로드 오류:', error);
+    }
+  };
+
+  const loadSubscriptionDetails = async () => {
+    try {
+      const details = await SubscriptionManager.getSubscriptionDetails();
+      setSubscriptionDetails(details);
+    } catch (error) {
+      console.error('구독 상태 로드 오류:', error);
+    }
+  };
+
+  const handleRestorePurchases = async () => {
+    try {
+      Alert.alert(
+        t('subscription.restoring'),
+        t('subscription.restoringMessage'),
+        [{ text: 'OK', style: 'cancel' }]
+      );
+
+      const result = await SubscriptionManager.restorePurchases();
+      
+      if (result.success) {
+        await loadSubscriptionDetails();
+        Alert.alert(
+          t('subscription.success'),
+          result.isPremium 
+            ? t('subscription.restoreSuccess') 
+            : t('subscription.noActivePurchases')
+        );
+      } else {
+        Alert.alert(
+          t('subscription.error'),
+          result.error || t('subscription.restoreError')
+        );
+      }
+    } catch (error) {
+      console.error('구매 복원 오류:', error);
+      Alert.alert(
+        t('subscription.error'),
+        t('subscription.restoreError')
+      );
+    }
+  };
+
+  const handleRedeemPromoCode = async (code) => {
+    try {
+      // 사용자 이메일 가져오기 (없으면 기본값 생성)
+      let userEmail = await SubscriptionManager.getUserEmail();
+      if (!userEmail) {
+        userEmail = `user_${Date.now()}@citizentest.app`;
+        await SubscriptionManager.setUserEmail(userEmail);
+      }
+
+      const result = await PromoCodeManager.redeemPromoCode(code, userEmail);
+      
+      if (result.success) {
+        Alert.alert(
+          t('subscription.success'),
+          result.message
+        );
+        setShowPromoCodeModal(false);
+        // 구독 상태 새로고침
+        await loadSubscriptionDetails();
+      } else {
+        Alert.alert(
+          t('subscription.error'),
+          result.message
+        );
+      }
+    } catch (error) {
+      console.error('프로모 코드 처리 오류:', error);
+      Alert.alert(
+        t('subscription.error'),
+        t('subscription.redeemError')
+      );
+    }
   };
 
   // 주 선택 대신 안내 팝업(Interview i18n) 띄우고 설정 모달 열기
@@ -194,6 +295,12 @@ const ResourcesScreen = ({ navigation }) => {
           <Ionicons name="arrow-back" size={24} color="#2E86AB" />
         </TouchableOpacity>
         <Text style={styles.headerTitle}>{t('resources.title')}</Text>
+        <TouchableOpacity
+          style={styles.helpButton}
+          onPress={() => setShowUsageGuideModal(true)}
+        >
+          <Ionicons name="help-circle-outline" size={28} color="#2E86AB" />
+        </TouchableOpacity>
       </View>
 
       <ScrollView style={styles.content} showsVerticalScrollIndicator={false}>
@@ -221,6 +328,48 @@ const ResourcesScreen = ({ navigation }) => {
           </TouchableOpacity>
         </View>
 
+        {/* Interview Date Section */}
+        <View style={styles.section}>
+          <Text style={styles.sectionTitle}>{t('interviewDate.sectionTitle')}</Text>
+          <Text style={styles.sectionDescription}>
+            {t('interviewDate.sectionDescription')}
+          </Text>
+          
+          {/* Study Start Date */}
+          <TouchableOpacity
+            style={[styles.languageButton, { marginBottom: theme.spacing.sm }]}
+            onPress={() => setShowStudyStartDateEdit(true)}
+          >
+            <View style={styles.languageButtonContent}>
+              <Ionicons name="play-circle" size={24} color="#28a745" />
+              <View style={styles.languageInfo}>
+                <Text style={styles.languageLabel}>{t('interviewDate.studyStartDate')}:</Text>
+                <Text style={styles.languageValue}>
+                  {studyStartDate || t('interviewDate.notSet')}
+                </Text>
+              </View>
+              <Ionicons name="chevron-forward" size={20} color="#666" />
+            </View>
+          </TouchableOpacity>
+
+          {/* Interview Date */}
+          <TouchableOpacity
+            style={styles.languageButton}
+            onPress={() => setShowInterviewDateEdit(true)}
+          >
+            <View style={styles.languageButtonContent}>
+              <Ionicons name="calendar" size={24} color="#2E86AB" />
+              <View style={styles.languageInfo}>
+                <Text style={styles.languageLabel}>{t('interviewDate.currentDate')}:</Text>
+                <Text style={styles.languageValue}>
+                  {interviewDate || t('interviewDate.notSet')}
+                </Text>
+              </View>
+              <Ionicons name="chevron-forward" size={20} color="#666" />
+            </View>
+          </TouchableOpacity>
+        </View>
+
         {/* Location Settings Section */}
         <View style={styles.section}>
           <Text style={styles.sectionTitle}>{t('resources.locationSettings')}</Text>
@@ -229,52 +378,66 @@ const ResourcesScreen = ({ navigation }) => {
           </Text>
 
           {userLocation ? (
-            <View style={styles.locationInfo}>
-              <View style={styles.infoRow}>
-                <Text style={styles.infoLabel}>{t('resources.selectedState')}:</Text>
-                <Text style={styles.infoValue}>{userLocation.stateName}</Text>
+            <View style={styles.updatedInfoContainer}>
+              <TouchableOpacity
+                style={styles.infoItem}
+                onPress={() => handleEditField('zipCode', userLocation.zipCode)}
+              >
+                <Text style={styles.infoItemLabel}>{t('resources.zipCode')}:</Text>
+                <Text style={styles.infoItemValue}>
+                  {userLocation.zipCode || t('resources.setup')}
+                </Text>
+                <Ionicons name="pencil" size={18} color="#2E86AB" style={styles.chevronIcon} />
+              </TouchableOpacity>
+
+              <View style={styles.infoItem}>
+                <Text style={styles.infoItemLabel}>{t('resources.selectedState')}:</Text>
+                <Text style={styles.infoItemValue}>{userLocation.stateName}</Text>
               </View>
               
-              <View style={styles.infoRow}>
-                <Text style={styles.infoLabel}>{t('resources.capital')}:</Text>
-                <Text style={styles.infoValue}>{userLocation.capital}</Text>
+              <View style={styles.infoItem}>
+                <Text style={styles.infoItemLabel}>{t('resources.capital')}:</Text>
+                <Text style={styles.infoItemValue}>{userLocation.capital}</Text>
               </View>
 
               <TouchableOpacity
-                style={styles.editButton}
+                style={styles.infoItem}
                 onPress={() => handleEditField('governor', userLocation.governor)}
               >
-                <Text style={styles.editLabel}>{t('resources.governor')}:</Text>
-                <Text style={styles.editValue}>
-                  {userLocation.governor || t('resources.setup')}
+                <Text style={styles.infoItemLabel}>{t('resources.governor')}:</Text>
+                <Text style={styles.infoItemValue}>
+                  {userLocation.governor === 'auto' 
+                    ? LocationManager.getStateGovernor(userLocation.state)
+                    : userLocation.governor || t('resources.setup')
+                  }
                 </Text>
-                <Ionicons name="chevron-forward" size={20} color="#666" />
+                <Ionicons name="pencil" size={18} color="#2E86AB" style={styles.chevronIcon} />
               </TouchableOpacity>
 
               <TouchableOpacity
-                style={styles.editButton}
+                style={styles.infoItem}
                 onPress={() => handleEditField('senator1', userLocation.senators?.[0])}
               >
-                <Text style={styles.editLabel}>{t('resources.senator1')}:</Text>
-                <Text style={styles.editValue}>
+                <Text style={styles.infoItemLabel}>{t('resources.senator1')}:</Text>
+                <Text style={styles.infoItemValue}>
                   {userLocation.senators?.[0] || t('resources.setup')}
                 </Text>
-                <Ionicons name="chevron-forward" size={20} color="#666" />
+                <Ionicons name="pencil" size={18} color="#2E86AB" style={styles.chevronIcon} />
               </TouchableOpacity>
 
               <TouchableOpacity
-                style={styles.editButton}
+                style={styles.infoItem}
                 onPress={() => handleEditField('senator2', userLocation.senators?.[1])}
               >
-                <Text style={styles.editLabel}>{t('resources.senator2')}:</Text>
-                <Text style={styles.editValue}>
+                <Text style={styles.infoItemLabel}>{t('resources.senator2')}:</Text>
+                <Text style={styles.infoItemValue}>
                   {userLocation.senators?.[1] || t('resources.setup')}
                 </Text>
-                <Ionicons name="chevron-forward" size={20} color="#666" />
+                <Ionicons name="pencil" size={18} color="#2E86AB" style={styles.chevronIcon} />
               </TouchableOpacity>
 
               <TouchableOpacity
-                style={styles.editButton}
+                style={[styles.infoItem, styles.lastInfoItem]}
                 onPress={() => {
                   // 새로운 구조 지원
                   let currentRep = '';
@@ -286,8 +449,8 @@ const ResourcesScreen = ({ navigation }) => {
                   handleEditField('representative', currentRep);
                 }}
               >
-                <Text style={styles.editLabel}>{t('resources.representative')}:</Text>
-                <Text style={styles.editValue}>
+                <Text style={styles.infoItemLabel}>{t('resources.representative')}:</Text>
+                <Text style={styles.infoItemValue}>
                   {(() => {
                     if (userLocation.representatives && userLocation.representatives.length > 0) {
                       if (userLocation.representatives.length === 1) {
@@ -302,7 +465,7 @@ const ResourcesScreen = ({ navigation }) => {
                     }
                   })()}
                 </Text>
-                <Ionicons name="chevron-forward" size={20} color="#666" />
+                <Ionicons name="pencil" size={18} color="#2E86AB" style={styles.chevronIcon} />
               </TouchableOpacity>
 
               <TouchableOpacity
@@ -353,75 +516,52 @@ const ResourcesScreen = ({ navigation }) => {
           </View>
         </View>
 
-        {/* Location-based Information Section */}
-        {userLocation && (
-          <View style={styles.section}>
-            <Text style={styles.sectionTitle}>{t('resources.configuredLocationInfo')}</Text>
-            <Text style={styles.sectionDescription}>
-              {t('resources.currentStateInfo', { stateName: userLocation.stateName })}
-            </Text>
-            
+
+        {/* Subscription Status Section */}
+        <View style={styles.section}>
+          <View style={styles.sectionTitleRow}>
+            <Text style={styles.sectionTitle}>{t('subscription.statusTitle')}</Text>
+            <TouchableOpacity
+              style={styles.refreshButton}
+              onPress={handleRestorePurchases}
+            >
+              <Ionicons name="refresh" size={24} color="#2E86AB" />
+            </TouchableOpacity>
+          </View>
+          
+          {subscriptionDetails && (
             <View style={styles.updatedInfoContainer}>
               <View style={styles.infoItem}>
-                <Text style={styles.infoItemLabel}>{t('resources.capital')}:</Text>
-                <Text style={styles.infoItemValue}>{userLocation.capital}</Text>
-              </View>
-              
-              <View style={styles.infoItem}>
-                <Text style={styles.infoItemLabel}>{t('resources.governor')}:</Text>
-                <Text style={styles.infoItemValue}>
-                  {userLocation.governor === 'auto' 
-                    ? LocationManager.getStateGovernor(userLocation.state)
-                    : userLocation.governor || t('resources.notSet')
-                  }
-                </Text>
-              </View>
-              
-              <View style={styles.infoItem}>
-                <Text style={styles.infoItemLabel}>{t('resources.senator1')}:</Text>
-                <Text style={styles.infoItemValue}>
-                  {userLocation.senators?.[0] || t('resources.notSet')}
-                </Text>
-              </View>
-              
-              <View style={styles.infoItem}>
-                <Text style={styles.infoItemLabel}>{t('resources.senator2')}:</Text>
-                <Text style={styles.infoItemValue}>
-                  {userLocation.senators?.[1] || t('resources.notSet')}
-                </Text>
-              </View>
-              
-              <View style={userLocation.zipCode ? styles.infoItem : [styles.infoItem, styles.lastInfoItem]}>
-                <Text style={styles.infoItemLabel}>{t('resources.representative')}:</Text>
-                <Text style={styles.infoItemValue}>
-                  {(() => {
-                    if (userLocation.representatives && userLocation.representatives.length > 0) {
-                      return userLocation.representatives.map(rep => `${rep.name} (${rep.district})`).join(', ');
-                    } else if (userLocation.representative) {
-                      return userLocation.representative;
-                    } else {
-                      return t('resources.notSet');
-                    }
-                  })()}
-                </Text>
-              </View>
-              
-              {userLocation.zipCode && (
-                <View style={[styles.infoItem, styles.lastInfoItem]}>
-                  <Text style={styles.infoItemLabel}>{t('resources.zipCode')}:</Text>
-                  <Text style={styles.infoItemValue}>{userLocation.zipCode}</Text>
+                <Text style={styles.infoItemLabel}>{t('subscription.status')}:</Text>
+                <View style={[styles.statusBadge, { backgroundColor: subscriptionDetails.statusColor }]}>
+                  <Text style={styles.statusBadgeText}>{subscriptionDetails.status}</Text>
                 </View>
+              </View>
+              
+              {subscriptionDetails.expiryDate && (
+                <>
+                  <View style={styles.infoItem}>
+                    <Text style={styles.infoItemLabel}>{t('subscription.expiresOn')}:</Text>
+                    <Text style={styles.infoItemValue}>{subscriptionDetails.expiryDate}</Text>
+                  </View>
+                  <View style={[styles.infoItem, styles.lastInfoItem]}>
+                    <Text style={styles.infoItemLabel}>{t('subscription.daysRemaining')}:</Text>
+                    <Text style={styles.infoItemValue}>{subscriptionDetails.daysRemaining}</Text>
+                  </View>
+                </>
               )}
             </View>
-          </View>
-        )}
+          )}
 
-        {/* Information Section */}
-        <View style={styles.section}>
-          <Text style={styles.sectionTitle}>{t('resources.usageGuide')}</Text>
-          <Text style={styles.infoText}>
-            {t('resources.usageGuideText')}
-          </Text>
+          {/* Promo Code Button */}
+          <TouchableOpacity
+            style={styles.promoCodeButton}
+            onPress={() => setShowPromoCodeModal(true)}
+          >
+            <Ionicons name="ticket" size={24} color="#2E86AB" />
+            <Text style={styles.promoCodeButtonText}>{t('subscription.enterPromoCode')}</Text>
+            <Ionicons name="chevron-forward" size={20} color="#666" />
+          </TouchableOpacity>
         </View>
 
         {/* Clear Data Button */}
@@ -549,6 +689,67 @@ const ResourcesScreen = ({ navigation }) => {
           setShowLocationModal(false);
         }}
       />
+
+      {/* Study Start Date Modal */}
+      <InterviewDateModal
+        visible={showStudyStartDateEdit}
+        title="Study Start Date"
+        storageKey="@study_start_date"
+        onDateSet={async (dateString) => {
+          try {
+            await AsyncStorage.setItem('@study_start_date', dateString);
+            setStudyStartDate(dateString);
+            setShowStudyStartDateEdit(false);
+          } catch (error) {
+            console.error('공부 시작 날짜 저장 오류:', error);
+          }
+        }}
+        onSkip={() => setShowStudyStartDateEdit(false)}
+      />
+
+      {/* Interview Date Modal */}
+      <InterviewDateModal
+        visible={showInterviewDateEdit}
+        onDateSet={async (dateString) => {
+          try {
+            await AsyncStorage.setItem('@interview_date', dateString);
+            setInterviewDate(dateString);
+            setShowInterviewDateEdit(false);
+          } catch (error) {
+            console.error('인터뷰 날짜 저장 오류:', error);
+          }
+        }}
+        onSkip={() => setShowInterviewDateEdit(false)}
+      />
+
+      {/* Promo Code Modal */}
+      <PromoCodeModal
+        visible={showPromoCodeModal}
+        onClose={() => setShowPromoCodeModal(false)}
+        onSuccess={handleRedeemPromoCode}
+      />
+
+      {/* Usage Guide Modal */}
+      <Modal
+        visible={showUsageGuideModal}
+        animationType="slide"
+        presentationStyle="pageSheet"
+        onRequestClose={() => setShowUsageGuideModal(false)}
+      >
+        <SafeAreaView style={styles.modalContainer}>
+          <View style={styles.modalHeader}>
+            <Text style={styles.modalTitle}>{t('resources.usageGuide')}</Text>
+            <TouchableOpacity onPress={() => setShowUsageGuideModal(false)}>
+              <Ionicons name="close" size={28} color="#2E86AB" />
+            </TouchableOpacity>
+          </View>
+          <ScrollView style={styles.modalContent}>
+            <Text style={styles.modalText}>
+              {t('resources.usageGuideText')}
+            </Text>
+          </ScrollView>
+        </SafeAreaView>
+      </Modal>
     </SafeAreaView>
   );
 };
@@ -576,6 +777,9 @@ const styles = StyleSheet.create({
     color: theme.colors.primary,
     flex: 1,
   },
+  helpButton: {
+    marginLeft: theme.spacing.md,
+  },
   content: {
     flex: 1,
     paddingHorizontal: theme.spacing.lg,
@@ -593,6 +797,17 @@ const styles = StyleSheet.create({
     fontWeight: theme.typography.weights.bold,
     color: theme.colors.text,
     marginBottom: theme.spacing.sm,
+  },
+  sectionTitleRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: theme.spacing.sm,
+  },
+  refreshButton: {
+    padding: 8,
+    borderRadius: 20,
+    backgroundColor: '#f0f8ff',
   },
   sectionDescription: {
     fontSize: theme.typography.sizes.md,
@@ -866,6 +1081,69 @@ const styles = StyleSheet.create({
   selectedLanguageText: {
     fontWeight: theme.typography.weights.semibold,
     color: '#2E86AB',
+  },
+  // Subscription Status Styles
+  statusBadge: {
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 12,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  statusBadgeText: {
+    fontSize: theme.typography.sizes.sm,
+    fontWeight: theme.typography.weights.bold,
+    color: '#fff',
+  },
+  promoCodeButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: theme.spacing.lg,
+    backgroundColor: theme.colors.card,
+    borderRadius: theme.spacing.md,
+    borderWidth: 1,
+    borderColor: theme.colors.border,
+  },
+  promoCodeButtonText: {
+    flex: 1,
+    fontSize: theme.typography.sizes.md,
+    fontWeight: theme.typography.weights.semibold,
+    color: theme.colors.text,
+    marginLeft: theme.spacing.md,
+  },
+  editableValueContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
+  chevronIcon: {
+    marginLeft: 8,
+  },
+  modalContainer: {
+    flex: 1,
+    backgroundColor: theme.colors.background,
+  },
+  modalHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    padding: theme.spacing.lg,
+    borderBottomWidth: 1,
+    borderBottomColor: theme.colors.border,
+  },
+  modalTitle: {
+    fontSize: theme.typography.sizes.xl,
+    fontWeight: theme.typography.weights.bold,
+    color: theme.colors.text,
+  },
+  modalContent: {
+    flex: 1,
+    padding: theme.spacing.lg,
+  },
+  modalText: {
+    fontSize: theme.typography.sizes.md,
+    color: theme.colors.text,
+    lineHeight: 24,
   },
 });
 

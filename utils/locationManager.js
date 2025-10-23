@@ -69,9 +69,10 @@ class LocationManager {
   }
 
   // ZIP 코드로 하원의원 찾기 (API 우선 방식)
-  static async getRepresentativeFromZip(zipCode) {
+  static async getRepresentativeFromZip(zipCode, stateCode = null) {
     console.log('\n🔍 === ZIP 코드 조회 시작 ===');
     console.log('입력 ZIP 코드:', zipCode);
+    console.log('입력 State 코드:', stateCode);
     console.log('조회 시간:', new Date().toLocaleString());
     
     // 1단계: whoismyrepresentative.com API 우선 시도
@@ -82,6 +83,17 @@ class LocationManager {
       if (apiResult) {
         console.log('✅ API 조회 성공! 결과 반환');
         console.log('반환 데이터 소스:', apiResult.source);
+        
+        // stateCode가 제공되었으면 해당 주의 데이터만 필터링
+        if (stateCode && apiResult.multiple) {
+          const filteredReps = apiResult.representatives.filter(rep => 
+            rep.district.startsWith(stateCode + '-')
+          );
+          if (filteredReps.length > 0) {
+            apiResult.representatives = filteredReps;
+            console.log(`${stateCode} 주로 필터링된 결과:`, filteredReps.length, '명');
+          }
+        }
         
         // API 결과를 캐시에 저장
         try {
@@ -140,20 +152,33 @@ class LocationManager {
     if (districtData) {
       // 단일 선거구인 경우
       if (typeof districtData === 'string' && US_REPRESENTATIVES.representatives[districtData]) {
-        console.log('✅ 로컴 데이터에서 단일 선거구 발견:', districtData);
-        console.log('하원의원:', US_REPRESENTATIVES.representatives[districtData]);
-        console.log('🎆 === 최종 결과: 로컴 데이터 반환 ===\n');
-        return {
-          district: districtData,
-          name: US_REPRESENTATIVES.representatives[districtData],
-          source: 'local'
-        };
+        // stateCode가 제공되었으면 해당 주의 선거구인지 확인
+        if (stateCode && !districtData.startsWith(stateCode + '-')) {
+          console.log(`❌ 선거구 ${districtData}는 ${stateCode} 주가 아님`);
+        } else {
+          console.log('✅ 로컴 데이터에서 단일 선거구 발견:', districtData);
+          console.log('하원의원:', US_REPRESENTATIVES.representatives[districtData]);
+          console.log('🎆 === 최종 결과: 로컴 데이터 반환 ===\n');
+          return {
+            district: districtData,
+            name: US_REPRESENTATIVES.representatives[districtData],
+            source: 'local'
+          };
+        }
       }
       
       // 다중 선거구인 경우
       if (Array.isArray(districtData)) {
         console.log('✅ 로컴 데이터에서 다중 선거구 발견:', districtData);
-        const representatives = districtData.map(district => ({
+        let filteredDistricts = districtData;
+        
+        // stateCode가 제공되었으면 해당 주의 선거구만 필터링
+        if (stateCode) {
+          filteredDistricts = districtData.filter(district => district.startsWith(stateCode + '-'));
+          console.log(`${stateCode} 주로 필터링된 선거구:`, filteredDistricts);
+        }
+        
+        const representatives = filteredDistricts.map(district => ({
           district,
           name: US_REPRESENTATIVES.representatives[district]
         })).filter(rep => rep.name);
@@ -191,33 +216,42 @@ class LocationManager {
     try {
       const apiUrl = `https://whoismyrepresentative.com/getall_mems.php?zip=${zipCode}&output=json`;
       console.log('요청 URL:', apiUrl);
+      console.log('요청 시작 시간:', new Date().toISOString());
       
-      // getall_mems.php 사용 - 모든 의원 정보 반환
-      const response = await fetch(apiUrl, {
-        method: 'GET',
-        headers: {
-          'Accept': 'application/json',
-          'User-Agent': 'CitizenTestAI/1.0'
-        },
-        timeout: 10000 // 10초 타임아웃
-      });
+      // 타임아웃 구현 (빠른 폴백을 위해 짧게 설정)
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 1000); // 1초 타임아웃
       
-      console.log('HTTP 상태 코드:', response.status);
-      console.log('HTTP 상태 메시지:', response.statusText);
-      console.log('Content-Type:', response.headers.get('content-type'));
-      
-      if (!response.ok) {
-        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-      }
-      
-      const data = await response.json();
-      console.log('\n=== API 응답 데이터 ===');
-      console.log('JSON 파싱 성공');
-      console.log('전체 데이터:', JSON.stringify(data, null, 2));
-      console.log('결과 개수:', data.results ? data.results.length : 0);
-      
-      if (data.results && data.results.length > 0) {
-        console.log('\n=== API 데이터 처리 ===');
+      try {
+        // getall_mems.php 사용 - 모든 의원 정보 반환
+        const response = await fetch(apiUrl, {
+          method: 'GET',
+          headers: {
+            'Accept': 'application/json',
+            'User-Agent': 'CitizenTestAI/1.0'
+          },
+          signal: controller.signal
+        });
+        
+        clearTimeout(timeoutId);
+        console.log('요청 완료 시간:', new Date().toISOString());
+        
+        console.log('HTTP 상태 코드:', response.status);
+        console.log('HTTP 상태 메시지:', response.statusText);
+        console.log('Content-Type:', response.headers.get('content-type'));
+        
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
+        
+        const data = await response.json();
+        console.log('\n=== API 응답 데이터 ===');
+        console.log('JSON 파싱 성공');
+        console.log('전체 데이터:', JSON.stringify(data, null, 2));
+        console.log('결과 개수:', data.results ? data.results.length : 0);
+        
+        if (data.results && data.results.length > 0) {
+          console.log('\n=== API 데이터 처리 ===');
         console.log('전체 의원 데이터:');
         data.results.forEach((member, index) => {
           console.log(`  ${index + 1}. ${member.name} - ${member.office} - ${member.district || 'N/A'}`);
@@ -225,12 +259,12 @@ class LocationManager {
         });
         
         // 하원의원 필터링 로직 수정
-        // API에서 district 필드가 있는 경우를 하원의원으로 판단
+        // API에서 office가 "Representative"인 경우를 하원의원으로 판단
         const representatives = data.results.filter(r => {
-          // district 필드가 있고 숫자로 되어 있으면 하원의원
-          return r.district && !isNaN(r.district);
+          // office 필드가 "Representative"이거나 district 필드가 있으면 하원의원
+          return r.office === 'Representative' || (r.district && r.district !== '');
         });
-        console.log('하원의원 필터링 결과 (district 기준):', representatives.length, '명');
+        console.log('하원의원 필터링 결과 (office/district 기준):', representatives.length, '명');
         
         if (representatives.length === 0) {
           console.log('❌ 하원의원 데이터 없음');
@@ -284,10 +318,16 @@ class LocationManager {
             source: 'api'
           };
         }
-      } else {
-        console.log('\n❌ API 결과 없음 - data.results가 비어있거나 없음');
-        console.log('=== API 호출 종료 (null 반환) ===\n');
-        return null;
+        } else {
+          console.log('\n❌ API 결과 없음 - data.results가 비어있거나 없음');
+          console.log('=== API 호출 종료 (null 반환) ===\n');
+          return null;
+        }
+      } catch (fetchError) {
+        clearTimeout(timeoutId);
+        console.log('\n❌ === Fetch 오류 발생 ===');
+        console.error('Fetch 오류:', fetchError.message);
+        throw fetchError;
       }
     } catch (error) {
       console.log('\n❌ === API 오류 발생 ===');

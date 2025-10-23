@@ -66,19 +66,36 @@ export class SubscriptionManager {
     }
   }
 
-  // 구독 상태 확인 (RevenueCat + 친구 권한 포함)
+  // 구독 상태 확인 (RevenueCat + 친구 권한 + Admin 모드 + 개발 모드 포함)
   static async checkSubscriptionStatus() {
     try {
-      // 1. RevenueCat 구독 상태 확인
-      const customerInfo = await Purchases.getCustomerInfo();
-      const isPremiumSubscriber = customerInfo.entitlements.active['Premium'] !== undefined;
-      
-      if (isPremiumSubscriber) {
-        console.log('[SubscriptionManager] RevenueCat 구독 활성화됨');
+      // 0. 개발 모드에서는 자동으로 Premium 활성화
+      if (__DEV__) {
+        console.log('[SubscriptionManager] 개발 모드 - 프리미엄 자동 활성화');
         return true;
       }
       
-      // 2. 친구 권한 확인 (이메일 기반)
+      // 1. Admin 모드 확인
+      const isAdmin = await AdminManager.isAdmin();
+      if (isAdmin) {
+        console.log('[SubscriptionManager] Admin 모드 활성화됨');
+        return true;
+      }
+      
+      // 2. RevenueCat 구독 상태 확인
+      try {
+        const customerInfo = await Purchases.getCustomerInfo();
+        const isPremiumSubscriber = customerInfo.entitlements.active['Premium'] !== undefined;
+        
+        if (isPremiumSubscriber) {
+          console.log('[SubscriptionManager] RevenueCat 구독 활성화됨');
+          return true;
+        }
+      } catch (rcError) {
+        console.log('[SubscriptionManager] RevenueCat check skipped:', rcError.message);
+      }
+      
+      // 3. 친구 권한 확인 (이메일 기반)
       const userEmail = await this.getUserEmail();
       if (userEmail) {
         const isFriendPremium = await AdminManager.checkFriendPremiumStatus(userEmail);
@@ -92,7 +109,12 @@ export class SubscriptionManager {
       return false;
     } catch (error) {
       console.error('[SubscriptionManager] 구독 상태 확인 실패:', error);
-      return false; // 오류 시 프리미엄 비활성화
+      // 개발 모드에서는 오류 시에도 Premium 활성화
+      if (__DEV__) {
+        console.log('[SubscriptionManager] 개발 모드 - 오류 발생해도 프리미엄 활성화');
+        return true;
+      }
+      return false; // 프로덕션에서는 오류 시 프리미엄 비활성화
     }
   }
 
@@ -131,6 +153,109 @@ export class SubscriptionManager {
       Linking.openURL('https://apps.apple.com/account/subscriptions');
     } else {
       Linking.openURL('https://play.google.com/store/account/subscriptions');
+    }
+  }
+
+  // 구독 상세 정보 가져오기 (Status: Free/Premium/Admin)
+  static async getSubscriptionDetails() {
+    try {
+      // Admin 만료일 계산 (2999-12-31)
+      const adminExpiryDate = new Date('2999-12-31');
+      const now = new Date();
+      const adminDaysRemaining = Math.ceil((adminExpiryDate - now) / (1000 * 60 * 60 * 24));
+
+      // 1. 개발 모드 확인 (최우선)
+      if (__DEV__) {
+        return {
+          status: 'Admin',
+          statusColor: '#FF9800',
+          isPremium: true,
+          expiryDate: '2999-12-31',
+          daysRemaining: adminDaysRemaining,
+          source: 'dev_mode'
+        };
+      }
+
+      // 2. Admin 모드 확인
+      const isAdmin = await AdminManager.isAdmin();
+      if (isAdmin) {
+        return {
+          status: 'Admin',
+          statusColor: '#FF9800',
+          isPremium: true,
+          expiryDate: '2999-12-31',
+          daysRemaining: adminDaysRemaining,
+          source: 'admin'
+        };
+      }
+
+      // 3. RevenueCat 구독 확인
+      try {
+        const customerInfo = await Purchases.getCustomerInfo();
+        const premiumEntitlement = customerInfo.entitlements.active['Premium'];
+        
+        if (premiumEntitlement) {
+          const expiryDate = new Date(premiumEntitlement.expirationDate);
+          const now = new Date();
+          const daysRemaining = Math.ceil((expiryDate - now) / (1000 * 60 * 60 * 24));
+          
+          return {
+            status: 'Premium',
+            statusColor: '#4CAF50',
+            isPremium: true,
+            expiryDate: expiryDate.toLocaleDateString(),
+            daysRemaining: daysRemaining > 0 ? daysRemaining : 0,
+            source: 'revenuecat'
+          };
+        }
+      } catch (rcError) {
+        console.log('[SubscriptionManager] RevenueCat check skipped:', rcError.message);
+      }
+
+      // 4. 친구 권한 (프로모 코드) 확인
+      const userEmail = await this.getUserEmail();
+      if (userEmail) {
+        const friendsList = await AdminManager.getFriendsList();
+        const friendData = friendsList[userEmail];
+        
+        if (friendData && friendData.granted) {
+          const expiryDate = new Date(friendData.expiryDate);
+          const now = new Date();
+          
+          if (now <= expiryDate) {
+            const daysRemaining = Math.ceil((expiryDate - now) / (1000 * 60 * 60 * 24));
+            
+            return {
+              status: 'Premium',
+              statusColor: '#4CAF50',
+              isPremium: true,
+              expiryDate: expiryDate.toLocaleDateString(),
+              daysRemaining: daysRemaining > 0 ? daysRemaining : 0,
+              source: 'promo_code'
+            };
+          }
+        }
+      }
+
+      // 5. Free 사용자
+      return {
+        status: 'Free',
+        statusColor: '#9E9E9E',
+        isPremium: false,
+        expiryDate: null,
+        daysRemaining: null,
+        source: 'free'
+      };
+    } catch (error) {
+      console.error('[SubscriptionManager] Error getting subscription details:', error);
+      return {
+        status: 'Free',
+        statusColor: '#9E9E9E',
+        isPremium: false,
+        expiryDate: null,
+        daysRemaining: null,
+        source: 'error'
+      };
     }
   }
 }

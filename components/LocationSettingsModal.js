@@ -9,7 +9,8 @@ import {
   Alert,
   ScrollView,
   FlatList,
-  Linking
+  Linking,
+  ActivityIndicator
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { theme } from '../styles/theme';
@@ -322,40 +323,44 @@ const LocationSettingsModal = ({ visible, onClose, onComplete }) => {
       return;
     }
 
-    const possibleStates = LocationManager.getStateFromZipCode(zipCode);
+    // 이미 선택된 주가 있으면 그 주의 정보 사용
+    console.log('selectedState:', selectedState, 'type:', typeof selectedState);
+    let stateCode = typeof selectedState === 'string' ? selectedState : selectedState?.code || selectedState;
     
-    if (possibleStates.length === 0) {
-      Alert.alert(t('location.error'), t('location.stateNotFound'));
-      return;
+    // 선택된 주가 없으면 ZIP 코드로 조회
+    if (!stateCode) {
+      const possibleStates = LocationManager.getStateFromZipCode(zipCode);
+      
+      if (possibleStates.length === 0) {
+        Alert.alert(t('location.error'), t('location.stateNotFound'));
+        return;
+      }
+
+      if (possibleStates.length > 1) {
+        Alert.alert(
+          t('location.multipleStatesTitle'),
+          t('location.multipleStatesFound', { zipCode, states: possibleStates.join(', ') })
+        );
+        return;
+      }
+
+      stateCode = possibleStates[0];
     }
 
-    if (possibleStates.length > 1) {
-      Alert.alert(
-        t('location.multipleStatesTitle'),
-        t('location.multipleStatesFound', { zipCode, states: possibleStates.join(', ') })
-      );
-      return;
-    }
-
-    const stateCode = possibleStates[0];
     const stateInfo = LocationManager.getStateInfo(stateCode);
     
-    if (stateInfo && stateInfo.senators) {
+    if (stateInfo && stateInfo.senators && stateInfo.senators.length >= 2) {
       setSenators([stateInfo.senators[0], stateInfo.senators[1]]);
       
       Alert.alert(
-        '자동 조회 성공',
-        `${stateInfo.name} 주의 상원의원 정보를 찾았습니다!
-
-• 첫 번째: ${stateInfo.senators[0]}
-• 두 번째: ${stateInfo.senators[1]}`
+        'Success',
+        `${stateInfo.name} senators found!\n\n• Senator 1: ${stateInfo.senators[0]}\n• Senator 2: ${stateInfo.senators[1]}`
       );
     } else {
+      const stateCodeStr = typeof stateCode === 'string' ? stateCode : (stateCode?.code || 'Unknown');
       Alert.alert(
-        '조회 결과 없음',
-        `${stateCode} 주의 상원의원 정보를 찾을 수 없습니다.
-
-수동으로 입력해주세요.`
+        'Not Found',
+        `Senator information for ${stateCodeStr} could not be found.\n\nPlease enter manually.`
       );
     }
   };
@@ -374,17 +379,33 @@ const LocationSettingsModal = ({ visible, onClose, onComplete }) => {
   };
 
   const handleRepresentativeAutoFill = async () => {
+    console.log('\n🔘 === Representative 자동 조회 버튼 클릭 ===');
+    console.log('현재 ZIP 코드:', zipCode);
+    console.log('ZIP 코드 길이:', zipCode?.length);
+    
     if (!zipCode || zipCode.length !== 5) {
+      console.log('❌ ZIP 코드 유효성 검사 실패');
       Alert.alert(t('location.error'), t('location.zipCodeError'));
       return;
     }
 
     try {
+      console.log('✅ ZIP 코드 유효성 검사 통과');
       setIsLoadingRepresentative(true);
+      console.log('⏳ 로딩 상태 시작');
       
-      console.log('LocationManager 호출 전, zipCode:', zipCode);
-      const representativeInfo = await LocationManager.getRepresentativeFromZip(zipCode);
-      console.log('LocationManager 호출 후');
+      // 선택된 주 확인
+      console.log('📍 선택된 주 확인:');
+      console.log('  - selectedState:', selectedState);
+      console.log('  - type:', typeof selectedState);
+      const stateCode = typeof selectedState === 'string' ? selectedState : selectedState?.code || selectedState;
+      console.log('  - 최종 stateCode:', stateCode);
+      
+      console.log('\n🚀 LocationManager.getRepresentativeFromZip() 호출');
+      console.log('  - zipCode:', zipCode);
+      console.log('  - stateCode:', stateCode);
+      const representativeInfo = await LocationManager.getRepresentativeFromZip(zipCode, stateCode);
+      console.log('✅ LocationManager 호출 완료');
       
       console.log('LocationSettingsModal에서 받은 데이터:', representativeInfo);
       console.log('representativeInfo type:', typeof representativeInfo);
@@ -407,19 +428,19 @@ const LocationSettingsModal = ({ visible, onClose, onComplete }) => {
           const apiAttribution = representativeInfo.source === 'api' ? '\n\n(Powered by whoismyrepresentative.com)' : '';
           
           Alert.alert(
-            '여러 하원의원 발견',
-            `ZIP 코드 ${zipCode}에는 여러 선거구가 걸쳐 있습니다:${apiAttribution}\n\n${repList}\n\n정확한 주소로 확인하시겠습니까?`,
+            'Multiple Representatives Found',
+            `ZIP code ${zipCode} spans multiple districts:${apiAttribution}\n\n${repList}\n\nWould you like to check with your exact address?`,
             [
               {
-                text: '정확한 주소로 확인하기',
+                text: 'Check with Address',
                 onPress: () => {
                   Alert.alert(
-                    '주소 기반 검색',
-                    '정확한 하원의원을 찾기 위해 공식 사이트에서 주소를 입력해주세요.\n\n검색 후 다시 돌아와서 아래에서 선택해주세요.',
+                    'Address-Based Search',
+                    'To find the correct representative, please enter your address on the official website.\n\nAfter searching, come back and select from the options below.',
                     [
-                      { text: '취소', style: 'cancel' },
+                      { text: 'Cancel', style: 'cancel' },
                       {
-                        text: '공식 사이트 열기',
+                        text: 'Open Official Site',
                         onPress: () => {
                           // house.gov 사이트 열기
                           const url = 'https://www.house.gov/representatives/find-your-representative';
@@ -440,7 +461,7 @@ const LocationSettingsModal = ({ visible, onClose, onComplete }) => {
                   setRepresentativeDistrict(rep.district);
                 }
               })),
-              { text: '취소', style: 'cancel' }
+              { text: 'Cancel', style: 'cancel' }
             ]
           );
         } else {
@@ -448,20 +469,18 @@ const LocationSettingsModal = ({ visible, onClose, onComplete }) => {
           setRepresentative(representativeInfo.name);
           setRepresentativeDistrict(representativeInfo.district);
           
-          const sourceText = representativeInfo.source === 'api' ? ' ✨ 실시간 조회' : '';
+          const sourceText = representativeInfo.source === 'api' ? ' ✨ Real-time lookup' : '';
           const apiAttribution = representativeInfo.source === 'api' ? '\n\n(Powered by whoismyrepresentative.com)' : '';
           
           Alert.alert(
-            '자동 조회 성공',
-            `하원의원 정보를 찾았습니다!${apiAttribution}\n\n• 이름: ${representativeInfo.name}\n• 선거구: ${representativeInfo.district}${sourceText}`
+            'Success',
+            `Representative information found!${apiAttribution}\n\n• Name: ${representativeInfo.name}\n• District: ${representativeInfo.district}${sourceText}`
           );
         }
       } else {
         Alert.alert(
-          '조회 결과 없음',
-          `ZIP 코드 ${zipCode}에 대한 하원의원 정보를 찾을 수 없습니다.
-
-수동으로 입력해주세요.`
+          'Not Found',
+          `Representative information for ZIP code ${zipCode} could not be found.\n\nPlease enter manually.`
         );
       }
     } catch (error) {
@@ -470,8 +489,8 @@ const LocationSettingsModal = ({ visible, onClose, onComplete }) => {
       console.error('Error stack:', error.stack);
       console.error('Error message:', error.message);
       Alert.alert(
-        '조회 오류',
-        `하원의원 정보 조회 중 오류가 발생했습니다:\n\n${error.message}\n\n수동으로 입력해주세요.`
+        'Lookup Error',
+        `An error occurred while looking up representative information:\n\n${error.message}\n\nPlease enter manually.`
       );
     }
   };
@@ -570,7 +589,7 @@ const LocationSettingsModal = ({ visible, onClose, onComplete }) => {
       />
       
       <TouchableOpacity
-        style={styles.backButton}
+        style={styles.singleBackButton}
         onPress={() => setStep(1)}
       >
         <Text style={styles.backButtonText}>{t('common.back')}</Text>
@@ -579,7 +598,10 @@ const LocationSettingsModal = ({ visible, onClose, onComplete }) => {
   );
 
   const renderStep3 = () => (
-    <ScrollView style={styles.stepContainer}>
+    <ScrollView 
+      style={styles.stepContainer}
+      contentContainerStyle={styles.stepContentContainer}
+    >
       <Text style={styles.stepTitle}>{t('location.additionalInfo')}</Text>
       <Text style={styles.stepDescription}>
         {t('location.enterPoliticianInfo', { stateName: selectedState?.name })}
@@ -646,13 +668,13 @@ const LocationSettingsModal = ({ visible, onClose, onComplete }) => {
           style={styles.textInput}
           value={senators[0]}
           onChangeText={(text) => setSenators([text, senators[1]])}
-          placeholder="첫 번째 상원의원 (예: Chuck Schumer)"
+          placeholder="First Senator (e.g., Chuck Schumer)"
         />
         <TextInput
           style={styles.textInput}
           value={senators[1]}
           onChangeText={(text) => setSenators([senators[0], text])}
-          placeholder="두 번째 상원의원 (예: Kirsten Gillibrand)"
+          placeholder="Second Senator (e.g., Kirsten Gillibrand)"
         />
         
         <Text style={styles.helpText}>
@@ -681,13 +703,13 @@ const LocationSettingsModal = ({ visible, onClose, onComplete }) => {
           style={styles.textInput}
           value={representative}
           onChangeText={setRepresentative}
-          placeholder="하원의원 이름 (예: Grace Meng)"
+          placeholder="Representative name (e.g., Grace Meng)"
         />
         <TextInput
           style={styles.textInput}
           value={representativeDistrict}
           onChangeText={setRepresentativeDistrict}
-          placeholder="선거구 (예: NY-6)"
+          placeholder="District (e.g., NY-6)"
         />
         
         <Text style={styles.helpText}>
@@ -700,7 +722,7 @@ const LocationSettingsModal = ({ visible, onClose, onComplete }) => {
           style={styles.backButton}
           onPress={() => setStep(2)}
         >
-          <Text style={styles.backButtonText}>뒤로</Text>
+          <Text style={styles.backButtonText}>{t('common.back')}</Text>
         </TouchableOpacity>
 
         <TouchableOpacity
@@ -731,6 +753,16 @@ const LocationSettingsModal = ({ visible, onClose, onComplete }) => {
         {step === 1 && renderStep1()}
         {step === 2 && renderStep2()}
         {step === 3 && renderStep3()}
+
+        {/* 로딩 오버레이 */}
+        {isLoadingRepresentative && (
+          <View style={styles.loadingOverlay}>
+            <View style={styles.loadingContainer}>
+              <ActivityIndicator size="large" color={theme.colors.primary} />
+              <Text style={styles.loadingText}>{t('location.loadingRepresentative')}</Text>
+            </View>
+          </View>
+        )}
       </View>
     </Modal>
   );
@@ -766,6 +798,10 @@ const styles = StyleSheet.create({
   stepContainer: {
     flex: 1,
     padding: theme.spacing.lg,
+  },
+  stepContentContainer: {
+    padding: theme.spacing.lg,
+    paddingBottom: 40, // 하단 여백 (버튼 높이 + 여유 공간)
   },
   stepTitle: {
     fontSize: theme.typography.sizes.xl,
@@ -893,13 +929,35 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: theme.spacing.md,
     marginRight: theme.spacing.sm,
-    backgroundColor: '#f8f9fa',
+    backgroundColor: '#e9ecef',
     borderRadius: theme.spacing.sm,
     alignItems: 'center',
+    borderWidth: 1,
+    borderColor: '#dee2e6',
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 1 },
+    shadowOpacity: 0.1,
+    shadowRadius: 2,
+    elevation: 2,
+  },
+  singleBackButton: {
+    padding: theme.spacing.md,
+    backgroundColor: '#e9ecef',
+    borderRadius: theme.spacing.sm,
+    alignItems: 'center',
+    borderWidth: 1,
+    borderColor: '#dee2e6',
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 1 },
+    shadowOpacity: 0.1,
+    shadowRadius: 2,
+    elevation: 2,
+    alignSelf: 'stretch',
   },
   backButtonText: {
-    color: theme.colors.textSecondary,
+    color: '#495057',
     fontSize: theme.typography.sizes.md,
+    fontWeight: theme.typography.weights.semibold,
   },
   completeButton: {
     flex: 1,
@@ -913,6 +971,34 @@ const styles = StyleSheet.create({
     color: 'white',
     fontSize: theme.typography.sizes.md,
     fontWeight: theme.typography.weights.semibold,
+  },
+  loadingOverlay: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
+    backgroundColor: 'rgba(0, 0, 0, 0.5)',
+    justifyContent: 'center',
+    alignItems: 'center',
+    zIndex: 1000,
+  },
+  loadingContainer: {
+    backgroundColor: 'white',
+    padding: theme.spacing.xl,
+    borderRadius: theme.spacing.md,
+    alignItems: 'center',
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.25,
+    shadowRadius: 4,
+    elevation: 5,
+  },
+  loadingText: {
+    marginTop: theme.spacing.md,
+    fontSize: theme.typography.sizes.md,
+    color: theme.colors.text,
+    fontWeight: theme.typography.weights.medium,
   },
 });
 

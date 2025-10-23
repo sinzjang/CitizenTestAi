@@ -8,6 +8,77 @@
     "selectLanguageDescription": "Por favor seleccione su idioma preferido para continuar.",
     "canChangeInSettings": "Puede cambiar esto más tarde en la configuración."
   },
+  "interviewDate": {
+    "title": "Fecha de Entrevista",
+    "subtitle": "¿Cuándo es su entrevista de ciudadanía?",
+    "month": "Mes",
+    "day": "Día",
+    "year": "Año",
+    "save": "Guardar",
+    "skip": "Omitir",
+    "canUpdateLater": "Puede actualizar esto más tarde en Recursos y Configuración.",
+    "sectionTitle": "Fecha de Entrevista",
+    "sectionDescription": "Configure la fecha de su entrevista de ciudadanía para seguir su progreso de preparación.",
+    "studyStartDate": "Fecha de Inicio de Estudio",
+    "currentDate": "Fecha de Entrevista",
+    "notSet": "No configurado"
+  },
+  "studyCalendar": {
+    "title": "Calendario de Estudio",
+    "infoMessage": "Puede configurar su fecha de entrevista en Configuración",
+    "dailyProgress": "Progreso Diario",
+    "noActivity": "No hay actividad de estudio en este día",
+    "learn": "Aprender",
+    "reviewFlashcard": "Repasar Tarjetas",
+    "aiTutor": "Tutor IA",
+    "mockInterview": "Entrevista Simulada",
+    "completed": "Completado",
+    "notStarted": "No iniciado",
+    "questions": "Preguntas",
+    "minutes": "Minutos",
+    "interview": "Entrevista",
+    "interviews": "Entrevistas",
+    "dailyGoals": {
+      "title": "Objetivos Diarios",
+      "description": "¡Complete UNO de estos objetivos para ganar su sello diario 🔥!",
+      "learn": "Aprender",
+      "learnRequirement": "Abrir cualquier modo de aprendizaje",
+      "reviewFlashcard": "Repasar Tarjetas",
+      "reviewRequirement": "Repasar 20+ tarjetas",
+      "aiTutor": "Tutor IA",
+      "aiTutorRequirement": "Chatear por 5+ minutos",
+      "mockInterview": "Entrevista Simulada",
+      "mockInterviewRequirement": "Completar 1 entrevista",
+      "fireInfo": "Complete cualquier objetivo para ganar un ícono 🔥 en ese día",
+      "tapDateInfo": "Toque cualquier fecha para ver su progreso detallado de ese día",
+      "settingsInfo": "Configure su fecha de entrevista en Configuración (toque el ícono ⚙️)",
+      "gotIt": "¡Entendido!"
+    },
+    "weekDays": {
+      "sun": "Dom",
+      "mon": "Lun",
+      "tue": "Mar",
+      "wed": "Mié",
+      "thu": "Jue",
+      "fri": "Vie",
+      "sat": "Sáb"
+    }
+  },
+  "subscription": {
+    "statusTitle": "Estado de Suscripción",
+    "statusDescription": "Ver el estado actual de su suscripción y administrar códigos promocionales",
+    "status": "Estado",
+    "expiresOn": "Expira el",
+    "daysRemaining": "Restante",
+    "days": "días",
+    "enterPromoCode": "Ingresar Código Promocional",
+    "promoCodeTitle": "Código Promocional",
+    "promoCodeDescription": "Ingrese su código promocional para activar funciones premium",
+    "redeem": "Canjear",
+    "success": "Éxito",
+    "error": "Error",
+    "redeemError": "Error al canjear el código promocional. Inténtelo de nuevo."
+  },
   "common": {
     "cancel": "Cancelar",
     "confirm": "Confirmar",
@@ -93,7 +164,9 @@
     },
     "test": {
       "title": "Prueba",
-      "subtitle": "Verifica tu conocimiento con pruebas"
+      "subtitle": "Verifica tu conocimiento con pruebas",
+      "testAnalytics": "Análisis de Pruebas",
+      "testAnalyticsSubtitle": "Ver estadísticas y progreso de pruebas"
     },
     "aiMockInterview": {
       "title": "Entrevista Simulada IA",
@@ -125,7 +198,7 @@
     }
   },
   "resources": {
-    "title": "Configuración de Idioma y Ubicación",
+    "title": "Configuración",
     "locationSettings": "Configuración de Ubicación",
     "locationDescription": "Configure la información de su área residencial para las preguntas de la entrevista de ciudadanía que tienen diferentes respuestas por estado.",
     "selectedState": "Estado Seleccionado",

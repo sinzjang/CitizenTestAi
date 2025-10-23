@@ -8,6 +8,77 @@
     "selectLanguageDescription": "Vui lòng chọn ngôn ngữ ưa thích của bạn để tiếp tục.",
     "canChangeInSettings": "Bạn có thể thay đổi điều này sau trong cài đặt."
   },
+  "interviewDate": {
+    "title": "Ngày Phỏng vấn",
+    "subtitle": "Phỏng vấn công dân của bạn là khi nào?",
+    "month": "Tháng",
+    "day": "Ngày",
+    "year": "Năm",
+    "save": "Lưu",
+    "skip": "Bỏ qua",
+    "canUpdateLater": "Bạn có thể cập nhật sau trong Tài nguyên & Cài đặt.",
+    "sectionTitle": "Ngày Phỏng vấn",
+    "sectionDescription": "Đặt ngày phỏng vấn công dân để theo dõi tiến độ chuẩn bị.",
+    "studyStartDate": "Ngày Bắt đầu Học",
+    "currentDate": "Ngày Phỏng vấn",
+    "notSet": "Chưa đặt"
+  },
+  "studyCalendar": {
+    "title": "Lịch Học tập",
+    "infoMessage": "Bạn có thể đặt ngày phỏng vấn trong Cài đặt",
+    "dailyProgress": "Tiến độ Hàng ngày",
+    "noActivity": "Không có hoạt động học tập trong ngày này",
+    "learn": "Học",
+    "reviewFlashcard": "Ôn tập Thẻ ghi nhớ",
+    "aiTutor": "Gia sư AI",
+    "mockInterview": "Phỏng vấn Thử",
+    "completed": "Đã hoàn thành",
+    "notStarted": "Chưa bắt đầu",
+    "questions": "Câu hỏi",
+    "minutes": "Phút",
+    "interview": "Phỏng vấn",
+    "interviews": "Phỏng vấn",
+    "dailyGoals": {
+      "title": "Mục tiêu Hàng ngày",
+      "description": "Hoàn thành MỘT trong các mục tiêu này để nhận dấu 🔥 hàng ngày!",
+      "learn": "Học",
+      "learnRequirement": "Mở bất kỳ chế độ học nào",
+      "reviewFlashcard": "Ôn tập Thẻ ghi nhớ",
+      "reviewRequirement": "Ôn tập 20+ thẻ",
+      "aiTutor": "Gia sư AI",
+      "aiTutorRequirement": "Trò chuyện 5+ phút",
+      "mockInterview": "Phỏng vấn Thử",
+      "mockInterviewRequirement": "Hoàn thành 1 phỏng vấn",
+      "fireInfo": "Hoàn thành bất kỳ mục tiêu nào để nhận biểu tượng 🔥 trong ngày đó",
+      "tapDateInfo": "Nhấn vào bất kỳ ngày nào để xem tiến độ chi tiết của ngày đó",
+      "settingsInfo": "Đặt ngày phỏng vấn trong Cài đặt (nhấn biểu tượng ⚙️)",
+      "gotIt": "Đã hiểu!"
+    },
+    "weekDays": {
+      "sun": "CN",
+      "mon": "T2",
+      "tue": "T3",
+      "wed": "T4",
+      "thu": "T5",
+      "fri": "T6",
+      "sat": "T7"
+    }
+  },
+  "subscription": {
+    "statusTitle": "Trạng thái Đăng ký",
+    "statusDescription": "Xem trạng thái đăng ký hiện tại và quản lý mã khuyến mãi",
+    "status": "Trạng thái",
+    "expiresOn": "Hết hạn vào",
+    "daysRemaining": "Còn lại",
+    "days": "ngày",
+    "enterPromoCode": "Nhập Mã Khuyến Mãi",
+    "promoCodeTitle": "Mã Khuyến Mãi",
+    "promoCodeDescription": "Nhập mã khuyến mãi để kích hoạt tính năng cao cấp",
+    "redeem": "Đổi",
+    "success": "Thành công",
+    "error": "Lỗi",
+    "redeemError": "Không thể đổi mã khuyến mãi. Vui lòng thử lại."
+  },
   "common": {
     "cancel": "Hủy",
     "confirm": "Xác nhận",
@@ -72,7 +143,9 @@
     },
     "test": {
       "title": "Kiểm tra",
-      "subtitle": "Kiểm tra kiến thức của bạn"
+      "subtitle": "Kiểm tra kiến thức của bạn",
+      "testAnalytics": "Phân tích Kiểm tra",
+      "testAnalyticsSubtitle": "Xem thống kê và tiến độ kiểm tra"
     },
     "aiMockInterview": {
       "title": "Phỏng vấn Giả lập AI",
@@ -115,7 +188,7 @@
     "additionalInfoRequired": "Để có câu trả lời chính xác hơn, vui lòng thiết lập thông tin {missingInfo} trong Tài nguyên & Cài đặt."
   },
   "resources": {
-    "title": "Cài đặt Ngôn ngữ và Vị trí",
+    "title": "Cài đặt",
     "locationSettings": "Cài đặt Vị trí",
     "locationDescription": "Thiết lập thông tin khu vực cư trú của bạn cho các câu hỏi phỏng vấn quyền công dân có câu trả lời khác nhau theo bang.",
     "selectedState": "Bang Đã Chọn",

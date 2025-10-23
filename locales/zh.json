@@ -8,6 +8,77 @@
     "selectLanguageDescription": "请选择您的首选语言以继续。",
     "canChangeInSettings": "您可以在设置中更改。"
   },
+  "interviewDate": {
+    "title": "面试日期",
+    "subtitle": "您的公民身份面试是什么时候？",
+    "month": "月",
+    "day": "日",
+    "year": "年",
+    "save": "保存",
+    "skip": "跳过",
+    "canUpdateLater": "您可以稍后在资源和设置中更新。",
+    "sectionTitle": "面试日期",
+    "sectionDescription": "设置您的公民身份面试日期以跟踪准备进度。",
+    "studyStartDate": "学习开始日期",
+    "currentDate": "面试日期",
+    "notSet": "未设置"
+  },
+  "studyCalendar": {
+    "title": "学习日历",
+    "infoMessage": "您可以在设置中设置面试日期",
+    "dailyProgress": "每日进度",
+    "noActivity": "这一天没有学习活动",
+    "learn": "学习",
+    "reviewFlashcard": "复习卡片",
+    "aiTutor": "AI导师",
+    "mockInterview": "模拟面试",
+    "completed": "已完成",
+    "notStarted": "未开始",
+    "questions": "问题",
+    "minutes": "分钟",
+    "interview": "面试",
+    "interviews": "面试",
+    "dailyGoals": {
+      "title": "每日目标",
+      "description": "完成任何一个目标即可获得每日🔥印章！",
+      "learn": "学习",
+      "learnRequirement": "打开任何学习模式",
+      "reviewFlashcard": "复习卡片",
+      "reviewRequirement": "复习20+张卡片",
+      "aiTutor": "AI导师",
+      "aiTutorRequirement": "聊天5+分钟",
+      "mockInterview": "模拟面试",
+      "mockInterviewRequirement": "完成1次面试",
+      "fireInfo": "完成任何目标即可在当天获得🔥图标",
+      "tapDateInfo": "点击任何日期查看当天的详细进度",
+      "settingsInfo": "在设置中设置面试日期（点击⚙️图标）",
+      "gotIt": "知道了！"
+    },
+    "weekDays": {
+      "sun": "周日",
+      "mon": "周一",
+      "tue": "周二",
+      "wed": "周三",
+      "thu": "周四",
+      "fri": "周五",
+      "sat": "周六"
+    }
+  },
+  "subscription": {
+    "statusTitle": "订阅状态",
+    "statusDescription": "查看当前订阅状态并管理促销代码",
+    "status": "状态",
+    "expiresOn": "到期日",
+    "daysRemaining": "剩余",
+    "days": "天",
+    "enterPromoCode": "输入促销代码",
+    "promoCodeTitle": "促销代码",
+    "promoCodeDescription": "输入促销代码以激活高级功能",
+    "redeem": "兑换",
+    "success": "成功",
+    "error": "错误",
+    "redeemError": "兑换促销代码失败。请重试。"
+  },
   "common": {
     "cancel": "取消",
     "confirm": "确认",
@@ -93,7 +164,9 @@
     },
     "test": {
       "title": "测试",
-      "subtitle": "通过测试检查您的知识"
+      "subtitle": "通过测试检查您的知识",
+      "testAnalytics": "测试分析",
+      "testAnalyticsSubtitle": "查看测试统计和进度"
     },
     "aiMockInterview": {
       "title": "AI模拟面试",
@@ -136,7 +209,7 @@
     "additionalInfoRequired": "为了获得更准确的答案，请在资源和设置中设置{missingInfo}信息。"
   },
   "resources": {
-    "title": "语言和地区设置",
+    "title": "设置",
     "locationSettings": "位置设置",
     "locationDescription": "为不同州有不同答案的公民面试问题设置您的居住地区信息。",
     "selectedState": "已选择的州",
