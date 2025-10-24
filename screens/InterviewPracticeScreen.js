@@ -19,6 +19,7 @@ import { PremiumGate } from '../components/PremiumGate';
 import LocationManager from '../utils/locationManager';
 import LocationSettingsModal from '../components/LocationSettingsModal';
 import { t, addLanguageChangeListener, removeLanguageChangeListener } from '../utils/i18n';
+import StudyCalendar from '../components/StudyCalendar';
 
 const InterviewPracticeScreen = ({ navigation }) => {
   const [isPremium, setIsPremium] = useState(false);
@@ -79,6 +80,11 @@ const InterviewPracticeScreen = ({ navigation }) => {
         
         // 프로그레스 계산
         calculateProgress(startDate, savedDate);
+      } else {
+        // 날짜가 없으면 상태를 null로 설정
+        setInterviewDate(null);
+        setStudyStartDate(null);
+        setProgressPercentage(0);
       }
     } catch (error) {
       console.error('인터뷰 날짜 로드 오류:', error);
@@ -381,19 +387,25 @@ const InterviewPracticeScreen = ({ navigation }) => {
           </Text>
         </View>
 
-        {/* Interview Timeline Banner */}
-        {interviewDate && (
-          <TouchableOpacity 
-            style={styles.timelineBanner}
-            onPress={() => navigation.navigate('StudyCalendar')}
-            activeOpacity={0.7}
-          >
-            <Ionicons 
-              name="calendar-outline" 
-              size={16} 
-              color="#2E86AB" 
-              style={styles.calendarIcon}
-            />
+        {/* Interview Timeline Banner or Set Date Prompt */}
+        <TouchableOpacity 
+          style={[styles.timelineBanner, !interviewDate && styles.setDateBanner]}
+          onPress={() => {
+            if (interviewDate) {
+              navigation.navigate('StudyCalendar');
+            } else {
+              navigation.navigate('Resources');
+            }
+          }}
+          activeOpacity={0.7}
+        >
+          <Ionicons 
+            name="calendar-outline" 
+            size={16} 
+            color="#2E86AB" 
+            style={styles.calendarIcon}
+          />
+          {interviewDate ? (
             <View style={styles.timelineContent}>
               <View style={styles.timelineLabels}>
                 <Text style={styles.timelineLabel}>Start</Text>
@@ -450,8 +462,18 @@ const InterviewPracticeScreen = ({ navigation }) => {
                 })()}
               </Text>
             </View>
-          </TouchableOpacity>
-        )}
+          ) : (
+            <View style={styles.setDateContent}>
+              <Text style={styles.setDateTitle}>📅 Set Your Interview Date</Text>
+              <Text style={styles.setDateSubtitle}>
+                Track your progress and stay motivated!
+              </Text>
+              <View style={styles.setDateArrow}>
+                <Ionicons name="chevron-forward" size={20} color="#2E86AB" />
+              </View>
+            </View>
+          )}
+        </TouchableOpacity>
 
         {menuItems.map(renderMenuItem)}
 
@@ -710,6 +732,29 @@ const styles = StyleSheet.create({
     fontStyle: 'italic',
     marginTop: theme.spacing.xs,
     lineHeight: 20,
+  },
+  setDateBanner: {
+    backgroundColor: '#E3F2FD',
+    borderColor: '#2E86AB',
+    borderWidth: 2,
+  },
+  setDateContent: {
+    alignItems: 'center',
+    paddingVertical: theme.spacing.sm,
+  },
+  setDateTitle: {
+    fontSize: theme.typography.sizes.lg,
+    fontWeight: theme.typography.weights.bold,
+    color: '#2E86AB',
+    marginBottom: theme.spacing.xs,
+  },
+  setDateSubtitle: {
+    fontSize: theme.typography.sizes.sm,
+    color: theme.colors.text.secondary,
+    textAlign: 'center',
+  },
+  setDateArrow: {
+    marginTop: theme.spacing.xs,
   },
 });
 

@@ -234,6 +234,12 @@ const ResourcesScreen = ({ navigation }) => {
           onPress: async () => {
             await LocationManager.clearUserLocation();
             setUserLocation(null);
+            // Interview 날짜와 학습 시작 날짜도 삭제
+            await AsyncStorage.removeItem('@interview_date');
+            await AsyncStorage.removeItem('@study_start_date');
+            // 상태 업데이트
+            setInterviewDate(null);
+            setStudyStartDate(null);
             Alert.alert(t('resources.complete'), t('resources.allSettingsDeleted'));
           }
         }
