@@ -1,7 +1,0 @@
-CONNECTED(00000005)
----
-Certificate chain
- 0 s:CN=gradle.org
-   i:C=US, O=Google Trust Services, CN=WE1
-   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA256
-   v:NotBefore: Sep 22 00:57:49 2025 GMT; NotAfter: Dec 21 01:57:33 2025 GMT

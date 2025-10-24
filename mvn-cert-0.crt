@@ -1,7 +1,0 @@
-CONNECTED(00000005)
----
-Certificate chain
- 0 s:CN=repo.maven.apache.org
-   i:C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q3
-   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
-   v:NotBefore: Aug 22 18:01:13 2025 GMT; NotAfter: Sep 23 18:01:12 2026 GMT
