@@ -4,7 +4,7 @@ import { AdminManager } from './adminManager';
 
 export class PromoCodeManager {
   // Admin 패스워드 (AdminManager와 동일)
-  static ADMIN_PASSWORD = 'CitizenAI2025!';
+  static ADMIN_PASSWORD = 'CITIZENAI2025!';
   
   // 유효한 프로모 코드 목록
   static VALID_CODES = {

@@ -14,7 +14,7 @@ export class AdminManager {
 
   // 관리자 모드 활성화 (개발자 전용)
   static async enableAdminMode(password) {
-    const ADMIN_PASSWORD = 'CitizenAI2025!'; // 보안을 위해 복잡한 비밀번호 설정
+    const ADMIN_PASSWORD = 'CITIZENAI2025!'; // 보안을 위해 복잡한 비밀번호 설정
     
     if (password === ADMIN_PASSWORD) {
       await AsyncStorage.setItem('admin_mode', 'true');
