@@ -17,6 +17,7 @@ import { useInterstitialAd } from '../components/AdInterstitial';
 import QuestionLoader from '../utils/questionLoader';
 import LocationManager from '../utils/locationManager';
 import { getCurrentLanguage, t, addLanguageChangeListener, removeLanguageChangeListener } from '../utils/i18n';
+import StudyTracker from '../utils/studyTracker';
 const FlashcardMode = ({ navigation, route }) => {
   const [questions, setQuestions] = useState([]);
   const [englishQuestions, setEnglishQuestions] = useState([]);
@@ -430,6 +431,8 @@ const FlashcardMode = ({ navigation, route }) => {
       newIncorrectAnswers.add(currentQuestion.id);
       setIncorrectAnswers(newIncorrectAnswers);
     }
+    // Daily Progress: flashcards +1
+    try { StudyTracker.recordActivity('flashcards', 1); } catch (e) {}
     
     // 답변 카운터 증가 및 광고 표시 로직
     const newAnsweredCount = questionsAnswered + 1;

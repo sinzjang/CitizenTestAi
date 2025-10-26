@@ -23,10 +23,15 @@ export class PromoCodeManager {
           return { success: false, message: 'Admin mode already activated' };
         }
         
+        // Admin 모드 활성화
         await AsyncStorage.setItem('admin_mode', 'true');
+        
+        // 프리미엄 권한도 함께 부여 (영구)
+        await AdminManager.grantPremiumAccess(userEmail, 36500); // 100년
+        
         return {
           success: true,
-          message: 'Admin access activated!',
+          message: 'Admin access activated! Premium unlocked.',
           type: 'admin'
         };
       }

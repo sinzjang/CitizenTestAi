@@ -15,6 +15,7 @@ import { Ionicons } from '@expo/vector-icons';
 import QuestionLoader from '../utils/questionLoader';
 import LocationManager from '../utils/locationManager';
 import { getCurrentLanguage, t, addLanguageChangeListener, removeLanguageChangeListener } from '../utils/i18n';
+import StudyTracker from '../utils/studyTracker';
 
 const FlashcardSubjectiveMode = ({ navigation, route }) => {
   const [questions, setQuestions] = useState([]);
@@ -284,7 +285,15 @@ const FlashcardSubjectiveMode = ({ navigation, route }) => {
     setShowAnswer(true);
     const currentQuestionId = questions[currentIndex]?.id;
     if (currentQuestionId) {
-      setViewedQuestions(prev => new Set([...prev, currentQuestionId]));
+      setViewedQuestions(prev => {
+        const already = prev.has(currentQuestionId);
+        const next = new Set([...prev, currentQuestionId]);
+        // Daily Progress: flashcards +1 (only first time for this card)
+        if (!already) {
+          try { StudyTracker.recordActivity('flashcards', 1); } catch (e) {}
+        }
+        return next;
+      });
     }
   };
 

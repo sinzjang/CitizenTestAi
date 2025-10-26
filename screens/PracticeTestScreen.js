@@ -20,6 +20,7 @@ import { saveIncorrectQuestion } from '../utils/progressTracker';
 import QuestionLoader from '../utils/questionLoader';
 import { t } from '../utils/i18n';
 import { recordQuestionAttempt, recordTestCompletion } from '../utils/progressTracker';
+import StudyTracker from '../utils/studyTracker';
 
 const PracticeTestScreen = ({ navigation, route }) => {
   const { mode, title, userAccuracy, questionCount } = route.params || {};
@@ -192,6 +193,8 @@ const PracticeTestScreen = ({ navigation, route }) => {
       
       // 통계 기록
       recordQuestionAttempt(currentQuestion.id, false, responseTime, 'practice');
+      // Daily Progress: questions +1
+      try { StudyTracker.recordActivity('questions', 1); } catch (e) {}
       
       const result = {
         question: currentQuestion.question,
@@ -305,6 +308,8 @@ const PracticeTestScreen = ({ navigation, route }) => {
     
     // 통계 기록
     recordQuestionAttempt(currentQuestion.id, isCorrect, responseTime, 'practice');
+    // Daily Progress: questions +1
+    try { StudyTracker.recordActivity('questions', 1); } catch (e) {}
     
     if (isCorrect) {
       setCorrectAnswers(prev => prev + 1);

@@ -50,25 +50,32 @@ const StudyCalendar = () => {
       const streakData = await AsyncStorage.getItem('@study_streaks');
       
       if (data) {
-        setStudyData(JSON.parse(data));
-      } else {
-        // 테스트: 오늘 날짜에 스탬프 추가
+        const parsed = JSON.parse(data);
+        // 오늘 날짜 데이터는 무조건 제거하여 더미 히스토리 표시를 방지
         const today = new Date();
         const todayKey = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
-        const testData = {
-          [todayKey]: {
-            completed: true,
-            activities: {
-              questions: 15,
-              flashcards: 25,
-              aiTutorMinutes: 8,
-              mockInterviews: 1,
-            }
-          }
-        };
-        setStudyData(testData);
-        // AsyncStorage에도 저장
-        await AsyncStorage.setItem('@study_calendar', JSON.stringify(testData));
+        if (parsed[todayKey]) {
+          delete parsed[todayKey];
+        }
+        // 모든 날짜에 대해 더미 패턴(예: 25/8/1 조합)을 일괄 제거
+        const keys = Object.keys(parsed);
+        let removed = false;
+        for (const k of keys) {
+          const e = parsed[k];
+          const a = e?.activities || {};
+          const isDummy = (
+            (a.aiTutorMinutes === 8 && a.mockInterviews === 1 && (a.flashcards === 25 || a.questions === 25 || a.questions === 15)) ||
+            (e?.completed === true && a.questions === 25 && a.aiTutorMinutes === 8 && a.mockInterviews === 1)
+          );
+          if (isDummy) { delete parsed[k]; removed = true; }
+        }
+        if (removed || parsed[todayKey] === undefined) {
+          await AsyncStorage.setItem('@study_calendar', JSON.stringify(parsed));
+        }
+        setStudyData(parsed);
+      } else {
+        // 더미 생성 없이 빈 데이터로 시작
+        setStudyData({});
       }
       
       if (streakData) {
@@ -160,9 +167,10 @@ const StudyCalendar = () => {
   const handleDatePress = (day) => {
     const dateKey = getDateKey(day);
     const data = studyData[dateKey];
-    
+    const today = isToday(day);
+    // 오늘 날짜는 어떤 더미/실데이터라도 상세 표시를 억제
     setSelectedDate(day);
-    setSelectedDateData(data || null);
+    setSelectedDateData(today ? null : (data || null));
   };
 
   // 특정 날짜가 시작 날짜인지 확인
@@ -190,8 +198,9 @@ const StudyCalendar = () => {
     }
 
     const dateKey = getDateKey(day);
-    const hasStamp = studyData[dateKey]?.completed || false;
     const today = isToday(day);
+    // 오늘 날짜에는 스탬프를 표시하지 않음
+    const hasStamp = !today && (studyData[dateKey]?.completed || false);
     const future = isFuture(day);
     const isSelected = selectedDate === day;
     const isStart = isStartDate(day);

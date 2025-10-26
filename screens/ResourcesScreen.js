@@ -8,7 +8,8 @@ import {
   Alert,
   Modal,
   FlatList,
-  TextInput
+  TextInput,
+  Image
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import AsyncStorage from '@react-native-async-storage/async-storage';
@@ -135,6 +136,12 @@ const ResourcesScreen = ({ navigation }) => {
           result.message
         );
         setShowPromoCodeModal(false);
+        
+        // Admin 모드 활성화인 경우 프리미엄 상태 즉시 업데이트
+        if (result.type === 'admin') {
+          setIsPremium(true);
+        }
+        
         // 구독 상태 새로고침
         await loadSubscriptionDetails();
       } else {
@@ -523,50 +530,138 @@ const ResourcesScreen = ({ navigation }) => {
         </View>
 
 
-        {/* Subscription Status Section */}
-        <View style={styles.section}>
-          <View style={styles.sectionTitleRow}>
-            <Text style={styles.sectionTitle}>{t('subscription.statusTitle')}</Text>
-            <TouchableOpacity
-              style={styles.refreshButton}
-              onPress={handleRestorePurchases}
-            >
-              <Ionicons name="refresh" size={24} color="#2E86AB" />
-            </TouchableOpacity>
+        {/* Premium Subscription Section - Modern Design */}
+        <View style={styles.premiumSection}>
+          {/* Hero Image */}
+          <View style={styles.heroImageContainer}>
+            <Image 
+              source={require('../assets/imgs/Amarica_want_you_with_bg.jpg')}
+              style={styles.heroImage}
+              resizeMode="cover"
+            />
+            <View style={styles.heroOverlay}>
+              <Text style={styles.heroTextAmerica}>AMERICA</Text>
+              <View style={styles.heroTextRow}>
+                <Text style={styles.heroTextWants}>WANTS </Text>
+                <Text style={styles.heroTextYou}>YOU</Text>
+              </View>
+            </View>
           </View>
-          
+
+          {/* Tagline */}
+          <Text style={styles.tagline}>"We support your success in Citizenship Interview"</Text>
+
+          {/* Premium Features */}
+          <View style={styles.featuresContainer}>
+            <Text style={styles.featuresTitle}>Premium Features</Text>
+            
+            <View style={styles.featureItem}>
+              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
+              <View style={styles.featureTextContainer}>
+                <Text style={styles.featureTitle}>Effective Memorization</Text>
+                <Text style={styles.featureDescription}>Random flashcards for better retention</Text>
+              </View>
+            </View>
+
+            <View style={styles.featureItem}>
+              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
+              <View style={styles.featureTextContainer}>
+                <Text style={styles.featureTitle}>Driving Mode</Text>
+                <Text style={styles.featureDescription}>Hands-free learning while commuting</Text>
+              </View>
+            </View>
+
+            <View style={styles.featureItem}>
+              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
+              <View style={styles.featureTextContainer}>
+                <Text style={styles.featureTitle}>AI Interview Practice</Text>
+                <Text style={styles.featureDescription}>Real-time conversation with AI interviewer</Text>
+              </View>
+            </View>
+
+            <View style={styles.featureItem}>
+              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
+              <View style={styles.featureTextContainer}>
+                <Text style={styles.featureTitle}>Weakness Quiz Management</Text>
+                <Text style={styles.featureDescription}>Focus on questions you struggle with</Text>
+              </View>
+            </View>
+
+            <View style={styles.featureItem}>
+              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
+              <View style={styles.featureTextContainer}>
+                <Text style={styles.featureTitle}>Ad-Free Experience</Text>
+                <Text style={styles.featureDescription}>Uninterrupted learning sessions</Text>
+              </View>
+            </View>
+
+            <View style={styles.featureItem}>
+              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
+              <View style={styles.featureTextContainer}>
+                <Text style={styles.featureTitle}>Story Mode</Text>
+                <Text style={styles.featureDescription}>Learn through engaging narratives</Text>
+              </View>
+            </View>
+
+            <View style={styles.featureItem}>
+              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
+              <View style={styles.featureTextContainer}>
+                <Text style={styles.featureTitle}>Progress Tracking</Text>
+                <Text style={styles.featureDescription}>Monitor your preparation journey</Text>
+              </View>
+            </View>
+
+            <View style={styles.featureItem}>
+              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
+              <View style={styles.featureTextContainer}>
+                <Text style={styles.featureTitle}>Offline Access</Text>
+                <Text style={styles.featureDescription}>Study anytime, anywhere</Text>
+              </View>
+            </View>
+          </View>
+
+          {/* AI Cost Notice */}
+          <View style={styles.aiCostNotice}>
+            <Ionicons name="information-circle" size={20} color="#2E86AB" />
+            <Text style={styles.aiCostText}>
+              💡 The developer covers all AI usage costs (OpenAI API) for premium members. Your support helps maintain this service.
+            </Text>
+          </View>
+
+          {/* Current Status */}
           {subscriptionDetails && (
-            <View style={styles.updatedInfoContainer}>
-              <View style={styles.infoItem}>
-                <Text style={styles.infoItemLabel}>{t('subscription.status')}:</Text>
+            <View style={styles.statusContainer}>
+              <View style={styles.statusRow}>
+                <Text style={styles.statusLabel}>Current Status:</Text>
                 <View style={[styles.statusBadge, { backgroundColor: subscriptionDetails.statusColor }]}>
                   <Text style={styles.statusBadgeText}>{subscriptionDetails.status}</Text>
                 </View>
               </View>
               
               {subscriptionDetails.expiryDate && (
-                <>
-                  <View style={styles.infoItem}>
-                    <Text style={styles.infoItemLabel}>{t('subscription.expiresOn')}:</Text>
-                    <Text style={styles.infoItemValue}>{subscriptionDetails.expiryDate}</Text>
-                  </View>
-                  <View style={[styles.infoItem, styles.lastInfoItem]}>
-                    <Text style={styles.infoItemLabel}>{t('subscription.daysRemaining')}:</Text>
-                    <Text style={styles.infoItemValue}>{subscriptionDetails.daysRemaining}</Text>
-                  </View>
-                </>
+                <View style={styles.statusDetails}>
+                  <Text style={styles.statusDetailText}>Expires: {subscriptionDetails.expiryDate}</Text>
+                  <Text style={styles.statusDetailText}>Days remaining: {subscriptionDetails.daysRemaining}</Text>
+                </View>
               )}
             </View>
           )}
 
-          {/* Promo Code Button */}
+          {/* Action Buttons */}
           <TouchableOpacity
             style={styles.promoCodeButton}
             onPress={() => setShowPromoCodeModal(true)}
           >
-            <Ionicons name="ticket" size={24} color="#2E86AB" />
-            <Text style={styles.promoCodeButtonText}>{t('subscription.enterPromoCode')}</Text>
-            <Ionicons name="chevron-forward" size={20} color="#666" />
+            <Ionicons name="ticket" size={24} color="#fff" />
+            <Text style={styles.promoCodeButtonText}>Enter Promo Code</Text>
+          </TouchableOpacity>
+
+          <TouchableOpacity
+            style={styles.restoreButton}
+            onPress={handleRestorePurchases}
+          >
+            <Ionicons name="refresh" size={20} color="#2E86AB" />
+            <Text style={styles.restoreButtonText}>Restore Purchases</Text>
           </TouchableOpacity>
         </View>
 
@@ -1104,18 +1199,23 @@ const styles = StyleSheet.create({
   promoCodeButton: {
     flexDirection: 'row',
     alignItems: 'center',
-    padding: theme.spacing.lg,
-    backgroundColor: theme.colors.card,
-    borderRadius: theme.spacing.md,
-    borderWidth: 1,
-    borderColor: theme.colors.border,
+    justifyContent: 'center',
+    backgroundColor: '#2E86AB',
+    paddingVertical: 16,
+    marginHorizontal: 20,
+    marginBottom: 12,
+    borderRadius: 12,
+    shadowColor: '#2E86AB',
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.3,
+    shadowRadius: 8,
+    elevation: 4,
   },
   promoCodeButtonText: {
-    flex: 1,
-    fontSize: theme.typography.sizes.md,
-    fontWeight: theme.typography.weights.semibold,
-    color: theme.colors.text,
-    marginLeft: theme.spacing.md,
+    fontSize: 16,
+    fontWeight: '700',
+    color: '#fff',
+    marginLeft: 8,
   },
   editableValueContainer: {
     flexDirection: 'row',
@@ -1150,6 +1250,178 @@ const styles = StyleSheet.create({
     fontSize: theme.typography.sizes.md,
     color: theme.colors.text,
     lineHeight: 24,
+  },
+  // Premium Section Styles
+  premiumSection: {
+    marginTop: theme.spacing.lg,
+    marginBottom: theme.spacing.xl,
+    backgroundColor: '#fff',
+    borderRadius: 16,
+    overflow: 'hidden',
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.1,
+    shadowRadius: 12,
+    elevation: 5,
+  },
+  heroImageContainer: {
+    width: '100%',
+    height: 200,
+    position: 'relative',
+  },
+  heroImage: {
+    width: '100%',
+    height: '100%',
+  },
+  heroOverlay: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: 'rgba(0, 0, 0, 0.3)',
+  },
+  heroTextAmerica: {
+    fontSize: 36,
+    fontWeight: '900',
+    color: '#001f3f',
+    letterSpacing: 2,
+    textShadowColor: 'rgba(255, 255, 255, 0.8)',
+    textShadowOffset: { width: 0, height: 0 },
+    textShadowRadius: 10,
+  },
+  heroTextRow: {
+    flexDirection: 'row',
+    marginTop: 8,
+  },
+  heroTextWants: {
+    fontSize: 36,
+    fontWeight: '900',
+    color: '#001f3f',
+    letterSpacing: 2,
+    textShadowColor: 'rgba(255, 255, 255, 0.8)',
+    textShadowOffset: { width: 0, height: 0 },
+    textShadowRadius: 10,
+  },
+  heroTextYou: {
+    fontSize: 36,
+    fontWeight: '900',
+    color: '#dc143c',
+    letterSpacing: 2,
+    textShadowColor: 'rgba(255, 255, 255, 0.8)',
+    textShadowOffset: { width: 0, height: 0 },
+    textShadowRadius: 10,
+  },
+  tagline: {
+    fontSize: 16,
+    fontStyle: 'italic',
+    color: '#555',
+    textAlign: 'center',
+    paddingHorizontal: 20,
+    paddingVertical: 20,
+    lineHeight: 24,
+  },
+  featuresContainer: {
+    paddingHorizontal: 20,
+    paddingBottom: 10,
+  },
+  featuresTitle: {
+    fontSize: 22,
+    fontWeight: '700',
+    color: '#001f3f',
+    marginBottom: 20,
+    textAlign: 'center',
+  },
+  featureItem: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    marginBottom: 16,
+    paddingHorizontal: 10,
+  },
+  featureTextContainer: {
+    flex: 1,
+    marginLeft: 12,
+  },
+  featureTitle: {
+    fontSize: 16,
+    fontWeight: '600',
+    color: '#333',
+    marginBottom: 4,
+  },
+  featureDescription: {
+    fontSize: 14,
+    color: '#666',
+    lineHeight: 20,
+  },
+  aiCostNotice: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    backgroundColor: '#e3f2fd',
+    padding: 16,
+    marginHorizontal: 20,
+    marginTop: 10,
+    marginBottom: 20,
+    borderRadius: 12,
+    borderLeftWidth: 4,
+    borderLeftColor: '#2E86AB',
+  },
+  aiCostText: {
+    flex: 1,
+    fontSize: 13,
+    color: '#1565c0',
+    lineHeight: 20,
+    marginLeft: 10,
+  },
+  statusContainer: {
+    backgroundColor: '#f8f9fa',
+    padding: 16,
+    marginHorizontal: 20,
+    marginBottom: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    borderColor: '#e0e0e0',
+  },
+  statusRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: 12,
+  },
+  statusLabel: {
+    fontSize: 15,
+    fontWeight: '600',
+    color: '#333',
+  },
+  statusDetails: {
+    marginTop: 8,
+    paddingTop: 12,
+    borderTopWidth: 1,
+    borderTopColor: '#e0e0e0',
+  },
+  statusDetailText: {
+    fontSize: 14,
+    color: '#666',
+    marginBottom: 4,
+  },
+  restoreButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: '#f0f8ff',
+    paddingVertical: 14,
+    marginHorizontal: 20,
+    marginBottom: 20,
+    borderRadius: 12,
+    borderWidth: 1,
+    borderColor: '#2E86AB',
+  },
+  restoreButtonText: {
+    fontSize: 15,
+    fontWeight: '600',
+    color: '#2E86AB',
+    marginLeft: 8,
   },
 });
 

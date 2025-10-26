@@ -5,7 +5,9 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { View, AppState } from 'react-native';
+import { Audio } from 'expo-av';
 import { theme } from './styles/theme';
+import { NotificationManager } from './utils/notificationManager';
 import LoadingScreen from './screens/LoadingScreen';
 import MainMenuScreen from './screens/MainMenuScreen';
 import InterviewPracticeScreen from './screens/InterviewPracticeScreen';
@@ -29,6 +31,7 @@ import ResourcesScreen from './screens/ResourcesScreen';
 import StudyCalendarScreen from './screens/StudyCalendarScreen';
 import SubscriptionScreen from './screens/SubscriptionScreen';
 import AdminScreen from './screens/AdminScreen';
+import AnalyticsDashboardScreen from './screens/AnalyticsDashboardScreen';
 import mobileAds from 'react-native-google-mobile-ads';
 import Constants from 'expo-constants';
 import { SubscriptionManager } from './utils/subscriptionManager';
@@ -41,6 +44,39 @@ export default function App() {
   const { showAd } = useInterstitialAd();
 
   useEffect(() => {
+    // 마이크 권한 요청
+    const requestMicrophonePermission = async () => {
+      try {
+        console.log('[App] 마이크 권한 요청 중...');
+        const { status } = await Audio.requestPermissionsAsync();
+        if (status === 'granted') {
+          console.log('[App] 마이크 권한 승인됨');
+        } else {
+          console.log('[App] 마이크 권한 거부됨');
+        }
+      } catch (error) {
+        console.error('[App] 마이크 권한 요청 실패:', error);
+      }
+    };
+
+    // 알림 권한 요청
+    const requestNotificationPermission = async () => {
+      try {
+        console.log('[App] 알림 권한 요청 중...');
+        const granted = await NotificationManager.requestPermissions();
+        if (granted) {
+          console.log('[App] 알림 권한 승인됨');
+        } else {
+          console.log('[App] 알림 권한 거부됨 또는 사용 불가');
+        }
+      } catch (error) {
+        console.error('[App] 알림 권한 요청 실패:', error);
+      }
+    };
+
+    requestMicrophonePermission();
+    requestNotificationPermission();
+
     // 환경변수 확인하여 광고 기능 제어
     const enableAds = Constants.expoConfig?.extra?.enableAds || process.env.ENABLE_ADS === 'true' || __DEV__;
     
@@ -118,6 +154,7 @@ export default function App() {
               <Stack.Screen name="N400Practice" component={N400PracticeScreen} />
               <Stack.Screen name="Subscription" component={SubscriptionScreen} />
               <Stack.Screen name="Admin" component={AdminScreen} />
+              <Stack.Screen name="AnalyticsDashboard" component={AnalyticsDashboardScreen} />
             </Stack.Navigator>
           </NavigationContainer>
         </View>

@@ -31,7 +31,7 @@ const MainMenuScreen = ({ navigation }) => {
       console.log('MainMenuScreen 언어 변경 감지:', newLanguage);
       setCurrentLanguage(newLanguage);
     };
-    
+
     addLanguageChangeListener(handleLanguageChange);
     
     return () => {
@@ -72,6 +72,7 @@ const MainMenuScreen = ({ navigation }) => {
       setIsI18nReady(true); // 오류가 있어도 앱은 실행
     }
   };
+
 
   const checkFirstLaunch = async () => {
     try {
@@ -210,6 +211,7 @@ const MainMenuScreen = ({ navigation }) => {
         >
           <Text style={styles.buttonText}>{i18n.t('menu.interviewPractice')}</Text>
         </TouchableOpacity>
+
       </View>
 
       {/* Disclaimer Section */}

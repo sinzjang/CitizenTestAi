@@ -29,6 +29,8 @@ const InterviewPracticeScreen = ({ navigation }) => {
   const [interviewDate, setInterviewDate] = useState(null);
   const [studyStartDate, setStudyStartDate] = useState(null);
   const [progressPercentage, setProgressPercentage] = useState(0);
+  const scrollViewRef = React.useRef(null);
+  const sectionRefs = React.useRef({});
 
   useEffect(() => {
     checkPremiumStatus();
@@ -231,17 +233,47 @@ const InterviewPracticeScreen = ({ navigation }) => {
         { id: '4-2', title: t('menu.aiMockInterview.deepDiveInterview'), subtitle: t('menu.aiMockInterview.deepDiveInterviewSubtitle'), screen: 'DeepInterview', isPremium: true }
       ]
     },
+    {
+      id: 5,
+      title: 'Analytics',
+      subtitle: 'Study progress dashboard',
+      icon: 'stats-chart-outline',
+      color: '#6C5CE7',
+      subItems: [
+        { id: '5-1', title: 'Analytics', subtitle: 'View today\'s progress', screen: 'AnalyticsDashboard', isPremium: false }
+      ]
+    },
   ];
 
   const [expandedSection, setExpandedSection] = React.useState(null);
 
   const toggleSection = (sectionId) => {
+    const isExpanding = expandedSection !== sectionId;
     setExpandedSection(expandedSection === sectionId ? null : sectionId);
+    
+    // 섹션이 확장될 때 해당 섹션으로 스크롤
+    if (isExpanding) {
+      setTimeout(() => {
+        const sectionRef = sectionRefs.current[sectionId];
+        if (sectionRef && scrollViewRef.current) {
+          sectionRef.measureLayout(
+            scrollViewRef.current,
+            (x, y) => {
+              scrollViewRef.current.scrollTo({
+                y: y - 20, // 약간의 여백
+                animated: true
+              });
+            },
+            () => {}
+          );
+        }
+      }, 100); // 애니메이션이 시작된 후 스크롤
+    }
   };
 
   const handleSubItemPress = (subItem) => {
     // 구현된 화면들로 네비게이션
-    const implementedScreens = ['ListView', 'StoryMode', 'FlashcardMode', 'FlashcardModeSelection', 'FlashcardSubjectiveMode', 'AllQuestions', 'AIMockInterview', 'AIChat', 'PracticeTest', 'PracticeTestVoice', 'WeaknessTest', 'MyProgress', 'AudioMode', 'DeepInterview'];
+    const implementedScreens = ['ListView', 'StoryMode', 'FlashcardMode', 'FlashcardModeSelection', 'FlashcardSubjectiveMode', 'AllQuestions', 'AIMockInterview', 'AIChat', 'PracticeTest', 'PracticeTestVoice', 'WeaknessTest', 'MyProgress', 'AudioMode', 'DeepInterview', 'AnalyticsDashboard'];
     
     // 프리미엄 기능 체크
     if (subItem.isPremium && !isPremium) {
@@ -269,7 +301,12 @@ const InterviewPracticeScreen = ({ navigation }) => {
   };
 
   const renderMenuItem = (item) => (
-    <View key={item.id} style={styles.menuSection}>
+    <View 
+      key={item.id} 
+      style={styles.menuSection}
+      ref={(ref) => (sectionRefs.current[item.id] = ref)}
+      collapsable={false}
+    >
       <TouchableOpacity
         style={[styles.menuHeader, { borderLeftColor: item.color }]}
         onPress={() => toggleSection(item.id)}
@@ -379,7 +416,11 @@ const InterviewPracticeScreen = ({ navigation }) => {
         </TouchableOpacity>
       </View>
 
-      <ScrollView style={styles.content} showsVerticalScrollIndicator={false}>
+      <ScrollView 
+        ref={scrollViewRef}
+        style={styles.content} 
+        showsVerticalScrollIndicator={false}
+      >
         <View style={styles.welcomeSection}>
           <Text style={styles.welcomeTitle}>{t('interview.welcomeTitle')}</Text>
           <Text style={styles.welcomeSubtitle}>

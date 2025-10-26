@@ -9,16 +9,20 @@ import {
   Platform,
   Animated,
   StatusBar,
+  Modal,
+  ScrollView,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useFocusEffect } from '@react-navigation/native';
 import { Audio } from 'expo-av';
 import { Speech } from 'expo-speech';
+import * as FileSystem from 'expo-file-system';
 // import * as SpeechRecognition from 'expo-speech-recognition'; // Expo Go에서 지원하지 않음
 // import Voice from '@react-native-voice/voice'; // 사용하지 않음
 import { Ionicons } from '@expo/vector-icons';
 import QuestionLoader from '../utils/questionLoader';
 import { t } from '../utils/i18n';
+import StudyTracker from '../utils/studyTracker';
 
 const AIInterviewScreen = ({ navigation, route }) => {
   // 기본 상태
@@ -34,6 +38,7 @@ const AIInterviewScreen = ({ navigation, route }) => {
   const [realtimeTranscript, setRealtimeTranscript] = useState('');
   const [isListening, setIsListening] = useState(false);
   const [voiceAnalysisResult, setVoiceAnalysisResult] = useState(null);
+  const [showAnswer, setShowAnswer] = useState(false);
   
   // 질문 관리
   const [allQuestions, setAllQuestions] = useState([]);
@@ -46,6 +51,7 @@ const AIInterviewScreen = ({ navigation, route }) => {
   const [sttEnabled, setSttEnabled] = useState(true);
   const [ttsEnabled, setTtsEnabled] = useState(true);
   const [recognitionPermission, setRecognitionPermission] = useState(false);
+  const [microphonePermission, setMicrophonePermission] = useState(false);
   const [selectedVoice, setSelectedVoice] = useState(route?.params?.selectedVoice || 'alloy');
 
 
@@ -68,9 +74,10 @@ const AIInterviewScreen = ({ navigation, route }) => {
     return shuffled;
   };
 
-  // OpenAI API 설정
-  const OPENAI_API_KEY = process.env.EXPO_PUBLIC_OPENAI_API_KEY || 'your-api-key-here';
-  const OPENAI_API_URL = 'https://api.openai.com/v1/chat/completions';
+  // Vercel API 프록시 설정
+  const OPENAI_API_URL = 'https://vercel-openai-proxy-delta.vercel.app/api/openai';
+  const SPEECH_API_URL = 'https://vercel-openai-proxy-delta.vercel.app/api/speech';
+  const WHISPER_API_URL = 'https://vercel-openai-proxy-delta.vercel.app/api/whisper';
 
   // 인터뷰 질문 생성 함수들
   const getRandomSmallTalk = () => {
@@ -79,6 +86,9 @@ const AIInterviewScreen = ({ navigation, route }) => {
   };
 
   const getNextCitizenshipQuestion = () => {
+    // 새 질문으로 넘어갈 때 정답 표시 숨기기
+    setShowAnswer(false);
+    
     if (currentQuestionIndex >= shuffledQuestions.length) {
       return "Thank you for completing the interview!";
     }
@@ -87,15 +97,17 @@ const AIInterviewScreen = ({ navigation, route }) => {
     return question.question;
   };
   
-  // 질문 데이터 로드 (항상 영문 질문만 사용)
+  // 질문 데이터 로드 (항상 영문 질문만 사용, 10개만 랜덤 선택)
   const loadQuestions = async () => {
     try {
       const questions = await QuestionLoader.loadQuestionsForLanguage('en'); // 강제로 영문 질문만 로드
       setAllQuestions(questions);
       const shuffled = shuffleArray(questions);
-      setShuffledQuestions(shuffled);
+      // 10개만 선택
+      const selected10 = shuffled.slice(0, 10);
+      setShuffledQuestions(selected10);
       setCurrentQuestionIndex(0);
-      console.log(`📚 Loaded ${questions.length} English questions and shuffled them`);
+      console.log(`📚 Loaded ${questions.length} English questions, selected 10 randomly`);
     } catch (error) {
       console.error('Failed to load questions:', error);
     }
@@ -130,7 +142,6 @@ Use 75% as the threshold for correctness.`;
       const response = await fetch(OPENAI_API_URL, {
         method: 'POST',
         headers: {
-          'Authorization': `Bearer ${OPENAI_API_KEY}`,
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
@@ -221,11 +232,10 @@ Use 75% as the threshold for correctness.`;
       setIsSpeaking(true);
       console.log('🔊 Starting OpenAI TTS...');
 
-      // OpenAI TTS API 호출
-      const response = await fetch('https://api.openai.com/v1/audio/speech', {
+      // OpenAI TTS API 프록시 호출
+      const response = await fetch(SPEECH_API_URL, {
         method: 'POST',
         headers: {
-          'Authorization': `Bearer ${OPENAI_API_KEY}`,
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
@@ -388,7 +398,6 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
       const apiResponse = await fetch(OPENAI_API_URL, {
         method: 'POST',
         headers: {
-          'Authorization': `Bearer ${OPENAI_API_KEY}`,
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
@@ -424,6 +433,8 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
           setInterviewStage('completed');
           setShowProgressBar(false);
           interviewerResponse = `${feedback} Thank you for completing the interview!`;
+          // Daily Progress: mock interviews +1
+          try { StudyTracker.recordActivity('mockInterviews', 1); } catch (e) {}
         } else {
           interviewerResponse = `${feedback} ${nextQuestion}`;
         }
@@ -541,7 +552,7 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
       // 상태 초기화
       setIsRecording(true);
       setIsListening(true);
-      setRealtimeTranscript('🎤 말씀해주세요...');
+      setRealtimeTranscript('말씀해주세요...');
       
       // 음성 녹음 시작
       console.log('🎤 Starting voice recording...');
@@ -569,36 +580,53 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
   const convertVoiceToTextSimple = async (uri) => {
     try {
       console.log('🎤 Converting voice to text with Whisper...');
+      console.log('🎤 Audio file URI:', uri);
+      console.log('🎤 Whisper API URL:', WHISPER_API_URL);
       
-      const formData = new FormData();
-      formData.append('file', {
-        uri: uri,
-        type: 'audio/m4a',
-        name: 'recording.m4a',
+      // 파일을 base64로 읽기
+      console.log('🎤 Reading file as base64...');
+      const base64Audio = await FileSystem.readAsStringAsync(uri, {
+        encoding: FileSystem.EncodingType.Base64,
       });
-      formData.append('model', 'whisper-1');
-      formData.append('language', 'en');
+      console.log('🎤 Base64 length:', base64Audio.length);
       
-      const response = await fetch('https://api.openai.com/v1/audio/transcriptions', {
+      // JSON으로 전송
+      const apiResponse = await fetch(WHISPER_API_URL, {
         method: 'POST',
         headers: {
-          'Authorization': `Bearer ${OPENAI_API_KEY}`,
+          'Content-Type': 'application/json',
         },
-        body: formData,
+        body: JSON.stringify({
+          audio: base64Audio,
+          model: 'whisper-1',
+          language: 'en',
+        }),
       });
       
-      if (!response.ok) {
-        const errorText = await response.text();
+      console.log('🎤 Whisper API response status:', apiResponse.status);
+      
+      if (!apiResponse.ok) {
+        const errorText = await apiResponse.text();
         console.error('🎤 Whisper API error:', errorText);
-        throw new Error(`Whisper API error: ${response.status}`);
+        
+        // 404면 폴백으로 간단한 텍스트 반환
+        if (apiResponse.status === 404) {
+          console.log('🎤 Using fallback - returning placeholder text');
+          return '[Voice recognition temporarily unavailable]';
+        }
+        
+        throw new Error(`Whisper API error: ${apiResponse.status}`);
       }
       
-      const data = await response.json();
+      const data = await apiResponse.json();
+      console.log('🎤 ✅ Transcription successful:', data.text);
       return data.text;
       
     } catch (error) {
       console.error('🎤 Whisper conversion error:', error);
-      throw error;
+      console.error('🎤 Error details:', error.message);
+      // 에러 발생 시 폴백 텍스트 반환
+      return '[Voice recognition error - please try again]';
     }
   };
   
@@ -1422,7 +1450,7 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
           
           if (transcript && transcript.trim()) {
             console.log('🎤 ✅ Transcript:', transcript);
-            setRealtimeTranscript(`📝 "${transcript}"`);
+            setRealtimeTranscript(`"${transcript}"`);
             setIsListening(false);
             setIsRecording(false);
             
@@ -1454,20 +1482,68 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
   const startInterview = async () => {
     console.log('🎤 Starting AI Interview...');
     
-    // 질문 데이터 로드
-    await loadQuestions();
+    // 마이크 권한 확인
+    if (!microphonePermission) {
+      Alert.alert(
+        'Microphone Required',
+        'Microphone permission is required for AI Interview. Please enable microphone access in your device settings.',
+        [
+          {
+            text: 'Cancel',
+            onPress: () => navigation.goBack(),
+            style: 'cancel'
+          },
+          {
+            text: 'Enable',
+            onPress: async () => {
+              // 권한 재요청
+              try {
+                const { status } = await Audio.requestPermissionsAsync();
+                if (status === 'granted') {
+                  setMicrophonePermission(true);
+                  // 권한 승인 후 인터뷰 시작
+                  startInterviewAfterPermission();
+                } else {
+                  navigation.goBack();
+                }
+              } catch (error) {
+                console.error('🎤 Permission request error:', error);
+                navigation.goBack();
+              }
+            }
+          }
+        ]
+      );
+      return;
+    }
     
-    setInterviewStage('smalltalk');
-    
-    const firstQuestion = getRandomSmallTalk();
-    setCurrentQuestion(firstQuestion);
-    setShowQuestionScript(false);
-    
-    if (ttsEnabled) {
-      await speakTextWithOpenAI(firstQuestion);
-      setSpeakButtonActive(true);
-    } else {
-      setSpeakButtonActive(true);
+    startInterviewAfterPermission();
+  };
+  
+  // 권한 확인 후 인터뷰 시작
+  const startInterviewAfterPermission = async () => {
+    try {
+      // 로딩 시작
+      setIsLoading(true);
+      
+      // 질문 데이터 로드
+      await loadQuestions();
+      
+      setInterviewStage('smalltalk');
+      
+      const firstQuestion = getRandomSmallTalk();
+      setCurrentQuestion(firstQuestion);
+      setShowQuestionScript(false);
+      
+      if (ttsEnabled) {
+        await speakTextWithOpenAI(firstQuestion);
+        setSpeakButtonActive(true);
+      } else {
+        setSpeakButtonActive(true);
+      }
+    } finally {
+      // 로딩 종료
+      setIsLoading(false);
     }
   };
 
@@ -1475,8 +1551,20 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
   useEffect(() => {
     const checkPermissions = async () => {
       try {
-        console.log('🎤 Checking STT permissions...');
+        console.log('🎤 Checking permissions...');
         console.log('🎤 Platform:', Platform.OS);
+        
+        // 마이크 권한 확인
+        const { status } = await Audio.getPermissionsAsync();
+        console.log('🎤 Microphone permission status:', status);
+        
+        if (status === 'granted') {
+          setMicrophonePermission(true);
+          console.log('🎤 ✅ Microphone permission granted');
+        } else {
+          setMicrophonePermission(false);
+          console.log('🎤 ❌ Microphone permission not granted');
+        }
         
         if (Platform.OS === 'web') {
           // 웹에서는 Web Speech API 확인
@@ -1501,20 +1589,23 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
         console.error('🎤 Permission check error:', error);
         setRecognitionPermission(false);
         setSttEnabled(false);
+        setMicrophonePermission(false);
       }
     };
 
     checkPermissions();
   }, []);
 
-  // 화면 진입 시 인터뷰 자동 시작
+  // 화면 진입 시 인터뷰 자동 시작 (권한이 있을 때만)
   useEffect(() => {
     const timer = setTimeout(() => {
-      startInterview();
+      if (microphonePermission) {
+        startInterview();
+      }
     }, 1000);
 
     return () => clearTimeout(timer);
-  }, []);
+  }, [microphonePermission]);
 
   // 화면 정리
   useFocusEffect(
@@ -1679,6 +1770,16 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
         </View>
       </View>
 
+      {/* 마이크 권한 알림 */}
+      {!microphonePermission && (
+        <View style={styles.permissionWarning}>
+          <Ionicons name="mic-off" size={20} color="#FF3B30" />
+          <Text style={styles.permissionWarningText}>
+            🎤 Microphone permission is required for AI Interview
+          </Text>
+        </View>
+      )}
+
       {/* 인터뷰 영역 */}
       <View style={styles.interviewContainer}>
         {/* 진행도 표시 바 */}
@@ -1736,16 +1837,28 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
         {/* 실시간 음성 인식 텍스트 박스 */}
         <View style={styles.transcriptContainer}>
           <View style={styles.transcriptHeader}>
-            <Text style={styles.transcriptTitle}>
-              🎤 {t('menu.aiInterview.speechRecognitionStatus')}
-            </Text>
-            {isListening && (
-              <View style={styles.listeningIndicator}>
-                <Text style={styles.listeningText}>듣는 중...</Text>
-                <View style={styles.listeningDot} />
-              </View>
+            <View style={styles.answerHeaderLeft}>
+              <Ionicons name="chatbubble-outline" size={20} color="#333" style={styles.waveIcon} />
+              <Text style={styles.transcriptTitle}>Your Answer: </Text>
+            </View>
+            {interviewStage === 'interview' && currentQuestionOnly && (
+              <TouchableOpacity 
+                style={styles.answerButton}
+                onPress={() => {
+                  console.log('❓ Answer button pressed');
+                  setShowAnswer(true);
+                }}
+              >
+                <Text style={styles.answerButtonText}>?</Text>
+              </TouchableOpacity>
             )}
           </View>
+          {isListening && (
+            <View style={styles.listeningIndicator}>
+              <Text style={styles.listeningText}>듣는 중...</Text>
+              <View style={styles.listeningDot} />
+            </View>
+          )}
           
           <View style={styles.transcriptContent}>
             {voiceAnalysisResult && (
@@ -1801,11 +1914,62 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
         {/* 로딩 상태 */}
         {isLoading && (
           <View style={styles.interviewLoadingContainer}>
-            <ActivityIndicator size="small" color="#007AFF" />
-            <Text style={styles.interviewLoadingText}>면접관이 다음 질문을 준비하는 중...</Text>
+            <ActivityIndicator size="large" color="#007AFF" />
+            <Text style={styles.interviewLoadingText}>🤖 AI가 응답을 준비하는 중...</Text>
           </View>
         )}
       </View>
+
+      {/* 정답 표시 Modal */}
+      <Modal
+        visible={showAnswer}
+        transparent={true}
+        animationType="fade"
+        onRequestClose={() => setShowAnswer(false)}
+      >
+        <View style={styles.modalOverlay}>
+          <View style={styles.modalContent}>
+            <View style={styles.modalHeader}>
+              <Text style={styles.modalTitle}>Question & Answer</Text>
+              <TouchableOpacity
+                style={styles.closeButton}
+                onPress={() => setShowAnswer(false)}
+              >
+                <Ionicons name="close" size={24} color="#666" />
+              </TouchableOpacity>
+            </View>
+            
+            <ScrollView style={styles.modalBody}>
+              {/* 질문 표시 */}
+              {interviewStage === 'interview' && currentQuestionIndex > 0 && 
+               shuffledQuestions[currentQuestionIndex - 1] && (
+                <>
+                  <View style={styles.modalQuestion}>
+                    <Text style={styles.modalQuestionText}>
+                      {shuffledQuestions[currentQuestionIndex - 1].question}
+                    </Text>
+                  </View>
+                  
+                  {/* 정답 표시 */}
+                  {shuffledQuestions[currentQuestionIndex - 1].correctAnswers && (
+                    <View style={styles.modalAnswer}>
+                      <Text style={styles.modalSectionTitle}>Correct Answer:</Text>
+                      {shuffledQuestions[currentQuestionIndex - 1].correctAnswers.map((answerObj, idx) => (
+                        <View key={idx} style={styles.answerItem}>
+                          <Text style={styles.modalCorrectAnswer}>• {answerObj.text}</Text>
+                          {idx < shuffledQuestions[currentQuestionIndex - 1].correctAnswers.length - 1 && (
+                            <View style={styles.answerSeparator} />
+                          )}
+                        </View>
+                      ))}
+                    </View>
+                  )}
+                </>
+              )}
+            </ScrollView>
+          </View>
+        </View>
+      </Modal>
     </SafeAreaView>
   );
 };
@@ -1840,6 +2004,22 @@ const styles = StyleSheet.create({
   headerButton: {
     padding: 8,
     marginLeft: 8,
+  },
+  permissionWarning: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: '#FFF3CD',
+    paddingVertical: 12,
+    paddingHorizontal: 16,
+    borderBottomWidth: 1,
+    borderBottomColor: '#FFE69C',
+    gap: 8,
+  },
+  permissionWarningText: {
+    fontSize: 14,
+    color: '#856404',
+    fontWeight: '600',
   },
   interviewContainer: {
     flex: 1,
@@ -1914,13 +2094,21 @@ const styles = StyleSheet.create({
   },
   interviewLoadingContainer: {
     alignItems: 'center',
-    paddingVertical: 20,
+    justifyContent: 'center',
+    paddingVertical: 30,
+    backgroundColor: '#f0f8ff',
+    borderRadius: 12,
+    marginHorizontal: 20,
+    marginVertical: 10,
+    borderWidth: 1,
+    borderColor: '#007AFF',
   },
   interviewLoadingText: {
-    fontSize: 14,
-    color: '#666',
-    marginTop: 10,
+    fontSize: 16,
+    color: '#007AFF',
+    marginTop: 15,
     textAlign: 'center',
+    fontWeight: '600',
   },
   // 실시간 음성 인식 텍스트 박스 스타일
   transcriptContainer: {
@@ -1937,10 +2125,54 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom: 12,
   },
+  answerHeaderLeft: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  waveIcon: {
+    marginRight: 8,
+  },
   transcriptTitle: {
     fontSize: 16,
     fontWeight: 'bold',
     color: '#333',
+  },
+  answerButton: {
+    width: 32,
+    height: 32,
+    borderRadius: 16,
+    backgroundColor: '#007AFF',
+    justifyContent: 'center',
+    alignItems: 'center',
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.2,
+    shadowRadius: 3,
+    elevation: 3,
+  },
+  answerButtonText: {
+    color: '#fff',
+    fontSize: 18,
+    fontWeight: 'bold',
+  },
+  answerBox: {
+    backgroundColor: '#e8f5e9',
+    borderRadius: 10,
+    padding: 15,
+    marginBottom: 15,
+    borderWidth: 1,
+    borderColor: '#4caf50',
+  },
+  answerBoxTitle: {
+    fontSize: 14,
+    fontWeight: 'bold',
+    color: '#2e7d32',
+    marginBottom: 8,
+  },
+  answerBoxText: {
+    fontSize: 15,
+    color: '#1b5e20',
+    lineHeight: 22,
   },
   listeningIndicator: {
     flexDirection: 'row',
@@ -2038,6 +2270,72 @@ const styles = StyleSheet.create({
     maxHeight: 200,
     textAlignVertical: 'top',
     flexWrap: 'wrap',
+  },
+  // Modal 스타일 (Story 모드와 동일)
+  modalOverlay: {
+    flex: 1,
+    backgroundColor: 'rgba(0, 0, 0, 0.5)',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  modalContent: {
+    backgroundColor: '#fff',
+    borderRadius: 16,
+    width: '90%',
+    maxHeight: '80%',
+    overflow: 'hidden',
+  },
+  modalHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    padding: 20,
+    borderBottomWidth: 1,
+    borderBottomColor: '#e9ecef',
+  },
+  modalTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    color: '#333',
+  },
+  closeButton: {
+    padding: 4,
+  },
+  modalBody: {
+    padding: 20,
+  },
+  modalQuestion: {
+    marginBottom: 20,
+  },
+  modalQuestionText: {
+    fontSize: 18,
+    fontWeight: '600',
+    color: '#333',
+    lineHeight: 26,
+  },
+  modalAnswer: {
+    marginBottom: 20,
+  },
+  modalSectionTitle: {
+    fontSize: 16,
+    fontWeight: 'bold',
+    color: '#2E86AB',
+    marginBottom: 8,
+  },
+  modalCorrectAnswer: {
+    fontSize: 16,
+    color: '#28a745',
+    fontWeight: '600',
+    lineHeight: 24,
+  },
+  answerItem: {
+    marginBottom: 12,
+  },
+  answerSeparator: {
+    height: 1,
+    backgroundColor: '#e0e0e0',
+    marginTop: 8,
+    marginBottom: 4,
   },
 });
 

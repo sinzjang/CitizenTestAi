@@ -14,6 +14,9 @@ export class SubscriptionManager {
         apiKey: REVENUECAT_API_KEY,
       };
       
+      // 로그 레벨 설정으로 에러 방지
+      Purchases.setLogLevel(Purchases.LOG_LEVEL.ERROR);
+      
       await Purchases.configure(configuration);
       
       console.log('[SubscriptionManager] RevenueCat initialized successfully');

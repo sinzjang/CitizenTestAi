@@ -13,6 +13,7 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import * as Speech from 'expo-speech';
+import StudyTracker from '../utils/studyTracker';
 
 const AIMockInterviewScreen = ({ navigation }) => {
   const [isConnecting, setIsConnecting] = useState(false);
@@ -249,6 +250,8 @@ const AIMockInterviewScreen = ({ navigation }) => {
     setAiResponse('');
     setQuestionCount(0);
     setConversationHistory([]); // 대화 기록 초기화
+    // Daily Progress: mock interviews +1 (count when user ends session)
+    try { StudyTracker.recordActivity('mockInterviews', 1); } catch (e) {}
   };
 
   return (

@@ -20,6 +20,7 @@ import { saveIncorrectQuestion } from '../utils/progressTracker';
 import QuestionLoader from '../utils/questionLoader';
 import { t } from '../utils/i18n';
 import { recordQuestionAttempt, recordTestCompletion } from '../utils/progressTracker';
+import StudyTracker from '../utils/studyTracker';
 import * as Speech from 'expo-speech';
 
 const PracticeTestVoiceScreen = ({ navigation, route }) => {
@@ -218,6 +219,8 @@ const PracticeTestVoiceScreen = ({ navigation, route }) => {
       
       // 통계 기록
       recordQuestionAttempt(currentQuestion.id, false, responseTime, 'practice');
+      // Daily Progress: questions +1
+      try { StudyTracker.recordActivity('questions', 1); } catch (e) {}
       
       const result = {
         question: currentQuestion.question,
@@ -323,6 +326,8 @@ const PracticeTestVoiceScreen = ({ navigation, route }) => {
     
     // 통계 기록
     recordQuestionAttempt(currentQuestion.id, isCorrect, responseTime, 'practice');
+    // Daily Progress: questions +1
+    try { StudyTracker.recordActivity('questions', 1); } catch (e) {}
     
     if (isCorrect) {
       setCorrectAnswers(prev => prev + 1);

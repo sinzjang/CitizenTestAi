@@ -18,6 +18,7 @@ import { useFocusEffect } from '@react-navigation/native';
 import { Ionicons } from '@expo/vector-icons';
 import * as Speech from 'expo-speech';
 import { t } from '../utils/i18n';
+import StudyTracker from '../utils/studyTracker';
 // import * as SpeechRecognition from 'expo-speech-recognition';
 
 const AIChatScreen = ({ navigation }) => {
@@ -39,6 +40,7 @@ const AIChatScreen = ({ navigation }) => {
   const [showVoiceSelector, setShowVoiceSelector] = useState(false);
   
   const scrollViewRef = useRef();
+  const tutorIntervalRef = useRef(null);
 
   // OpenAI TTS 음성 옵션 (실제 사람 이름으로 변경)
   const openaiVoices = [
@@ -53,8 +55,8 @@ const AIChatScreen = ({ navigation }) => {
 
 
   // Vercel API 프록시 설정 (최종)
-  const OPENAI_API_URL = 'https://openai-proxy-tan-chi.vercel.app/api/openai';
-  const SPEECH_API_URL = 'https://openai-proxy-tan-chi.vercel.app/api/speech';
+  const OPENAI_API_URL = 'https://vercel-openai-proxy-delta.vercel.app/api/openai';
+  const SPEECH_API_URL = 'https://vercel-openai-proxy-delta.vercel.app/api/speech';
 
 
 
@@ -144,22 +146,30 @@ const AIChatScreen = ({ navigation }) => {
         console.log('🔊 Attempting OpenAI TTS for voice sample with voice:', voiceId);
         
         try {
-          const response = await fetch('https://api.openai.com/v1/audio/speech', {
+          const requestBody = {
+            model: 'tts-1-hd',
+            input: sampleText,
+            voice: voiceId,
+            response_format: 'mp3',
+            speed: 1.0
+          };
+          
+          console.log('🔊 [SAMPLE] Sending TTS request to:', SPEECH_API_URL);
+          console.log('🔊 [SAMPLE] Request body:', JSON.stringify(requestBody));
+          
+          const response = await fetch(SPEECH_API_URL, {
             method: 'POST',
             headers: {
-              'Authorization': `Bearer ${OPENAI_API_KEY}`,
               'Content-Type': 'application/json',
             },
-            body: JSON.stringify({
-              model: 'tts-1-hd',
-              input: sampleText,
-              voice: voiceId,
-              response_format: 'mp3',
-              speed: 1.0
-            }),
+            body: JSON.stringify(requestBody),
           });
 
+          console.log('🔊 [SAMPLE] Response status:', response.status);
+
           if (!response.ok) {
+            const errorText = await response.text();
+            console.error('🔊 [SAMPLE] Error response:', errorText);
             throw new Error(`TTS API error! status: ${response.status}`);
           }
 
@@ -280,23 +290,32 @@ const AIChatScreen = ({ navigation }) => {
         console.log('🔊 Attempting OpenAI TTS API for mobile with voice:', selectedVoice);
         
         try {
-          const response = await fetch('https://api.openai.com/v1/audio/speech', {
+          const requestBody = {
+            model: 'tts-1-hd',
+            input: text,
+            voice: selectedVoice,
+            response_format: 'mp3',
+            speed: 1.0
+          };
+          
+          console.log('🔊 Sending TTS request to:', SPEECH_API_URL);
+          console.log('🔊 Request body:', JSON.stringify(requestBody));
+          
+          const response = await fetch(SPEECH_API_URL, {
             method: 'POST',
             headers: {
-              'Authorization': `Bearer ${OPENAI_API_KEY}`,
               'Content-Type': 'application/json',
             },
-            body: JSON.stringify({
-              model: 'tts-1-hd',
-              input: text,
-              voice: selectedVoice,
-              response_format: 'mp3',
-              speed: 1.0
-            }),
+            body: JSON.stringify(requestBody),
           });
 
+          console.log('🔊 Response status:', response.status);
+          console.log('🔊 Response headers:', JSON.stringify(response.headers));
+
           if (!response.ok) {
-            throw new Error(`TTS API error! status: ${response.status}`);
+            const errorText = await response.text();
+            console.error('🔊 Error response:', errorText);
+            throw new Error(`OpenAI TTS API error! status: ${response.status}`);
           }
 
           const audioBlob = await response.blob();
@@ -474,20 +493,24 @@ const AIChatScreen = ({ navigation }) => {
         return;
       }
     } catch (error) {
-      console.error('OpenAI TTS Error:', error);
+      console.error('🔊 ❌ OpenAI TTS Error:', error);
+      console.log('🔊 🔄 Falling back to Expo Speech...');
       setIsSpeaking(false);
       // Fallback to expo-speech
       try {
-        console.log('Falling back to Expo Speech');
-        await Speech.speak(text, {
-          language: 'en-US',
-          pitch: 1.0,
-          rate: 0.8,
-          onDone: () => setIsSpeaking(false),
-          onError: () => setIsSpeaking(false)
-        });
+        if (Speech && typeof Speech.speak === 'function') {
+          await Speech.speak(text, {
+            language: 'en-US',
+            pitch: 1.0,
+            rate: 0.8,
+            onDone: () => setIsSpeaking(false),
+            onError: () => setIsSpeaking(false)
+          });
+        } else {
+          console.error('🔊 ❌ Speech module not available');
+        }
       } catch (fallbackError) {
-        console.error('Fallback TTS Error:', fallbackError);
+        console.error('🔊 ❌ Fallback TTS Error:', fallbackError);
         setIsSpeaking(false);
       }
     }
@@ -577,6 +600,21 @@ const AIChatScreen = ({ navigation }) => {
     checkSpeechRecognitionAvailability();
     checkTTSAvailability();
   }, []);
+
+  // AI Tutor minutes tracking: start when chatStarted, stop on cleanup
+  useEffect(() => {
+    if (chatStarted && !tutorIntervalRef.current) {
+      tutorIntervalRef.current = setInterval(() => {
+        try { StudyTracker.recordActivity('aiTutorMinutes', 1); } catch (e) {}
+      }, 60000);
+    }
+    return () => {
+      if (tutorIntervalRef.current) {
+        clearInterval(tutorIntervalRef.current);
+        tutorIntervalRef.current = null;
+      }
+    };
+  }, [chatStarted]);
 
   // TTS 사용 가능성 확인
   const checkTTSAvailability = async () => {
@@ -1274,7 +1312,36 @@ const AIChatScreen = ({ navigation }) => {
       <View style={styles.buttonSection}>
         <TouchableOpacity
           style={styles.startButton}
-          onPress={aiMode ? () => {
+          onPress={aiMode ? async () => {
+            // 마이크 권한 확인
+            const { Audio } = require('expo-av');
+            const { status } = await Audio.getPermissionsAsync();
+            
+            if (status !== 'granted') {
+              Alert.alert(
+                'Microphone Required',
+                'Microphone permission is required for AI Interview. Please enable microphone access to continue.',
+                [
+                  {
+                    text: 'Cancel',
+                    style: 'cancel'
+                  },
+                  {
+                    text: 'Enable',
+                    onPress: async () => {
+                      const { status: newStatus } = await Audio.requestPermissionsAsync();
+                      if (newStatus === 'granted') {
+                        // 권한 승인 후 이동
+                        stopCurrentSample();
+                        navigation.navigate('AIInterview', { selectedVoice: selectedVoice });
+                      }
+                    }
+                  }
+                ]
+              );
+              return;
+            }
+            
             // 음성 샘플 재생 중지
             stopCurrentSample();
             // 선택된 음성과 함께 AI Interview로 이동

@@ -14,6 +14,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { recordQuestionAttempt, recordTestCompletion } from '../utils/progressTracker';
+import StudyTracker from '../utils/studyTracker';
 import QuestionLoader from '../utils/questionLoader';
 import { t } from '../utils/i18n';
 // import AdBanner from '../components/AdBanner';
@@ -147,6 +148,8 @@ const WeaknessTestScreen = ({ navigation, route }) => {
       
       // 통계 기록
       recordQuestionAttempt(currentQuestion.id, false, responseTime, 'weakness');
+      // Daily Progress: questions +1
+      try { StudyTracker.recordActivity('questions', 1); } catch (e) {}
       
       // 다중 정답 처리
       let correctAnswerText;
@@ -274,6 +277,8 @@ const WeaknessTestScreen = ({ navigation, route }) => {
     
     // 통계 기록
     recordQuestionAttempt(currentQuestion.id, isCorrect, responseTime, 'weakness');
+    // Daily Progress: questions +1
+    try { StudyTracker.recordActivity('questions', 1); } catch (e) {}
     
     if (isCorrect) {
       setCorrectAnswers(prev => prev + 1);
