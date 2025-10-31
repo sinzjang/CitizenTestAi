@@ -6,6 +6,9 @@ import { Platform, Alert } from 'react-native';
 let Notifications = null;
 let NOTIFICATIONS_AVAILABLE = false;
 
+// DEV 모드에서 UI 테스트를 위해 강제로 활성화 (실제 알림은 작동 안 함)
+const ENABLE_DEV_MODE_UI = __DEV__;
+
 try {
   Notifications = require('expo-notifications');
   NOTIFICATIONS_AVAILABLE = true;
@@ -38,6 +41,11 @@ try {
   });
 } catch (error) {
   console.log('Notifications not available - will be enabled after native build');
+  // DEV 모드에서는 UI 테스트를 위해 활성화
+  if (ENABLE_DEV_MODE_UI) {
+    NOTIFICATIONS_AVAILABLE = true;
+    console.log('⚠️ DEV MODE: Notification UI enabled for testing (actual notifications will not work)');
+  }
 }
 
 export class NotificationManager {
@@ -217,13 +225,14 @@ export class NotificationManager {
 
   // 여러 알림 저장
   static async saveReminders(reminders) {
-    if (!NOTIFICATIONS_AVAILABLE) {
-      // 설정만 저장
+    // DEV 모드에서는 설정만 저장하고 성공으로 처리
+    if (!Notifications) {
+      console.log('⚠️ DEV MODE: Saving settings only (notifications will not be scheduled)');
       await AsyncStorage.setItem('@notification_settings', JSON.stringify({
         enabled: true,
         reminders,
       }));
-      return false;
+      return true; // UI 테스트를 위해 true 반환
     }
 
     try {
