@@ -47,8 +47,8 @@ export class NotificationManager {
       // 네이티브 빌드가 아닐 때는 조용히 실패
       if (showAlert) {
         Alert.alert(
-          'Feature Coming Soon',
-          'Push notifications will be available in the next update. This feature requires a native build.'
+          'Native Build Required',
+          'Push notifications are only available in the native build version of this app. Please use the installed app from the App Store or build it locally with "npx expo run:android".'
         );
       }
       return false;
@@ -385,8 +385,8 @@ export class NotificationManager {
   static async sendTestNotification() {
     if (!NOTIFICATIONS_AVAILABLE) {
       Alert.alert(
-        'Feature Coming Soon',
-        'Push notifications will be available in the next update.'
+        'Native Build Required',
+        'Push notifications are only available in the native build. This feature works in the installed app version.'
       );
       return false;
     }
