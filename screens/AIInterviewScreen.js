@@ -1673,6 +1673,88 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
       return async () => {
         console.log('🔄 AIInterviewScreen unfocused - cleaning up...');
         
+        // 즉시 모든 오디오 중지 (화면을 벗어날 때)
+        console.log('🛑 Stopping all audio immediately...');
+        
+        // 1. Expo Speech 즉시 중지
+        try {
+          Speech.stop();
+          console.log('🛑 Stopped Expo Speech');
+        } catch (error) {
+          console.log('🛑 Speech stop error:', error);
+        }
+        
+        // 2. 웹 오디오 즉시 중지
+        if (typeof window !== 'undefined') {
+          if (window.currentAudio) {
+            try {
+              window.currentAudio.pause();
+              window.currentAudio.currentTime = 0;
+              window.currentAudio = null;
+              console.log('🛑 Stopped web audio');
+            } catch (error) {
+              console.log('🛑 Web audio stop error:', error);
+            }
+          }
+          
+          // 3. Expo AV 사운드 즉시 중지
+          if (window.currentExpoSound) {
+            try {
+              await window.currentExpoSound.stopAsync();
+              await window.currentExpoSound.unloadAsync();
+              window.currentExpoSound = null;
+              console.log('🛑 Stopped Expo AV sound');
+            } catch (error) {
+              console.log('🛑 Expo AV stop error:', error);
+            }
+          }
+          
+          // 4. 음성 샘플 중지
+          if (window.currentSampleSound) {
+            try {
+              await window.currentSampleSound.stopAsync();
+              await window.currentSampleSound.unloadAsync();
+              window.currentSampleSound = null;
+              console.log('🛑 Stopped voice sample sound');
+            } catch (error) {
+              console.log('🛑 Voice sample stop error:', error);
+            }
+          }
+          
+          if (window.currentSampleAudio) {
+            try {
+              window.currentSampleAudio.pause();
+              window.currentSampleAudio.currentTime = 0;
+              window.currentSampleAudio = null;
+              console.log('🛑 Stopped voice sample audio');
+            } catch (error) {
+              console.log('🛑 Voice sample audio stop error:', error);
+            }
+          }
+          
+          // 5. 음성 인식 중지
+          if (window.currentRecognition) {
+            try {
+              window.currentRecognition.stop();
+              window.currentRecognition = null;
+              console.log('🛑 Stopped web speech recognition');
+            } catch (error) {
+              console.log('🛑 Speech recognition stop error:', error);
+            }
+          }
+          
+          // 6. 녹음 중지
+          if (window.currentRecording) {
+            try {
+              await window.currentRecording.stopAndUnloadAsync();
+              window.currentRecording = null;
+              console.log('🛑 Stopped recording');
+            } catch (error) {
+              console.log('🛑 Recording stop error:', error);
+            }
+          }
+        }
+        
         // 모든 대화 상태 중단
         setIsRecording(false);
         setIsSpeaking(false);
@@ -1691,52 +1773,7 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
         setCurrentQuestionOnly('');
         setShowProgressBar(false);
         
-        // 애니메이션 중지
-        
-        // TTS 중지
-        try {
-          await Speech.stop();
-          console.log('🔄 Stopped Speech');
-        } catch (error) {
-          console.log('🔄 Speech stop error:', error);
-        }
-        
-        if (typeof window !== 'undefined') {
-          if (window.currentAudio) {
-            window.currentAudio.pause();
-            window.currentAudio = null;
-            console.log('🔄 Cleaned up web audio');
-          }
-          if (window.currentExpoSound) {
-            try {
-              await window.currentExpoSound.unloadAsync();
-              window.currentExpoSound = null;
-              console.log('🔄 Cleaned up expo sound');
-            } catch (error) {
-              console.log('🔄 Expo sound cleanup error:', error);
-            }
-          }
-        }
-        
-        // STT 중지
-        if (typeof window !== 'undefined') {
-          if (window.currentRecognition) {
-            window.currentRecognition.stop();
-            window.currentRecognition = null;
-            console.log('🔄 Cleaned up web speech recognition');
-          }
-          if (window.currentRecording) {
-            try {
-              await window.currentRecording.stopAndUnloadAsync();
-              window.currentRecording = null;
-              console.log('🔄 Cleaned up recording');
-            } catch (error) {
-              console.log('🔄 Recording cleanup error:', error);
-            }
-          }
-        }
-        
-        console.log('✅ AIInterviewScreen cleanup completed');
+        console.log('✅ AIInterviewScreen cleanup completed - all audio stopped');
       };
     }, [])
   );

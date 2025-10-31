@@ -1039,55 +1039,102 @@ const AIChatScreen = ({ navigation }) => {
       return () => {
         console.log('🔄 AIChatScreen unfocused - cleaning up all audio...');
         
-        // 1. 모든 TTS 중지
-        if (isSpeaking) {
-          console.log('🔊 Stopping all TTS due to screen navigation...');
-          
-          // Expo Speech 중지
+        // 즉시 모든 오디오 중지 (화면을 벗어날 때)
+        console.log('🛑 Stopping all audio immediately...');
+        
+        // 1. Expo Speech 즉시 중지
+        try {
           Speech.stop();
-          
-          // Expo AV 오디오 중지 (OpenAI TTS 모바일 재생)
-          if (typeof window !== 'undefined' && window.currentExpoSound) {
-            console.log('🔊 Stopping Expo AV sound...');
-            window.currentExpoSound.unloadAsync().catch(console.error);
-            window.currentExpoSound = null;
-          }
-          
-          setIsSpeaking(false);
+          console.log('🛑 Stopped Expo Speech');
+        } catch (error) {
+          console.log('🛑 Speech stop error:', error);
         }
         
-        // 2. 모든 STT 중지
-        if (isRecording) {
-          console.log('🎤 Stopping STT due to screen navigation...');
-          if (typeof window !== 'undefined' && window.currentRecognition) {
-            window.currentRecognition.stop();
-            window.currentRecognition = null;
-          }
-          if (window.mediaRecorder && window.mediaRecorder.state === 'recording') {
-            window.mediaRecorder.stop();
-            window.mediaRecorder = null;
-          }
-          setIsRecording(false);
-        }
-        
-        // 3. 전역 오디오 객체 정리 (웹 OpenAI TTS)
+        // 2. 웹 오디오 즉시 중지
         if (typeof window !== 'undefined') {
           if (window.currentAudio) {
-            console.log('🔊 Stopping web audio due to screen navigation...');
-            window.currentAudio.pause();
-            window.currentAudio.currentTime = 0;
-            window.currentAudio = null;
+            try {
+              window.currentAudio.pause();
+              window.currentAudio.currentTime = 0;
+              window.currentAudio = null;
+              console.log('🛑 Stopped web audio');
+            } catch (error) {
+              console.log('🛑 Web audio stop error:', error);
+            }
+          }
+          
+          // 3. Expo AV 사운드 즉시 중지
+          if (window.currentExpoSound) {
+            try {
+              window.currentExpoSound.stopAsync().catch(() => {});
+              window.currentExpoSound.unloadAsync().catch(() => {});
+              window.currentExpoSound = null;
+              console.log('🛑 Stopped Expo AV sound');
+            } catch (error) {
+              console.log('🛑 Expo AV stop error:', error);
+            }
+          }
+          
+          // 4. 음성 샘플 중지
+          if (window.currentSampleSound) {
+            try {
+              window.currentSampleSound.stopAsync().catch(() => {});
+              window.currentSampleSound.unloadAsync().catch(() => {});
+              window.currentSampleSound = null;
+              console.log('🛑 Stopped voice sample sound');
+            } catch (error) {
+              console.log('🛑 Voice sample stop error:', error);
+            }
+          }
+          
+          if (window.currentSampleAudio) {
+            try {
+              window.currentSampleAudio.pause();
+              window.currentSampleAudio.currentTime = 0;
+              window.currentSampleAudio = null;
+              console.log('🛑 Stopped voice sample audio');
+            } catch (error) {
+              console.log('🛑 Voice sample audio stop error:', error);
+            }
+          }
+          
+          // 5. 음성 인식 중지
+          if (window.currentRecognition) {
+            try {
+              window.currentRecognition.stop();
+              window.currentRecognition = null;
+              console.log('🛑 Stopped web speech recognition');
+            } catch (error) {
+              console.log('🛑 Speech recognition stop error:', error);
+            }
+          }
+          
+          // 6. 미디어 레코더 중지
+          if (window.mediaRecorder && window.mediaRecorder.state === 'recording') {
+            try {
+              window.mediaRecorder.stop();
+              window.mediaRecorder = null;
+              console.log('🛑 Stopped media recorder');
+            } catch (error) {
+              console.log('🛑 Media recorder stop error:', error);
+            }
           }
         }
         
-        // 4. 음성 샘플 재생 중지
-        console.log('🔊 Stopping voice samples due to screen navigation...');
-        stopCurrentSample();
+        // 음성 샘플 재생 중지
+        try {
+          stopCurrentSample();
+          console.log('🛑 Stopped voice samples');
+        } catch (error) {
+          console.log('🛑 Voice sample stop error:', error);
+        }
         
-        // 4. 로딩 상태 초기화
+        // 상태 초기화
+        setIsSpeaking(false);
+        setIsRecording(false);
         setIsLoading(false);
         
-        console.log('✅ Audio cleanup completed');
+        console.log('✅ AIChatScreen cleanup completed - all audio stopped');
       };
     }, [isSpeaking, isRecording])
   );
