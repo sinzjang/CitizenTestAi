@@ -15,7 +15,7 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useFocusEffect } from '@react-navigation/native';
 import { Audio } from 'expo-av';
-import { Speech } from 'expo-speech';
+import * as Speech from 'expo-speech';
 import * as FileSystem from 'expo-file-system';
 // import * as SpeechRecognition from 'expo-speech-recognition'; // Expo Go에서 지원하지 않음
 // import Voice from '@react-native-voice/voice'; // 사용하지 않음
