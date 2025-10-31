@@ -249,9 +249,9 @@ export class NotificationManager {
           const isAllDays = reminder.days.length === 7 && [0,1,2,3,4,5,6].every(d => reminder.days.includes(d));
           if (isAllDays) {
             const trigger = {
+              type: Notifications.SchedulableTriggerInputTypes.DAILY,
               hour: reminder.hour,
               minute: reminder.minute,
-              second: 0,
               repeats: true,
             };
             const notifId = await Notifications.scheduleNotificationAsync({
@@ -273,10 +273,10 @@ export class NotificationManager {
             // Expo의 주간 반복 트리거 사용 (weekday: 1=Sun ... 7=Sat)
             const expoWeekday = dayId + 1; // 0~6(우리 기준) -> 1~7(Expo 기준)
             const trigger = {
+              type: Notifications.SchedulableTriggerInputTypes.WEEKLY,
               weekday: expoWeekday,
               hour: reminder.hour,
               minute: reminder.minute,
-              second: 0,
               repeats: true,
             };
 
@@ -400,6 +400,7 @@ export class NotificationManager {
           sound: true,
         },
         trigger: {
+          type: Notifications.SchedulableTriggerInputTypes.TIME_INTERVAL,
           seconds: 2, // 2초 후 발송
         },
       });
