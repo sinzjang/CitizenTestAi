@@ -44,13 +44,8 @@ export class NotificationManager {
   // 알림 권한 요청 (조용히, Alert 없이)
   static async requestPermissions(showAlert = false) {
     if (!NOTIFICATIONS_AVAILABLE) {
-      // 네이티브 빌드가 아닐 때는 조용히 실패
-      if (showAlert) {
-        Alert.alert(
-          'Native Build Required',
-          'Push notifications are only available in the native build version of this app. Please use the installed app from the App Store or build it locally with "npx expo run:android".'
-        );
-      }
+      // 네이티브 빌드가 아닐 때는 조용히 실패 (팝업 없음)
+      console.log('⚠️ Notifications not available in this environment');
       return false;
     }
     
@@ -384,10 +379,8 @@ export class NotificationManager {
   // 테스트 알림 (즉시 발송)
   static async sendTestNotification() {
     if (!NOTIFICATIONS_AVAILABLE) {
-      Alert.alert(
-        'Native Build Required',
-        'Push notifications are only available in the native build. This feature works in the installed app version.'
-      );
+      // 팝업 없이 조용히 실패
+      console.log('⚠️ Test notification not available in this environment');
       return false;
     }
     
