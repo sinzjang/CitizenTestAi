@@ -124,7 +124,13 @@ class I18nManager {
   // 번역 텍스트 가져오기
   t(key, params = {}) {
     try {
-      console.log('t() 함수 호출 - 키:', key, '현재 언어:', this.currentLanguage);
+      // 개발 모드에서만 로그 출력 (성능 개선)
+      const ENABLE_TRANSLATION_LOGS = false; // true로 변경하면 번역 로그 활성화
+      
+      if (__DEV__ && ENABLE_TRANSLATION_LOGS) {
+        console.log('t() 함수 호출 - 키:', key, '현재 언어:', this.currentLanguage);
+      }
+      
       const keys = key.split('.');
       let translation = this.translations[this.currentLanguage];
 
@@ -154,19 +160,25 @@ class I18nManager {
 
       // 여전히 없으면 키 자체 반환
       if (!translation) {
-        console.warn('번역 키를 찾을 수 없음:', key);
+        if (__DEV__) {
+          console.warn('번역 키를 찾을 수 없음:', key);
+        }
         return key;
       }
 
       // 번역이 객체인 경우 키 반환 (오류 방지)
       if (typeof translation === 'object') {
-        console.warn('번역 결과가 객체입니다:', key, translation);
+        if (__DEV__) {
+          console.warn('번역 결과가 객체입니다:', key, translation);
+        }
         return key;
       }
 
       // 번역이 문자열이 아닌 경우 문자열로 변환
       if (typeof translation !== 'string') {
-        console.warn('번역 결과가 문자열이 아닙니다:', key, typeof translation, translation);
+        if (__DEV__) {
+          console.warn('번역 결과가 문자열이 아닙니다:', key, typeof translation, translation);
+        }
         return String(translation);
       }
 
@@ -175,11 +187,15 @@ class I18nManager {
         const result = translation.replace(/\{(\w+)\}/g, (match, paramKey) => {
           return params[paramKey] !== undefined ? params[paramKey] : match;
         });
-        console.log('t() 번역 결과 (매개변수 치환):', result);
+        if (__DEV__ && ENABLE_TRANSLATION_LOGS) {
+          console.log('t() 번역 결과 (매개변수 치환):', result);
+        }
         return result;
       }
 
-      console.log('t() 번역 결과:', translation);
+      if (__DEV__ && ENABLE_TRANSLATION_LOGS) {
+        console.log('t() 번역 결과:', translation);
+      }
       return translation;
     } catch (error) {
       console.error('번역 오류:', error, 'key:', key);
