@@ -34,6 +34,10 @@ const AIInterviewScreen = ({ navigation, route }) => {
   const [showQuestionScript, setShowQuestionScript] = useState(false);
   const [speakButtonActive, setSpeakButtonActive] = useState(false);
   
+  // 화면 마운트 상태 추적 및 API 요청 취소를 위한 ref
+  const isMountedRef = useRef(true);
+  const abortControllerRef = useRef(null);
+  
   // 실시간 음성 인식 텍스트
   const [realtimeTranscript, setRealtimeTranscript] = useState('');
   const [isListening, setIsListening] = useState(false);
@@ -362,7 +366,16 @@ Use 75% as the threshold for correctness.`;
     setSpeakButtonActive(false);
     setIsLoading(true);
 
+    // 새로운 요청을 위한 AbortController 생성
+    abortControllerRef.current = new AbortController();
+
     try {
+      // 화면을 벗어났는지 확인
+      if (!isMountedRef.current) {
+        console.log('🛑 Screen unmounted - aborting interview response');
+        return;
+      }
+
       const interviewerPrompt = `You are an AI assistant simulating a naturalization interview. Your role is to act as a professional and friendly interviewer.
 
 Previous question context: "${currentQuestion}"
@@ -406,10 +419,17 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
           max_tokens: 80,
           temperature: 0.7,
         }),
+        signal: abortControllerRef.current.signal, // AbortController 시그널 추가
       });
 
       if (!apiResponse.ok) {
         throw new Error(`HTTP error! status: ${apiResponse.status}`);
+      }
+
+      // 화면을 벗어났는지 다시 확인
+      if (!isMountedRef.current) {
+        console.log('🛑 Screen unmounted after API response - aborting');
+        return;
       }
 
       const data = await apiResponse.json();
@@ -444,21 +464,37 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
         setCurrentQuestionOnly('');
       }
 
+      // 화면을 벗어났는지 다시 확인
+      if (!isMountedRef.current) {
+        console.log('🛑 Screen unmounted before TTS - aborting');
+        return;
+      }
+
       setCurrentQuestion(interviewerResponse);
       setShowQuestionScript(false);
 
       // TTS로 응답 읽기
-      if (ttsEnabled) {
+      if (ttsEnabled && isMountedRef.current) {
         await speakTextWithOpenAI(interviewerResponse);
-        setSpeakButtonActive(true);
-      } else {
+        if (isMountedRef.current) {
+          setSpeakButtonActive(true);
+        }
+      } else if (isMountedRef.current) {
         setSpeakButtonActive(true);
       }
 
     } catch (error) {
+      // AbortError는 정상적인 취소이므로 무시
+      if (error.name === 'AbortError') {
+        console.log('🛑 API request aborted - screen was left');
+        return;
+      }
+      
       console.error('🎤 Interview response error:', error);
-      Alert.alert('오류', '면접관 응답을 받을 수 없습니다: ' + error.message);
-      setSpeakButtonActive(true);
+      if (isMountedRef.current) {
+        Alert.alert('오류', '면접관 응답을 받을 수 없습니다: ' + error.message);
+        setSpeakButtonActive(true);
+      }
     } finally {
       setIsLoading(false);
     }
@@ -1612,6 +1648,9 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
     useCallback(() => {
       console.log('🔄 AIInterviewScreen focused - initializing...');
       
+      // 화면 마운트 상태를 true로 설정
+      isMountedRef.current = true;
+      
       // 화면 진입 시 모든 이전 오디오 중지
       const cleanupPreviousAudio = async () => {
         console.log('🔊 Cleaning up all previous audio on screen entry...');
@@ -1672,6 +1711,16 @@ Format: ${interviewStage === 'smalltalk' ? '[Brief acknowledgment]. [Question]?'
       
       return async () => {
         console.log('🔄 AIInterviewScreen unfocused - cleaning up...');
+        
+        // 화면 마운트 상태를 false로 설정
+        isMountedRef.current = false;
+        
+        // 진행 중인 API 요청 취소
+        if (abortControllerRef.current) {
+          console.log('🛑 Aborting ongoing API request...');
+          abortControllerRef.current.abort();
+          abortControllerRef.current = null;
+        }
         
         // 즉시 모든 오디오 중지 (화면을 벗어날 때)
         console.log('🛑 Stopping all audio immediately...');

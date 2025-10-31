@@ -41,6 +41,10 @@ const AIChatScreen = ({ navigation }) => {
   
   const scrollViewRef = useRef();
   const tutorIntervalRef = useRef(null);
+  
+  // 화면 마운트 상태 추적 및 API 요청 취소를 위한 ref
+  const isMountedRef = useRef(true);
+  const abortControllerRef = useRef(null);
 
   // OpenAI TTS 음성 옵션 (실제 사람 이름으로 변경)
   const openaiVoices = [
@@ -1035,9 +1039,22 @@ const AIChatScreen = ({ navigation }) => {
     useCallback(() => {
       console.log('🔄 AIChatScreen focused - initializing...');
       
+      // 화면 마운트 상태를 true로 설정
+      isMountedRef.current = true;
+      
       // 화면을 벗어날 때 실행되는 cleanup 함수
       return () => {
         console.log('🔄 AIChatScreen unfocused - cleaning up all audio...');
+        
+        // 화면 마운트 상태를 false로 설정
+        isMountedRef.current = false;
+        
+        // 진행 중인 API 요청 취소
+        if (abortControllerRef.current) {
+          console.log('🛑 Aborting ongoing API request...');
+          abortControllerRef.current.abort();
+          abortControllerRef.current = null;
+        }
         
         // 즉시 모든 오디오 중지 (화면을 벗어날 때)
         console.log('🛑 Stopping all audio immediately...');
