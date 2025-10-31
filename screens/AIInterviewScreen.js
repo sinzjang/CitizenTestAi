@@ -232,6 +232,12 @@ Use 75% as the threshold for correctness.`;
       return;
     }
 
+    // 화면을 벗어났는지 확인
+    if (!isMountedRef.current) {
+      console.log('🛑 Screen unmounted - skipping TTS');
+      return;
+    }
+
     try {
       setIsSpeaking(true);
       console.log('🔊 Starting OpenAI TTS...');
@@ -254,8 +260,21 @@ Use 75% as the threshold for correctness.`;
         throw new Error(`OpenAI TTS API error! status: ${response.status}`);
       }
 
+      // 화면을 벗어났는지 다시 확인
+      if (!isMountedRef.current) {
+        console.log('🛑 Screen unmounted after TTS API response - aborting');
+        return;
+      }
+
       const audioBlob = await response.blob();
       console.log('🔊 ✅ OpenAI TTS API response received');
+
+      // 오디오 재생 직전에 다시 확인
+      if (!isMountedRef.current) {
+        console.log('🛑 Screen unmounted before audio playback - aborting');
+        setIsSpeaking(false);
+        return;
+      }
 
       // 플랫폼별 재생 처리
       if (Platform.OS === 'web') {
@@ -269,7 +288,9 @@ Use 75% as the threshold for correctness.`;
         
         audio.onended = () => {
           console.log('🔊 ✅ OpenAI TTS playback completed on web');
-          setIsSpeaking(false);
+          if (isMountedRef.current) {
+            setIsSpeaking(false);
+          }
           if (typeof window !== 'undefined') {
             window.currentAudio = null;
           }
@@ -293,6 +314,13 @@ Use 75% as the threshold for correctness.`;
           reader.readAsDataURL(audioBlob);
           const base64Audio = await base64Promise;
           
+          // base64 변환 후에도 확인
+          if (!isMountedRef.current) {
+            console.log('🛑 Screen unmounted after base64 conversion - aborting');
+            setIsSpeaking(false);
+            return;
+          }
+          
           await Audio.setAudioModeAsync({
             allowsRecordingIOS: false,
             staysActiveInBackground: false,
@@ -312,7 +340,9 @@ Use 75% as the threshold for correctness.`;
           sound.setOnPlaybackStatusUpdate((status) => {
             if (status.didJustFinish) {
               console.log('🔊 ✅ OpenAI TTS playback completed on mobile');
-              setIsSpeaking(false);
+              if (isMountedRef.current) {
+                setIsSpeaking(false);
+              }
               sound.unloadAsync();
               if (typeof window !== 'undefined') {
                 window.currentExpoSound = null;
