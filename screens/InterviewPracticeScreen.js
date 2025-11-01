@@ -29,6 +29,7 @@ const InterviewPracticeScreen = ({ navigation }) => {
   const [interviewDate, setInterviewDate] = useState(null);
   const [studyStartDate, setStudyStartDate] = useState(null);
   const [progressPercentage, setProgressPercentage] = useState(0);
+  const [notificationEnabled, setNotificationEnabled] = useState(false);
   const scrollViewRef = React.useRef(null);
   const sectionRefs = React.useRef({});
 
@@ -36,13 +37,15 @@ const InterviewPracticeScreen = ({ navigation }) => {
     checkPremiumStatus();
     checkLocationSettings();
     loadInterviewDate();
+    loadNotificationStatus();
   }, []);
 
-  // 화면 포커스 시 인터뷰 날짜 새로고침
+  // 화면 포커스 시 인터뷰 날짜 및 알림 상태 새로고침
   useFocusEffect(
     React.useCallback(() => {
       const refreshData = async () => {
         await loadInterviewDate();
+        await loadNotificationStatus();
       };
       refreshData();
     }, [])
@@ -90,6 +93,18 @@ const InterviewPracticeScreen = ({ navigation }) => {
       }
     } catch (error) {
       console.error('인터뷰 날짜 로드 오류:', error);
+    }
+  };
+
+  const loadNotificationStatus = async () => {
+    try {
+      const settings = await AsyncStorage.getItem('@notification_settings');
+      if (settings) {
+        const parsed = JSON.parse(settings);
+        setNotificationEnabled(parsed.enabled || false);
+      }
+    } catch (error) {
+      console.error('알림 설정 로드 오류:', error);
     }
   };
 
@@ -431,6 +446,12 @@ const InterviewPracticeScreen = ({ navigation }) => {
           activeOpacity={0.7}
         >
           <Ionicons 
+            name={notificationEnabled ? "notifications" : "notifications-outline"} 
+            size={16} 
+            color={notificationEnabled ? "#FF9800" : "#999"} 
+            style={styles.notificationIcon}
+          />
+          <Ionicons 
             name="calendar-outline" 
             size={16} 
             color="#2E86AB" 
@@ -701,6 +722,12 @@ const styles = StyleSheet.create({
     borderColor: '#e9ecef',
     ...theme.shadows.sm,
     position: 'relative',
+  },
+  notificationIcon: {
+    position: 'absolute',
+    top: 8,
+    left: 8,
+    zIndex: 1,
   },
   calendarIcon: {
     position: 'absolute',
