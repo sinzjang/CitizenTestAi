@@ -26,6 +26,7 @@
   "studyCalendar": {
     "title": "학습 캘린더",
     "infoMessage": "설정에서 면접 날짜를 설정할 수 있습니다",
+    "tapToComplete": "날짜를 터치하여 완료 표시를 할 수 있습니다",
     "dailyProgress": "일일 진행 상황",
     "noActivity": "이 날에는 학습 활동이 없습니다",
     "learn": "학습",

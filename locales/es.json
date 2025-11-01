@@ -25,7 +25,8 @@
   },
   "studyCalendar": {
     "title": "Calendario de Estudio",
-    "infoMessage": "Puede configurar su fecha de entrevista en Configuración",
+    "infoMessage": "Puedes configurar tu fecha de entrevista en Configuración",
+    "tapToComplete": "Toca cualquier fecha para marcarla como completa",
     "dailyProgress": "Progreso Diario",
     "noActivity": "No hay actividad de estudio en este día",
     "learn": "Aprender",

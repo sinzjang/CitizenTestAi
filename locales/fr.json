@@ -26,6 +26,7 @@
   "studyCalendar": {
     "title": "Calendrier d'Étude",
     "infoMessage": "Vous pouvez définir votre date d'entretien dans les Paramètres",
+    "tapToComplete": "Appuyez sur n'importe quelle date pour la marquer comme terminée",
     "dailyProgress": "Progrès Quotidien",
     "noActivity": "Aucune activité d'étude ce jour-là",
     "learn": "Apprendre",

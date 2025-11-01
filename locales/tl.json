@@ -26,6 +26,7 @@
   "studyCalendar": {
     "title": "Kalendaryo ng Pag-aaral",
     "infoMessage": "Pwede ninyong i-set ang petsa ng interview sa Settings",
+    "tapToComplete": "I-tap ang kahit anong petsa para markahan bilang tapos",
     "dailyProgress": "Araw-araw na Progreso",
     "noActivity": "Walang aktibidad sa pag-aaral sa araw na ito",
     "learn": "Mag-aral",

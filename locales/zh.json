@@ -26,6 +26,7 @@
   "studyCalendar": {
     "title": "学习日历",
     "infoMessage": "您可以在设置中设置面试日期",
+    "tapToComplete": "点击任意日期标记为完成",
     "dailyProgress": "每日进度",
     "noActivity": "这一天没有学习活动",
     "learn": "学习",

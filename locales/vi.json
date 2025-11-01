@@ -26,6 +26,7 @@
   "studyCalendar": {
     "title": "Lịch Học tập",
     "infoMessage": "Bạn có thể đặt ngày phỏng vấn trong Cài đặt",
+    "tapToComplete": "Chạm vào bất kỳ ngày nào để đánh dấu là hoàn thành",
     "dailyProgress": "Tiến độ Hàng ngày",
     "noActivity": "Không có hoạt động học tập trong ngày này",
     "learn": "Học",

@@ -26,6 +26,7 @@
   "studyCalendar": {
     "title": "Study Calendar",
     "infoMessage": "You can set your interview date in Settings",
+    "tapToComplete": "Tap any date to mark it as complete",
     "dailyProgress": "Daily Progress",
     "noActivity": "No study activity on this day",
     "learn": "Learn",

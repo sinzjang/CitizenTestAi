@@ -283,9 +283,14 @@ const StudyCalendar = () => {
       {/* 안내 메시지 */}
       <View style={styles.infoMessage}>
         <Ionicons name="information-circle-outline" size={16} color="#666" />
-        <Text style={styles.infoText}>
-          {t('studyCalendar.infoMessage')}
-        </Text>
+        <View style={styles.infoTextContainer}>
+          <Text style={styles.infoText}>
+            {t('studyCalendar.infoMessage')}
+          </Text>
+          <Text style={styles.infoText}>
+            {t('studyCalendar.tapToComplete')}
+          </Text>
+        </View>
       </View>
     </View>
   );
@@ -430,16 +435,21 @@ const styles = StyleSheet.create({
   },
   infoMessage: {
     flexDirection: 'row',
-    alignItems: 'center',
+    alignItems: 'flex-start',
     justifyContent: 'center',
     paddingHorizontal: theme.spacing.lg,
     paddingVertical: theme.spacing.sm,
+    gap: 8,
+  },
+  infoTextContainer: {
+    flex: 1,
     gap: 4,
   },
   infoText: {
     fontSize: theme.typography.sizes.xs,
     color: '#666',
     fontStyle: 'italic',
+    lineHeight: 16,
   },
 });
 
