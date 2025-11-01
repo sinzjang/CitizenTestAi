@@ -18,10 +18,6 @@ const CELL_SIZE = width / 7; // 7 days per week, 전체 너비 사용
 const StudyCalendar = () => {
   const [currentDate, setCurrentDate] = useState(new Date());
   const [studyData, setStudyData] = useState({});
-  const [currentStreak, setCurrentStreak] = useState(0);
-  const [longestStreak, setLongestStreak] = useState(0);
-  const [selectedDate, setSelectedDate] = useState(null);
-  const [selectedDateData, setSelectedDateData] = useState(null);
   const [studyStartDate, setStudyStartDate] = useState(null);
   const [interviewDate, setInterviewDate] = useState(null);
   const [currentLanguage, setCurrentLanguage] = useState(getCurrentLanguage());
@@ -47,41 +43,12 @@ const StudyCalendar = () => {
   const loadStudyData = async () => {
     try {
       const data = await AsyncStorage.getItem('@study_calendar');
-      const streakData = await AsyncStorage.getItem('@study_streaks');
       
       if (data) {
         const parsed = JSON.parse(data);
-        // 오늘 날짜 데이터는 무조건 제거하여 더미 히스토리 표시를 방지
-        const today = new Date();
-        const todayKey = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
-        if (parsed[todayKey]) {
-          delete parsed[todayKey];
-        }
-        // 모든 날짜에 대해 더미 패턴(예: 25/8/1 조합)을 일괄 제거
-        const keys = Object.keys(parsed);
-        let removed = false;
-        for (const k of keys) {
-          const e = parsed[k];
-          const a = e?.activities || {};
-          const isDummy = (
-            (a.aiTutorMinutes === 8 && a.mockInterviews === 1 && (a.flashcards === 25 || a.questions === 25 || a.questions === 15)) ||
-            (e?.completed === true && a.questions === 25 && a.aiTutorMinutes === 8 && a.mockInterviews === 1)
-          );
-          if (isDummy) { delete parsed[k]; removed = true; }
-        }
-        if (removed || parsed[todayKey] === undefined) {
-          await AsyncStorage.setItem('@study_calendar', JSON.stringify(parsed));
-        }
         setStudyData(parsed);
       } else {
-        // 더미 생성 없이 빈 데이터로 시작
         setStudyData({});
-      }
-      
-      if (streakData) {
-        const streaks = JSON.parse(streakData);
-        setCurrentStreak(streaks.current || 0);
-        setLongestStreak(streaks.longest || 0);
       }
     } catch (error) {
       console.error('달력 데이터 로드 오류:', error);
@@ -323,110 +290,18 @@ const StudyCalendar = () => {
           {t('studyCalendar.infoMessage')}
         </Text>
       </View>
-
-      {/* Daily Progress Section */}
-      {selectedDate && (
-        <View style={styles.progressSection}>
-          <View style={styles.progressHeader}>
-            <Text style={styles.progressTitle}>
-              {currentDate.toLocaleString('en-US', { month: 'short' })} {selectedDate}, {currentDate.getFullYear()}
-            </Text>
-            <Text style={styles.progressSubtitle}>{t('studyCalendar.dailyProgress')}</Text>
-          </View>
-
-          {selectedDateData ? (
-            <View style={styles.progressList}>
-              <View style={styles.progressItem}>
-                <View style={styles.progressIconContainer}>
-                  <Ionicons name="book" size={20} color="#2E86AB" />
-                </View>
-                <View style={styles.progressTextContainer}>
-                  <Text style={styles.progressLabel}>{t('studyCalendar.learn')}</Text>
-                  <Text style={styles.progressValue}>
-                    {selectedDateData.activities.questions > 0 ? t('studyCalendar.completed') : t('studyCalendar.notStarted')}
-                  </Text>
-                </View>
-              </View>
-
-              <View style={styles.progressItem}>
-                <View style={styles.progressIconContainer}>
-                  <Ionicons name="albums" size={20} color="#28a745" />
-                </View>
-                <View style={styles.progressTextContainer}>
-                  <Text style={styles.progressLabel}>{t('studyCalendar.reviewFlashcard')}</Text>
-                  <Text style={styles.progressValue}>
-                    {selectedDateData.activities.flashcards} {t('studyCalendar.questions')}
-                  </Text>
-                </View>
-              </View>
-
-              <View style={styles.progressItem}>
-                <View style={styles.progressIconContainer}>
-                  <Ionicons name="chatbubbles" size={20} color="#ff9800" />
-                </View>
-                <View style={styles.progressTextContainer}>
-                  <Text style={styles.progressLabel}>{t('studyCalendar.aiTutor')}</Text>
-                  <Text style={styles.progressValue}>
-                    {selectedDateData.activities.aiTutorMinutes} {t('studyCalendar.minutes')}
-                  </Text>
-                </View>
-              </View>
-
-              <View style={styles.progressItem}>
-                <View style={styles.progressIconContainer}>
-                  <Ionicons name="mic" size={20} color="#e91e63" />
-                </View>
-                <View style={styles.progressTextContainer}>
-                  <Text style={styles.progressLabel}>{t('studyCalendar.mockInterview')}</Text>
-                  <Text style={styles.progressValue}>
-                    {selectedDateData.activities.mockInterviews} {selectedDateData.activities.mockInterviews !== 1 ? t('studyCalendar.interviews') : t('studyCalendar.interview')}
-                  </Text>
-                </View>
-              </View>
-            </View>
-          ) : (
-            <View style={styles.noDataContainer}>
-              <Text style={styles.noDataText}>{t('studyCalendar.noActivity')}</Text>
-            </View>
-          )}
-        </View>
-      )}
     </View>
   );
 };
 
 const styles = StyleSheet.create({
   container: {
+    flex: 1,
     backgroundColor: '#FFFFFF',
     borderTopWidth: 1,
     borderBottomWidth: 1,
     borderTopColor: '#e9ecef',
     borderBottomColor: '#e9ecef',
-  },
-  streakContainer: {
-    flexDirection: 'row',
-    justifyContent: 'space-around',
-    marginBottom: theme.spacing.lg,
-    paddingBottom: theme.spacing.lg,
-    borderBottomWidth: 1,
-    borderBottomColor: '#e9ecef',
-  },
-  streakBox: {
-    alignItems: 'center',
-  },
-  streakEmoji: {
-    fontSize: 32,
-    marginBottom: 4,
-  },
-  streakNumber: {
-    fontSize: 24,
-    fontWeight: theme.typography.weights.bold,
-    color: '#2E86AB',
-  },
-  streakLabel: {
-    fontSize: theme.typography.sizes.sm,
-    color: theme.colors.text.secondary,
-    marginTop: 4,
   },
   header: {
     flexDirection: 'row',
@@ -577,70 +452,6 @@ const styles = StyleSheet.create({
   infoText: {
     fontSize: theme.typography.sizes.xs,
     color: '#666',
-    fontStyle: 'italic',
-  },
-  // Progress Section Styles
-  progressSection: {
-    borderTopWidth: 1,
-    borderTopColor: '#e9ecef',
-    paddingHorizontal: theme.spacing.lg,
-    paddingVertical: theme.spacing.lg,
-    backgroundColor: '#fafafa',
-  },
-  progressHeader: {
-    marginBottom: theme.spacing.md,
-  },
-  progressTitle: {
-    fontSize: theme.typography.sizes.lg,
-    fontWeight: theme.typography.weights.bold,
-    color: theme.colors.text.primary,
-    marginBottom: 4,
-  },
-  progressSubtitle: {
-    fontSize: theme.typography.sizes.sm,
-    color: theme.colors.text.secondary,
-  },
-  progressList: {
-    gap: theme.spacing.sm,
-  },
-  progressItem: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    backgroundColor: '#FFFFFF',
-    padding: theme.spacing.md,
-    borderRadius: theme.borderRadius.md,
-    borderWidth: 1,
-    borderColor: '#e9ecef',
-  },
-  progressIconContainer: {
-    width: 40,
-    height: 40,
-    borderRadius: 20,
-    backgroundColor: '#f8f9fa',
-    alignItems: 'center',
-    justifyContent: 'center',
-    marginRight: theme.spacing.md,
-  },
-  progressTextContainer: {
-    flex: 1,
-  },
-  progressLabel: {
-    fontSize: theme.typography.sizes.sm,
-    color: theme.colors.text.secondary,
-    marginBottom: 2,
-  },
-  progressValue: {
-    fontSize: theme.typography.sizes.md,
-    fontWeight: theme.typography.weights.semibold,
-    color: theme.colors.text.primary,
-  },
-  noDataContainer: {
-    padding: theme.spacing.xl,
-    alignItems: 'center',
-  },
-  noDataText: {
-    fontSize: theme.typography.sizes.md,
-    color: theme.colors.text.secondary,
     fontStyle: 'italic',
   },
 });
