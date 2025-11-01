@@ -163,14 +163,37 @@ const StudyCalendar = () => {
     return checkDate > today;
   };
 
-  // 날짜 클릭 핸들러
-  const handleDatePress = (day) => {
+  // 날짜 클릭 핸들러 - 완료 상태 토글
+  const handleDatePress = async (day) => {
+    if (!day) return;
+    
     const dateKey = getDateKey(day);
-    const data = studyData[dateKey];
-    const today = isToday(day);
-    // 오늘 날짜는 어떤 더미/실데이터라도 상세 표시를 억제
-    setSelectedDate(day);
-    setSelectedDateData(today ? null : (data || null));
+    const newStudyData = { ...studyData };
+    
+    // 현재 완료 상태 확인
+    const isCompleted = newStudyData[dateKey]?.completed || false;
+    
+    // 토글: 완료 <-> 미완료
+    if (isCompleted) {
+      // 완료 상태 제거
+      delete newStudyData[dateKey];
+    } else {
+      // 완료 상태로 설정
+      newStudyData[dateKey] = {
+        completed: true,
+        date: dateKey
+      };
+    }
+    
+    // 상태 업데이트
+    setStudyData(newStudyData);
+    
+    // AsyncStorage에 저장
+    try {
+      await AsyncStorage.setItem('@study_calendar', JSON.stringify(newStudyData));
+    } catch (error) {
+      console.error('캘린더 데이터 저장 오류:', error);
+    }
   };
 
   // 특정 날짜가 시작 날짜인지 확인
@@ -199,8 +222,8 @@ const StudyCalendar = () => {
 
     const dateKey = getDateKey(day);
     const today = isToday(day);
-    // 오늘 날짜에는 스탬프를 표시하지 않음
-    const hasStamp = !today && (studyData[dateKey]?.completed || false);
+    // 완료 상태 확인 (모든 날짜에 표시 가능)
+    const hasStamp = studyData[dateKey]?.completed || false;
     const future = isFuture(day);
     const isSelected = selectedDate === day;
     const isStart = isStartDate(day);
@@ -215,7 +238,7 @@ const StudyCalendar = () => {
           isSelected && styles.selectedCell,
         ]}
         onPress={() => handleDatePress(day)}
-        disabled={future}
+        disabled={false}
       >
         <View style={styles.dayCellContent}>
           {/* 상단 배지 */}
