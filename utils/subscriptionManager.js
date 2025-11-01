@@ -72,8 +72,9 @@ export class SubscriptionManager {
   // 구독 상태 확인 (RevenueCat + 친구 권한 + Admin 모드 + 개발 모드 포함)
   static async checkSubscriptionStatus() {
     try {
-      // 0. 개발 모드에서는 자동으로 Premium 활성화
-      if (__DEV__) {
+      // 0. 개발 모드에서는 자동으로 Premium 활성화 (광고 테스트 시 false로 변경)
+      const ENABLE_DEV_PREMIUM = false; // true: 프리미엄 활성화, false: 광고 테스트
+      if (__DEV__ && ENABLE_DEV_PREMIUM) {
         console.log('[SubscriptionManager] 개발 모드 - 프리미엄 자동 활성화');
         return true;
       }
