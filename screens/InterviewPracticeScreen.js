@@ -726,7 +726,7 @@ const styles = StyleSheet.create({
   notificationIcon: {
     position: 'absolute',
     top: 8,
-    left: 8,
+    right: 32,
     zIndex: 1,
   },
   calendarIcon: {

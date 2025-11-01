@@ -532,110 +532,25 @@ const ResourcesScreen = ({ navigation }) => {
 
         {/* Premium Subscription Section - Modern Design */}
         <View style={styles.premiumSection}>
-          {/* Hero Image */}
-          <View style={styles.heroImageContainer}>
-            <Image 
-              source={require('../assets/imgs/Amarica_want_you_with_bg.jpg')}
-              style={styles.heroImage}
-              resizeMode="cover"
-            />
-            <View style={styles.heroOverlay}>
-              <Text style={styles.heroTextAmerica}>AMERICA</Text>
-              <View style={styles.heroTextRow}>
-                <Text style={styles.heroTextWants}>WANTS </Text>
-                <Text style={styles.heroTextYou}>YOU</Text>
-              </View>
-            </View>
-          </View>
-
-          {/* Tagline */}
-          <Text style={styles.tagline}>"We support your success in Citizenship Interview"</Text>
-
-          {/* Premium Features */}
-          <View style={styles.featuresContainer}>
-            <Text style={styles.featuresTitle}>Premium Features</Text>
-            
-            <View style={styles.featureItem}>
-              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
-              <View style={styles.featureTextContainer}>
-                <Text style={styles.featureTitle}>Effective Memorization</Text>
-                <Text style={styles.featureDescription}>Random flashcards for better retention</Text>
-              </View>
-            </View>
-
-            <View style={styles.featureItem}>
-              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
-              <View style={styles.featureTextContainer}>
-                <Text style={styles.featureTitle}>Driving Mode</Text>
-                <Text style={styles.featureDescription}>Hands-free learning while commuting</Text>
-              </View>
-            </View>
-
-            <View style={styles.featureItem}>
-              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
-              <View style={styles.featureTextContainer}>
-                <Text style={styles.featureTitle}>AI Interview Practice</Text>
-                <Text style={styles.featureDescription}>Real-time conversation with AI interviewer</Text>
-              </View>
-            </View>
-
-            <View style={styles.featureItem}>
-              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
-              <View style={styles.featureTextContainer}>
-                <Text style={styles.featureTitle}>Weakness Quiz Management</Text>
-                <Text style={styles.featureDescription}>Focus on questions you struggle with</Text>
-              </View>
-            </View>
-
-            <View style={styles.featureItem}>
-              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
-              <View style={styles.featureTextContainer}>
-                <Text style={styles.featureTitle}>Ad-Free Experience</Text>
-                <Text style={styles.featureDescription}>Uninterrupted learning sessions</Text>
-              </View>
-            </View>
-
-            <View style={styles.featureItem}>
-              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
-              <View style={styles.featureTextContainer}>
-                <Text style={styles.featureTitle}>Story Mode</Text>
-                <Text style={styles.featureDescription}>Learn through engaging narratives</Text>
-              </View>
-            </View>
-
-            <View style={styles.featureItem}>
-              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
-              <View style={styles.featureTextContainer}>
-                <Text style={styles.featureTitle}>Progress Tracking</Text>
-                <Text style={styles.featureDescription}>Monitor your preparation journey</Text>
-              </View>
-            </View>
-
-            <View style={styles.featureItem}>
-              <Ionicons name="checkmark-circle" size={28} color="#28a745" />
-              <View style={styles.featureTextContainer}>
-                <Text style={styles.featureTitle}>Offline Access</Text>
-                <Text style={styles.featureDescription}>Study anytime, anywhere</Text>
-              </View>
-            </View>
-          </View>
-
-          {/* AI Cost Notice */}
-          <View style={styles.aiCostNotice}>
-            <Ionicons name="information-circle" size={20} color="#2E86AB" />
-            <Text style={styles.aiCostText}>
-              💡 The developer covers all AI usage costs (OpenAI API) for premium members. Your support helps maintain this service.
-            </Text>
-          </View>
-
           {/* Current Status */}
           {subscriptionDetails && (
-            <View style={styles.statusContainer}>
+            <TouchableOpacity 
+              style={styles.statusContainer}
+              onPress={() => {
+                if (subscriptionDetails.status === 'Free') {
+                  navigation.navigate('Subscription');
+                }
+              }}
+              activeOpacity={subscriptionDetails.status === 'Free' ? 0.7 : 1}
+            >
               <View style={styles.statusRow}>
                 <Text style={styles.statusLabel}>Current Status:</Text>
                 <View style={[styles.statusBadge, { backgroundColor: subscriptionDetails.statusColor }]}>
                   <Text style={styles.statusBadgeText}>{subscriptionDetails.status}</Text>
                 </View>
+                {subscriptionDetails.status === 'Free' && (
+                  <Ionicons name="chevron-forward" size={20} color="#999" style={{ marginLeft: 8 }} />
+                )}
               </View>
               
               {subscriptionDetails.expiryDate && (
@@ -644,7 +559,7 @@ const ResourcesScreen = ({ navigation }) => {
                   <Text style={styles.statusDetailText}>Days remaining: {subscriptionDetails.daysRemaining}</Text>
                 </View>
               )}
-            </View>
+            </TouchableOpacity>
           )}
 
           {/* Action Buttons */}
@@ -1378,6 +1293,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#f8f9fa',
     padding: 16,
     marginHorizontal: 20,
+    marginTop: 24,
     marginBottom: 20,
     borderRadius: 12,
     borderWidth: 1,

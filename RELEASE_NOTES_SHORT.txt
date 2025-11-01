@@ -1,0 +1,18 @@
+Version 1.0.8 - Study Reminder Update
+
+NEW FEATURES:
+• Daily Study Reminders - Set custom notification times to stay on track
+• Flexible scheduling - Choose specific days and multiple reminder times
+• Study Calendar integration - Manage your study schedule in one place
+
+IMPROVEMENTS:
+• Enhanced notification reliability
+• Better app performance
+• Improved AI response handling
+
+BUG FIXES:
+• Fixed AI continuing after leaving screen
+• Resolved audio playback issues
+• Improved notification scheduling
+
+Stay consistent with your citizenship test preparation! 🇺🇸

@@ -3,7 +3,6 @@ import {
   View,
   Text,
   StyleSheet,
-  SafeAreaView,
   TouchableOpacity,
   ScrollView,
   Modal,
@@ -14,11 +13,11 @@ import {
   TextInput,
   Animated,
 } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { theme } from '../styles/theme';
 import StudyCalendar from '../components/StudyCalendar';
 import { t, getCurrentLanguage, addLanguageChangeListener, removeLanguageChangeListener } from '../utils/i18n';
-import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { NotificationManager } from '../utils/notificationManager';
 
 console.warn('🔴🔴🔴 StudyCalendarScreen.js FILE LOADED 🔴🔴🔴');
@@ -40,7 +39,8 @@ const ReminderCard = ({
   editingTitle,
   setEditingTitle,
   updateReminderTitle,
-  toggleAmPm
+  toggleAmPm,
+  toggleReminderEnabled
 }) => {
   const animatedHeight = useRef(new Animated.Value(reminder.showDays ? 1 : 0)).current;
   
@@ -68,14 +68,26 @@ const ReminderCard = ({
     outputRange: [0, 40],
   });
 
+  const isEnabled = reminder.enabled !== false; // 기본값 true
+  
   return (
-    <View style={styles.reminderCard}>
+    <View style={[styles.reminderCard, !isEnabled && styles.reminderCardDisabled]}>
       {/* Header */}
       <View style={styles.reminderHeader}>
         <View style={styles.titleContainer}>
+          <TouchableOpacity 
+            style={styles.statusIndicator}
+            onPress={() => toggleReminderEnabled(reminder.id)}
+          >
+            <Ionicons 
+              name={isEnabled ? "checkmark-circle" : "checkmark-circle-outline"} 
+              size={20} 
+              color={isEnabled ? "#28a745" : "#999"} 
+            />
+          </TouchableOpacity>
           {editingTitle === reminder.id ? (
             <TextInput
-              style={styles.titleInput}
+              style={[styles.titleInput, !isEnabled && styles.titleInputDisabled]}
               value={reminder.title}
               onChangeText={(text) => updateReminderTitle(reminder.id, text)}
               onBlur={() => setEditingTitle(null)}
@@ -84,29 +96,27 @@ const ReminderCard = ({
               maxLength={20}
             />
           ) : (
-            <Text style={styles.reminderTitle}>{reminder.title}</Text>
+            <Text style={[styles.reminderTitle, !isEnabled && styles.reminderTitleDisabled]}>{reminder.title}</Text>
           )}
+        </View>
+        <View style={styles.reminderActions}>
           <TouchableOpacity 
             style={styles.editTitleButton}
             onPress={() => setEditingTitle(reminder.id)}
           >
-            <Ionicons name="pencil-outline" size={16} color="#2E86AB" />
+            <Ionicons name="pencil-outline" size={18} color={isEnabled ? "#2E86AB" : "#999"} />
           </TouchableOpacity>
-        </View>
-        <View style={styles.reminderActions}>
-          {reminders.length > 1 && (
-            <TouchableOpacity 
-              style={styles.actionButton}
-              onPress={() => removeReminder(reminder.id)}
-            >
-              <Ionicons name="trash-outline" size={20} color="#e74c3c" />
-            </TouchableOpacity>
-          )}
+          <TouchableOpacity 
+            style={styles.actionButton}
+            onPress={() => removeReminder(reminder.id)}
+          >
+            <Ionicons name="trash-outline" size={18} color="#e74c3c" />
+          </TouchableOpacity>
         </View>
       </View>
 
       {/* Time Display with Repeat Button */}
-      <View style={styles.timeRow}>
+      <View style={[styles.timeRow, !isEnabled && styles.timeRowDisabled]}>
         <View style={styles.timeDisplay}>
           <TouchableOpacity onPress={() => handleTimePress(reminder.id, 'hour')}>
             {editingTime?.reminderId === reminder.id && editingTime?.field === 'hour' ? (
@@ -124,11 +134,11 @@ const ReminderCard = ({
                 maxFontSizeMultiplier={1}
               />
             ) : (
-              <Text style={styles.timeText}>{getDisplayHour().toString().padStart(2, '0')}</Text>
+              <Text style={[styles.timeText, !isEnabled && styles.timeTextDisabled]}>{getDisplayHour().toString().padStart(2, '0')}</Text>
             )}
           </TouchableOpacity>
           
-          <Text style={styles.timeColon}>:</Text>
+          <Text style={[styles.timeColon, !isEnabled && styles.timeTextDisabled]}>:</Text>
           
           <TouchableOpacity onPress={() => handleTimePress(reminder.id, 'minute')}>
             {editingTime?.reminderId === reminder.id && editingTime?.field === 'minute' ? (
@@ -146,12 +156,12 @@ const ReminderCard = ({
                 maxFontSizeMultiplier={1}
               />
             ) : (
-              <Text style={styles.timeText}>{reminder.minute.toString().padStart(2, '0')}</Text>
+              <Text style={[styles.timeText, !isEnabled && styles.timeTextDisabled]}>{reminder.minute.toString().padStart(2, '0')}</Text>
             )}
           </TouchableOpacity>
           
           <TouchableOpacity 
-            style={styles.amPmButton}
+            style={[styles.amPmButton, !isEnabled && styles.amPmButtonDisabled]}
             onPress={() => toggleAmPm(reminder.id)}
           >
             <Text style={styles.amPmText}>{getAmPm()}</Text>
@@ -161,14 +171,15 @@ const ReminderCard = ({
         <TouchableOpacity 
           style={[
             styles.repeatButton,
-            reminder.showDays && styles.repeatButtonActive
+            reminder.showDays && styles.repeatButtonActive,
+            !isEnabled && styles.repeatButtonDisabled
           ]}
           onPress={() => toggleShowDays(reminder.id)}
         >
           <Ionicons 
             name={reminder.showDays ? "repeat" : "repeat-outline"} 
             size={16} 
-            color={reminder.showDays ? "#fff" : "#666"} 
+            color={!isEnabled ? "#ccc" : (reminder.showDays ? "#fff" : "#666")} 
           />
         </TouchableOpacity>
       </View>
@@ -181,13 +192,15 @@ const ReminderCard = ({
               key={day.id}
               style={[
                 styles.dayButton,
-                reminder.days.includes(day.id) && styles.dayButtonActive
+                reminder.days.includes(day.id) && styles.dayButtonActive,
+                !isEnabled && styles.dayButtonDisabled
               ]}
               onPress={() => toggleReminderDay(reminder.id, day.id)}
             >
               <Text style={[
                 styles.dayButtonText,
-                reminder.days.includes(day.id) && styles.dayButtonTextActive
+                reminder.days.includes(day.id) && styles.dayButtonTextActive,
+                !isEnabled && styles.dayButtonTextDisabled
               ]}>
                 {day.label}
               </Text>
@@ -203,12 +216,11 @@ const StudyCalendarScreen = ({ navigation }) => {
   const [showNotificationModal, setShowNotificationModal] = useState(false);
   const [notificationEnabled, setNotificationEnabled] = useState(false);
   const [reminders, setReminders] = useState([
-    { id: 1, hour: 9, minute: 0, days: [1, 2, 3, 4, 5], showDays: false, title: 'Morning' } // 기본: 평일 9:00
+    { id: 1, hour: 9, minute: 0, days: [1, 2, 3, 4, 5], showDays: false, title: 'Morning', enabled: true } // 기본: 평일 9:00
   ]);
   const [editingTime, setEditingTime] = useState(null); // { reminderId, field: 'hour' | 'minute' }
   const [editingTitle, setEditingTitle] = useState(null); // reminderId
   const [currentLanguage, setCurrentLanguage] = useState(getCurrentLanguage());
-  const insets = useSafeAreaInsets();
   
   const DAYS = [
     { id: 0, label: 'S', name: 'Sun' },
@@ -263,7 +275,6 @@ const StudyCalendarScreen = ({ navigation }) => {
       // 알림 비활성화
       await NotificationManager.disableReminders();
       setNotificationEnabled(false);
-      Alert.alert('Reminders Disabled', 'Daily reminders have been turned off.');
     }
   };
 
@@ -271,7 +282,7 @@ const StudyCalendarScreen = ({ navigation }) => {
     const newId = Math.max(...reminders.map(r => r.id), 0) + 1;
     const defaultTitles = ['Morning', 'Afternoon', 'Evening', 'Night'];
     const title = defaultTitles[(newId - 1) % defaultTitles.length];
-    setReminders([...reminders, { id: newId, hour: 9, minute: 0, days: [1, 2, 3, 4, 5], showDays: false, title }]);
+    setReminders([...reminders, { id: newId, hour: 9, minute: 0, days: [1, 2, 3, 4, 5], showDays: false, title, enabled: true }]);
   };
   
   const removeReminder = (id) => {
@@ -357,6 +368,12 @@ const StudyCalendarScreen = ({ navigation }) => {
     ));
   };
   
+  const toggleReminderEnabled = (id) => {
+    setReminders(reminders.map(r => 
+      r.id === id ? { ...r, enabled: !r.enabled } : r
+    ));
+  };
+  
   const saveReminders = async () => {
     if (!notificationEnabled) return;
     
@@ -365,16 +382,18 @@ const StudyCalendarScreen = ({ navigation }) => {
       console.warn('🔴 Number of reminders:', reminders.length);
       console.warn('🔴 Reminder details:', reminders);
       
-      // 모든 알림 저장
-      const result = await NotificationManager.saveReminders(reminders);
+      // 활성화된 알림만 저장
+      const activeReminders = reminders.filter(r => r.enabled !== false);
+      const result = await NotificationManager.saveReminders(activeReminders);
       
       console.log('='.repeat(60));
       console.log('✅ SAVE COMPLETED');
       console.log('='.repeat(60));
       
+      const activeCount = reminders.filter(r => r.enabled !== false).length;
       Alert.alert(
         'Saved! ⏰',
-        `${reminders.length} reminder(s) have been set.`
+        `${activeCount} active reminder(s) have been set.`
       );
       setShowNotificationModal(false);
     } catch (error) {
@@ -394,11 +413,11 @@ const StudyCalendarScreen = ({ navigation }) => {
   };
 
   return (
-    <View style={styles.container}>
+    <SafeAreaView style={styles.container} edges={['top']}>
       <StatusBar barStyle="dark-content" />
       
       {/* Header */}
-      <View style={[styles.header, { paddingTop: insets.top }]}>
+      <View style={styles.header}>
         <TouchableOpacity
           style={styles.backButton}
           onPress={() => navigation.goBack()}
@@ -498,6 +517,7 @@ const StudyCalendarScreen = ({ navigation }) => {
                       setEditingTitle={setEditingTitle}
                       updateReminderTitle={updateReminderTitle}
                       toggleAmPm={toggleAmPm}
+                      toggleReminderEnabled={toggleReminderEnabled}
                     />
                   ))}
                   
@@ -531,7 +551,7 @@ const StudyCalendarScreen = ({ navigation }) => {
           </View>
         </TouchableOpacity>
       </Modal>
-    </View>
+    </SafeAreaView>
   );
 };
 
@@ -543,20 +563,20 @@ const styles = StyleSheet.create({
   header: {
     flexDirection: 'row',
     alignItems: 'center',
-    justifyContent: 'space-between',
     paddingHorizontal: theme.spacing.lg,
     paddingVertical: theme.spacing.md,
-    backgroundColor: '#FFFFFF',
+    backgroundColor: theme.colors.card,
     borderBottomWidth: 1,
-    borderBottomColor: '#e9ecef',
+    borderBottomColor: theme.colors.border,
   },
   backButton: {
-    padding: 8,
+    marginRight: theme.spacing.md,
   },
   headerTitle: {
     fontSize: theme.typography.sizes.xl,
     fontWeight: theme.typography.weights.bold,
-    color: theme.colors.text.primary,
+    color: theme.colors.primary,
+    flex: 1,
   },
   headerButtons: {
     flexDirection: 'row',
@@ -841,8 +861,10 @@ const styles = StyleSheet.create({
   reminderCard: {
     backgroundColor: '#f8f9fa',
     borderRadius: theme.borderRadius.lg,
-    padding: theme.spacing.md,
-    marginBottom: theme.spacing.md,
+    paddingHorizontal: theme.spacing.md,
+    paddingTop: theme.spacing.md,
+    paddingBottom: theme.spacing.sm,
+    marginBottom: 8,
     borderWidth: 1,
     borderColor: '#e0e0e0',
   },
@@ -890,7 +912,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#f8f9fa',
     borderRadius: theme.borderRadius.md,
     padding: theme.spacing.md,
-    marginBottom: theme.spacing.md,
+    marginBottom: 2,
     width: '100%',
   },
   timeDisplay: {
@@ -1022,6 +1044,41 @@ const styles = StyleSheet.create({
     fontWeight: theme.typography.weights.bold,
     color: '#fff',
     marginLeft: 8,
+  },
+  // Disabled state styles
+  reminderCardDisabled: {
+    backgroundColor: '#f5f5f5',
+    opacity: 0.7,
+  },
+  statusIndicator: {
+    padding: 2,
+  },
+  reminderTitleDisabled: {
+    color: '#999',
+    textDecorationLine: 'line-through',
+  },
+  titleInputDisabled: {
+    color: '#999',
+  },
+  timeRowDisabled: {
+    backgroundColor: '#f5f5f5',
+  },
+  timeTextDisabled: {
+    color: '#999',
+  },
+  amPmButtonDisabled: {
+    backgroundColor: '#ccc',
+  },
+  repeatButtonDisabled: {
+    backgroundColor: '#f5f5f5',
+    borderColor: '#ddd',
+  },
+  dayButtonDisabled: {
+    backgroundColor: '#f5f5f5',
+    borderColor: '#ddd',
+  },
+  dayButtonTextDisabled: {
+    color: '#ccc',
   },
 });
 
