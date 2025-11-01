@@ -241,7 +241,7 @@ const StudyCalendar = () => {
           </Text>
           <View style={styles.stampContainer}>
             {hasStamp && !future && (
-              <Text style={styles.stamp}>🔥</Text>
+              <Ionicons name="checkmark-circle" size={20} color="#28a745" />
             )}
             {future && (
               <Text style={styles.futureIcon}>📅</Text>
