@@ -282,7 +282,6 @@ const StudyCalendar = () => {
 
       {/* 안내 메시지 */}
       <View style={styles.infoMessage}>
-        <Ionicons name="information-circle-outline" size={16} color="#666" />
         <View style={styles.infoTextContainer}>
           <Text style={styles.infoText}>
             {t('studyCalendar.infoMessage')}

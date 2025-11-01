@@ -200,7 +200,6 @@ const ReminderCard = ({
 };
 
 const StudyCalendarScreen = ({ navigation }) => {
-  const [showGoalsModal, setShowGoalsModal] = useState(false);
   const [showNotificationModal, setShowNotificationModal] = useState(false);
   const [notificationEnabled, setNotificationEnabled] = useState(false);
   const [reminders, setReminders] = useState([
@@ -409,12 +408,6 @@ const StudyCalendarScreen = ({ navigation }) => {
         <Text style={styles.headerTitle}>{t('studyCalendar.title')}</Text>
         <View style={styles.headerButtons}>
           <TouchableOpacity
-            style={styles.helpButton}
-            onPress={() => setShowGoalsModal(true)}
-          >
-            <Ionicons name="help-circle-outline" size={28} color="#2E86AB" />
-          </TouchableOpacity>
-          <TouchableOpacity
             style={styles.notificationButton}
             onPress={() => setShowNotificationModal(true)}
           >
@@ -443,99 +436,6 @@ const StudyCalendarScreen = ({ navigation }) => {
 
         <View style={styles.bottomPadding} />
       </ScrollView>
-
-      {/* Daily Goals Modal */}
-      <Modal
-        visible={showGoalsModal}
-        animationType="fade"
-        transparent={true}
-        onRequestClose={() => setShowGoalsModal(false)}
-      >
-        <TouchableOpacity 
-          style={styles.modalOverlay}
-          activeOpacity={1}
-          onPress={() => setShowGoalsModal(false)}
-        >
-          <View style={styles.modalContent} onStartShouldSetResponder={() => true}>
-            <View style={styles.modalHeader}>
-              <Text style={styles.modalTitle}>{t('studyCalendar.dailyGoals.title')}</Text>
-              <TouchableOpacity onPress={() => setShowGoalsModal(false)}>
-                <Ionicons name="close" size={28} color="#666" />
-              </TouchableOpacity>
-            </View>
-
-            <Text style={styles.modalDescription}>
-              {t('studyCalendar.dailyGoals.description')}
-            </Text>
-
-            <View style={styles.goalsList}>
-              <View style={styles.goalItem}>
-                <Ionicons name="book" size={28} color="#2E86AB" />
-                <View style={styles.goalTextContainer}>
-                  <Text style={styles.goalTitle}>{t('studyCalendar.dailyGoals.learn')}</Text>
-                  <Text style={styles.goalRequirement}>{t('studyCalendar.dailyGoals.learnRequirement')}</Text>
-                </View>
-              </View>
-
-              <View style={styles.goalItem}>
-                <Ionicons name="albums" size={28} color="#28a745" />
-                <View style={styles.goalTextContainer}>
-                  <Text style={styles.goalTitle}>{t('studyCalendar.dailyGoals.reviewFlashcard')}</Text>
-                  <Text style={styles.goalRequirement}>{t('studyCalendar.dailyGoals.reviewRequirement')}</Text>
-                </View>
-              </View>
-
-              <View style={styles.goalItem}>
-                <Ionicons name="chatbubbles" size={28} color="#ff9800" />
-                <View style={styles.goalTextContainer}>
-                  <Text style={styles.goalTitle}>{t('studyCalendar.dailyGoals.aiTutor')}</Text>
-                  <Text style={styles.goalRequirement}>{t('studyCalendar.dailyGoals.aiTutorRequirement')}</Text>
-                </View>
-              </View>
-
-              <View style={styles.goalItem}>
-                <Ionicons name="mic" size={28} color="#e91e63" />
-                <View style={styles.goalTextContainer}>
-                  <Text style={styles.goalTitle}>{t('studyCalendar.dailyGoals.mockInterview')}</Text>
-                  <Text style={styles.goalRequirement}>{t('studyCalendar.dailyGoals.mockInterviewRequirement')}</Text>
-                </View>
-              </View>
-
-              
-            </View>
-
-            <View style={styles.modalInfoSection}>
-              <View style={styles.modalNote}>
-                <Ionicons name="flame" size={20} color="#ff6b35" />
-                <Text style={styles.modalNoteText}>
-                  {t('studyCalendar.dailyGoals.fireInfo')}
-                </Text>
-              </View>
-
-              <View style={styles.modalNote}>
-                <Ionicons name="calendar" size={20} color="#2E86AB" />
-                <Text style={styles.modalNoteText}>
-                  {t('studyCalendar.dailyGoals.tapDateInfo')}
-                </Text>
-              </View>
-
-              <View style={styles.modalNote}>
-                <Ionicons name="settings" size={20} color="#666" />
-                <Text style={styles.modalNoteText}>
-                  {t('studyCalendar.dailyGoals.settingsInfo')}
-                </Text>
-              </View>
-            </View>
-
-            <TouchableOpacity 
-              style={styles.closeButton}
-              onPress={() => setShowGoalsModal(false)}
-            >
-              <Text style={styles.closeButtonText}>{t('common.close')}</Text>
-            </TouchableOpacity>
-          </View>
-        </TouchableOpacity>
-      </Modal>
 
       {/* Notification Settings Modal */}
       <Modal
