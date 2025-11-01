@@ -192,7 +192,6 @@ const StudyCalendar = () => {
     // 완료 상태 확인 (모든 날짜에 표시 가능)
     const hasStamp = studyData[dateKey]?.completed || false;
     const future = isFuture(day);
-    const isSelected = selectedDate === day;
     const isStart = isStartDate(day);
     const isInterview = isInterviewDate(day);
 
@@ -202,7 +201,6 @@ const StudyCalendar = () => {
         style={[
           styles.dayCell,
           today && styles.todayCell,
-          isSelected && styles.selectedCell,
         ]}
         onPress={() => handleDatePress(day)}
         disabled={false}
@@ -225,7 +223,6 @@ const StudyCalendar = () => {
           <Text style={[
             styles.dayNumber, 
             today && styles.todayNumber,
-            isSelected && styles.selectedNumber
           ]}>
             {day}
           </Text>
@@ -350,16 +347,6 @@ const styles = StyleSheet.create({
   todayCell: {
     backgroundColor: '#e3f2fd',
     borderRadius: 8,
-  },
-  selectedCell: {
-    backgroundColor: '#fff3e0',
-    borderRadius: 8,
-    borderWidth: 2,
-    borderColor: '#ff9800',
-  },
-  selectedNumber: {
-    color: '#ff9800',
-    fontWeight: theme.typography.weights.bold,
   },
   dayCellContent: {
     flex: 1,
