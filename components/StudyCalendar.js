@@ -435,14 +435,14 @@ const styles = StyleSheet.create({
   },
   infoMessage: {
     flexDirection: 'row',
-    alignItems: 'flex-start',
+    alignItems: 'center',
     justifyContent: 'center',
     paddingHorizontal: theme.spacing.lg,
     paddingVertical: theme.spacing.sm,
     gap: 8,
   },
   infoTextContainer: {
-    flex: 1,
+    alignItems: 'center',
     gap: 4,
   },
   infoText: {
@@ -450,6 +450,7 @@ const styles = StyleSheet.create({
     color: '#666',
     fontStyle: 'italic',
     lineHeight: 16,
+    textAlign: 'center',
   },
 });
 
