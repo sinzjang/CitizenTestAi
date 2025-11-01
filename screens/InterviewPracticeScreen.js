@@ -233,16 +233,6 @@ const InterviewPracticeScreen = ({ navigation }) => {
         { id: '4-2', title: t('menu.aiMockInterview.deepDiveInterview'), subtitle: t('menu.aiMockInterview.deepDiveInterviewSubtitle'), screen: 'DeepInterview', isPremium: true }
       ]
     },
-    {
-      id: 5,
-      title: 'Analytics',
-      subtitle: 'Study progress dashboard',
-      icon: 'stats-chart-outline',
-      color: '#6C5CE7',
-      subItems: [
-        { id: '5-1', title: 'Analytics', subtitle: 'View today\'s progress', screen: 'AnalyticsDashboard', isPremium: false }
-      ]
-    },
   ];
 
   const [expandedSection, setExpandedSection] = React.useState(null);
