@@ -72,21 +72,21 @@ export class SubscriptionManager {
   // 구독 상태 확인 (RevenueCat + 친구 권한 + Admin 모드 + 개발 모드 포함)
   static async checkSubscriptionStatus() {
     try {
-      // 0. 개발 모드에서는 자동으로 Premium 활성화 (광고 테스트 시 false로 변경)
-      const ENABLE_DEV_PREMIUM = false; // true: 프리미엄 활성화, false: 광고 테스트
-      if (__DEV__ && ENABLE_DEV_PREMIUM) {
-        console.log('[SubscriptionManager] 개발 모드 - 프리미엄 자동 활성화');
-        return true;
-      }
-      
-      // 1. Admin 모드 확인
+      // 1. Admin 모드 확인 (최우선)
       const isAdmin = await AdminManager.isAdmin();
       if (isAdmin) {
         console.log('[SubscriptionManager] Admin 모드 활성화됨');
         return true;
       }
       
-      // 2. RevenueCat 구독 상태 확인
+      // 2. 개발 모드에서는 자동으로 Premium 활성화 (광고 테스트 시 false로 변경)
+      const ENABLE_DEV_PREMIUM = true; // true: 프리미엄 활성화, false: 광고 테스트
+      if (__DEV__ && ENABLE_DEV_PREMIUM) {
+        console.log('[SubscriptionManager] 개발 모드 - 프리미엄 자동 활성화');
+        return true;
+      }
+      
+      // 3. RevenueCat 구독 상태 확인
       try {
         const customerInfo = await Purchases.getCustomerInfo();
         const isPremiumSubscriber = customerInfo.entitlements.active['Premium'] !== undefined;
@@ -99,7 +99,7 @@ export class SubscriptionManager {
         console.log('[SubscriptionManager] RevenueCat check skipped:', rcError.message);
       }
       
-      // 3. 친구 권한 확인 (이메일 기반)
+      // 4. 친구 권한 확인 (이메일 기반)
       const userEmail = await this.getUserEmail();
       if (userEmail) {
         const isFriendPremium = await AdminManager.checkFriendPremiumStatus(userEmail);

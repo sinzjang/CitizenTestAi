@@ -165,6 +165,10 @@ const MainMenuScreen = ({ navigation }) => {
     }
   };
 
+  const handleAboutSources = () => {
+    navigation.navigate('AboutSources');
+  };
+
   // i18n이 준비되지 않았으면 로딩 화면
   if (!isI18nReady) {
     return (
@@ -197,30 +201,39 @@ const MainMenuScreen = ({ navigation }) => {
       {/* Bottom 1/4 Button Section */}
       <View style={styles.buttonContainer}>
         <TouchableOpacity 
-          style={styles.button} 
-          onPress={handleResources}
-          activeOpacity={0.8}
-        >
-          <Text style={styles.buttonText}>{i18n.t('menu.settings')}</Text>
-        </TouchableOpacity>
-
-        <TouchableOpacity 
-          style={styles.button} 
+          style={styles.primaryButton} 
           onPress={handleInterviewPractice}
           activeOpacity={0.8}
         >
-          <Text style={styles.buttonText}>{i18n.t('menu.interviewPractice')}</Text>
+          <Text style={styles.primaryButtonText}>{i18n.t('menu.interviewPractice')}</Text>
         </TouchableOpacity>
+
+        <View style={styles.secondaryButtonsRow}>
+          <TouchableOpacity 
+            style={styles.secondaryButton} 
+            onPress={handleResources}
+            activeOpacity={0.8}
+          >
+            <Text style={styles.secondaryButtonText}>{i18n.t('menu.settings')}</Text>
+          </TouchableOpacity>
+
+          <TouchableOpacity 
+            style={styles.secondaryButton} 
+            onPress={handleAboutSources}
+            activeOpacity={0.8}
+          >
+            <Text style={styles.secondaryButtonText}>{i18n.t('menu.aboutSources')}</Text>
+          </TouchableOpacity>
+        </View>
 
       </View>
 
       {/* Disclaimer Section */}
-      <View style={[styles.disclaimerContainer, { paddingBottom: Math.max(insets.bottom, theme.spacing.sm) }]}>
+      <View style={styles.disclaimerContainer}>
         <Text style={styles.disclaimerText}>
           {i18n.t('disclaimer.text')}
         </Text>
       </View>
-
 
       {/* 언어 선택 모달 */}
       <LanguageSelectionModal
@@ -281,18 +294,39 @@ const styles = StyleSheet.create({
     paddingHorizontal: theme.spacing.xl,
     paddingBottom: 50,
   },
-  button: {
+  primaryButton: {
     backgroundColor: theme.colors.primary,
-    paddingVertical: theme.spacing.md,
+    paddingVertical: theme.spacing.lg,
     paddingHorizontal: theme.spacing.lg,
-    borderRadius: theme.borderRadius.md,
+    borderRadius: theme.borderRadius.lg,
     marginVertical: theme.spacing.sm,
-    ...theme.shadows.md,
+    ...theme.shadows.lg,
   },
-  buttonText: {
+  primaryButtonText: {
     color: theme.colors.text.inverse,
-    fontSize: theme.typography.sizes.lg,
-    fontWeight: theme.typography.weights.semibold,
+    fontSize: theme.typography.sizes.xl,
+    fontWeight: theme.typography.weights.bold,
+    textAlign: 'center',
+  },
+  secondaryButtonsRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    marginTop: theme.spacing.sm,
+    gap: theme.spacing.sm,
+  },
+  secondaryButton: {
+    flex: 1,
+    backgroundColor: theme.colors.backgroundSecondary,
+    paddingVertical: theme.spacing.sm,
+    paddingHorizontal: theme.spacing.md,
+    borderRadius: theme.borderRadius.md,
+    borderWidth: 1,
+    borderColor: theme.colors.border,
+  },
+  secondaryButtonText: {
+    color: theme.colors.text.secondary,
+    fontSize: theme.typography.sizes.md,
+    fontWeight: theme.typography.weights.medium,
     textAlign: 'center',
   },
   loadingContainer: {
@@ -306,7 +340,7 @@ const styles = StyleSheet.create({
   },
   disclaimerContainer: {
     paddingHorizontal: theme.spacing.lg,
-    paddingBottom: theme.spacing.sm,
+    paddingVertical: theme.spacing.sm,
     marginTop: 'auto',
   },
   disclaimerText: {

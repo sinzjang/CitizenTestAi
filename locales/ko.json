@@ -3,6 +3,40 @@
     "title": "시민권 준비 완료",
     "subtitle": "AI와 함께 미국 시민권 면접 통과하기"
   },
+  "about": {
+    "title": "정보 및 출처",
+    "disclaimerTitle": "고지",
+    "sourcesTitle": "공식 출처",
+    "sourcesDescription": "이 앱은 시민권 관련 학습 정보를 제공합니다. 가장 정확하고 최신 정보는 아래의 USCIS 공식 자료를 참고해주세요.",
+    "uscisTitle": "USCIS 시민권 자료",
+    "whatYouFindTitle": "USCIS 시민권 자료 센터에서 볼 수 있는 내용",
+    "forImmigrants": "이민자 및 영주권자: 귀화 절차, 자격 요건, 면접 및 시험 대비 학습 자료",
+    "forEducators": "교육자: 교실 수업 자료와 미국 역사·시민학·귀화 절차 교육을 위한 무료 USCIS 연수",
+    "forOrganizations": "기관: 이민자의 시민권 취득과 미국 시민 사회 적응을 지원하는 각종 자료",
+    "officeOfCitizenshipNote": "시민권 자료 센터는 Office of Citizenship에서 운영합니다. 자세한 내용은 공식 웹사이트에서 확인하세요.",
+    "links": {
+      "learn": {
+        "title": "시민권 알아보기",
+        "desc": "미국 시민이 되기 위한 귀화 절차와 자격 요건을 알아보세요."
+      },
+      "apply": {
+        "title": "시민권 신청",
+        "desc": "시민이 되기 위한 귀화 신청을 진행하세요. N-400(귀화 신청서)을 온라인으로 제출할 수 있습니다."
+      },
+      "study": {
+        "title": "학습 자료와 리소스 찾기",
+        "desc": "귀화 면접 및 시험 대비를 위한 무료 학습 자료와 리소스를 찾아보세요."
+      },
+      "education": {
+        "title": "교육 프로그램용 자료",
+        "desc": "교육자는 교실 수업을 보완할 자료와 예정된 연수 세미나 정보를 확인할 수 있습니다."
+      },
+      "outreach": {
+        "title": "Outreach 도구",
+        "desc": "기관은 시민권 취득에 관심 있는 이민자를 지원하기 위한 유용한 도구와 리소스를 찾을 수 있습니다."
+      }
+    }
+  },
   "language": {
     "selectLanguage": "언어 선택",
     "selectLanguageDescription": "계속하려면 선호하는 언어를 선택하세요.",
@@ -203,6 +237,7 @@
   "menu": {
     "resources": "언어 및 지역 정보 설정",
     "settings": "설정",
+    "aboutSources": "정보 및 출처",
     "interviewPractice": "면접 연습",
     "learn": {
       "title": "학습",

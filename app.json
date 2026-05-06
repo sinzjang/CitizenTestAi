@@ -2,7 +2,7 @@
   "expo": {
     "name": "Pass US Citizen Interview with AI Premium",
     "slug": "CitizenTestAi",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -13,11 +13,18 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
+      "supportsTablet": false,
       "infoPlist": {
         "NSSpeechRecognitionUsageDescription": "Allow $(PRODUCT_NAME) to use speech recognition.",
         "NSMicrophoneUsageDescription": "Allow $(PRODUCT_NAME) to use the microphone.",
-        "ITSAppUsesNonExemptEncryption": false
+        "NSPhotoLibraryUsageDescription": "Allow $(PRODUCT_NAME) to access photos for profile images and learning materials.",
+        "ITSAppUsesNonExemptEncryption": false,
+        "UIRequiredDeviceCapabilities": [
+          "arm64"
+        ],
+        "UISupportedInterfaceOrientations": [
+          "UIInterfaceOrientationPortrait"
+        ]
       },
       "bundleIdentifier": "com.sinzjang.CitizenTestAi"
     },

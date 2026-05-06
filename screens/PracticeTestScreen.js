@@ -403,7 +403,7 @@ const PracticeTestScreen = ({ navigation, route }) => {
 
   if (loading) {
     return (
-      <SafeAreaView style={styles.container}>
+      <SafeAreaView style={styles.container} edges={['top']}>
         <StatusBar barStyle="light-content" backgroundColor="#2E86AB" />
         <View style={styles.loadingContainer}>
           <ActivityIndicator size="large" color="#2E86AB" />
@@ -418,7 +418,7 @@ const PracticeTestScreen = ({ navigation, route }) => {
     const passed = score >= 60;
     
     return (
-      <SafeAreaView style={styles.container}>
+      <SafeAreaView style={styles.container} edges={['top']}>
         <StatusBar barStyle="light-content" backgroundColor="#2E86AB" />
         <View style={styles.header}>
           <TouchableOpacity onPress={() => navigation.goBack()} style={styles.backButton}>
@@ -519,7 +519,7 @@ const PracticeTestScreen = ({ navigation, route }) => {
   const currentQuestion = questions[currentIndex];
   
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView style={styles.container} edges={['top']}>
       <StatusBar barStyle="light-content" backgroundColor="#2E86AB" />
       
       <View style={styles.header}>

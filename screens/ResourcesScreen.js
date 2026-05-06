@@ -131,19 +131,15 @@ const ResourcesScreen = ({ navigation }) => {
       const result = await PromoCodeManager.redeemPromoCode(code, userEmail);
       
       if (result.success) {
+        // 구독 상태 새로고침 (성공 메시지 전에 먼저 업데이트)
+        await loadSubscriptionDetails();
+        
+        setShowPromoCodeModal(false);
+        
         Alert.alert(
           t('subscription.success'),
           result.message
         );
-        setShowPromoCodeModal(false);
-        
-        // Admin 모드 활성화인 경우 프리미엄 상태 즉시 업데이트
-        if (result.type === 'admin') {
-          setIsPremium(true);
-        }
-        
-        // 구독 상태 새로고침
-        await loadSubscriptionDetails();
       } else {
         Alert.alert(
           t('subscription.error'),

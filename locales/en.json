@@ -3,6 +3,40 @@
     "title": "Ready for Citizenship",
     "subtitle": "Pass US Citizen Interview with AI"
   },
+  "about": {
+    "title": "About & Sources",
+    "disclaimerTitle": "Disclaimer",
+    "sourcesTitle": "Official Sources",
+    "sourcesDescription": "This app provides citizenship-related information. For the most accurate and up-to-date information, please refer to the official USCIS resources below.",
+    "uscisTitle": "USCIS Citizenship Resources",
+    "whatYouFindTitle": "What you can find at the USCIS Citizenship Resource Center",
+    "forImmigrants": "Immigrants and LPRs: Naturalization process, eligibility requirements, interview and test study materials.",
+    "forEducators": "Educators: Classroom resources and free USCIS training seminars to teach U.S. history, civics, and the naturalization process.",
+    "forOrganizations": "Organizations: Resources to support immigrants becoming citizens and integrating into American civic life.",
+    "officeOfCitizenshipNote": "The Citizenship Resource Center is managed by the Office of Citizenship. Learn more on the official website.",
+    "links": {
+      "learn": {
+        "title": "Learn About Citizenship",
+        "desc": "Learn about the naturalization process and eligibility requirements to become a U.S. citizen."
+      },
+      "apply": {
+        "title": "Apply for Citizenship",
+        "desc": "Apply for naturalization to become a citizen. File your N-400 online."
+      },
+      "study": {
+        "title": "Find Study Materials and Resources",
+        "desc": "Find free study materials and resources to prepare for the naturalization interview and test."
+      },
+      "education": {
+        "title": "Resources for Educational Programs",
+        "desc": "Educators can find materials to supplement classroom resources and learn about upcoming training seminars."
+      },
+      "outreach": {
+        "title": "Outreach Tools",
+        "desc": "Organizations can find helpful tools and resources to support immigrants interested in becoming citizens."
+      }
+    }
+  },
   "language": {
     "selectLanguage": "Select Language",
     "selectLanguageDescription": "Please select your preferred language to continue.",
@@ -201,6 +235,7 @@
   "menu": {
     "resources": "Resources & Settings",
     "settings": "Settings",
+    "aboutSources": "About & Sources",
     "interviewPractice": "Interview Practice",
     "learn": {
       "title": "Learn",
